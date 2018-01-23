@@ -1,0 +1,1119 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2017-12-01 14:41+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Comment: Button title for signing up for a Khan Academy account
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+# See text on <a href="http://www.khanacademy.org/library">http://www.khanacademy.org/library</a>
+# See text on <a href="http://www.khanacademy.org/login">http://www.khanacademy.org/login</a>
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/about-package/impact.jsx.js:388 genfiles/compiled_jsx/en/javascript/content-library-package/components/mission-callout-start.jsx.js:75 genfiles/compiled_jsx/en/javascript/login-package/join-widget-action-screen.jsx.js:239 genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:757 genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:949 genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:951 genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:918 genfiles/compiled_jsx/en/javascript/page-package/header.jsx.js:871 genfiles/compiled_jsx/en/javascript/page-package/header.jsx.js:944 genfiles/compiled_jsx/en/javascript/page-package/responsive-nav-menu.jsx.js:425 intl/datastore:1 templates/login_contents.html:44 templates/macros/user.html:19 templates/signup_embedded.html:9
+msgid "Sign up"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+# See text on <a href="http://www.khanacademy.org/forgotpw">http://www.khanacademy.org/forgotpw</a>
+# See text on <a href="http://www.khanacademy.org/pwreset">http://www.khanacademy.org/pwreset</a>
+#: genfiles/compiled_jsx/en/javascript/class-package/settings/email-settings.jsx.js:77 genfiles/compiled_jsx/en/javascript/clever-package/onboarding.jsx.js:261 genfiles/compiled_jsx/en/javascript/clever-package/onboarding.jsx.js:298 genfiles/compiled_jsx/en/javascript/content-library-package/modules/social-links.jsx.js:42 genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:627 genfiles/compiled_jsx/en/javascript/scratchpads-package/share-modal.jsx.js:146 genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/reminders.jsx.js:116 genfiles/compiled_jsx/en/javascript/tutorial-shared-package/components/sharing-footer.jsx.js:248 genfiles/compiled_jsx/en/javascript/video-testimonials-package/video-testimonials.jsx.js:108 templates/completesignup.html:50 templates/forgot-password.html:42 templates/password-reset.html:39 templates/settings.html:45 templates/settings.html:307
+msgid "Email"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: genfiles/compiled_jsx/en/javascript/content-library-package/modules/learnstorm-banner.jsx.js:56 homepage.py:80 templates/hour_of_code.html:47 templates/hour_of_code.html:157 templates/hour_of_code.html:217
+msgid "Teachers, start here"
+msgstr ""
+
+# English version in label at <a href="https://www.khanacademy.org/exercise/coordinate-plane-word-problems-in-the-first-quadrant">https://www.khanacademy.org/exercise/coordinate-plane-word-problems-in-the-first-quadrant</a>
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/coordinate-plane-word-problems-in-the-first-quadrant?lang=xb0655df3ace39982#en-pt.
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/bibliotron-homepage.jsx.js:182 genfiles/compiled_jsx/en/javascript/profile-nav-package/new-profile-nav.jsx.js:65 genfiles/labels/en/22c96c754b693a0137d2b50fccfbaf70731d360a-data.json:20 genfiles/labels/en/4157799827c58cf14b75b55fe8cb2192ff413c30-data.json:21 genfiles/labels/en/7bcfc6a9d904f297b6fa6c5240087918db8a75de-data.json:21 javascript/settings-package/settings.js:440 templates/macros/user.html:5 templates/macros/user.html:7 templates/macros/user.html:9
+msgid "Home"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/learning-dashboard.jsx.js:419 javascript/profile-nav-package/profile-content-chrome.handlebars:3 templates/bibliotron-homepage.html:38 templates/learningdashboard.html:26
+msgid "Dashboard"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+# See text on <a href="http://www.khanacademy.org/about/our-content-specialists">http://www.khanacademy.org/about/our-content-specialists</a>
+# String from android-app.xml in Android app
+# Title of topic (x00000000) on the accents stage
+# Title of topic (x00000000) on the bg stage
+# Title of topic (x00000000) on the bn stage
+# Title of topic (x00000000) on the es stage
+# Title of topic (x00000000) on the fr stage
+# Title of topic (x00000000) on the hi stage
+# Title of topic (x00000000) on the hy stage
+# Title of topic (x00000000) on the ja stage
+# Title of topic (x00000000) on the ka stage
+# Title of topic (x00000000) on the lol stage
+# Title of topic (x00000000) on the pl stage
+# Title of topic (x00000000) on the pt stage
+# Title of topic (x00000000) on the pt-pt stage
+# Title of topic (x00000000) on the sr stage
+# Title of topic (x00000000) on the tr stage
+# Title of topic (x00000000) on the zh-hans stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/google-classroom-package/components/gclassroom-share-modal.jsx.js:44 genfiles/compiled_jsx/en/javascript/scratchpads-package/share-modal.jsx.js:244 genfiles/compiled_jsx/en/javascript/tutorial-shared-package/components/sharing-footer.jsx.js:126 intl/datastore:1 javascript/donate-package/methods/stripe.js:52 javascript/shared-package/update-document-title.js:37 templates/about/about_our_content_specialists.html:836 templates/emails/answer_notification_email.html:65 templates/emails/base_template.html:37 templates/emails/coach_template.html:95 templates/emails/eval_notification_email.html:30 templates/emails/mastery_task.html:34 templates/emails/next_content_email.html:70 templates/emails/onboarding/onboarding_email_template.html:62 templates/emails/practice_task.html:12 templates/emails/subscriptions/coach_report_email.html:164 templates/emails/subscriptions/weekly_user_summary_email.html:87 templates/emails/teacher_bulk_add_students.html:12 templates/logged-out-homepage.html:7 templates/page_template.html:58 templates/page_template_mini.html:7
+msgid "Khan Academy"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+# See text on <a href="http://www.khanacademy.org/library">http://www.khanacademy.org/library</a>
+# See text on <a href="http://www.khanacademy.org/login">http://www.khanacademy.org/login</a>
+#: genfiles/compiled_jsx/en/javascript/login-package/login-action-screen.jsx.js:283 genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:1099 javascript/login-package/login.js:44 templates/login.html:14 templates/login_embedded.html:19 templates/macros/user.html:16
+msgid "Log in"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:972 templates/settings.html:97
+msgid "Birthdate"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: homepage.py:93 templates/hour_of_code.html:53 templates/hour_of_code.html:224
+msgid "Parents, start here"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: javascript/coach-report-progress-by-student-package/activity-graph.js:324 templates/macros/user.html:45
+#, python-format
+msgid "%(points)s energy points"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: templates/badges/badge_counts.html:4
+#, python-format
+msgid "%(sum)s badges"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: templates/emails/mission_introduction_email.txt:24 templates/emails/welcome_email.html:704 templates/emails/welcome_email.txt:30 templates/you_can_learn_anything.html:54
+msgid "You only have to know one thing:"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: templates/emails/onboarding/share_success_email.html:74 templates/emails/onboarding/share_success_email.txt:25 templates/you_can_learn_anything.html:208
+msgid "Start learning now"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: templates/logged-out-homepage.html:7
+msgid "Free Online Courses, Lessons & Practice"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: templates/logged-out-homepage.html:13
+msgid "You can learn anything. Expert-created content and resources for every subject and level. Always free."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: templates/macros/user.html:78
+#, python-format
+msgid "%(points)s Energy Points earned for watching this video"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: templates/macros/user.html:78
+msgid "You're earning points for watching this video. Sign in to keep them"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: templates/macros/user.html:78
+#, python-format
+msgid "<span class=\"video-energy-points-current\">%(points)s</span> of %(possible_points)s"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: templates/page_template.html:52
+msgid "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+# a comma-separated list of keywords (possible search terms) for search engines
+#: templates/page_template.html:94
+msgid "khan academy, learn, videos, lectures, practice, exercises, skills"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: templates/page_template.html:160
+msgid "Watch. Practice. Learn almost anything for free."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: templates/page_template.html:195
+msgid "If you're seeing this message, it means we're having trouble loading external resources on our website."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: templates/page_template.html:200
+msgid "If you're behind a web filter, please make sure that the domains <strong>*.kastatic.org</strong> and <strong>*.kasandbox.org</strong> are unblocked."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: templates/page_template.html:276
+msgid "Main content"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: templates/page_template.html:283
+msgid "To log in and use all the features of Khan Academy, please enable JavaScript in your browser."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/">http://www.khanacademy.org/</a>
+#: templates/page_template.html:340
+msgid "If you're still having trouble, please check your computer's clock and make sure that today's date is properly set."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic/real-nominal-gdp-tutorial/a/adjusting-nominal-values-to-real-values-cnx">http://translate.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic/real-nominal-gdp-tutorial/a/adjusting-nominal-values-to-real-values-cnx</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-measurement-topic/cc-5th-unit-word-problems/a/convert-units-guided-word-problems-metric">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-measurement-topic/cc-5th-unit-word-problems/a/convert-units-guided-word-problems-metric</a>.
+# Article is at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-linearity">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-linearity</a>.
+# Article is at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/a/ee-rc-step-response">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/a/ee-rc-step-response</a>.
+# Article is at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/a/ee-rc-step-response">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/a/ee-rc-step-response</a>.
+# Article is at <a href="http://translate.khanacademy.org/science/physics/linear-momentum/elastic-and-inelastic-collisions/a/what-are-elastic-and-inelastic-collisions">http://translate.khanacademy.org/science/physics/linear-momentum/elastic-and-inelastic-collisions/a/what-are-elastic-and-inelastic-collisions</a>.
+# Article is at (x503f5fee) on the bg stage.
+# Article is at (x503f5fee) on the es stage.
+# Article is at (x503f5fee) on the ja stage.
+# Article is at (x503f5fee) on the pl stage.
+# Article is at (x503f5fee) on the tr stage.
+# Article is at (xa358acc3) on the bg stage.
+# Article is at (xa358acc3) on the es stage.
+# Article is at (xa358acc3) on the fr stage.
+# Article is at (xa358acc3) on the pt stage.
+# Article is at (xa358acc3) on the tr stage.
+# Article is at (xe039a2f6) on the bg stage.
+# Article is at (xe039a2f6) on the es stage.
+# Article is at (xe039a2f6) on the fr stage.
+# Article is at (xe039a2f6) on the pt stage.
+# Article is at (xe039a2f6) on the tr stage.
+# Article is at (xee8281c1) on the bg stage.
+# Article is at (xee8281c1) on the es stage.
+# Article is at (xee8281c1) on the fr stage.
+# Article is at (xee8281c1) on the ja stage.
+# Article is at (xee8281c1) on the ka stage.
+# Article is at (xee8281c1) on the pl stage.
+# Article is at (xee8281c1) on the pt stage.
+# Article is at (xee8281c1) on the pt-pt stage.
+# Article is at (xee8281c1) on the tr stage.
+# Article is at (xf1c5e4e40d4930f6) on the bg stage.
+# Article is at (xf1c5e4e40d4930f6) on the es stage.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/correlative-conjunctions-and-starting-sentences/e/correlative-conjuntions">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/correlative-conjunctions-and-starting-sentences/e/correlative-conjuntions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-conjunctions/e/coordinating-conjunctions">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-conjunctions/e/coordinating-conjunctions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-conjunctions/e/meet-the-conjunction">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-conjunctions/e/meet-the-conjunction</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/topic-quiz-tutorial-parts-of-speech-the-preposition-and-the-conjunction/e/topic-quiz-exercise-parts-of-speech-the-preposition-and-the-conjunction">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/topic-quiz-tutorial-parts-of-speech-the-preposition-and-the-conjunction/e/topic-quiz-exercise-parts-of-speech-the-preposition-and-the-conjunction</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/conjunctions/e/coordinating-conjunctions">http://translate.khanacademy.org/humanities/grammar/partsofspeech/conjunctions/e/coordinating-conjunctions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/conjunctions/e/correlative-conjuntions">http://translate.khanacademy.org/humanities/grammar/partsofspeech/conjunctions/e/correlative-conjuntions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/conjunctions/e/meet-the-conjunction">http://translate.khanacademy.org/humanities/grammar/partsofspeech/conjunctions/e/meet-the-conjunction</a>.
+# Exercise at (x27966ebf) on the accents stage.
+# Exercise at (x27966ebf) on the bg stage.
+# Exercise at (x27966ebf) on the pl stage.
+# Exercise at (x27966ebf) on the pt stage.
+# Exercise at (x27966ebf) on the tr stage.
+# Exercise at (x27966ebf) on the zh-hans stage.
+# Exercise at (x3e03eb4c) on the accents stage.
+# Exercise at (x3e03eb4c) on the bg stage.
+# Exercise at (x3e03eb4c) on the pl stage.
+# Exercise at (x3e03eb4c) on the pt stage.
+# Exercise at (x3e03eb4c) on the tr stage.
+# Exercise at (x3e03eb4c) on the zh-hans stage.
+# Exercise at (x712ced67) on the accents stage.
+# Exercise at (x712ced67) on the pt stage.
+# Exercise at (x89ccec20) on the accents stage.
+# Exercise at (x89ccec20) on the bg stage.
+# Exercise at (x89ccec20) on the pl stage.
+# Exercise at (x89ccec20) on the pt stage.
+# Exercise at (x89ccec20) on the tr stage.
+# Exercise at (x89ccec20) on the zh-hans stage.
+# See text on <a href="http://www.khanacademy.org/login">http://www.khanacademy.org/login</a>
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:293 genfiles/compiled_jsx/en/javascript/class-creator-package/screens/classname-screen.jsx.js:208 genfiles/compiled_jsx/en/javascript/coach-report-exercises-package/report.jsx.js:1316 genfiles/compiled_jsx/en/javascript/coach-report-exercises-package/report.jsx.js:1327 genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:356 intl/datastore:1 javascript/discussion-package/form-controls.handlebars:8 javascript/discussion-package/reply-form.handlebars:9 javascript/notifications-package/accept-terms-of-service-notification.handlebars:24 templates/signup_embedded.html:48 third_party/javascript-khansrc/live-editor/build/js/live-editor.output_pjs.js:2301
+msgid "or"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/login">http://www.khanacademy.org/login</a>
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/content-library-package/components/author-header.jsx.js:67 genfiles/compiled_jsx/en/javascript/content-library-package/modules/social-links.jsx.js:14 genfiles/compiled_jsx/en/javascript/tutorial-shared-package/components/sharing-footer.jsx.js:215 intl/datastore:1 templates/settings.html:284 templates/signup_embedded.html:41
+msgid "Facebook"
+msgstr ""
+
+# English version in label at <a href="https://www.khanacademy.org/exercise/solving-problems-with-bar-graphs-2">https://www.khanacademy.org/exercise/solving-problems-with-bar-graphs-2</a>
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-statistics/gathering-data-ap/introduction-data/e/individuals-variables-categorical-quantitative-data">http://translate.khanacademy.org/math/ap-statistics/gathering-data-ap/introduction-data/e/individuals-variables-categorical-quantitative-data</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-statistics/intro-to-statistics/introduction-data/e/individuals-variables-categorical-quantitative-data">http://translate.khanacademy.org/math/ap-statistics/intro-to-statistics/introduction-data/e/individuals-variables-categorical-quantitative-data</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/e/individuals-variables-categorical-quantitative-data">http://translate.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/e/individuals-variables-categorical-quantitative-data</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/statistics-probability/introduction-to-statistics/introduction-to-data/e/individuals-variables-categorical-quantitative-data">http://translate.khanacademy.org/math/statistics-probability/introduction-to-statistics/introduction-to-data/e/individuals-variables-categorical-quantitative-data</a>.
+# Exercise at (xadc69750) on the bg stage.
+# Exercise at (xadc69750) on the de stage.
+# Exercise at (xadc69750) on the es stage.
+# Exercise at (xadc69750) on the fr stage.
+# Exercise at (xadc69750) on the ja stage.
+# Exercise at (xadc69750) on the pl stage.
+# Exercise at (xadc69750) on the pt stage.
+# Exercise at (xadc69750) on the pt-pt stage.
+# See text on <a href="http://www.khanacademy.org/coach/roster">http://www.khanacademy.org/coach/roster</a>
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/solving-problems-with-bar-graphs-2?lang=x8cd5578d0a30acec#en-pt.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: genfiles/compiled_jsx/en/javascript/assignments-package/coach-assignments/assignment-table.jsx.js:291 genfiles/compiled_jsx/en/javascript/coach-dashboard-package/students/students.jsx.js:218 genfiles/labels/en/87fe3087e7ddc07ce89341646c4b239d0ea9a715-data.json:26 genfiles/labels/en/90cdebbb69820463c0b6d202183f80f070a4c112-data.json:26 genfiles/labels/en/c20d59a924e8f4748964ac9e2ad3bac17289b86d-data.json:26 intl/datastore:1 search/display_util.py:404
+msgid "Students"
+msgstr ""
+
+# Comment: Accessibility label for settings button
+# Comment: Title appearing in navigation bar of Settings UI
+# See text on <a href="http://www.khanacademy.org/coach/roster">http://www.khanacademy.org/coach/roster</a>
+# See text on <a href="http://www.khanacademy.org/settings/linkaccount">http://www.khanacademy.org/settings/linkaccount</a>
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/class-package/settings/settings.jsx.js:158 genfiles/compiled_jsx/en/javascript/class-package/settings/settings.jsx.js:210 genfiles/compiled_jsx/en/javascript/page-package/user-settings.jsx.js:165 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-settings-button.jsx.js:67 genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/test-prep-header.jsx.js:107 genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-page.jsx.js:360 genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-page.jsx.js:379 intl/datastore:1 templates/settings-linkemail.html:5 templates/settings-linkemail.html:21 templates/settings.html:6 templates/settings.html:51 templates/settings.html:533
+msgid "Settings"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/exercisedashboard">http://www.khanacademy.org/exercisedashboard</a>
+#: templates/macros/exercises.html:8 templates/viewexercises.html:5
+msgid "Knowledge Map"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:250 genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:275 templates/completesignup.html:63 templates/macros/language_picker.html:4 templates/settings.html:87
+msgid "Not specified"
+msgstr ""
+
+# Comment: Label for search bar or button
+# Comment: Title for 'Search' tab in tab-based UI structure
+# Comment: Title for home screen shortcut to open Search tab.
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+# See text on <a href="http://www.khanacademy.org/library">http://www.khanacademy.org/library</a>
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/page-package/header.jsx.js:706 intl/datastore:1 javascript/search-package/search-page.js:89 templates/find_matching_gift.html:71 templates/macros/search.html:22 templates/searchresults.html:6
+msgid "Search"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/library">http://www.khanacademy.org/library</a>
+#: templates/macros/search.html:22
+msgid "Search Again"
+msgstr ""
+
+# Comment: Title used for the About tab on the video player.
+# See text on <a href="http://www.khanacademy.org/about">http://www.khanacademy.org/about</a>
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: bibliotron/handlers.py:1876 genfiles/compiled_jsx/en/javascript/page-package/footer.jsx.js:68 genfiles/compiled_jsx/en/javascript/page-package/responsive-nav-menu.jsx.js:481 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad.jsx.js:195 genfiles/compiled_jsx/en/javascript/tutorial-video-package/components/video-tabs.jsx.js:58 intl/datastore:1 templates/about/about_template.html:5 templates/about/about_template.html:47
+msgid "About"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about">http://www.khanacademy.org/about</a>
+# See text on <a href="http://www.khanacademy.org/contribute">http://www.khanacademy.org/contribute</a>
+# See text on <a href="http://www.khanacademy.org/donate">http://www.khanacademy.org/donate</a>
+#: genfiles/compiled_jsx/en/javascript/about-package/volunteer-credits.jsx.js:522 templates/about/about_template.html:68 templates/contribute.html:6
+msgid "Volunteer"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about">http://www.khanacademy.org/about</a>
+# See text on <a href="http://www.khanacademy.org/contribute">http://www.khanacademy.org/contribute</a>
+# See text on <a href="http://www.khanacademy.org/donate">http://www.khanacademy.org/donate</a>
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+# See text on <a href="http://www.khanacademy.org/give">http://www.khanacademy.org/give</a>
+#: genfiles/compiled_jsx/en/javascript/page-package/footer.jsx.js:340 genfiles/compiled_jsx/en/javascript/page-package/header.jsx.js:845 genfiles/compiled_jsx/en/javascript/page-package/header.jsx.js:906 genfiles/compiled_jsx/en/javascript/page-package/responsive-nav-menu.jsx.js:497 javascript/about-package/about.js:82 templates/about/about_template.html:74 templates/contribute.html:44 templates/contribute.html:61 templates/donate.html:4 templates/donate.html:7 templates/find_matching_gift.html:24
+msgid "Donate"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about">http://www.khanacademy.org/about</a>
+#: homepage.py:101 templates/about/about_the_site.html:98
+msgid "For free. For everyone. Forever."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about">http://www.khanacademy.org/about</a>
+# See text on <a href="http://www.khanacademy.org/about/blog">http://www.khanacademy.org/about/blog</a>
+#: templates/about/about_template.html:71 templates/about/viewblog.html:3 templates/about/viewblog.html:6
+msgid "Blog"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/art-history">http://translate.khanacademy.org/humanities/art-history</a>
+# Title of topic (xa9a1f711) on the accents stage
+# Title of topic (xa9a1f711) on the bg stage
+# Title of topic (xa9a1f711) on the de stage
+# Title of topic (xa9a1f711) on the ja stage
+# Title of topic (xa9a1f711) on the pl stage
+# Title of topic (xa9a1f711) on the pt stage
+# Title of topic (xa9a1f711) on the tr stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1 javascript/page-package/domain-utils.js:70
+msgid "Art history"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/careers">http://www.khanacademy.org/careers</a>
+# Title of topic <a href="http://translate.khanacademy.org/college-careers-more/career-content">http://translate.khanacademy.org/college-careers-more/career-content</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: genfiles/compiled_jsx/en/javascript/page-package/footer.jsx.js:105 intl/datastore:1 templates/careers/careers.html:5
+msgid "Careers"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/contribute">http://www.khanacademy.org/contribute</a>
+#: templates/contribute.html:3
+msgid "Contribute"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate">http://www.khanacademy.org/donate</a>
+# See text on <a href="http://www.khanacademy.org/search?page_search_query=tomato">http://www.khanacademy.org/search?page_search_query=tomato</a>
+#: search/cse.xml:34
+msgid "Programs"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/blog">http://www.khanacademy.org/about/blog</a>
+#: templates/about/viewblog.html:53
+msgid "International"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-content-specialists">http://www.khanacademy.org/about/our-content-specialists</a>
+#: javascript/page-package/domain-utils.js:66 templates/about/about_our_content_specialists.html:574
+msgid "Humanities"
+msgstr ""
+
+# Title of topic (x27c50637) on the bg stage
+# (KA_SOURCE_TREE: bg)
+# (format: text)
+#: badges/misc_activity_badges.py:41 missions/util.py:75 templates/you_can_learn_anything.html:5
+msgid "You Can Learn Anything"
+msgstr ""
+
+#: bibliotron/handlers.py:1223 bibliotron/handlers.py:1575 emails/onboarding/mission_introduction_email.py:35 genfiles/compiled_jsx/en/javascript/content-library-package/components/content-list-item.jsx.js:204 genfiles/compiled_jsx/en/javascript/content-library-package/components/mastery-practice-content-item.jsx.js:124 genfiles/compiled_jsx/en/javascript/content-library-package/components/practice-content-item.jsx.js:65 genfiles/compiled_jsx/en/javascript/content-library-package/components/topic-progress-summary.jsx.js:106 genfiles/compiled_jsx/en/javascript/content-library-package/modules/variable-column-content-list.jsx.js:144 genfiles/compiled_jsx/en/javascript/dashboard-package/task-entry.jsx.js:36 genfiles/compiled_jsx/en/javascript/tutorial-video-package/components/video-tabs.jsx.js:80 javascript/modules-package/content-filters.js:6
+msgid "Practice"
+msgstr ""
+
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/create-accounts-screen.jsx.js:144 genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/add-email-modal.jsx.js:89 intl/datastore:1 templates/emails/macro_tags.html:97 templates/emails/new_macro_tags.html:94 templates/emails/sat/sat_macro_tags.html:80
+msgid "Privacy Policy"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/search?page_search_query=tomato">http://www.khanacademy.org/search?page_search_query=tomato</a>
+#: genfiles/compiled_jsx/en/javascript/coach-report-exercises-package/report.jsx.js:1757 genfiles/compiled_jsx/en/javascript/coach-report-topic-package/report.jsx.js:333 search/cse.xml:26 search/display_util.py:401
+msgid "Exercises"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/tab-bar.jsx.js:96 genfiles/compiled_jsx/en/javascript/coach-report-shared-package/report-page.jsx.js:78 javascript/coach-report-progress-by-student-package/activity-graph.js:258 javascript/coach-report-progress-by-student-package/focus-graph.js:21 javascript/coach-report-progress-by-student-package/focus-graph.js:33
+msgid "Skills"
+msgstr ""
+
+# Comment: A section header in the 'Bookmarks' tab. This section has videos listed under it.
+# See text on <a href="http://www.khanacademy.org/search?page_search_query=tomato">http://www.khanacademy.org/search?page_search_query=tomato</a>
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/tab-bar.jsx.js:173 intl/datastore:1 javascript/coach-report-progress-by-student-package/activity-graph.js:255 javascript/coach-report-progress-by-student-package/focus-graph.js:78 javascript/coach-report-progress-by-student-package/focus-graph.js:97 javascript/modules-package/content-filters.js:5 search/cse.xml:12 search/display_util.py:406
+msgid "Videos"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/big-history-project/early-humans/collective-learning/e/quiz--collective-learning">http://translate.khanacademy.org/partner-content/big-history-project/early-humans/collective-learning/e/quiz--collective-learning</a>.
+# Exercise at (x5fcc229f) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: genfiles/compiled_jsx/en/javascript/content-library-package/components/author-header.jsx.js:59 genfiles/compiled_jsx/en/javascript/content-library-package/modules/social-links.jsx.js:23 genfiles/compiled_jsx/en/javascript/tutorial-shared-package/components/sharing-footer.jsx.js:232 intl/datastore:1
+msgid "Twitter"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/content-library-package/components/class-picker-modal.jsx.js:327
+msgid "Choose a grade to continue"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/content-library-package/components/class-picker-modal.jsx.js:372
+#, python-format
+msgid "Continue with %(num)s subject"
+msgid_plural "Continue with %(num)s subjects"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/content-library-package/components/class-picker-modal.jsx.js:460
+msgid "Personalize Khan Academy"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/content-library-package/components/class-picker-modal.jsx.js:547
+#, python-format
+msgid "Step %(current)s of %(total)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/content-library-package/components/mastery-topic-sidebar-tutorial.jsx.js:46 genfiles/compiled_jsx/en/javascript/dashboard-package/exercise-progress-tooltip.jsx.js:113
+msgid "Preview not available for this exercise."
+msgstr ""
+
+# Comment: Screen title or section title for a list of topics
+# Comment: Screen title or section title for a list of topics.
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/content-library-package/modules/quick-links.jsx.js:96 intl/datastore:1 search/display_util.py:405
+msgid "Topics"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/answer-questions-task-entry.jsx.js:58
+msgid "Share your mastery knowledge"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/answer-questions-task-entry.jsx.js:61
+msgid "Answer questions about this topic"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/exercise-progress-tooltip.jsx.js:81
+#, python-format
+msgid "Common Core: %(commonCoreStandard)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/mission-dashboard.jsx.js:53 genfiles/compiled_jsx/en/javascript/dashboard-package/mission-dashboard.jsx.js:329
+#, python-format
+msgid "See all %(missionName)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/mission-dashboard.jsx.js:356
+msgid "Simplified dashboard sneak peek"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/mission-dashboard.jsx.js:368
+msgid "Want to try out a new, simpler, cleaner mission dashboard? (You can always switch back if you don't like it.)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/mission-dashboard.jsx.js:373
+msgid "Try it out!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/mission-progress.jsx.js:173
+msgid "Why does it seem like I lost progress?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/progress-summary.jsx.js:116
+#, python-format
+msgid "(struggling in %(num)s)"
+msgid_plural "(struggling in %(num)s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/simplified-skill-view.jsx.js:268
+msgid "Practice anyway"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/simplified-skill-view.jsx.js:289
+msgid "You’ve already practiced this skill. To level it up, you must do mastery challenges. Try practicing a skill that still needs practice."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/suggested-task-list.jsx.js:292
+msgid "Take me back to the old dashboard."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/task-entry.jsx.js:102
+msgid "Recommended next"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/google-classroom-package/components/gclassroom-share-modal.jsx.js:178
+msgid "Title"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/logged-out-homepage-package/modules/browse-with-list.jsx.js:348
+#, python-format
+msgid "Back to %(domainTitle)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/logged-out-homepage-package/modules/topic-picker.jsx.js:99
+#, python-format
+msgid "What do you want to learn about in %(subjectLink)s?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/logged-out-homepage-package/modules/topic-picker.jsx.js:130
+msgid "ERROR"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/logged-out-homepage-package/modules/topic-picker.jsx.js:134
+msgid "Let's try to findyour topics again."
+msgstr ""
+
+# Comment: Placeholder for first name text field for signing up during onboarding
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:541 genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:951 genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:623 intl/datastore:1
+msgid "First name"
+msgstr ""
+
+# Comment: Placeholder for last name text field for signing up during onboarding
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:577 genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:951 genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:624 intl/datastore:1
+msgid "Last name"
+msgstr ""
+
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:302 genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:255 intl/datastore:1
+msgid "Sign up with email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:288
+msgid "Go back"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:355
+msgid "Don't worry, we'll never post anything on your behalf without asking first."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/page-package/footer.jsx.js:109
+msgid "Internships"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/page-package/footer.jsx.js:119
+msgid "Help center"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/page-package/footer.jsx.js:135
+msgid "Press"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/page-package/footer.jsx.js:336 genfiles/compiled_jsx/en/javascript/page-package/header.jsx.js:78 genfiles/compiled_jsx/en/javascript/page-package/learn-menu.jsx.js:95 javascript/page-package/domain-utils.js:105
+msgid "Subjects"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/page-package/footer.jsx.js:336 genfiles/compiled_jsx/en/javascript/page-package/footer.jsx.js:338
+msgid "Change language"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/page-package/footer.jsx.js:338
+msgid "View Khan Academy in:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/page-package/footer.jsx.js:350
+msgid "Site Navigation"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/page-package/header-search-box.jsx.js:43 genfiles/compiled_jsx/en/javascript/page-package/header.jsx.js:687 genfiles/compiled_jsx/en/javascript/page-package/header.jsx.js:978 genfiles/compiled_jsx/en/javascript/search-package/mobile-search-form.jsx.js:50 javascript/search-package/search-page.js:71 templates/searchresults.html:53 templates/searchresults.html:54
+msgid "Search for subjects, skills, and videos"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/page-package/header.jsx.js:777
+msgid "Skip to main content"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/page-package/notifications-list.jsx.js:56
+msgid "No notifications. You can get back to learning!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/page-package/notifications-switch.jsx.js:55 genfiles/compiled_jsx/en/javascript/settings-package/notifications-section.jsx.js:29
+msgid "Notifications"
+msgstr ""
+
+# Comment: Title for 'Profile' tab in tab-based UI structure
+# Comment: Title for the user's profile page
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/page-package/user-settings.jsx.js:125 genfiles/compiled_jsx/en/javascript/profile-nav-package/new-profile-nav.jsx.js:75 intl/datastore:1 javascript/profile-nav-package/profile-router.js:359 javascript/profile-nav-package/profile.js:266
+msgid "Profile"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/page-package/user-settings.jsx.js:134 javascript/settings-package/settings.js:443
+msgid "Learning home"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/page-package/user-settings.jsx.js:187
+msgid "Log out"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-nav-package/new-profile-nav.jsx.js:124 javascript/profile-nav-package/profile-router.js:253 javascript/profile-nav-package/profile-router.js:361 javascript/profile-package/profile-widget-model.js:11 templates/settings.html:239
+msgid "Coaches"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+# See text on <a href="http://www.khanacademy.org/recommendation_feedback">http://www.khanacademy.org/recommendation_feedback</a>
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/share-modal.jsx.js:131 genfiles/compiled_jsx/en/javascript/stories-package/stories-page.jsx.js:52 templates/donation_acknowledgement.html:40 templates/emails/recommendation_email_feedback.html:46 templates/find_matching_gift.html:50
+msgid "Tweet"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/search-package/mission-callouts.jsx.js:91
+msgid "New SAT (starting March 2016)"
+msgstr ""
+
+#: homepage.py:87
+msgid "Learners, start here"
+msgstr ""
+
+# Comment: Content description for the Khan Academy logo
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: intl/datastore:1
+msgid "Khan Academy logo"
+msgstr ""
+
+# Comment: Text for Facebook Sign In button
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: intl/datastore:1
+msgid "Sign in with Facebook"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/resources/k-12-teachers-1/official-sat-practice">http://translate.khanacademy.org/resources/k-12-teachers-1/official-sat-practice</a>
+# Title of topic (x38ce59f0dc2d4bf2) on the bg stage
+# Title of topic (x38ce59f0dc2d4bf2) on the de stage
+# Title of topic (x38ce59f0dc2d4bf2) on the es stage
+# Title of topic (x38ce59f0dc2d4bf2) on the fr stage
+# Title of topic (x38ce59f0dc2d4bf2) on the hy stage
+# Title of topic (x38ce59f0dc2d4bf2) on the ja stage
+# Title of topic (x38ce59f0dc2d4bf2) on the ka stage
+# Title of topic (x38ce59f0dc2d4bf2) on the lol stage
+# Title of topic (x38ce59f0dc2d4bf2) on the pl stage
+# Title of topic (x38ce59f0dc2d4bf2) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1 javascript/page-package/domain-utils.js:93 templates/rsat.html:46
+msgid "Official SAT Practice"
+msgstr ""
+
+#: javascript/hover-card-package/hover-card-view.js:49
+msgid "Unclaimed points"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/search?page_search_query=tomato">http://www.khanacademy.org/search?page_search_query=tomato</a>
+#: javascript/modules-package/content-filters.js:7 search/cse.xml:18 search/display_util.py:400
+msgid "Articles"
+msgstr ""
+
+#: javascript/page-package/domain-utils.js:38
+msgid "All of math"
+msgstr ""
+
+#: javascript/page-package/domain-utils.js:81 topics/render.py:631
+msgid "Museums"
+msgstr ""
+
+#: javascript/page-package/domain-utils.js:85
+msgid "Partners"
+msgstr ""
+
+#: javascript/page-package/domain-utils.js:97
+msgid "Other tests"
+msgstr ""
+
+#: search/display_util.py:402
+msgid "Missions"
+msgstr ""

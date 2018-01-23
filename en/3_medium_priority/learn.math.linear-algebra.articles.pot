@@ -1,0 +1,1534 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-05 11:58+0000\n"
+"PO-Revision-Date: 2017-11-05 11:58+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>
+# Title of tutorial article (x2778ce4e) on the ja stage
+# Title of tutorial article (x2778ce4e) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Visualizing linear transformations"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"$\n"
+"\\left[ \\begin{array}{c} x \\\\ y \\end{array} \\right] =\n"
+"x\\greenD{\\left[ \\begin{array}{c} 1 \\\\ 0 \\end{array} \\right]} + \n"
+"y\\redD{\\left[ \\begin{array}{c} 0 \\\\ 1 \\end{array} \\right]}\n"
+"$"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\left[ \\begin{array}{c} -1 \\\\ 2 \\end{array}\\right]$"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\left[ \\begin{array}{c} -2 \\\\ -2 \\end{array}\\right]$"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\left[ \\begin{array}{c} -3 \\\\ 0 \\end{array}\\right]$"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\left[ \\begin{array}{c} 0 \\\\ 3y \\end{array}\\right]$"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\left[ \\begin{array}{c} 2 \\\\ -2 \\end{array}\\right]$"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\left[ \\begin{array}{c} 3 \\\\ -5 \\end{array}\\right]$"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\left[ \\begin{array}{c} 3 \\\\ -6 \\end{array}\\right]$"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\left[ \\begin{array}{c} 3y \\\\ 0 \\end{array}\\right]$"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Practice Problem** Even though it has gone off screen, can you predict where the point $\\left[ \\begin{array}{c} 3 \\\\ 0 \\end{array}\\right]$ has landed?"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Practice Problem**: After the plane has undergone the transformation illustrated above, where does the general point $\\left[ \\begin{array}{c} 0 \\\\ y \\end{array}\\right]$ on the $y$-axis land?"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Practice Problem**: Use this same tactic to compute where the vector $\\left[ \\begin{array}{c} 1 \\\\ -1 \\end{array}\\right]$ lands."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Practice Problem**: Where does the point at $\\left[ \\begin{array}{c} -1 \\\\ 0 \\end{array}\\right]$ end up after the plane has undergone the transformation in the above video?"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "https://ka-perseus-images.s3.amazonaws.com/6eca6b57567643dd7743f2efc5c90e6bad3133d8.png"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "## What do linear transformations in two dimensions look like?"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"$\n"
+"x \\cdot \\greenD{\\left[ \\begin{array}{c} a \\\\ c \\end{array} \\right]} +\n"
+"y \\cdot \\redD{\\left[ \\begin{array}{c} b \\\\ d \\end{array} \\right]} = \n"
+"\\left[ \\begin{array}{c}\n"
+"\\greenD{a}x + \\redD{b}y \\\\\n"
+"\\greenD{c}x + \\redD{d}y\n"
+"\\end{array} \\right].\n"
+"$"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\textbf{Av} = \\left[\\begin{array}{c} ax + by \\\\ cx + dy \\end{array}\\right]$."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Person A:**  ... that's the stupidest thing I've ever heard."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Person A:** What is four times five?"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Person B:** Well, consider the unique linear transformation which takes one to four, as well as the unique linear transformation which takes one to five, then apply each of these transformations, one after the other, and four times five will be whatever number one lands on."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "A really nice way to describe all this is to represent a given linear transform with the matrix below:"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "A two-dimensional linear transformation is a special kind of function which takes in a two-dimensional vector $\\left[ \\begin{array}{c} x \\\\ y \\end{array} \\right]$ and outputs another two-dimensional vector.  As before, our use of the word transformation indicates we should think about smooshing something around, which in this case is two-dimensional space.  "
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "And, so the negative numbers don't feel neglected, here is multiplication by negative three:"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "As in one dimension, what makes a two-dimensional transformation linear is that it satisfies two properties: "
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Before we move on to two-dimensional space, there's one simple but important fact we should keep in the back of our minds. Suppose you watch one of these transformations, knowing that it uses multiplication by some number but without knowing what that number is:"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Curious about why these tranformations are called linear?"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "For our purposes, what makes a transformation linear is the following geometric rule: The *origin must remain fixed*, and *all lines must remain lines*. So, all the transformations in the above animation are examples of linear transformations, but the following are not:"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "For those of you fond of fancy terminology, these animated actions could be described as \"**linear transformations of one-dimensional space**\".  The word transformation means the same thing as the word function: something which takes in a number and outputs a number, like $f(x) = 2x$.  However, while we typically visualize functions with graphs, people tend to use the word transformation to indicate that you should instead visualize some object moving, stretching, squishing, etc. So, the function $f(x) = 2x$ visualized as a transformation gives us the multiplication-by-two video above.  It moves the point one on the number line to where two starts off, moves two to where four starts off, etc."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Here are some examples:"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"How could you describe this transformation to a friend who is not watching the same animation? You can no longer describe it using a single number, the way we could just follow the number one in the one-dimensional case. To help keep track of everything, let's put a green arrow over the vector \n"
+"$\\greenD{\\left[ \\begin{array}{c} 1 \\\\ 0 \\end{array} \\right]}$,\n"
+"a red arrow over the vector\n"
+"$\\redD{\\left[\\begin{array}{c} 0 \\\\ 1 \\end{array} \\right]}$,\n"
+"and fix a copy of the grid in the background."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "If we apply two transformation in a row, for instance multiplication by two, then by three,"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Imagine you are watching one particular transformation, like this one:"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"In general, each vector\n"
+"$\\left[ \\begin{array}{c} x \\\\ y \\end{array} \\right]$\n"
+"can be broken down as follows:"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In one dimension, $x$ and $y$ are numbers, as opposed to, say, vectors. In this special case of one dimension, the only functions satisfying these properties look like multiplication by a constant—i.e., $f(x) = kx$ for some constant $k$."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"In this matrix, the first *column* tells us where \n"
+"$\\greenD{\\left[ \\begin{array}{c} 1 \\\\ 0 \\end{array} \\right]}$\n"
+"lands, and the second *column* tells us where \n"
+"$\\redD{\\left[ \\begin{array}{c} 0 \\\\ 1 \\end{array} \\right]}$\n"
+"lands. Now we can describe where any vector \n"
+"$\\textbf{v} = \\left[ \\begin{array}{c} x \\\\ y \\end{array} \\right]$\n"
+"lands very compactly as the matrix-vector product"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "It starts at negative one times the green arrow plus two times the red arrow, but it also ends at negative one times the green arrow plus two times the red arrow, which after the transformation means"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Now it's a lot easier to see where things land. Watch the animation again, and focus on the vector $\\left[ \\begin{array}{c} 1 \\\\ 1 \\end{array} \\right]$. We can more easily follow it to see that it lands on the vector $\\left[\\begin{array}{c}  4 \\\\ -2 \\end{array} \\right]$."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "One-dimensional space is simply the number line.  "
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Only now, $\\textbf{v}$ and $\\textbf{w}$ are vectors instead of numbers. While in one-dimension, the first property was useless, it now plays a more important role because, in some sense, it determines how the two different dimensions play together during a transformation."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Since the point $(0, 1)$—indicated by the red arrow—lands on $(3, 0)$, all vectors which start at a multiple of $y$ times the red arrow must end up at a multiple $y$ by $(3, 0)$."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "So in the same way that one-dimensional linear transformations can be described as multiplication by some number, namely whichever number one lands on top of, two-dimensional linear transformations can always be described by a $2 \\times 2$ *matrix*, namely the one whose first column indicates where $\\left[ \\begin{array}{c} 1 \\\\ 0 \\end{array} \\right]$ lands and whose second column indicates where $\\left[ \\begin{array}{c} 0 \\\\ 1 \\end{array} \\right]$ lands.  "
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"So, if the green arrow \n"
+"$\\greenD{\\left[ \\begin{array}{c} 1 \\\\ 0 \\end{array} \\right]}$\n"
+"lands on some vector\n"
+"$\\greenD{\\left[ \\begin{array}{c} a \\\\ c \\end{array} \\right]}$\n"
+"and the red arrow\n"
+"$\\redD{\\left[ \\begin{array}{c} 0 \\\\ 1 \\end{array} \\right]}$\n"
+"lands on some vector\n"
+"$\\redD{\\left[ \\begin{array}{c} b \\\\ d \\end{array} \\right]}$,\n"
+"then the vector \n"
+"$\\left[ \\begin{array}{c} x \\\\ y \\end{array} \\right]$ \n"
+"must land on "
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The idea of a transformation can seem more complicated than it really is at first, so before diving into how $2 \\times 2$ matrices transform two-dimensional space, or how $3 \\times 3$ matrices transform three-dimensional space, let's go over how plain old numbers—a.k.a. $1 \\times 1$ matrices—can be considered transformations of one-dimensional space."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The technical definition of a *linear* transform is a function $f(x)$ that satisfies two properties:"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This might seem like an awfully complicated way to describe multiplication, especially given that the first property above is pointless. However, the importance of linearity comes when $f$ is a function of vectors. The fact that in one-dimension $f$ is completely determined by where it takes the number one has a much more interesting analog in higher dimensions."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Want one more silly observation useful for later generalization?"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"We can either directly follow the point and watch were it it lands, or we can assume that since it starts at one times the green arrow plus negative one times the red arrow, the point will end up at the green arrow minus the red arrow as well, which in this case gives\n"
+"\n"
+"$\\greenD{\\left[\\begin{array}{c} 1 \\\\ -2 \\end{array} \\right]} - \\redD{\\left[\\begin{array}{c} 3 \\\\ 0 \\end{array} \\right]} = \\left[\\begin{array}{c} -2 \\\\ -2 \\end{array} \\right]$"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"We can either directly follow the point and watch were it it lands, or we can assume that since it starts at one times the green arrow plus negative one times the red arrow, the point will end up at the green arrow minus the red arrow as well, which in this case gives\n"
+"\n"
+"$\\greenD{\\left[\\begin{array}{c} 1 \\\\ -2 \\end{array} \\right]} - \\redD{\\left[\\begin{array}{c} 3 \\\\ 0 \\end{array} \\right]} = \\left[\\begin{array}{c} 2 \\\\ -2 \\end{array} \\right]$"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can see that $(1, 0)$ has landed on $(1, -2)$ and that $(2, 0)$ has landed on $(2, -4)$. Because this is a linear transformation, we can extrapolate that $(3, 0)$ lands on $(3, -6)$."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We keep a copy of the original line for reference, then slide each number on the line to two times that number."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "What happens when you multiply every number on the line by a particular value, like two? One way to visualize this is as follows:"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Why? Plug in $x=1$ to the second property, and we see $f(c) = cf(1)$. If we interpret $c$ as a variable and $f(1)$ as some constant, the entire function is just multiplication by $f(1)$.  For instance, if $f(1) = 8$, then $f(x) = 8x$. In fact, we don't even need the first property since once we know $f$ looks like $f(x) = kx$, the fact that $f(x+y) = f(x)+f(y)$ follows from the distributive law: $k(x + y) = kx + ky$."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "You can easily figure out which number is being multiplied into the line by *following one*. In this case, one lands where negative three started off, so you can tell that the animation represents multiplication by negative three."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "[[☃ video 10]]"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "[[☃ video 9]]"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# Article is at (x2778ce4e) on the ja stage.
+# Article is at (x2778ce4e) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "the total action is the same as some other single transformation, in this case multiplication by six:"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "If we apply two transformation is a row, for instance multiplication by two, then by three,"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "For those of you fond of fancy terminology, these animated actions could be described as \"**Linear transformations of $1$-dimensional space**\".  The word “transformation” means the same thing as “function”: something which takes in a number and outputs a number, like $f(x) = 2x$.  However, while we typically visualize functions with their graphs, people tend to use the word “transformation” to indicate that you should instead visualize some object moving, stretching, squishing, etc.  So the function $f(x) = 2x$ visualized as a transformation gives us the \"Multiplication by $2$\" video above.  It moves the point $1$ on the number line to where $2$ starts off, moves $2$ to where $4$ starts off, etc."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Here, in 1 dimension, $x$ and $y$ are numbers, as opposed to, say, vectors.  In this special case of 1 dimension, the only functions satisfying these properties look like multiplication by a constant, i.e. $f(x) = kx$ for some constant $k$."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The idea of a \"transformation\" can seem more complicated than it really is at first, so before diving into how $2 \\times 2$ matrices transform $2$-dimensional space, or how $3 \\times 3$ matrices transform $3$-dimensional space, let's go over how plain old numbers (a.k.a. $1 \\times 1$ matrices) can be considered transformations of $1$-dimensional space."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This might seem like an awfully complicated way to describe multiplication, especially given that the first property above is pointless.  However, the importance of linearity comes when $f$ is a function of vectors.  The fact that in $1$-dimension $f$ is completely determined by where it takes the number $1$ has a much more interesting analog in higher dimensions."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/matrices-as-transformations</a>.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Why?  Plug in $x=1$ to the second property, and we see $f(c) = cf(1)$.  If we interpret $c$ as a variable and $f(1)$ as some constant, the entire function is just multiplication by $f(1)$.  For instance, if $f(1) = 8$, then $f(x) = 8x$.  In fact, we don't even need the first property, since once we know $f$ looks like $f(x) = kx$, the fact that $f(x+y) = f(x)+f(y)$ follows from the distributive law: $k(x + y) = kx + ky$."
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/practice-associating-matrices-with-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/practice-associating-matrices-with-transformations</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Matrix from visual representation of transformation"
+msgstr ""
+
+# Description of tutorial article <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/practice-associating-matrices-with-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/practice-associating-matrices-with-transformations</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Learn how to determine the transformation matrix that has a given effect that is described visually."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/practice-associating-matrices-with-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/practice-associating-matrices-with-transformations</a>.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"For the second column, we ask where the vector $\\redD{\\left[ \\begin{array}{c} 0 \\\\ 1 \\end{array} \\right]}$ lands.  Rotating this upward facing vector 90$^\\circ$ yields a leftward facing arrow—i.e., the vector $\\left[ \\begin{array}{c} -1 \\\\ 0 \\end{array} \\right]$—so we can finish writing our matrix as $\n"
+"\\left[ \\begin{array}{cc} 0 &  \\redD{-1} \\\\ 1 & \\redD{0} \\end{array} \\right]\n"
+"$. "
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/practice-associating-matrices-with-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/practice-associating-matrices-with-transformations</a>.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let's practice encoding linear transformations as matrices, as described in the previous article. For instance, suppose we want to find a matrix which corresponds with a 90$^\\circ$ rotation."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/practice-associating-matrices-with-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations/a/practice-associating-matrices-with-transformations</a>.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The first column of the matrix tells us where the vector $\\greenD{\\left[ \\begin{array}{c} 1 \\\\ 0 \\end{array} \\right]}$ goes, and—looking at the animation—we see that this vector lands on $\\left[ \\begin{array}{c} 0 \\\\ 1 \\end{array} \\right]$. Based on this knowledge, we start filling in our matrix like this: "
+msgstr ""

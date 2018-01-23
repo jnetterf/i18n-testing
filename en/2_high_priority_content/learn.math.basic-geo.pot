@@ -1,0 +1,971 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-29 11:24+0000\n"
+"PO-Revision-Date: 2017-11-29 11:24+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ab-sixth-grade-math/shape-space/ab-coordinate-plane">http://translate.khanacademy.org/math/ab-sixth-grade-math/shape-space/ab-coordinate-plane</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane">http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane">http://translate.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane">http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane</a>
+# Description of topic (x0b42b472) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "We use coordinates to describe where something is. In geometry, coordinates say where points are on a grid we call the \"coordinate plane\"."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-angle/angles-between-lines">http://translate.khanacademy.org/math/basic-geo/basic-geo-angle/angles-between-lines</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-angles/geometry-angles-between-lines">http://translate.khanacademy.org/math/geometry-home/geometry-angles/geometry-angles-between-lines</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-lines-angles/in-in-7th-lines-angles-angles-between-lines">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-lines-angles/in-in-7th-lines-angles-angles-between-lines</a>
+# Description of topic (x7d83fa44) on the pt stage
+# Description of topic (x81b424bb) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "This tutorial introduces us to angles.  It includes how we measure them, how angles relate to each other and properties of angles created from various types of intersecting lines.  Mr. Angle is actually far more fun than you might initially presume him to be."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-angle/measure-angles">http://translate.khanacademy.org/math/basic-geo/basic-geo-angle/measure-angles</a>
+# Title of topic (xb260b981) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Measuring and drawing angles"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-angle">http://translate.khanacademy.org/math/basic-geo/basic-geo-angle</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-angles">http://translate.khanacademy.org/math/geometry-home/geometry-angles</a>
+# Description of topic (x67cb5d9c) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic, we will learn what an angle is and how to label, measure and construct them.  We will also explore special types of angles."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-angles/basic-geo-angle-relationships">http://translate.khanacademy.org/math/basic-geo/basic-geo-angles/basic-geo-angle-relationships</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Relationships between angles"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-angles">http://translate.khanacademy.org/math/basic-geo/basic-geo-angles</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Measure angles and find missing angles in interesting geometry problems."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-formula-intuition">http://translate.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-formula-intuition</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-area-perimeter/geometry-area-formula-intuition">http://translate.khanacademy.org/math/geometry-home/geometry-area-perimeter/geometry-area-formula-intuition</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Transition from counting unit squares to multiplying side length to find area.  Measure side lengths with a ruler to find area.  Find area of rectangles by multiplying side lengths.  Find a missing side length of a rectangle when given the other side length and area.  "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter">http://translate.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-area-perimeter">http://translate.khanacademy.org/math/basic-geo/basic-geo-area-perimeter</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-area-perimeter">http://translate.khanacademy.org/math/geometry-home/geometry-area-perimeter</a>
+# Description of topic (x073aa5c2) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Area and perimeter help us measure the size of 2D shapes. We’ll start with the area and perimeter of rectangles. From there, we’ll tackle trickier shapes, such as triangles and circles."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon">http://translate.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Area and perimeter of polygons"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/coordinate-plane-4-quad">http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/coordinate-plane-4-quad</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-coordinate-plane-4-quads">http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-coordinate-plane-4-quads</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Coordinate plane: 4 quadrants"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/coordinate-plane-quad-1">http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/coordinate-plane-quad-1</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-coordinate-plane-1-quad">http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-coordinate-plane-1-quad</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Coordinate plane: quadrant 1"
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/quadrants/e/graphing_points_2">http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/quadrants/e/graphing_points_2</a>
+# Pretty display name for exercise (342773513) on the pt stage
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/quadrants">http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/quadrants</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-quadrants">http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-quadrants</a>
+# Title of topic (x8d07ae9b) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Quadrants on the coordinate plane"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/quadrants">http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/quadrants</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-quadrants">http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-quadrants</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8d07ae9b) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Quadrants"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/quadrants">http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/quadrants</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-quadrants">http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-quadrants</a>
+# Description of topic (x8d07ae9b) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn the 4 quadrants of a coordinate plane."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/reflect-points-coord-plane">http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/reflect-points-coord-plane</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-reflect-coord-plane">http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-reflect-coord-plane</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Reflecting points on coordinate plane"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/reflect-points-coord-plane">http://translate.khanacademy.org/math/basic-geo/basic-geo-coord-plane/reflect-points-coord-plane</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-reflect-coord-plane">http://translate.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-reflect-coord-plane</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn to reflect points on a coordinate plane across both axes and the origin."
+msgstr ""
+
+# Exercise is at (x3eb38d5364077590) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-geometry-topic/cc-5th-coordinate-plane-word-problems/e/shapes-on-the-coordinate-plane">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-geometry-topic/cc-5th-coordinate-plane-word-problems/e/shapes-on-the-coordinate-plane</a>
+# Pretty display name for exercise (x45dce67c) on the pt stage
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/shapes-on-the-coordinate-plane">https://www.khanacademy.org/tag/shapes-on-the-coordinate-plane</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/basic-geo-shapes-on-a-plane">http://translate.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/basic-geo-shapes-on-a-plane</a>
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Shapes on the coordinate plane"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/basic-geo-shapes-on-a-plane">http://translate.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/basic-geo-shapes-on-a-plane</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's think about shapes as collections of points on the coordinate plane. When you're done with this tutorial, you might be saying, \"I have had it with these shapes on this plane!\"  But you'll be happy you went through it."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/tools-of-geometry/lines-segments-rays">http://translate.khanacademy.org/math/geometry/tools-of-geometry/lines-segments-rays</a>
+# Title of video <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-lines/basic-geo-lines-rays-angles/v/lines-line-segments-and-rays">http://translate.khanacademy.org/math/basic-geo/basic-geo-lines/basic-geo-lines-rays-angles/v/lines-line-segments-and-rays</a>
+# Title of video <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-lines/lines-rays/v/lines-line-segments-and-rays">http://translate.khanacademy.org/math/basic-geo/basic-geo-lines/lines-rays/v/lines-line-segments-and-rays</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Lines, line segments, & rays"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-lines">http://translate.khanacademy.org/math/basic-geo/basic-geo-lines</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines">http://translate.khanacademy.org/math/geometry-home/geometry-lines</a>
+# Title of topic (x5b855a1e) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Lines"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-lines">http://translate.khanacademy.org/math/basic-geo/basic-geo-lines</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines">http://translate.khanacademy.org/math/geometry-home/geometry-lines</a>
+# Description of topic (x5b855a1e) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn what lines, line segments, and rays are and how to use them."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-lines">http://translate.khanacademy.org/math/basic-geo/basic-geo-lines</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Lines, line segments, and rays are fundamental to geometry. Our mission: learn what they are and how to use them."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-pythagorean-topic">http://translate.khanacademy.org/math/basic-geo/basic-geo-pythagorean-topic</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geometry-pythagorean-theorem">http://translate.khanacademy.org/math/basic-geo/basic-geometry-pythagorean-theorem</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-pythagorean-theorem">http://translate.khanacademy.org/math/geometry-home/geometry-pythagorean-theorem</a>
+# Description of topic (xa9c7d564) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The Pythagorean theorem describes a special relationship between the sides of a right triangle. Even the ancients knew of this relationship. In this topic, we’ll figure out how to use the Pythagorean theorem and prove why it works."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-finding-angles">http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-finding-angles</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding angles in shapes"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Classify shapes and solve geometry problems using what we know of the properties of shapes."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence/basic-geo-dilations">http://translate.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence/basic-geo-dilations</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x28302e629776bb8e) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Dilations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence/basic-geometry-translations">http://translate.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence/basic-geometry-translations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-geometry/translations-8th">http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-geometry/translations-8th</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-eighth-grade-math/geometric-transformations/translations-8th">http://translate.khanacademy.org/math/cc-eighth-grade-math/geometric-transformations/translations-8th</a>
+# Description of topic (x119602d6) on the pt stage
+# Description of topic (x26a162c5) on the pt stage
+# Description of topic (x26a162c5) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about transformations and how to perform them."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence/congruent-similar">http://translate.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence/congruent-similar</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo/basic-geo-congruence-similarity">http://translate.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo/basic-geo-congruence-similarity</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-geometry/congruence-similarity">http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-geometry/congruence-similarity</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-eighth-grade-math/geometric-transformations/congruence-similarity">http://translate.khanacademy.org/math/cc-eighth-grade-math/geometric-transformations/congruence-similarity</a>
+# Title of topic (x388d6ae8) on the pt stage
+# Title of topic (x388d6ae8) on the pt-pt stage
+# Title of topic (x6cf19558) on the pt stage
+# Title of topic (xe574b8ec) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Congruence and similarity"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence/transformations-intro-basic-geo">http://translate.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence/transformations-intro-basic-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-eighth-grade-math/geometric-transformations/identify-transformations">http://translate.khanacademy.org/math/cc-eighth-grade-math/geometric-transformations/identify-transformations</a>
+# Title of topic (x54f6dbaa22dcc65f) on the pt stage
+# Title of topic (x54f6dbaa22dcc65f) on the pt-pt stage
+# Title of topic (xeafdcc2e07abbcfa) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Transformations intro"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence/transformations-intro-basic-geo">http://translate.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence/transformations-intro-basic-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-eighth-grade-math/geometric-transformations/identify-transformations">http://translate.khanacademy.org/math/cc-eighth-grade-math/geometric-transformations/identify-transformations</a>
+# Description of topic (x54f6dbaa22dcc65f) on the pt stage
+# Description of topic (x54f6dbaa22dcc65f) on the pt-pt stage
+# Description of topic (xeafdcc2e07abbcfa) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Identify transformations, including translations, rotations, reflections, and dilations."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence">http://translate.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo">http://translate.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo</a>
+# Description of topic (xbc33bb33) on the hy stage
+# Description of topic (xbc33bb33) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about geometric transformations and how they're used to understand the meaning of \"similar\" and \"congruent\"."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-volume-sa/volume-cones">http://translate.khanacademy.org/math/basic-geo/basic-geo-volume-sa/volume-cones</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-volume-surface-area/basic-geo-volumes">http://translate.khanacademy.org/math/basic-geo/basic-geo-volume-surface-area/basic-geo-volumes</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-volume-surface-area/geometry-volume-cones">http://translate.khanacademy.org/math/geometry-home/geometry-volume-surface-area/geometry-volume-cones</a>
+# Title of topic (x6a15c436) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Volume of cones, cylinders, and spheres"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-volume-sa/volume-cones">http://translate.khanacademy.org/math/basic-geo/basic-geo-volume-sa/volume-cones</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-volume-surface-area/geometry-volume-cones">http://translate.khanacademy.org/math/geometry-home/geometry-volume-surface-area/geometry-volume-cones</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes/copy-of-volume-cones">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes/copy-of-volume-cones</a>
+# Description of topic (x6a15c436) on the pt stage
+# Description of topic (x90359e78daf00f8d) on the hi stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's see how to find the volumes of cylinders, spheres and other three dimensional shapes."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-volume-sa">http://translate.khanacademy.org/math/basic-geo/basic-geo-volume-sa</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-volume-surface-area">http://translate.khanacademy.org/math/basic-geo/basic-geo-volume-surface-area</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-volume-surface-area">http://translate.khanacademy.org/math/geometry-home/geometry-volume-surface-area</a>
+# Description of topic (x96bca81f) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Volume and surface area help us measure the size of 3D objects. We’ll start with the volume and surface area of rectangular prisms. From there, we’ll tackle trickier objects, such as cones and spheres."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-volume-surface-area/basic-geo-volume">http://translate.khanacademy.org/math/basic-geo/basic-geo-volume-surface-area/basic-geo-volume</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Volume of prisms"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-shapes/geometry-classify-geo-shapes">http://translate.khanacademy.org/math/geometry-home/geometry-shapes/geometry-classify-geo-shapes</a>
+# Description of topic (xaf92db4c) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Practice classifying geometric shapes."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-geometric-solids">http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-geometric-solids</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x723410b68d315162) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Geometric solids"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-shapes">http://translate.khanacademy.org/math/geometry-home/geometry-shapes</a>
+# Description of topic (x198798e5) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Classify shapes and solve problems using what we know of the properties of shapes."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo/transformations-basics">http://translate.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo/transformations-basics</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Transformations, congruence, and similarity"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo">http://translate.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Transformations, Congruence, and Similarity"
+msgstr ""

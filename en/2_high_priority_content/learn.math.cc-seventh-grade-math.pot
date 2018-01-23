@@ -1,0 +1,3490 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2017-12-01 14:41+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability">http://translate.khanacademy.org/math/statistics-probability</a>
+# Title of topic (x657459cb) on the hy stage
+# Title of topic (x83aef204) on the pl stage
+# Title of topic (x83aef204) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Statistics and probability"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics</a>
+# Description of topic (x657459cb) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "This introduction to probability and statistics explores probability models, sample spaces, compound events, random samples, and a whole lot more."
+msgstr ""
+
+# Exercise is at (x9ca39709fac25430) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-graphing-prop-rel/e/comparing-proportional-relationships">http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/cc-8th-graphing-prop-rel/e/comparing-proportional-relationships</a>
+# Pretty display name for exercise (x369cc7ab) on the pt stage
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion</a>
+# Title of topic (x805b3a5e) on the hy stage
+# Title of topic (x805b3a5e) on the ka stage
+# Title of topic (x805b3a5e) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Rates & proportional relationships"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates</a>
+# Description of topic (x17923675) on the hy stage
+# Description of topic (x17923675) on the pt stage
+# Description of topic (x805b3a5e) on the hy stage
+# Description of topic (x805b3a5e) on the ka stage
+# Description of topic (x805b3a5e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn all about proportional relationships. How are they connected to ratios and rates? What do their graphs look like? What types of word problems can we solve with proportions?"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/arithmetic/fractions/adding-and-subtracting-fractions">http://translate.khanacademy.org/math/arithmetic/fractions/adding-and-subtracting-fractions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/fractions-pre-alg/add-and-subtract-fracs-pre-alg">http://translate.khanacademy.org/math/pre-algebra/fractions-pre-alg/add-and-subtract-fracs-pre-alg</a>
+# Title of video <a href="http://translate.khanacademy.org/math/arithmetic/fractions/fractions-unlike-denom/v/adding-and-subtracting-fractions">http://translate.khanacademy.org/math/arithmetic/fractions/fractions-unlike-denom/v/adding-and-subtracting-fractions</a>
+# Title of video <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/addition-subtraction-fractions/v/adding-and-subtracting-fractions">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/addition-subtraction-fractions/v/adding-and-subtracting-fractions</a>
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Adding and subtracting fractions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals</a>
+# Title of topic (xbee72d33) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Fractions, decimals, & percentages"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals</a>
+# Description of topic (xbee72d33) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "In these tutorials, we'll explore the number system. We'll convert fractions to decimals, operate on numbers in different forms, meet complex fractions, and identify types of numbers. We'll also solve interesting word problems involving percentages (discounts, taxes, and tip calculations)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions</a>
+# Title of topic (x0a8c9f98) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Expressions, equations, & inequalities"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x0a8c9f98) on the hy stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Algebraic expressions, equations, & inequalities"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions</a>
+# Description of topic (x0a8c9f98) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Bring on the algebra! Learn how to manipulate expressions and solve equations and inequalities."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry</a>
+# Description of topic (xc1a4d524) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Geometric shapes are all around us. The world is built with them. In this series of tutorials and exercises you'll become familiar with Euclidean geometry and terms like segments, scale drawings, parts of a circle, area, volume, angles, and geometric figures."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-basic-prob">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-basic-prob</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Flip a quarter a hundred times. What's the probability that it will turn up heads? Tails?    Even if we are unsure about whether something will happen, can we start to be mathematical about the \"chances\" of an event (essentially realizing that some things are more likely than others) occurring.  This tutorial will introduce us to the tools that allow us to think about random events and the logic behind comparing, judging, and finding the probabilities of those events."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x4ba15d90) on the hy stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x4ba15d90) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/negative-numbers">https://www.khanacademy.org/tag/negative-numbers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-negative-numbers">http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-negative-numbers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/core-algebra-foundations-negative-numbers">http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/core-algebra-foundations-negative-numbers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/arithmetic-home/negative-numbers">http://translate.khanacademy.org/math/arithmetic-home/negative-numbers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers">http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-negative-number-topic">http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-negative-number-topic</a>
+# Title of topic mastery/exercise mission badge "topic:41UMP8yjk1WR-E2TlWcwzJ46HPenQDyqeSCieYO8"
+# Title of topic (x347111cf) on the hy stage
+# Title of topic (x7d02b2d1) on the lol stage
+# Title of topic (x80141162) on the pt stage
+# Title of topic (xbe9b4551) on the accents stage
+# Title of topic (xbe9b4551) on the bg stage
+# Title of topic (xbe9b4551) on the es stage
+# Title of topic (xbe9b4551) on the fr stage
+# Title of topic (xbe9b4551) on the ja stage
+# Title of topic (xbe9b4551) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Negative numbers"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-volume-surface-area">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-volume-surface-area</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x97138202) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-volume-surface-area">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-volume-surface-area</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Volume problems"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-volume-surface-area">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-volume-surface-area</a>
+# Description of topic (x97138202) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn to find volume of rings, triangular prisms, and rectangular prisms inside of other rectangular prisms."
+msgstr ""
+
+# Exercise is at (xfcc875ff) on the pt stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-scale-drawings/e/interpreting-scale-drawings">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-scale-drawings/e/interpreting-scale-drawings</a>
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/scale-drawings">https://www.khanacademy.org/tag/scale-drawings</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-scale-drawings">http://translate.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-scale-drawings</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-scale-drawings">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-scale-drawings</a>
+# Title of topic (x526cb7a1) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Scale drawings"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-fracs-to-decimals">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-fracs-to-decimals</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "This tutorial guides you through two very important skills: converting fractions to decimals and converting decimals to fractions."
+msgstr ""
+
+# Exercise is at (xa3033561b2eb386e) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/multistep-word-problems-tut/e/multistep-equations-without-variables">http://translate.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/multistep-word-problems-tut/e/multistep-equations-without-variables</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-word-problems/e/multistep-equations-without-variables">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-word-problems/e/multistep-equations-without-variables</a>
+# Pretty display name for exercise (x5315ceb6) on the pt stage
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-multistep-word-probs">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-multistep-word-probs</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-rational-numbers/in-in-7th-rational-nos-word-probs">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-rational-numbers/in-in-7th-rational-nos-word-probs</a>
+# Title of topic (xccee2cbe) on the ka stage
+# Title of topic (xccee2cbe) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Rational number word problems"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-multistep-word-probs">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-multistep-word-probs</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-rational-numbers/in-in-7th-rational-nos-word-probs">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-rational-numbers/in-in-7th-rational-nos-word-probs</a>
+# Description of topic (xccee2cbe) on the ka stage
+# Description of topic (xccee2cbe) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "You already have many tools in your mathematical toolkit: addition, subtraction, multiplication, and division of decimals and fractions, as well as your understanding of units of measure. Now we'll put them all to work in solving some multi-step word problems.  Common Core Standards: 7.EE.B.3"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-linear-eq-word-probs">http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-linear-eq-word-probs</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-linear-eq-word-probs">http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-linear-eq-word-probs</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-linear-eq-word-probs">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-linear-eq-word-probs</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-linear-eqn/in-in-8th-linear-eqn-linear-eq-word-probs">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-linear-eqn/in-in-8th-linear-eqn-linear-eq-word-probs</a>
+# Title of topic (x6acb93aa) on the lol stage
+# Title of topic (xdaf61500) on the pt stage
+# Title of topic (xdaf61500) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Two-step equation word problems"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-linear-eq-word-probs">http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-linear-eq-word-probs</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-linear-eq-word-probs">http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-linear-eq-word-probs</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-linear-eq-word-probs">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-linear-eq-word-probs</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-linear-eqn/in-in-8th-linear-eqn-linear-eq-word-probs">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-linear-eqn/in-in-8th-linear-eqn-linear-eq-word-probs</a>
+# Description of topic (x6acb93aa) on the lol stage
+# Description of topic (xdaf61500) on the pt stage
+# Description of topic (xdaf61500) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to set up and solve equations to find answers to real-world questions."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-scale-drawings">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-scale-drawings</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/new-topic-2016-12-08T07:07:56.390Z/ncert-seventh-scale-drawings">http://translate.khanacademy.org/math/in-eighth-grade-math/new-topic-2016-12-08T07:07:56.390Z/ncert-seventh-scale-drawings</a>
+# Description of topic (x526cb7a1) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "A map depicts objects much smaller than they are in real life. A map is a great example of a scale drawing. In this tutorial, we'll take a mathematical look at the nature of scale drawings."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-proportional-rel">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-proportional-rel</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-ratio-proportion/in-in-6th-ratio-proportion-proportional-rel">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-ratio-proportion/in-in-6th-ratio-proportion-proportional-rel</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-proportional-rel">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-proportional-rel</a>
+# Title of topic (xcb63254f) on the es stage
+# Title of topic (xcb63254f) on the pt stage
+# Title of topic (xda762ce8) on the ka stage
+# Title of topic (xda762ce8) on the pt stage
+# Title of topic (xda762ce8) on the pt-pt stage
+# Title of topic (xfc7447dffddbb39e) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Identifying proportional relationships"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-proportional-rel">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-proportional-rel</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-ratio-proportion/in-in-6th-ratio-proportion-proportional-rel">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-ratio-proportion/in-in-6th-ratio-proportion-proportional-rel</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-proportional-rel">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-proportional-rel</a>
+# Description of topic (xcb63254f) on the es stage
+# Description of topic (xcb63254f) on the pt stage
+# Description of topic (xda762ce8) on the ka stage
+# Description of topic (xda762ce8) on the pt stage
+# Description of topic (xda762ce8) on the pt-pt stage
+# Description of topic (xfc7447dffddbb39e) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to tell whether two quantities are proportional by thinking about equivalent ratios and drawing graphs."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-angle/vert-comp-supp-angles">http://translate.khanacademy.org/math/basic-geo/basic-geo-angle/vert-comp-supp-angles</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-angles">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-angles</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-angles/geometry-vert-comp-supp">http://translate.khanacademy.org/math/geometry-home/geometry-angles/geometry-vert-comp-supp</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-lines-angles/in-in-7th-lines-angles-vert-comp-supp-angles">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-lines-angles/in-in-7th-lines-angles-vert-comp-supp-angles</a>
+# Title of topic (xa303d3aa) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Vertical, complementary, and supplementary angles"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-angle/vert-comp-supp-angles">http://translate.khanacademy.org/math/basic-geo/basic-geo-angle/vert-comp-supp-angles</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-angles">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-angles</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-angles/geometry-vert-comp-supp">http://translate.khanacademy.org/math/geometry-home/geometry-angles/geometry-vert-comp-supp</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-lines-angles/in-in-7th-lines-angles-vert-comp-supp-angles">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-lines-angles/in-in-7th-lines-angles-vert-comp-supp-angles</a>
+# Description of topic (xa303d3aa) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn three types of angle pairs: vertical angles, complementary angles, and supplementary angles."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-add-sub-rational-numbers">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-add-sub-rational-numbers</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-rational-numbers/in-in-7th-rational-nos-add-sub">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-rational-numbers/in-in-7th-rational-nos-add-sub</a>
+# Description of topic (xc269aca7) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "We're going to mix it up a little in this set of examples. Remember that a rational number is a real number that can be written as a simple fraction, or by extension a decimal or percentage. We have to be able to add and subtract numbers when they are in different formats, whether fraction, decimal or percentage. This gets to be fun as we learn to move between these expressions of rational numbers, and start to understand they're all pointing to same thing!  Common Core Standards: 7.NS.A.1d"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-add-sub-rational-numbers">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-add-sub-rational-numbers</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "We're going to mix it up a little in this set of examples. Remember that a rational number is a real number that can be written as a simple fraction, or by extension a decimal or percentage. We have to be able to add and subtract numbers when they are in different formats, whether fraction, decimal or percentage. This gets to be fun as learn to move between these expressions of rational numbers, and start to understand they're all pointing to same thing!  Common Core Standards: 7.NS.A.1d"
+msgstr ""
+
+# Exercise is at (xfcc875ff) on the pt stage.
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-circumference-circle">http://translate.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-circumference-circle</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-circumference">http://translate.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-circumference</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-area-perimeter/circum-area-circles">http://translate.khanacademy.org/math/geometry-home/geometry-area-perimeter/circum-area-circles</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/basic-geometry/circum-area-circles">http://translate.khanacademy.org/math/geometry/basic-geometry/circum-area-circles</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-perimeter-area/in-in-7th-area-perimeter-circum-area-circles">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-perimeter-area/in-in-7th-area-perimeter-circum-area-circles</a>
+# Title of topic (x2dd90401) on the pt stage
+# Title of topic (x50da4386) on the pt stage
+# Title of topic (x50da4386) on the pt-pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Area and circumference of circles"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-circumference-circle">http://translate.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-circumference-circle</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-area-perimeter/circum-area-circles">http://translate.khanacademy.org/math/geometry-home/geometry-area-perimeter/circum-area-circles</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-perimeter-area/in-in-7th-area-perimeter-circum-area-circles">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-perimeter-area/in-in-7th-area-perimeter-circum-area-circles</a>
+# Description of topic (x2dd90401) on the pt stage
+# Description of topic (x50da4386) on the pt stage
+# Description of topic (x50da4386) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "A circle is at the foundation of geometry, and at the foundation of a circle is a special number called Pi. This number allows us to relate the radius, diameter, and circumference of a circle."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-population-sampling">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-population-sampling</a>
+# Title of topic (xe5dc584c) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Comparing and sampling populations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-population-sampling">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-population-sampling</a>
+# Description of topic (xe5dc584c) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "When we are trying to make a judgement about a population, it is often impractical (or impossible) to observe every member of the population.  Imagine trying to survey all 300+ million Americans to understand the likely outcome of the next presidential election!  Because of this, much of statistics is collecting data from a representative and random sample.  From the data collected from this random sample we can infer things about the greater population."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-one-step-inequalities">http://translate.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-one-step-inequalities</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-one-step-inequalities">http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-one-step-inequalities</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/one-variable-linear-inequalities/alg1-one-step-inequalities">http://translate.khanacademy.org/math/algebra/one-variable-linear-inequalities/alg1-one-step-inequalities</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-inequalities">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-inequalities</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-linear-inequalities/copy-of-alg-one-step-inequalities">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-linear-inequalities/copy-of-alg-one-step-inequalities</a>
+# Description of topic (x4906a73d) on the pt stage
+# Description of topic (xe21ae57c) on the lol stage
+# Description of topic (xfd144994) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to solve (mathematical) inequalities. A key concept in this tutorial is flipping the inequality sign when multiplying or dividing both sides by a negative number."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/alg-basics-algebraic-expressions/alg-basics-combining-like-terms">http://translate.khanacademy.org/math/algebra-basics/alg-basics-algebraic-expressions/alg-basics-combining-like-terms</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/alg-manipulating-expressions">http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/alg-manipulating-expressions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/introduction-to-algebra/alg1-manipulating-expressions">http://translate.khanacademy.org/math/algebra/introduction-to-algebra/alg1-manipulating-expressions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-manipulating-expressions">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-manipulating-expressions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-algebra/in-in-7th-algebra-combining-like-terms-2">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-algebra/in-in-7th-algebra-combining-like-terms-2</a>
+# Description of topic (xb9bbece4) on the pt stage
+# Description of topic (xf825c9e8) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to combine like terms (with negative numbers and variables), including more complex problems involving the distributive property."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-two-step-inequalities">http://translate.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-two-step-inequalities</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-two-step-inequalities">http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-two-step-inequalities</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/one-variable-linear-inequalities/alg1-two-step-inequalities">http://translate.khanacademy.org/math/algebra/one-variable-linear-inequalities/alg1-two-step-inequalities</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-two-step-inequalities">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-two-step-inequalities</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-linear-inequalities/copy-of-alg-two-step-inequalities">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-linear-inequalities/copy-of-alg-two-step-inequalities</a>
+# Description of topic (x0f212889) on the pt stage
+# Description of topic (x0f212889) on the pt-pt stage
+# Description of topic (xd34b5bf4) on the pt stage
+# Description of topic (xe12f6ed5) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to solve more complex (mathematical) inequalities. Also learn to construct inequalities to model real-world situations."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-two-steps-equations-intro">http://translate.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-two-steps-equations-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-two-steps-equations-intro">http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-two-steps-equations-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-two-steps-equations-intro">http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-two-steps-equations-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-2-step-equations-intro">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-2-step-equations-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-linear-eqn/in-in-8th-linear-eqn-intro">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-linear-eqn/in-in-8th-linear-eqn-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-2-step-equations-intro">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-2-step-equations-intro</a>
+# Description of topic (x4ccc1327) on the lol stage
+# Description of topic (x692018fa) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to solve equations like 2x+7=13 and 3(x+4)=3, which can be solved in two steps."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-write-and-solve-proportions">http://translate.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-write-and-solve-proportions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-write-and-solve-proportions">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-write-and-solve-proportions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-ratio-proportion/in-in-6th-ratio-proportion-write-and-solve-proportions">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-ratio-proportion/in-in-6th-ratio-proportion-write-and-solve-proportions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-write-and-solve-proportions">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-write-and-solve-proportions</a>
+# Title of topic (x16a18118) on the ka stage
+# Title of topic (x16a18118) on the pt stage
+# Title of topic (x16a18118) on the pt-pt stage
+# Title of topic (x1d7be2ef) on the pt stage
+# Title of topic (xa2d573f4) on the pt stage
+# Title of topic (xe2a9365a9bf6367a) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Writing & solving proportions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-write-and-solve-proportions">http://translate.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-write-and-solve-proportions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-write-and-solve-proportions">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-write-and-solve-proportions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-ratio-proportion/in-in-6th-ratio-proportion-write-and-solve-proportions">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-ratio-proportion/in-in-6th-ratio-proportion-write-and-solve-proportions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-write-and-solve-proportions">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-write-and-solve-proportions</a>
+# Description of topic (x16a18118) on the ka stage
+# Description of topic (x16a18118) on the pt stage
+# Description of topic (x16a18118) on the pt-pt stage
+# Description of topic (x1d7be2ef) on the pt stage
+# Description of topic (xa2d573f4) on the pt stage
+# Description of topic (xe2a9365a9bf6367a) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to write proportions and how to solve proportions."
+msgstr ""
+
+# Exercise is at (x1a9e149e) on the pt stage.
+# Exercise is at (x889b8542f456bc18) on the es stage.
+# Exercise is at (xdd83bda2f0821bd7) on the es stage.
+# Exercise is at (xed4209ab458034a2) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/pre-algebra/order-of-operations/order-of-operations-ddp/e/order_of_operations_2">http://translate.khanacademy.org/math/pre-algebra/order-of-operations/order-of-operations-ddp/e/order_of_operations_2</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-arith-prop/pre-algebra-order-of-operations/e/order_of_operations_2">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-arith-prop/pre-algebra-order-of-operations/e/order_of_operations_2</a>
+# Pretty display name for exercise (xd6d572a7) on the pt stage
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/order-of-operations">https://www.khanacademy.org/tag/order-of-operations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-order-of-operations">http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-order-of-operations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/algebra-foundations-order-of-operations">http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/algebra-foundations-order-of-operations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-order-of-operations">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-order-of-operations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-order-of-operations">http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-order-of-operations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/order-of-operations/order-of-operations-ddp">http://translate.khanacademy.org/math/pre-algebra/order-of-operations/order-of-operations-ddp</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-arith-prop/pre-algebra-order-of-operations">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-arith-prop/pre-algebra-order-of-operations</a>
+# Title of topic (x1f8ecc11) on the ka stage
+# Title of topic (x1f8ecc11) on the pt stage
+# Title of topic (x1f8ecc11) on the pt-pt stage
+# Title of topic (xc2dc2082) on the pt stage
+# Title of topic (xfb09c205) on the accents stage
+# Title of topic (xfb09c205) on the bg stage
+# Title of topic (xfb09c205) on the es stage
+# Title of topic (xfb09c205) on the fr stage
+# Title of topic (xfb09c205) on the ja stage
+# Title of topic (xfb09c205) on the pt-pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Order of operations"
+msgstr ""
+
+# Exercise is at (xbec3b8a73c1c9c36) on the es stage.
+# Exercise is at (xe1d7504b07e5b291) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/algebra/introduction-to-algebra/alg1-interpreting-lin-exp/e/interpreting-expressions">http://translate.khanacademy.org/math/algebra/introduction-to-algebra/alg1-interpreting-lin-exp/e/interpreting-expressions</a>
+# Pretty display name for exercise (x348258ef) on the pt stage
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/alg-interpreting-lin-exp">http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/alg-interpreting-lin-exp</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/introduction-to-algebra/alg1-interpreting-lin-exp">http://translate.khanacademy.org/math/algebra/introduction-to-algebra/alg1-interpreting-lin-exp</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-interpreting-lin-exp">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-interpreting-lin-exp</a>
+# Title of topic (x1a58ba43) on the pt stage
+# Title of topic (x1a58ba43) on the pt-pt stage
+# Title of topic (x693d0522) on the lol stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Interpreting linear expressions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/alg-interpreting-lin-exp">http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/alg-interpreting-lin-exp</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/introduction-to-algebra/alg1-interpreting-lin-exp">http://translate.khanacademy.org/math/algebra/introduction-to-algebra/alg1-interpreting-lin-exp</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-interpreting-lin-exp">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-interpreting-lin-exp</a>
+# Description of topic (x1a58ba43) on the pt stage
+# Description of topic (x1a58ba43) on the pt-pt stage
+# Description of topic (x693d0522) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Any expression (mathematical or otherwise) has meaning. Help us match the linear expression to the meaning options given. In some cases, more than one meaning may apply."
+msgstr ""
+
+# Exercise is at (x2da9c0fc5eb90581) on the es stage.
+# Exercise is at (xbec3b8a73c1c9c36) on the es stage.
+# Exercise is at (xfcbb56ba6080dc06) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-two-steps-equations-intro/e/linear_equations_2">http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-two-steps-equations-intro/e/linear_equations_2</a>
+# Pretty display name for exercise (3016) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Two-step equations"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/arithmetic-home/multiply-divide/multistep-word-problems">http://translate.khanacademy.org/math/arithmetic-home/multiply-divide/multistep-word-problems</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-multistep-word-problems">http://translate.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-multistep-word-problems</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/cc-third-grade-math/cc-3rd-mult-div-topic/cc-3rd-two-step-word-problemsa">http://translate.khanacademy.org/math/cc-third-grade-math/cc-3rd-mult-div-topic/cc-3rd-two-step-word-problemsa</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x3ba603bd) on the bg stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x3ba603bd) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x40f19e82) on the hy stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x40f19e82) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x6c207015) on the lol stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/multistep-word-problems-tut">http://translate.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/multistep-word-problems-tut</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Multi-step word problems"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/add-and-sub-integers">http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/add-and-sub-integers</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-add-and-sub-integersss">http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-add-and-sub-integersss</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-add-and-sub-integersss">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-add-and-sub-integersss</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x88d01fb2) on the hy stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x88d01fb2) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x934eab61) on the hy stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x934eab61) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa4ba3f2c) on the lol stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-and-sub-integers">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-and-sub-integers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-add-and-sub-integers">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-add-and-sub-integers</a>
+# Title of topic (x96f78c9bb2e9fb89) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Adding & subtracting integers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/add-and-sub-integers">http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/add-and-sub-integers</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-add-and-sub-integersss">http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-add-and-sub-integersss</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-and-sub-integers">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-and-sub-integers</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-add-and-sub-integers">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-add-and-sub-integers</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-add-and-sub-integersss">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-add-and-sub-integersss</a>
+# Description of topic (x88d01fb2) on the hy stage
+# Description of topic (x88d01fb2) on the pt stage
+# Description of topic (x934eab61) on the hy stage
+# Description of topic (x934eab61) on the pt stage
+# Description of topic (x96f78c9bb2e9fb89) on the lol stage
+# Description of topic (xa4ba3f2c) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Add and subtract negative numbers using a number line. It's the 7th grade mathematics shuffle: \"Slide to the left for a negative value, and slide to the right for a positive value.\" Be careful, though. Which way do you move if you are subtracting a negative number? The answer awaits!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/add-negatives-intro">http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/add-negatives-intro</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-add-negatives-intro">http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-add-negatives-intro</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-negatives">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-negatives</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-add-negatives-intros">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-add-negatives-intros</a>
+# Title of topic (x07787df9) on the hy stage
+# Title of topic (x07787df9) on the pt stage
+# Title of topic (x07787df9) on the pt-pt stage
+# Title of topic (x1ad849d3) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Intro to adding negative numbers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/add-negatives-intro">http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/add-negatives-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-add-negatives-intro">http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-add-negatives-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-negatives">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-negatives</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-add-negatives-intro">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-add-negatives-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-add-negatives-intros">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-add-negatives-intros</a>
+# Description of topic (x07787df9) on the hy stage
+# Description of topic (x07787df9) on the pt stage
+# Description of topic (x07787df9) on the pt-pt stage
+# Description of topic (x1ad849d3) on the lol stage
+# Description of topic (xc47f7db05e7997c4) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to add negative numbers. By the end of this tutorial, you'll be solving problems like 4 + (-7) with ease!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/add-sub-neg-number-line">http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/add-sub-neg-number-line</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-neg-number-line">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-neg-number-line</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-add-sub-neg-number-line">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-add-sub-neg-number-line</a>
+# Title of topic (x66b1ed6b) on the hy stage
+# Title of topic (x66b1ed6b) on the pt stage
+# Title of topic (x960ef006) on the lol stage
+# Title of topic (xa33c51c3f0d86523) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Adding & subtracting with negatives on the number line"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/add-sub-neg-number-line">http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/add-sub-neg-number-line</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-neg-number-line">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-neg-number-line</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-add-sub-neg-number-line">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-add-sub-neg-number-line</a>
+# Description of topic (x66b1ed6b) on the hy stage
+# Description of topic (x66b1ed6b) on the pt stage
+# Description of topic (x960ef006) on the lol stage
+# Description of topic (xa33c51c3f0d86523) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to use number lines to solve negative number addition and subtraction problems."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/mult-divide-negatives">http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/mult-divide-negatives</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-mult-divide-negatives">http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-mult-divide-negatives</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-integers/in-in-7th-integers-mult-divide-integers">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-integers/in-in-7th-integers-mult-divide-integers</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-mult-divide-negatives">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-mult-divide-negatives</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8c0d06eb) on the hy stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8c0d06eb) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xbc4fc6ad) on the lol stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xfbca2a08) on the hy stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xfbca2a08) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-negatives">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-negatives</a>
+# Title of topic (x39ac5db8) on the hy stage
+# Title of topic (x39ac5db8) on the ka stage
+# Title of topic (x39ac5db8) on the pt stage
+# Title of topic (x39ac5db8) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiply & divide negative numbers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/mult-divide-negatives">http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/mult-divide-negatives</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-mult-divide-negatives">http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-mult-divide-negatives</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-negatives">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-negatives</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-integers/in-in-7th-integers-mult-divide-integers">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-integers/in-in-7th-integers-mult-divide-integers</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-mult-divide-negatives">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-mult-divide-negatives</a>
+# Description of topic (x39ac5db8) on the hy stage
+# Description of topic (x39ac5db8) on the ka stage
+# Description of topic (x39ac5db8) on the pt stage
+# Description of topic (x39ac5db8) on the pt-pt stage
+# Description of topic (x8c0d06eb) on the hy stage
+# Description of topic (x8c0d06eb) on the pt stage
+# Description of topic (xbc4fc6ad) on the lol stage
+# Description of topic (xfbca2a08) on the hy stage
+# Description of topic (xfbca2a08) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "You already know how to multiply and divide whole numbers, decimals, and fractions. See what happens when we throw negative numbers into the mix. It's really not so different!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/sub-neg-intro">http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/sub-neg-intro</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-sub-neg-intro">http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-sub-neg-intro</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-sub-neg-intro">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-sub-neg-intro</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-sub-neg-intro">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-sub-neg-intro</a>
+# Title of topic (x7886a045) on the hy stage
+# Title of topic (x7886a045) on the pt stage
+# Title of topic (xadb636ca) on the hy stage
+# Title of topic (xadb636ca) on the pt stage
+# Title of topic (xd575cd35) on the hy stage
+# Title of topic (xd575cd35) on the pt stage
+# Title of topic (xd575cd35) on the pt-pt stage
+# Title of topic (xdc6e6e30) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Intro to subtracting negative numbers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/sub-neg-intro">http://translate.khanacademy.org/math/arithmetic-home/negative-numbers/sub-neg-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-sub-neg-intro">http://translate.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-sub-neg-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-sub-neg-intro">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-sub-neg-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-sub-neg-intro">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-sub-neg-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-sub-neg-intro">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-sub-neg-intro</a>
+# Description of topic (x6b6f56437e640457) on the lol stage
+# Description of topic (x7886a045) on the hy stage
+# Description of topic (x7886a045) on the pt stage
+# Description of topic (xadb636ca) on the hy stage
+# Description of topic (xadb636ca) on the pt stage
+# Description of topic (xd575cd35) on the hy stage
+# Description of topic (xd575cd35) on the pt stage
+# Description of topic (xd575cd35) on the pt-pt stage
+# Description of topic (xdc6e6e30) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn why subtracting a negative number is the same as adding its opposite!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-angles/basic-geo-angle-relationships">http://translate.khanacademy.org/math/basic-geo/basic-geo-angles/basic-geo-angle-relationships</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's complement and supplement our knowledge of angles with some new geometry vocabulary. In this group of tutorials you'll learn about complementary, supplementary, vertical, adjacent, and straight angles. You'll quickly realize that the relationship bewten each of the angle types is quite logical and solving problems involving intersecting lines is a snap. Onward!  Common Core Standards: 7.G.B.5"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-circumference">http://translate.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-circumference</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"You already know about area and perimeter of lots of shapes. Now we'll round out those concepts by applying them to circles. Mathematicians call the distance around a circle its circumference and the space inside a circle its area.\n"
+" \n"
+"In this tutorial, we'll learn that there's another type of pi in the math world, and it's even more awesome than apple pie. We'll use pi to find the circumference and area of any circle in the world, no matter how big or how small!\n"
+"\n"
+"Common Core Standards: 7.G.B.4"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-scale-drawings">http://translate.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-scale-drawings</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Now that you understand lines, you can put lines together to create drawings. A scale drawing depicts an actual object that has been reduced (or enlarged) by a certain amount. The \"scale\" shows the relationship between those two sizes. After this set of tutorials, you can draw your bedroom \"to scale\" and practice rearranging your furniture!"
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/basic-geo/basic-geo-lines/basic-geo-measuring-segments/e/measuring_segments</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-lines/basic-geo-measuring-segments">http://translate.khanacademy.org/math/basic-geo/basic-geo-lines/basic-geo-measuring-segments</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments</a>
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Measuring segments"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-lines/basic-geo-measuring-segments">http://translate.khanacademy.org/math/basic-geo/basic-geo-lines/basic-geo-measuring-segments</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments</a>
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Using a number line, let's learn how we measure segments."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-percent-word-problems">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-percent-word-problems</a>
+# Description of topic (xef7eb0b5) on the ka stage
+# Description of topic (xef7eb0b5) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "At least 50% of the math that you end up doing in your real life will involve percentages.  We're not really sure about that figure, but it sounds authoritative.  Anyway, unless you've watched this tutorial, you're really in no position to argue otherwise.   Common Core Standards: 7.EE.B.3"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circ-challenge">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circ-challenge</a>
+# Title of topic (xdad2494e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Area and circumference challenge problems"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circ-challenge">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circ-challenge</a>
+# Description of topic (xdad2494e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Problems that stretch your understanding of area and circumference of circles"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-constructing-geometric-shapes">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-constructing-geometric-shapes</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's practice making triangles and start thinking about when it's possible or impossible to make a triangle."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-slicing-geometric-shapes">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-slicing-geometric-shapes</a>
+# Title of topic (xf4e038e5) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Slicing geometric shapes"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-slicing-geometric-shapes">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-slicing-geometric-shapes</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-visualising-solid-shapes/in-in-7th-solid-shapes-slicing-geometric-shapes">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-visualising-solid-shapes/in-in-7th-solid-shapes-slicing-geometric-shapes</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-seventh-grade-math/visualizing-solid-shapes/ncert-seventh-slicing-geometric-shapes">http://translate.khanacademy.org/math/in-seventh-grade-math/visualizing-solid-shapes/ncert-seventh-slicing-geometric-shapes</a>
+# Description of topic (xf4e038e5) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "When we slice (cut through) a 3D shape, we make a 2D shape called a cross section. In this tutorial, we think about the different cross sections we can make by slicing 3D shapes."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra</a>
+# Title of topic (x3d03a4a4) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Missing angle problems"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x3d03a4a4) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Unknown angle algebra problems"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra</a>
+# Description of topic (x3d03a4a4) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Practice finding missing angles in figures using your knowledge of vertical, supplementary, and complementary angles."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-absolute-value">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-absolute-value</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Find the distance between any two numbers using absolute value."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-neg-fractions">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-neg-fractions</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to add and subtract fractions, even when they're negative."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-negative-numbers-with-variables">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-negative-numbers-with-variables</a>
+# Title of topic (xe5c635d1) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Adding & subtracting negative numbers: variables"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-negative-numbers-with-variables">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-negative-numbers-with-variables</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe5c635d1) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Adding & subtracting negative numbers with variables"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-negative-numbers-with-variables">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-negative-numbers-with-variables</a>
+# Description of topic (xe5c635d1) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Feeling positive about all of this negative number stuff? Challenge yourself to solve some more advanced problems, including expressions with variables."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-word-problems-w-negatives">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-word-problems-w-negatives</a>
+# Title of topic (x28e76913) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Addition & subtraction word problems with negatives"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-word-problems-w-negatives">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-word-problems-w-negatives</a>
+# Description of topic (x28e76913) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "See how adding and subtracting negative numbers can be used in different situations."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-properties-of-addition-and-subtraction">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-properties-of-addition-and-subtraction</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Properties of addition & subtraction"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-properties-of-addition-and-subtraction">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-properties-of-addition-and-subtraction</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Apply the properties of addition and subtraction to negative numbers."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract</a>
+# Title of topic (x7ef05b40) on the hy stage
+# Title of topic (x7ef05b40) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Negative numbers: addition and subtraction"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract</a>
+# Description of topic (x7ef05b40) on the hy stage
+# Description of topic (x7ef05b40) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Add and subtract negative numbers, and see how absolute value can be used to find the distance between any two numbers on the number line."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-exponents-negative-base">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-exponents-negative-base</a>
+# Title of video <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-exponents-negative-base/v/exponents-with-negative-bases">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-exponents-negative-base/v/exponents-with-negative-bases</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Exponents with negative bases"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-exponents-negative-base">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-exponents-negative-base</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Evaluate exponential expressions with negative bases, use odd and even rules to determine the sign of an exponential expression, and learn about powers of 1 and 0."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-fractions-2">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-fractions-2</a>
+# Title of topic (x68278270) on the ka stage
+# Title of topic (x68278270) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Understanding multiplying and dividing fractions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-fractions-2">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-fractions-2</a>
+# Description of topic (x68278270) on the ka stage
+# Description of topic (x68278270) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solve more complex multiplication and division problems involving negative fractions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-fractions">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-fractions</a>
+# Title of topic (x2325b642) on the ka stage
+# Title of topic (x2325b642) on the pt stage
+# Title of topic (x2325b642) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiply & divide negative fractions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-fractions">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-fractions</a>
+# Description of topic (x2325b642) on the ka stage
+# Description of topic (x2325b642) on the pt stage
+# Description of topic (x2325b642) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "We've already multiplied and divided fractions, and we've also multiplied and divided negative numbers. Now we combine those skills."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-word-problems">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-word-problems</a>
+# Title of topic (x5f51ee52) on the ka stage
+# Title of topic (x5f51ee52) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiplication & division word problems with negatives"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-word-problems">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-word-problems</a>
+# Description of topic (x5f51ee52) on the ka stage
+# Description of topic (x5f51ee52) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Explore the meaning of negative numbers in different situations."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-order-of-operations">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-order-of-operations</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "In this tutorial, we'll start by learning why we need order of operations and build all the way up to evaluating challenging order of operations expressions involving negative numbers."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-properties-of-mult-div">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-properties-of-mult-div</a>
+# Title of topic (x68761e64) on the ka stage
+# Title of topic (x68761e64) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Properties of multiplication & division"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-properties-of-mult-div">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-properties-of-mult-div</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x68761e64) on the ka stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x68761e64) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Properties of multiplication and division"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-properties-of-mult-div">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-properties-of-mult-div</a>
+# Description of topic (x68761e64) on the ka stage
+# Description of topic (x68761e64) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "See how the properties of multiplication & division apply to negative numbers."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-undefined-quotients">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-undefined-quotients</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x6b57bc6d) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Undefined quotients"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-undefined-quotients">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-undefined-quotients</a>
+# Description of topic (x6b57bc6d) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's learn why dividing by zero is \"undefined.\""
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide</a>
+# Title of topic (x4ddd8846) on the hy stage
+# Title of topic (x4ddd8846) on the ka stage
+# Title of topic (x4ddd8846) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Negative numbers: multiplication and division"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide</a>
+# Description of topic (x4ddd8846) on the hy stage
+# Description of topic (x4ddd8846) on the ka stage
+# Description of topic (x4ddd8846) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn to multiply and divide negative numbers. Once you've got the basics down, we'll revisit fractions, exponents, and order of operations but this time with negatives!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn to multiply and divide negative numbers. Once you've got the basics down, we'll revisit fractions, exponents, and order or operations but this time with negatives!"
+msgstr ""
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/compound-events-and-sample-spaces">https://www.khanacademy.org/tag/compound-events-and-sample-spaces</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-compound-events">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-compound-events</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Compound events and sample spaces"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-compound-events">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-compound-events</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about sample spaces and probability for compound events.  Learn the counting principle.  "
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-theoretical-and-experimental-probability">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-theoretical-and-experimental-probability</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x4b55a424) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Theoretical and experimental probability"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-theoretical-and-experimental-probability">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-theoretical-and-experimental-probability</a>
+# Description of topic (x4b55a424) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "In many situations, we don't know exact probabilities, so we estimate probability based on history of events."
+msgstr ""
+
+# Exercise is at (x2e9f749c) on the pt stage.
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/equations-of-proportional-relationships">https://www.khanacademy.org/tag/equations-of-proportional-relationships</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-equations-of-proportional-relationships">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-equations-of-proportional-relationships</a>
+# Title of topic (xf5f4a033) on the ka stage
+# Title of topic (xf5f4a033) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Equations of proportional relationships"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-equations-of-proportional-relationships">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-equations-of-proportional-relationships</a>
+# Description of topic (xf5f4a033) on the ka stage
+# Description of topic (xf5f4a033) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to write equations of proportional relationships in the form y=kx."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-graphs-proportions">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-graphs-proportions</a>
+# Title of topic (x108933d7) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphs of proportional relationships"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-graphs-proportions">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-graphs-proportions</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to graph proportional relationships."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-graphs-proportions">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-graphs-proportions</a>
+# Description of topic (x108933d7) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Interpret graphs of proportional relationships."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-rates">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-rates</a>
+# Title of topic (x8336dc79) on the ka stage
+# Title of topic (x8336dc79) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Rate problems with fractions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-rates">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-rates</a>
+# Description of topic (x8336dc79) on the ka stage
+# Description of topic (x8336dc79) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to compute rates associated with ratios of fractions or decimals. For example, if you run 6.5 meters in 1.5 seconds, what is your speed in meters per second?"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/constant-of-proportionality">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/constant-of-proportionality</a>
+# Title of topic (x6d298616288162d0) on the ka stage
+# Title of topic (x6d298616288162d0) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Constant of proportionality "
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/constant-of-proportionality">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/constant-of-proportionality</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x6d298616288162d0) on the ka stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x6d298616288162d0) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Constant of proportionality"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/constant-of-proportionality">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/constant-of-proportionality</a>
+# Description of topic (x6d298616288162d0) on the ka stage
+# Description of topic (x6d298616288162d0) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Identify the constant of proportionality (unit rate) in tables, graphs, equations, diagrams, and verbal descriptions of proportional relationships."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-2-step-equations-intro">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-2-step-equations-intro</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-2-step-equations-intro">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-2-step-equations-intro</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Two-step equations intro"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-factoring">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-factoring</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The distributive property & equivalent expressions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-factoring">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-factoring</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to factor and expand algebraic expressions (expressions with variables) by applying the distributive property."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-8th-two-step-equations-dec-frac">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-8th-two-step-equations-dec-frac</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Get some practice solving two-step equations that involve decimals and fractions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/descriptive-statistics/central-tendency">http://translate.khanacademy.org/math/probability/descriptive-statistics/central-tendency</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Measures of central tendency"
+msgstr ""
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/adding-and-subtracting-rational-numbers">https://www.khanacademy.org/tag/adding-and-subtracting-rational-numbers</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Adding and subtracting rational numbers"
+msgstr ""

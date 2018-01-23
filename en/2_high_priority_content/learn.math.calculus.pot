@@ -1,0 +1,1932 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2017-12-01 14:41+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x9299beb7) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x9299beb7) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-sequences">http://translate.khanacademy.org/math/algebra-home/alg-sequences</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/sequences">http://translate.khanacademy.org/math/algebra/sequences</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/in-in-sequences-and-series-sequences">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/in-in-sequences-and-series-sequences</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/calculus-sequences">http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/calculus-sequences</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-sequences">http://translate.khanacademy.org/math/math1/math1-sequences</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/series-calc/sequences-calc">http://translate.khanacademy.org/math/new-calculus/series-calc/sequences-calc</a>
+# Title of topic (x3f292851) on the lol stage
+# Title of topic (xd661ec71) on the bg stage
+# Title of topic (xd661ec71) on the hy stage
+# Title of topic (xd661ec71) on the pt stage
+# Title of topic (xd661ec71) on the pt-pt stage
+# Title of topic (xe62bd906) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Sequences"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc">http://translate.khanacademy.org/math/calculus-home/series-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/calculus-series">http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/calculus-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-series">http://translate.khanacademy.org/math/math3/math3-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/series-calc">http://translate.khanacademy.org/math/new-calculus/series-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/series-calc/series-calculus">http://translate.khanacademy.org/math/new-calculus/series-calc/series-calculus</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction">http://translate.khanacademy.org/math/precalculus/seq-induction</a>
+# Title of topic (x201344f75c07d4ee) on the hy stage
+# Title of topic (x201344f75c07d4ee) on the pt stage
+# Title of topic (x3ed1e1c3) on the bg stage
+# Title of topic (x3ed1e1c3) on the pt stage
+# Title of topic (x900214e4) on the es stage
+# Title of topic (x900214e4) on the pt stage
+# Title of topic (xe5c48098) on the hy stage
+# Title of topic (xef1dc391) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Series"
+msgstr ""
+
+# Exercise is at (x6b20b5d72cbec501) on the es stage.
+# Exercise is at (xeca5bc7ef9d2be3e) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-fundamental-theorem-of-calc/e/the-fundamental-theorem-of-calculus">http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-fundamental-theorem-of-calc/e/the-fundamental-theorem-of-calculus</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-ab/fundamental-theorem-of-calculus-ab/fundamental-theorem-of-calculus-tut-ab/e/the-fundamental-theorem-of-calculus">http://translate.khanacademy.org/math/ap-calculus-ab/fundamental-theorem-of-calculus-ab/fundamental-theorem-of-calculus-tut-ab/e/the-fundamental-theorem-of-calculus</a>
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/fundamental-theorem-of-calculus">https://www.khanacademy.org/tag/fundamental-theorem-of-calculus</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-fundamental-theorem-of-calc">http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-fundamental-theorem-of-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/fundamental-theorem-of-calculus-ab">http://translate.khanacademy.org/math/ap-calculus-ab/fundamental-theorem-of-calculus-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/fundamental-theorem-of-calculus-ab/fundamental-theorem-of-calculus-tut-ab">http://translate.khanacademy.org/math/ap-calculus-ab/fundamental-theorem-of-calculus-ab/fundamental-theorem-of-calculus-tut-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-fundamental-theorem-of-calc">http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-fundamental-theorem-of-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/fundamental-theorem-of-calculus-bc">http://translate.khanacademy.org/math/ap-calculus-bc/fundamental-theorem-of-calculus-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/fundamental-theorem-of-calculus-bc/fundamental-theorem-of-calculus-tut-bc">http://translate.khanacademy.org/math/ap-calculus-bc/fundamental-theorem-of-calculus-bc/fundamental-theorem-of-calculus-tut-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/integration-calc/fundamental-theorem-of-calculus-calc">http://translate.khanacademy.org/math/calculus-home/integration-calc/fundamental-theorem-of-calculus-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-definite-integrals/copy-of-fundamental-theorem-of-calculus-tut-bc">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-definite-integrals/copy-of-fundamental-theorem-of-calculus-tut-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/fundamental-theorem-of-calculus-ic">http://translate.khanacademy.org/math/integral-calculus/fundamental-theorem-of-calculus-ic</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/fundamental-theorem-of-calculus-ic/fundamental-theorem-of-calculus-tut-ic">http://translate.khanacademy.org/math/integral-calculus/fundamental-theorem-of-calculus-ic/fundamental-theorem-of-calculus-tut-ic</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/indefinite-definite-integrals/fundamental-theorem-of-calculus">http://translate.khanacademy.org/math/integral-calculus/indefinite-definite-integrals/fundamental-theorem-of-calculus</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/integration-calc/fundamental-theorem-of-calculus-calc">http://translate.khanacademy.org/math/new-calculus/integration-calc/fundamental-theorem-of-calculus-calc</a>
+# Title of topic (x06e84614) on the hy stage
+# Title of topic (x1db36300) on the accents stage
+# Title of topic (x1db36300) on the es stage
+# Title of topic (x1db36300) on the fr stage
+# Title of topic (x1db36300) on the ja stage
+# Title of topic (x2517a3b965ca6ac0) on the pt stage
+# Title of topic (x6fdcea85) on the pt stage
+# Title of topic (x793037d5) on the accents stage
+# Title of topic (x793037d5) on the es stage
+# Title of topic (x793037d5) on the fr stage
+# Title of topic (x793037d5) on the ja stage
+# Title of topic (x994d0225e01583e6) on the pt stage
+# Title of topic (xa7b1fbc9) on the accents stage
+# Title of topic (xa7b1fbc9) on the es stage
+# Title of topic (xa7b1fbc9) on the fr stage
+# Title of topic (xa7b1fbc9) on the ja stage
+# Title of topic (xc87e4d40) on the accents stage
+# Title of topic (xc87e4d40) on the es stage
+# Title of topic (xc87e4d40) on the fr stage
+# Title of topic (xc87e4d40) on the ja stage
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-fundamental-theorem-of-calc/v/fundamental-theorem-of-calculus">http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-fundamental-theorem-of-calc/v/fundamental-theorem-of-calculus</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/fundamental-theorem-of-calculus-ab/fundamental-theorem-of-calculus-tut-ab/v/fundamental-theorem-of-calculus">http://translate.khanacademy.org/math/ap-calculus-ab/fundamental-theorem-of-calculus-ab/fundamental-theorem-of-calculus-tut-ab/v/fundamental-theorem-of-calculus</a>
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Fundamental theorem of calculus"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/integration-techniques-ab/u-substitution-ab">http://translate.khanacademy.org/math/ap-calculus-ab/integration-techniques-ab/u-substitution-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/integration-techniques-bc/u-substitution-bc">http://translate.khanacademy.org/math/ap-calculus-bc/integration-techniques-bc/u-substitution-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/integration-techniques-calc/u-substitution-calc">http://translate.khanacademy.org/math/calculus-home/integration-techniques-calc/u-substitution-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-integrals/copy-of-u-substitution-ic">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-integrals/copy-of-u-substitution-ic</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/integration-techniques/u-substitution">http://translate.khanacademy.org/math/integral-calculus/integration-techniques/u-substitution</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/integration-techniques/u-substitution-ic">http://translate.khanacademy.org/math/integral-calculus/integration-techniques/u-substitution-ic</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/integration-techniques-calc/u-substitution-calc">http://translate.khanacademy.org/math/new-calculus/integration-techniques-calc/u-substitution-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-11th-physics-integration-for-physics/in-in-phy-u-substitution-calc">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-11th-physics-integration-for-physics/in-in-phy-u-substitution-calc</a>
+# Title of topic (x01b3e8f4) on the pt stage
+# Title of topic (x6de4704f) on the accents stage
+# Title of topic (x6de4704f) on the es stage
+# Title of topic (x6de4704f) on the fr stage
+# Title of topic (x6de4704f) on the ja stage
+# Title of topic (x8bd24111) on the accents stage
+# Title of topic (x8bd24111) on the es stage
+# Title of topic (x8bd24111) on the fr stage
+# Title of topic (x8bd24111) on the ja stage
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-u-substitution/v/u-substitution">http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-u-substitution/v/u-substitution</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/integration-techniques-ab/u-substitution-ab/v/u-substitution">http://translate.khanacademy.org/math/ap-calculus-ab/integration-techniques-ab/u-substitution-ab/v/u-substitution</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "u-substitution"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/taking-derivatives-skill-checks/e/skill-check--computing-derivatives">http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/taking-derivatives-skill-checks/e/skill-check--computing-derivatives</a>.
+# Exercise is at <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/taking-derivatives-skill-checks/e/skill-check--computing-derivatives">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/taking-derivatives-skill-checks/e/skill-check--computing-derivatives</a>.
+# Exercise is at (x2a64656420342b28) on the es stage.
+# Exercise is at (xc6fd3eab) on the pt stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-ab/product-quotient-chain-rules-ab/chain-rule-ab/e/chain_rule_1">http://translate.khanacademy.org/math/ap-calculus-ab/product-quotient-chain-rules-ab/chain-rule-ab/e/chain_rule_1</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-chain-rule">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-chain-rule</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/product-quotient-chain-rules-ab/chain-rule-ab">http://translate.khanacademy.org/math/ap-calculus-ab/product-quotient-chain-rules-ab/chain-rule-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivative-rules/bc-chain-rule">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivative-rules/bc-chain-rule</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/product-quotient-chain-rules-bc/chain-rule-bc">http://translate.khanacademy.org/math/ap-calculus-bc/product-quotient-chain-rules-bc/chain-rule-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc">http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/product-quotient-chain-rules-dc/chain-rule-dc">http://translate.khanacademy.org/math/differential-calculus/product-quotient-chain-rules-dc/chain-rule-dc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/chain-rule">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/chain-rule</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-continuity-differentiability/copy-of-chain-rule-ab">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-continuity-differentiability/copy-of-chain-rule-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/chain-rule-calc">http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/chain-rule-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-11th-physics-differentiation/in-in-11th-physics-chain-rule-calc">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-11th-physics-differentiation/in-in-11th-physics-chain-rule-calc</a>
+# Title of topic (x30fdfcc26b670ba2) on the pt stage
+# Title of topic (x8f212541) on the accents stage
+# Title of topic (x8f212541) on the es stage
+# Title of topic (x8f212541) on the fr stage
+# Title of topic (x8f212541) on the ja stage
+# Title of topic (x9333c9d1ea59ac08) on the pt stage
+# Title of topic (xe89bf2f7) on the accents stage
+# Title of topic (xe89bf2f7) on the es stage
+# Title of topic (xe89bf2f7) on the fr stage
+# Title of topic (xe89bf2f7) on the ja stage
+# Title of topic (xf19293ea) on the es stage
+# Title of topic (xf19293ea) on the pt stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-chain-rule/a/chain-rule-review">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-chain-rule/a/chain-rule-review</a>
+# Title of tutorial article (xf7f754e3) on the pt stage
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-chain-rule/v/chain-rule-introduction">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-chain-rule/v/chain-rule-introduction</a>
+# Title of video (1332165556) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Chain rule"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/taking-derivatives-skill-checks/e/skill-check--computing-derivatives">http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/taking-derivatives-skill-checks/e/skill-check--computing-derivatives</a>.
+# Exercise is at <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/taking-derivatives-skill-checks/e/skill-check--computing-derivatives">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/taking-derivatives-skill-checks/e/skill-check--computing-derivatives</a>.
+# Exercise is at (xc6fd3eab) on the pt stage.
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-power-rule">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-power-rule</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/basic-differentiation-ab/power-rule-ab">http://translate.khanacademy.org/math/ap-calculus-ab/basic-differentiation-ab/power-rule-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/basic-differentiation-bc/power-rule-bc">http://translate.khanacademy.org/math/ap-calculus-bc/basic-differentiation-bc/power-rule-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivative-rules/bc-power-rule">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivative-rules/bc-power-rule</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/power-rule-calc">http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/power-rule-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/basic-differentiation-dc/power-rule-dc">http://translate.khanacademy.org/math/differential-calculus/basic-differentiation-dc/power-rule-dc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/power-rule-tutorial">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/power-rule-tutorial</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-differentiation/copy-of-power-rule-ab">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-differentiation/copy-of-power-rule-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/power-rule-calc">http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/power-rule-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-11th-physics-differentiation/in-in-power-rule-calc">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-11th-physics-differentiation/in-in-power-rule-calc</a>
+# Title of topic (x0beb3ebe) on the accents stage
+# Title of topic (x0beb3ebe) on the es stage
+# Title of topic (x0beb3ebe) on the fr stage
+# Title of topic (x0beb3ebe) on the ja stage
+# Title of topic (x1bb1db7b) on the accents stage
+# Title of topic (x1bb1db7b) on the es stage
+# Title of topic (x1bb1db7b) on the fr stage
+# Title of topic (x1bb1db7b) on the ja stage
+# Title of topic (x3d3a8ed49a82e966) on the pt stage
+# Title of topic (x496da97eac5461dd) on the pt stage
+# Title of topic (x6b0d5c6d) on the es stage
+# Title of topic (x6b0d5c6d) on the pt stage
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-power-rule/v/power-rule">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-power-rule/v/power-rule</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/basic-differentiation-ab/power-rule-ab/v/power-rule">http://translate.khanacademy.org/math/ap-calculus-ab/basic-differentiation-ab/power-rule-ab/v/power-rule</a>
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Power rule"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/taking-derivatives-skill-checks/e/skill-check--computing-derivatives--part-2">http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/taking-derivatives-skill-checks/e/skill-check--computing-derivatives--part-2</a>.
+# Exercise is at <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/taking-derivatives-skill-checks/e/skill-check--computing-derivatives--part-2">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/taking-derivatives-skill-checks/e/skill-check--computing-derivatives--part-2</a>.
+# Exercise is at (x3d990d8cbbed6824) on the es stage.
+# Exercise is at (x9bf50be07d4c842d) on the es stage.
+# Exercise is at (xf41e8720) on the pt stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-implicit-diff/e/implicit-differentiation">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-implicit-diff/e/implicit-differentiation</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/implicit-differentiation-intro-ab/e/implicit-differentiation">http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/implicit-differentiation-intro-ab/e/implicit-differentiation</a>
+# Pretty display name for exercise (x4f86d9c1) on the pt stage
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/implicit-differentiation">https://www.khanacademy.org/tag/implicit-differentiation</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-implicit-diff">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-implicit-diff</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-implicit-diff">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-implicit-diff</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/implicit-differentiation">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/implicit-differentiation</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-2">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-2</a>
+# Title of topic (x2ab35703dc1d3e5c) on the pt stage
+# Title of topic (xebdb1cac914edfaf) on the pt stage
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-implicit-diff/v/implicit-differentiation-1">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-implicit-diff/v/implicit-differentiation-1</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/implicit-differentiation-intro-ab/v/implicit-differentiation-1">http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/implicit-differentiation-intro-ab/v/implicit-differentiation-1</a>
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Implicit differentiation"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-skill-check/e/skill-check--mean-value-theorem--l-hopital--and-local-linearization">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-skill-check/e/skill-check--mean-value-theorem--l-hopital--and-local-linearization</a>.
+# Exercise is at <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/derivative-applications-skill-check/e/skill-check--mean-value-theorem--l-hopital--and-local-linearization">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/derivative-applications-skill-check/e/skill-check--mean-value-theorem--l-hopital--and-local-linearization</a>.
+# Exercise is at (x35240cdb5644c55b) on the es stage.
+# Exercise is at (x86aa50137259b1de) on the es stage.
+# Exercise is at (xa0caba8a) on the es stage.
+# Exercise is at (xa0caba8a) on the pt stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-lhopitals-rule/e/lhopitals_rule">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-lhopitals-rule/e/lhopitals_rule</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/lhopitals-rule-ab/e/lhopitals_rule">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/lhopitals-rule-ab/e/lhopitals_rule</a>
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/lhpitals-rule">https://www.khanacademy.org/tag/lhpitals-rule</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-lhopitals-rule">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-lhopitals-rule</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/lhopitals-rule-ab">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/lhopitals-rule-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-analyze-functions/bc-lhopitals-rule">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-analyze-functions/bc-lhopitals-rule</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/lhopitals-rule-bc">http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/lhopitals-rule-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/lhopitals-rule-calc">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/lhopitals-rule-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/lhopitals-rule-dc">http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/lhopitals-rule-dc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/lhopital-rule">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/lhopital-rule</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives/copy-of-lhopitals-rule-ab">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives/copy-of-lhopitals-rule-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc/lhopitals-rule-calc">http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc/lhopitals-rule-calc</a>
+# Title of topic (x23fc824f) on the accents stage
+# Title of topic (x23fc824f) on the es stage
+# Title of topic (x23fc824f) on the fr stage
+# Title of topic (x23fc824f) on the ja stage
+# Title of topic (x93e84805) on the accents stage
+# Title of topic (x93e84805) on the es stage
+# Title of topic (x93e84805) on the fr stage
+# Title of topic (x93e84805) on the ja stage
+# Title of topic (xcc94ae7c895f1a0a) on the pt stage
+# Title of topic (xd28cc11127a9dc72) on the pt stage
+# Title of topic (xe76bd4e9) on the es stage
+# Title of topic (xe76bd4e9) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "L'Hôpital's rule"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/ab-mvt-conditions/a/review-establishing-differentiability-for-mvt">http://translate.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/ab-mvt-conditions/a/review-establishing-differentiability-for-mvt</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/ab-mvt/a/review-establishing-differentiability-for-mvt">http://translate.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/ab-mvt/a/review-establishing-differentiability-for-mvt</a>.
+# Article is at (x301c63a8bc7a397a) on the pt stage.
+# Exercise is at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-skill-check/e/skill-check--mean-value-theorem--l-hopital--and-local-linearization">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-skill-check/e/skill-check--mean-value-theorem--l-hopital--and-local-linearization</a>.
+# Exercise is at <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/derivative-applications-skill-check/e/skill-check--mean-value-theorem--l-hopital--and-local-linearization">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/derivative-applications-skill-check/e/skill-check--mean-value-theorem--l-hopital--and-local-linearization</a>.
+# Exercise is at (x35240cdb5644c55b) on the es stage.
+# Exercise is at (x86aa50137259b1de) on the es stage.
+# Exercise is at (xa0caba8a) on the es stage.
+# Exercise is at (xa0caba8a) on the pt stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/ab-applying-mvt/e/mean-value-theorem">http://translate.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/ab-applying-mvt/e/mean-value-theorem</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/ab-mvt/e/mean-value-theorem">http://translate.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/ab-mvt/e/mean-value-theorem</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/mean-value-theorem-ab/e/mean-value-theorem">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/mean-value-theorem-ab/e/mean-value-theorem</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/ab-mvt">http://translate.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/ab-mvt</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/mean-value-theorem-ab">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/mean-value-theorem-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-existence-theorems/bc-mvt">http://translate.khanacademy.org/math/ap-calculus-bc/bc-existence-theorems/bc-mvt</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/mean-value-theorem-bc">http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/mean-value-theorem-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/mean-value-theorem-calc">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/mean-value-theorem-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/mean-value-theorem-dc">http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/mean-value-theorem-dc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/mean-value-theorem">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/mean-value-theorem</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-advanced-differentiation-two/copy-of-mean-value-theorem-ab">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-advanced-differentiation-two/copy-of-mean-value-theorem-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc/mean-value-theorem-calc">http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc/mean-value-theorem-calc</a>
+# Title of topic (x365db891d1bd8dec) on the pt stage
+# Title of topic (x89587ba9) on the accents stage
+# Title of topic (x89587ba9) on the es stage
+# Title of topic (x89587ba9) on the fr stage
+# Title of topic (x89587ba9) on the ja stage
+# Title of topic (xa58795fb) on the accents stage
+# Title of topic (xa58795fb) on the es stage
+# Title of topic (xa58795fb) on the fr stage
+# Title of topic (xa58795fb) on the ja stage
+# Title of topic (xe42ff10b) on the es stage
+# Title of topic (xe42ff10b) on the pt stage
+# Title of topic (xe8b234bcf3624d1b) on the pt stage
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/ab-existence-intro/v/mean-value-theorem-1">http://translate.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/ab-existence-intro/v/mean-value-theorem-1</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/ab-mvt/v/mean-value-theorem-1">http://translate.khanacademy.org/math/ap-calculus-ab/ab-existence-theorems/ab-mvt/v/mean-value-theorem-1</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/mean-value-theorem-ab/v/mean-value-theorem-1">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/mean-value-theorem-ab/v/mean-value-theorem-1</a>
+# Title of video <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/mean-value-theorem/v/mean-value-theorem">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/mean-value-theorem/v/mean-value-theorem</a>
+# Title of video <a href="http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc/mean-value-theorem-calc/v/mean-value-theorem">http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc/mean-value-theorem-calc/v/mean-value-theorem</a>
+# Title of video (24178) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Mean value theorem"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/math/calculus-home/limits-and-continuity-calc/limits-skill-checks/e/using-limits">http://translate.khanacademy.org/math/calculus-home/limits-and-continuity-calc/limits-skill-checks/e/using-limits</a>.
+# Exercise is at <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/limits-skill-checks/e/using-limits">http://translate.khanacademy.org/math/differential-calculus/limits-topic/limits-skill-checks/e/using-limits</a>.
+# Exercise is at (xa760fb8bb4b67b0d) on the es stage.
+# Exercise is at (xc9570430) on the pt stage.
+# Exercise is at (xd2cda2a74b61d652) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-limits-continuity/ab-trig-and-squeeze/e/squeeze-theorem">http://translate.khanacademy.org/math/ap-calculus-ab/ab-limits-continuity/ab-trig-and-squeeze/e/squeeze-theorem</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/differential-calculus/limits-from-equations-dc/squeeze-theorem-dc/e/squeeze-theorem">http://translate.khanacademy.org/math/differential-calculus/limits-from-equations-dc/squeeze-theorem-dc/e/squeeze-theorem</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/squeeze-theorem/e/squeeze-theorem">http://translate.khanacademy.org/math/differential-calculus/limits-topic/squeeze-theorem/e/squeeze-theorem</a>
+# Pretty display name for exercise (x1d54affb) on the pt stage
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/limits-from-equations-ab/squeeze-theorem-ab">http://translate.khanacademy.org/math/ap-calculus-ab/limits-from-equations-ab/squeeze-theorem-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/limits-from-equations-bc/squeeze-theorem-bc">http://translate.khanacademy.org/math/ap-calculus-bc/limits-from-equations-bc/squeeze-theorem-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/limits-and-continuity-calc/squeeze-theorem-calc">http://translate.khanacademy.org/math/calculus-home/limits-and-continuity-calc/squeeze-theorem-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limits-from-equations-dc/squeeze-theorem-dc">http://translate.khanacademy.org/math/differential-calculus/limits-from-equations-dc/squeeze-theorem-dc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/squeeze-theorem">http://translate.khanacademy.org/math/differential-calculus/limits-topic/squeeze-theorem</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-limits/copy-of-squeeze-theorem">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-limits/copy-of-squeeze-theorem</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/squeeze-theorem-calc">http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/squeeze-theorem-calc</a>
+# Title of topic (x1b2f1167) on the pt stage
+# Title of topic (x23569e70) on the accents stage
+# Title of topic (x23569e70) on the es stage
+# Title of topic (x23569e70) on the fr stage
+# Title of topic (x23569e70) on the ja stage
+# Title of topic (x38b205d8) on the es stage
+# Title of topic (x38b205d8) on the pt stage
+# Title of topic (xab0e82a7) on the accents stage
+# Title of topic (xab0e82a7) on the es stage
+# Title of topic (xab0e82a7) on the fr stage
+# Title of topic (xab0e82a7) on the ja stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Squeeze theorem"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-skill-check/e/skill-check--applications-to-other-fields-and-related-rates">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-skill-check/e/skill-check--applications-to-other-fields-and-related-rates</a>.
+# Exercise is at <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/derivative-applications-skill-check/e/skill-check--applications-to-other-fields-and-related-rates">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/derivative-applications-skill-check/e/skill-check--applications-to-other-fields-and-related-rates</a>.
+# Exercise is at (xc92d8bdf) on the es stage.
+# Exercise is at (xc92d8bdf) on the pt stage.
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/related-rates-ab">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/related-rates-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/related-rates-bc">http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/related-rates-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/related-rates-calc">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/related-rates-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/related-rates-dc">http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/related-rates-dc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/rates-of-change">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/rates-of-change</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives/copy-of-related-rates-ab">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives/copy-of-related-rates-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc/related-rates-calc">http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc/related-rates-calc</a>
+# Title of topic (x2ab30c6e) on the accents stage
+# Title of topic (x2ab30c6e) on the es stage
+# Title of topic (x2ab30c6e) on the fr stage
+# Title of topic (x2ab30c6e) on the ja stage
+# Title of topic (x3a04a375) on the pt stage
+# Title of topic (xf8ddf8b8) on the accents stage
+# Title of topic (xf8ddf8b8) on the es stage
+# Title of topic (xf8ddf8b8) on the fr stage
+# Title of topic (xf8ddf8b8) on the ja stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Related rates"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc">http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications">http://translate.khanacademy.org/math/differential-calculus/derivative-applications</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc">http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc">http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc</a>
+# Title of topic (x8b5accea) on the es stage
+# Title of topic (x8b5accea) on the pt stage
+# Title of topic (xabae1ae4) on the accents stage
+# Title of topic (xabae1ae4) on the es stage
+# Title of topic (xabae1ae4) on the fr stage
+# Title of topic (xabae1ae4) on the ja stage
+# Title of topic (xe97d2562) on the accents stage
+# Title of topic (xe97d2562) on the es stage
+# Title of topic (xe97d2562) on the fr stage
+# Title of topic (xe97d2562) on the ja stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Derivative applications"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-introduction-ab/intro-to-diff-calculus-ab">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-introduction-ab/intro-to-diff-calculus-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/derivative-introduction-bc/intro-to-diff-calculus-bc">http://translate.khanacademy.org/math/ap-calculus-bc/derivative-introduction-bc/intro-to-diff-calculus-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/intro-to-diff-calculus-calc">http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/intro-to-diff-calculus-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-intro-dc/intro-to-diff-calculus-dc">http://translate.khanacademy.org/math/differential-calculus/derivative-intro-dc/intro-to-diff-calculus-dc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/intro-differential-calc">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/intro-differential-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-derivatives/copy-of-intro-to-diff-calculus-ab">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-derivatives/copy-of-intro-to-diff-calculus-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/intro-to-diff-calculus-calc">http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/intro-to-diff-calculus-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-11th-physics-differentiation/in-in-intro-to-diff-calculus-calc">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-11th-physics-differentiation/in-in-intro-to-diff-calculus-calc</a>
+# Title of topic (x656b1743) on the accents stage
+# Title of topic (x656b1743) on the es stage
+# Title of topic (x656b1743) on the fr stage
+# Title of topic (x656b1743) on the ja stage
+# Title of topic (x88812e03) on the accents stage
+# Title of topic (x88812e03) on the es stage
+# Title of topic (x88812e03) on the fr stage
+# Title of topic (x88812e03) on the ja stage
+# Title of topic (xc8d6079e) on the es stage
+# Title of topic (xc8d6079e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to differential calculus"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/solved-exams-ab">http://translate.khanacademy.org/math/ap-calculus-ab/solved-exams-ab</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/ap-calc-topic/ap-calculus-ab-questions">http://translate.khanacademy.org/math/calculus-home/ap-calc-topic/ap-calculus-ab-questions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/ap-calc-topic/ap-calculus-ab-questions">http://translate.khanacademy.org/math/integral-calculus/ap-calc-topic/ap-calculus-ab-questions</a>
+# Description of topic (x01ec99db) on the hy stage
+# Description of topic (xfdab3ab6) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Many of you are planning on taking the Calculus AB advanced placement exam.  These are example problems taken directly from previous years' exams. Even if you aren't taking the exam, these are very useful problem for making sure you understand your calculus (as always, best to pause the videos and try them yourself before Sal does)."
+msgstr ""
+
+# Exercise is at (x6b20b5d72cbec501) on the es stage.
+# Exercise is at (xa75578614a5af4a6) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-improper-integrals/e/improper-integrals">http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-improper-integrals/e/improper-integrals</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-bc/definite-integral-evaluation-bc/improper-integrals-bc/e/improper-integrals">http://translate.khanacademy.org/math/ap-calculus-bc/definite-integral-evaluation-bc/improper-integrals-bc/e/improper-integrals</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/calculus-home/integration-calc/improper-integrals-calc/e/improper-integrals">http://translate.khanacademy.org/math/calculus-home/integration-calc/improper-integrals-calc/e/improper-integrals</a>
+# Pretty display name for exercise (x702b8c55) on the pt stage
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/improper-integrals">https://www.khanacademy.org/tag/improper-integrals</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-improper-integrals">http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-improper-integrals</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/definite-integral-evaluation-bc/improper-integrals-bc">http://translate.khanacademy.org/math/ap-calculus-bc/definite-integral-evaluation-bc/improper-integrals-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/integration-calc/improper-integrals-calc">http://translate.khanacademy.org/math/calculus-home/integration-calc/improper-integrals-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-definite-integrals/copy-of-improper-integrals-bc">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-definite-integrals/copy-of-improper-integrals-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/definite-integral-evaluation-ic/improper-integrals-ic">http://translate.khanacademy.org/math/integral-calculus/definite-integral-evaluation-ic/improper-integrals-ic</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/indefinite-definite-integrals/improper-integrals-tutorial">http://translate.khanacademy.org/math/integral-calculus/indefinite-definite-integrals/improper-integrals-tutorial</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/integration-calc/improper-integrals-calc">http://translate.khanacademy.org/math/new-calculus/integration-calc/improper-integrals-calc</a>
+# Title of topic (x07ecbe63) on the es stage
+# Title of topic (x07ecbe63) on the pt stage
+# Title of topic (x759516fac36f9988) on the pt stage
+# Title of topic (xfa8f9261) on the accents stage
+# Title of topic (xfa8f9261) on the es stage
+# Title of topic (xfa8f9261) on the fr stage
+# Title of topic (xfa8f9261) on the ja stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Improper integrals"
+msgstr ""
+
+# Exercise is at (xded4697599c460a1) on the es stage.
+# Exercise is at (xe7f3885371dbd7b1) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-integration-by-parts/e/integration-by-parts">http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-integration-by-parts/e/integration-by-parts</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-bc/integration-techniques-bc/integration-by-parts-bc/e/integration-by-parts">http://translate.khanacademy.org/math/ap-calculus-bc/integration-techniques-bc/integration-by-parts-bc/e/integration-by-parts</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/calculus-home/integration-techniques-calc/integration-by-parts-calc/e/integration-by-parts">http://translate.khanacademy.org/math/calculus-home/integration-techniques-calc/integration-by-parts-calc/e/integration-by-parts</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-integration-by-parts">http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-integration-by-parts</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/integration-techniques-bc/integration-by-parts-bc">http://translate.khanacademy.org/math/ap-calculus-bc/integration-techniques-bc/integration-by-parts-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/integration-techniques-calc/integration-by-parts-calc">http://translate.khanacademy.org/math/calculus-home/integration-techniques-calc/integration-by-parts-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-integrals/copy-of-integration-by-parts-ic">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-integrals/copy-of-integration-by-parts-ic</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/integration-techniques/integration-by-parts">http://translate.khanacademy.org/math/integral-calculus/integration-techniques/integration-by-parts</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/integration-techniques/integration-by-parts-ic">http://translate.khanacademy.org/math/integral-calculus/integration-techniques/integration-by-parts-ic</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/integration-techniques-calc/integration-by-parts-calc">http://translate.khanacademy.org/math/new-calculus/integration-techniques-calc/integration-by-parts-calc</a>
+# Title of topic (x3f57b104) on the es stage
+# Title of topic (x3f57b104) on the pt stage
+# Title of topic (xba957240) on the accents stage
+# Title of topic (xba957240) on the es stage
+# Title of topic (xba957240) on the fr stage
+# Title of topic (xba957240) on the ja stage
+# Title of topic (xeff2d4b5b07ebdcf) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Integration by parts"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/seq-conv-diverg-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/seq-conv-diverg-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/seq-conv-diverg-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/seq-conv-diverg-calc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/seq-conv-diverg">http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/seq-conv-diverg</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/series-ic/seq-conv-diverg-ic">http://translate.khanacademy.org/math/integral-calculus/series-ic/seq-conv-diverg-ic</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/series-calc/seq-conv-diverg-calc">http://translate.khanacademy.org/math/new-calculus/series-calc/seq-conv-diverg-calc</a>
+# Description of topic (x557213a7) on the es stage
+# Description of topic (x557213a7) on the pt stage
+# Description of topic (xbf143d6d) on the accents stage
+# Description of topic (xbf143d6d) on the es stage
+# Description of topic (xbf143d6d) on the fr stage
+# Description of topic (xbf143d6d) on the ja stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Now that we understand what a sequence is, we're going to think about what happens to the terms of a sequence at infinity (do they approach 0, a finite value, or +- infinity?)."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams">http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc">http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/ap-calc-topic/ap-calculus-bc-questions">http://translate.khanacademy.org/math/calculus-home/ap-calc-topic/ap-calculus-bc-questions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/ap-calc-topic/ap-calculus-bc-questions">http://translate.khanacademy.org/math/integral-calculus/ap-calc-topic/ap-calculus-bc-questions</a>
+# Description of topic (x78f9d2a9) on the pt stage
+# Description of topic (xc086f8ca) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The Calculus BC AP exam is a super set of the AB exam.  It covers everything in AB as well as some of the more advanced topics in integration, sequences and function approximation.  This tutorial is great practice for anyone looking to test their calculus mettle!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/series-tut-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/series-tut-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/series-calculus">http://translate.khanacademy.org/math/calculus-home/series-calc/series-calculus</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/calculus-series">http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/calculus-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/series-ic/series-tut-ic">http://translate.khanacademy.org/math/integral-calculus/series-ic/series-tut-ic</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/series-calc/series-calculus">http://translate.khanacademy.org/math/new-calculus/series-calc/series-calculus</a>
+# Description of topic (x3dfe872e) on the accents stage
+# Description of topic (x3dfe872e) on the es stage
+# Description of topic (x3dfe872e) on the fr stage
+# Description of topic (x3dfe872e) on the ja stage
+# Description of topic (xd081ca47) on the es stage
+# Description of topic (xd081ca47) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "You're familiar with sequences and have been eager to sum them up.  Well wait no longer!  In this tutorial, we'll see that series are just sums of sequences and familiarize ourselves with the notation.\n"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/ap-calc-topic">http://translate.khanacademy.org/math/calculus-home/ap-calc-topic</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/ap-calc-topic">http://translate.khanacademy.org/math/integral-calculus/ap-calc-topic</a>
+# Title of topic (x4a22631b) on the pt stage
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "AP Calculus practice questions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/ap-calc-topic">http://translate.khanacademy.org/math/calculus-home/ap-calc-topic</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/ap-calc-topic">http://translate.khanacademy.org/math/integral-calculus/ap-calc-topic</a>
+# Description of topic (x4a22631b) on the pt stage
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Sample questions from the A.P. Calculus AB and BC exams (both multiple choice and free answer)."
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-skill-check/e/skill-check--optimization">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-skill-check/e/skill-check--optimization</a>.
+# Exercise is at <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/derivative-applications-skill-check/e/skill-check--optimization">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/derivative-applications-skill-check/e/skill-check--optimization</a>.
+# Exercise is at (xc73c9d2a) on the pt stage.
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/absolute-and-relative-maxima-and-minima">https://www.khanacademy.org/tag/absolute-and-relative-maxima-and-minima</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/absolute-relative-maxima-minima">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/absolute-relative-maxima-minima</a>
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Absolute and relative maxima and minima"
+msgstr ""
+
+# Exercise is at (xded4697599c460a1) on the es stage.
+# Exercise is at (xe7f3885371dbd7b1) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/calculus-home/integration-techniques-calc/trigonometric-substitution-calc/e/integration-using-trigonometric-substitution">http://translate.khanacademy.org/math/calculus-home/integration-techniques-calc/trigonometric-substitution-calc/e/integration-using-trigonometric-substitution</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/integral-calculus/integration-techniques/trig-substitution/e/integration-using-trigonometric-substitution">http://translate.khanacademy.org/math/integral-calculus/integration-techniques/trig-substitution/e/integration-using-trigonometric-substitution</a>
+# Pretty display name for exercise (x61853ee9) on the pt stage
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/integration-techniques-calc/trigonometric-substitution-calc">http://translate.khanacademy.org/math/calculus-home/integration-techniques-calc/trigonometric-substitution-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-integrals/copy-of-trig-substitution">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-integrals/copy-of-trig-substitution</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/integration-techniques/trig-substitution">http://translate.khanacademy.org/math/integral-calculus/integration-techniques/trig-substitution</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/integration-techniques-calc/trigonometric-substitution-calc">http://translate.khanacademy.org/math/new-calculus/integration-techniques-calc/trigonometric-substitution-calc</a>
+# Title of topic (xfcd4cfea) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Trigonometric substitution"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/math/calculus-home/limits-and-continuity-calc/limits-skill-checks/e/skill-check--estimating-limits">http://translate.khanacademy.org/math/calculus-home/limits-and-continuity-calc/limits-skill-checks/e/skill-check--estimating-limits</a>.
+# Exercise is at <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/limits-skill-checks/e/skill-check--estimating-limits">http://translate.khanacademy.org/math/differential-calculus/limits-topic/limits-skill-checks/e/skill-check--estimating-limits</a>.
+# Exercise is at (xd4371f26) on the pt stage.
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/estimating-limits-from-graphs">https://www.khanacademy.org/tag/estimating-limits-from-graphs</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/calculus-estimating-limits-graph">http://translate.khanacademy.org/math/differential-calculus/limits-topic/calculus-estimating-limits-graph</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/est-limits-from-graphs-precalc">http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/est-limits-from-graphs-precalc</a>
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Estimating limits from graphs"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/math/calculus-home/limits-and-continuity-calc/limits-skill-checks/e/using-limits">http://translate.khanacademy.org/math/calculus-home/limits-and-continuity-calc/limits-skill-checks/e/using-limits</a>.
+# Exercise is at <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/limits-skill-checks/e/using-limits">http://translate.khanacademy.org/math/differential-calculus/limits-topic/limits-skill-checks/e/using-limits</a>.
+# Exercise is at (xc9570430) on the pt stage.
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/continuity-limits">http://translate.khanacademy.org/math/differential-calculus/limits-topic/continuity-limits</a>
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Continuity using limits"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/power-series-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/power-series-calc</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x9151a7b1) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x9151a7b1) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/power-series-algebra">http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/power-series-algebra</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/series-calc/power-series-calc">http://translate.khanacademy.org/math/new-calculus/series-calc/power-series-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Power series function representation using algebra"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/seq-conv-diverg-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/seq-conv-diverg-calc</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x557213a7) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x557213a7) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/seq-conv-diverg">http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/seq-conv-diverg</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/series-calc/seq-conv-diverg-calc">http://translate.khanacademy.org/math/new-calculus/series-calc/seq-conv-diverg-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Sequence convergence and divergence"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/taking-derivatives-skill-checks/e/skill-check--tangent-lines">http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/taking-derivatives-skill-checks/e/skill-check--tangent-lines</a>.
+# Exercise is at <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/taking-derivatives-skill-checks/e/skill-check--tangent-lines">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/taking-derivatives-skill-checks/e/skill-check--tangent-lines</a>.
+# Exercise is at (xfd044888) on the pt stage.
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/rates-of-change">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/rates-of-change</a>: a title that makes sense even when not shown in the context of the parent topic
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Rates of change"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc">http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc">http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc</a>
+# Title of topic (x48d66fb5) on the es stage
+# Title of topic (x48d66fb5) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Taking derivatives"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/calc-optimization">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/calc-optimization</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Optimization with calculus"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/critical-points-graphing">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/critical-points-graphing</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Critical points and graphing with calculus"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/differentiation-application">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/differentiation-application</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Applying differentiation in different fields"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/lhopital-rule">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/lhopital-rule</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "L'Hôpital's Rule"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/lhopital-rule">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/lhopital-rule</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Limits have done their part helping to find derivatives.  Now, under the guidance of l'Hôpital's rule, derivatives are looking to show their gratitude by helping to find limits.  Ever try to evaluate a function at a point and get 0/0 or infinity/infinity?  Well, that's a big clue that l'Hopital's rule can help you find the limit of the function at that point."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/mean-value-theorem">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/mean-value-theorem</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "If over the last hour on the highway, you averaged 60 miles per hour, then you must have been going exactly 60 miles per hour at some point.  This is the gist of the mean value theorem (which generalizes the idea for any continuous, differentiable function)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/motion-along-line-derivatives">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/motion-along-line-derivatives</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Motion along a line"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/motion-along-line-derivatives">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/motion-along-line-derivatives</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Derivatives can be used to calculate instantaneous rates of change.  The rate of change of position with respect to time is velocity and the rate of change of velocity with respect to time is acceleration.  Using these ideas, we'll be able to analyze one-dimensional particle movement given position as a function of time."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/normal-tangent-line-eq">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/normal-tangent-line-eq</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Equations of normal and tangent lines"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications/rates-of-change">http://translate.khanacademy.org/math/differential-calculus/derivative-applications/rates-of-change</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Have you ever wondered how fast the area of a ripple of a pond is increasing based on how fast the ripple is?  What about how fast a volcano's volume is increasing?  This tutorial on related rates will satiate your curiosity and then some!\n"
+"\n"
+"\n"
+"Solving related rates problems using calculus"
+msgstr ""
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/finding-limits-algebraically">https://www.khanacademy.org/tag/finding-limits-algebraically</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/algebraic-limits">http://translate.khanacademy.org/math/differential-calculus/limits-topic/algebraic-limits</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/copy-of-algebraic-limits">http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/copy-of-algebraic-limits</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding limits algebraically"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/calculus-estimating-limits-graph">http://translate.khanacademy.org/math/differential-calculus/limits-topic/calculus-estimating-limits-graph</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/est-limits-from-graphs-precalc">http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/est-limits-from-graphs-precalc</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "In this tutorial, we will build our ability to visualize limits by estimating them based on graphs of functions.  We will look at both one-sided and two-sided limits."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/continuity-limits">http://translate.khanacademy.org/math/differential-calculus/limits-topic/continuity-limits</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "A function isn't continuous when there is a \"break\" in its graph.  This tutorial uses limits to define this idea more formally and gives practice thinking about continuity (and discontinuity) in terms of limits."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/epsilon-delta">http://translate.khanacademy.org/math/differential-calculus/limits-topic/epsilon-delta</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Epsilon delta definition of limits"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/epsilon-delta">http://translate.khanacademy.org/math/differential-calculus/limits-topic/epsilon-delta</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"This tutorial introduces a \"formal\" definition of limits.  So put on your ball gown and/or tuxedo to party with Mr. Epsilon Delta (no, this is not referring to a fraternity).\n"
+"\n"
+"This tends to be covered early in a traditional calculus class (right after basic limits), but we have mixed feelings about that.  It is cool and rigorous, but also very \"mathy\" (as most rigorous things are).  Don't fret if you have trouble with it the first time.  If you have a basic conceptual understanding of what limits are (from the \"Limits\" tutorial), you're ready to start thinking about taking derivatives."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/limits-infinity">http://translate.khanacademy.org/math/differential-calculus/limits-topic/limits-infinity</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Limits and infinity"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/limits-infinity">http://translate.khanacademy.org/math/differential-calculus/limits-topic/limits-infinity</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "You have a basic understanding of what a limit is.  Now, in this tutorial, we can explore situation where we take the limit as x approaches negative or positive infinity (and situations where the limit itself could be unbounded)."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/limits-precalc">http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/limits-precalc</a>: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic">http://translate.khanacademy.org/math/differential-calculus/limits-topic</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/limits-tutorial">http://translate.khanacademy.org/math/differential-calculus/limits-topic/limits-tutorial</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-limits">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-limits</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/limit-topic-precalc">http://translate.khanacademy.org/math/precalculus/limit-topic-precalc</a>
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Limits"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic/squeeze-theorem">http://translate.khanacademy.org/math/differential-calculus/limits-topic/squeeze-theorem</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"If a function is always smaller than one function and always greater than another (i.e. it is always between them), then if the upper and lower function converge to a limit at a point, then so does the one in between.  Not only is this useful for proving certain tricky limits (we use it to prove lim (x → 0) of (sin x)/x, but it is a useful metaphor to use in life (seriously). :)\n"
+"\n"
+"This tutorial is useful but optional.  It is covered in most calculus courses, but it is not necessary to progress on to the \"Introduction to derivatives\" tutorial."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limits-topic">http://translate.khanacademy.org/math/differential-calculus/limits-topic</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Limit introduction, squeeze theorem, and epsilon-delta definition of limits"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/der-common-functions">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/der-common-functions</a>: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/derivatives-of-common-functions">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/derivatives-of-common-functions</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Derivatives of common functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/der-common-functions">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/der-common-functions</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Proofs of derivatives of common functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/der-common-functions">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/der-common-functions</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "We told you about the derivatives of many functions, but you might want proof that what we told you is actually true.  That's what this tutorial tries to do!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/derivative-intro">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/derivative-intro</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to derivatives"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/derivative-intro">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/derivative-intro</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Discover what magic we can derive when we take a derivative, which is the slope of the tangent line at any point on a curve."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/intro-differential-calc">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/intro-differential-calc</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "The topic that is now known as \"calculus\" was really called \"the calculus of differentials\" when first devised by Newton (and Leibniz) roughly four hundred years ago.  To Newton, differentials were infinitely small \"changes\" in numbers that previous mathematics didn't know what to do with.  Think this has no relevence to you?  Well how would you figure out how fast something is going *right* at this moment (you'd have to figure out the very, very small change in distance over an infinitely small change in time)?  This tutorial gives a gentle introduction to the world of Newton and Leibniz."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/power-rule-tutorial">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/power-rule-tutorial</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Calculus is about to seem strangely straight forward.  You've spent some time using the definition of a derivative to find the slope at a point.  In this tutorial, we'll derive and apply the derivative for any term in a polynomial.\n"
+"\n"
+"By the end of this tutorial, you'll have the power to take the derivative of any polynomial like it's second nature!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/product-rule">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/product-rule</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Product and quotient rules"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/secant-line-slope-tangent">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/secant-line-slope-tangent</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Using secant line slopes to approximate tangent slope"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/secant-line-slope-tangent">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/secant-line-slope-tangent</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "The idea of slope is fairly straightforward-- (change in vertical) over (change in horizontal).  But how do we measure this if the (change in horizontal) is zero (which would be the case when finding the slope of the tangent line.  In this tutorial, we'll approximate this by finding the slopes of secant lines."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/visualizing-derivatives-tutorial">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/visualizing-derivatives-tutorial</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Visualizing graphs of functions and their derivatives"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/visualizing-derivatives-tutorial">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/visualizing-derivatives-tutorial</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Visualizing derivatives and antiderivatives"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/visualizing-derivatives-tutorial">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives/visualizing-derivatives-tutorial</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"You understand that a derivative can be viewed as the slope of the tangent line at a point or the instantaneous rate of change of a function with respect to x.  This tutorial will deepen your ability to visualize and conceptualize derivatives through videos and exercises.\n"
+"\n"
+"We think you'll find this tutorial incredibly fun and satisfying (seriously)."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-calculus/taking-derivatives">http://translate.khanacademy.org/math/differential-calculus/taking-derivatives</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Calculating derivatives. Power rule. Product and quotient rules.  Chain Rule.  Implicit differentiation.  Derivatives of common functions."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/indefinite-definite-integrals/definite-integrals">http://translate.khanacademy.org/math/integral-calculus/indefinite-definite-integrals/definite-integrals</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Definite integrals"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/indefinite-definite-integrals/fundamental-theorem-of-calculus">http://translate.khanacademy.org/math/integral-calculus/indefinite-definite-integrals/fundamental-theorem-of-calculus</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Fundamental Theorem of Calculus"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/indefinite-definite-integrals/indefinite-integrals">http://translate.khanacademy.org/math/integral-calculus/indefinite-definite-integrals/indefinite-integrals</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Indefinite integral as anti-derivative"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/indefinite-definite-integrals/riemann-sums">http://translate.khanacademy.org/math/integral-calculus/indefinite-definite-integrals/riemann-sums</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Riemann sums and definite integration"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/integration-techniques/integration-by-parts">http://translate.khanacademy.org/math/integral-calculus/integration-techniques/integration-by-parts</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "When we wanted to take the derivative of f(x)g(x) in differential calculus, we used the product rule.  In this tutorial, we use the product rule to derive a powerful way to take the anti-derivative of a class of functions--integration by parts."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/integration-techniques/trig-substitution">http://translate.khanacademy.org/math/integral-calculus/integration-techniques/trig-substitution</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Trig substitution"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/calculus-sequences">http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/calculus-sequences</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/series-calc/sequences-calc">http://translate.khanacademy.org/math/new-calculus/series-calc/sequences-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "In this tutorial, we'll review what sequences are, associated notation and convergence/divergence of sequences."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/maclaurin-taylor">http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/maclaurin-taylor</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/series-calc/maclaurin-taylor-calc">http://translate.khanacademy.org/math/new-calculus/series-calc/maclaurin-taylor-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"In this tutorial, we will learn to approximate differentiable functions with polynomials.  Beyond just being super cool, this can be useful for approximating functions so that they are easier to calculate, differentiate or integrate.  So whether you will have to write simulations or become a bond trader (bond traders use polynomial approximation to estimate changes in bond prices given interest rate changes and vice versa), this tutorial could be fun.\n"
+"\n"
+"If that isn't motivation enough, we also come up with one of the most epic and powerful conclusions in all of mathematics in this tutorial: Euler's identity."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/seq-series-review">http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/seq-series-review</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/series-calc/geo-series-calc">http://translate.khanacademy.org/math/new-calculus/series-calc/geo-series-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Whether you are computing mortgage payments or calculating the distance traveled by a bouncing ball, geometric  series show up in life far more than you imagine.  This tutorial will review all the important concepts and more!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/solid-revolution-topic/shell-method">http://translate.khanacademy.org/math/integral-calculus/solid-revolution-topic/shell-method</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "You want to rotate a function around a vertical line, but do all your integrating in terms of x and f(x), then the shell method is your new friend.  It is similarly fantastic when you want to rotate around a horizontal line but integrate in terms of y."
+msgstr ""
+
+# Title of mission which can be selected while logged in on <https://translate.khanacademy.org>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus">http://translate.khanacademy.org/math/integral-calculus</a>
+# Title of topic (x69d9be32) on the es stage
+# Title of topic (x69d9be32) on the hi stage
+# Title of topic (x69d9be32) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Integral calculus"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/2d-divergence-theorem-ddp">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/2d-divergence-theorem-ddp</a>
+# Title of topic (xcc25eb22) on the ja stage
+# Title of topic (xcc25eb22) on the pl stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-articles/a/2d-divergence-theorem">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-articles/a/2d-divergence-theorem</a>
+# Title of tutorial article (x0c18468a) on the ja stage
+# Title of tutorial article (x0c18468a) on the pl stage
+# Title of video <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/2d-divergence-theorem-ddp/v/2-d-divergence-theorem">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/2d-divergence-theorem-ddp/v/2-d-divergence-theorem</a>
+# Title of video (809321651) on the ja stage
+# Title of video (809321651) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "2D divergence theorem"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/2d-divergence-theorem-ddp">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/2d-divergence-theorem-ddp</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xcc25eb22) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xcc25eb22) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "2-D Divergence theorem"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/2d-divergence-theorem-ddp">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/2d-divergence-theorem-ddp</a>
+# Description of topic (xcc25eb22) on the ja stage
+# Description of topic (xcc25eb22) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Using Green's theorem (which you should already be familiar with) to establish that the \"flux\" through the boundary of a region is equal to the double integral of the divergence over the region.  We'll also talk about why this makes conceptual sense."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-proof">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-proof</a>
+# Title of topic (x926d8113) on the ja stage
+# Title of topic (x926d8113) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Divergence theorem proof"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-proof">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-proof</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "You know what the divergence theorem is, you can apply it and you conceptually understand it.  This tutorial will actually prove it to you (references types of regions which are covered in the \"types of regions in 3d\" tutorial."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem</a>
+# Description of topic (x68dc1d26) on the ja stage
+# Description of topic (x68dc1d26) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "An earlier tutorial used Green's theorem to prove the divergence theorem in 2-D, this tutorial gives us the 3-D version (what most people are talking about when they refer to the \"divergence theorem\").  We will get an intuition for it (that the flux through a close surface--like a balloon--should be equal to the divergence across it's volume).  We will use it in examples.  We will prove it in another tutorial."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/greens-theorem">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/greens-theorem</a>
+# Description of topic (x17b3536e) on the ja stage
+# Description of topic (x17b3536e) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "It is sometimes easier to take a double integral (a particular double integral as we'll see) over a region and sometimes easier to take a line integral around the boundary.  Green's theorem draws the connection between the two so we can go back and forth.  This tutorial proves Green's theorem and then gives a few examples of using it.  If you can take line integrals through vector fields, you're ready for Mr. Green."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/region-types-3d">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/region-types-3d</a>
+# Title of topic (xa32c40bb) on the ja stage
+# Title of topic (xa32c40bb) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Types of regions in three dimensions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/region-types-3d">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/region-types-3d</a>
+# Description of topic (xa32c40bb) on the ja stage
+# Description of topic (xa32c40bb) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This tutorial classifies regions in three dimensions.  Comes in useful for some types of double integrals and we use these ideas to prove the divergence theorem."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/stokes-proof">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/stokes-proof</a>
+# Title of topic (x82104bac) on the ja stage
+# Title of topic (x82104bac) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Proof of Stokes' theorem"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/stokes-proof">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/stokes-proof</a>
+# Description of topic (x82104bac) on the ja stage
+# Description of topic (x82104bac) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You know what Stokes' theorem is and how to apply it, but are craving for some real proof that it is true.  Well, you've found the right tutorial!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/stokes-theorem">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/stokes-theorem</a>
+# Description of topic (x86156ed3) on the ja stage
+# Description of topic (x86156ed3) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Stokes' theorem relates the line integral around a surface to the curl on the surface. This tutorial explores the intuition behind Stokes' theorem, how it is an extension of Green's theorem to surfaces (as opposed to just regions) and gives some examples using it.  We prove Stokes' theorem in another tutorial.  Good to come to this tutorial having experienced the tutorial on \"flux in 3D\"."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/3d-flux">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/3d-flux</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x9106372b) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x9106372b) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Flux in 3-D and constructing unit normal vectors to surface"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8a769a9b) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8a769a9b) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a/a/double-integrals">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a/a/double-integrals</a>
+# Title of tutorial article (xb515088c) on the ja stage
+# Title of tutorial article (xb515088c) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Double integrals"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-vectors">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-vectors</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x11a3b666) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x11a3b666) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Line integrals in vector fields"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-vectors">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-vectors</a>
+# Description of topic (x11a3b666) on the ja stage
+# Description of topic (x11a3b666) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You've done some work with line integral with scalar functions and you know something about parameterizing position-vector valued functions.  In that case, welcome!  You are now ready to explore a core tool math and physics: the line integral for vector fields.  Need to know the work done as a mass is moved through a gravitational field.  No sweat with line integrals."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x6a1ef063) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x6a1ef063) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Line integrals for scalar functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals</a>
+# Description of topic (x6a1ef063) on the ja stage
+# Description of topic (x6a1ef063) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "With traditional integrals, our \"path\" was straight and linear (most of the time, we traversed the x-axis).  Now we can explore taking integrals over any line or curve (called line integrals)."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd5892eb4) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd5892eb4) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-articles/a/surface-integrals">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-articles/a/surface-integrals</a>
+# Title of tutorial article (x06617ac1) on the ja stage
+# Title of tutorial article (x06617ac1) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Surface integrals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding line integrals to be a bit boring? Well, this tutorial will add new dimension to your life by explore what surface integrals are and how we can calculate them."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-parametrization">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-parametrization</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xaaa03698) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xaaa03698) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Parametrizing a surface"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/triple-integrals-topic">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/triple-integrals-topic</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x0428c3e0) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x0428c3e0) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/triple-integrals-a/a/triple-integrals">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/triple-integrals-a/a/triple-integrals</a>
+# Title of tutorial article (x9602e91b) on the ja stage
+# Title of tutorial article (x9602e91b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Triple integrals"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x9ce4a406) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x9ce4a406) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-grant-videos">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-grant-videos</a>
+# Title of topic (x603b4425) on the ja stage
+# Title of topic (x603b4425) on the pl stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles/a/divergence">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles/a/divergence</a>
+# Title of tutorial article (x9869eb83) on the ja stage
+# Title of tutorial article (x9869eb83) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Divergence"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/copy-of-algebraic-limits">http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/copy-of-algebraic-limits</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "We often attempt to find the limit at a point where the function itself is not defined.  In this tutorial, we will use algebra to \"simplify\" functions into ones where it is defined.  Given that the original function and the simplified one may be  identical except for the limit point in question, this is a useful way of finding limits. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/limits-precalc">http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/limits-precalc</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Limits are the core tool that we build upon for calculus.  Many times, a function can be undefined at a point, but we can think about what the function \"approaches\" as it gets closer and closer to that point (this is the \"limit\").  Other times, the function may be defined at a point, but it may approach a different limit.  There are many, many times where the function value is the same as the limit at a point.  Either way, this is a powerful tool as we start thinking about slope of a tangent line to a curve.\n"
+"\n"
+"If you have a decent background in algebra (graphing and functions in particular), you'll hopefully enjoy this tutorial!"
+msgstr ""

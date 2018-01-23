@@ -1,0 +1,559 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-22 16:08+0000\n"
+"PO-Revision-Date: 2017-11-22 16:08+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp</a>
+# Title of topic (x802be3fb) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Operational amplifier"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp</a>
+# Description of topic (x802be3fb) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The operational amplifier, or \"op-amp\", is a common type of amplifier used everywhere in analog electronics. The op-amp has very high gain and differential inputs."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers</a>
+# Title of topic (xa23b5095) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Amplifiers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers</a>
+# Description of topic (xa23b5095) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Amplifiers make signals bigger. Amplification is often the most basic operation of an electronic circuit. There are many kinds of amplifier designs. We will describe the operational amplifier, the building block of most analog electronics. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements</a>
+# Title of topic (x2259a20d) on the pt stage
+# Title of topic (x2259a20d) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Circuit elements"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements</a>
+# Description of topic (x2259a20d) on the pt stage
+# Description of topic (x2259a20d) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The basic elements of circuit design are components (resistors, capacitors, and inductors), and sources (voltage and current). We describe these elements as both ideal elements and real-world objects. We also develop precise terminology for how to talk about circuits and label voltages and currents."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis</a>
+# Title of topic (x99ef6424) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "AC circuit analysis"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x99ef6424) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "AC circuit analyisis"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis</a>
+# Description of topic (x99ef6424) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "If we limit ourselves to input signals shaped like sines or cosines, we can develop a whole AC analysis method to figure out what happens in circuits with changing signals. The methods are far simpler than solving a differential equation."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis</a>
+# Title of topic (x941281bf) on the pt stage
+# Title of topic (x941281bf) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "DC circuit analysis"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis</a>
+# Description of topic (x941281bf) on the pt stage
+# Description of topic (x941281bf) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Determine the state of a DC circuit using Kirchhoff's Laws, node voltage method, mesh or loop current methods."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response</a>
+# Title of topic (x1a365f06) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Natural and forced response"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x1a365f06) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response</a>
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Network response"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response</a>
+# Description of topic (x1a365f06) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Circuits containing capacitors and inductors change with time. The natural  and forced response of RC, RL, and RLC circuits."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Circuits containing capacitors and inductors change with time. The natural response of RC, RL, and RLC circuits. The step response of an RC circuit is a fundamental property of all digital designs. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits</a>
+# Title of topic (x02c019a9) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Resistor circuits"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits</a>
+# Description of topic (x02c019a9) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Series and parallel resistors, delta-wye networks, and the voltage divider "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic</a>
+# Title of topic (x5ed2e43e) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Circuit analysis"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic</a>
+# Description of topic (x5ed2e43e) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Circuit analysis is the process of finding all the currents and voltages in a network of connected components. We look at the basic elements used to build circuits, and find out what happens when elements are connected together into a circuit. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-electrostatics/ee-electric-force-and-electric-field">http://translate.khanacademy.org/science/electrical-engineering/ee-electrostatics/ee-electric-force-and-electric-field</a>
+# Title of topic (x5cfc885f) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Electric force and electric field"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-electrostatics/ee-electric-force-and-electric-field">http://translate.khanacademy.org/science/electrical-engineering/ee-electrostatics/ee-electric-force-and-electric-field</a>
+# Description of topic (x5cfc885f) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The force between electric charges is described by Coulomb's Law. We develop the concept of an *electric field* filling the space surrounding charges. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-electrostatics/ee-fields-potential-voltage">http://translate.khanacademy.org/science/electrical-engineering/ee-electrostatics/ee-fields-potential-voltage</a>
+# Title of topic (xf04a85f6) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Fields, potential, and voltage"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-electrostatics/ee-fields-potential-voltage">http://translate.khanacademy.org/science/electrical-engineering/ee-electrostatics/ee-fields-potential-voltage</a>
+# Description of topic (xf04a85f6) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked examples of the electric field near a line of charge, and near a plane of charge. Formal definitions of *electric potential* and *voltage*."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-electrostatics">http://translate.khanacademy.org/science/electrical-engineering/ee-electrostatics</a>
+# Description of topic (x1ae4591a) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Electrostatics is the study of forces between charges, as described by Coulomb's Law. We develop the concept of an electric field surrounding charges. We work through examples of the electric field near a line, and near a plane, and develop formal definitions of both *electric potential* and *voltage*."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices/ee-diode">http://translate.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices/ee-diode</a>
+# Title of topic (x8f6206dd) on the tr stage
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices/ee-diode/v/ee-diode">http://translate.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices/ee-diode/v/ee-diode</a>
+# Title of video (x4ce88ac1) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Diode"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices/ee-diode">http://translate.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices/ee-diode</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8f6206dd) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Diodes"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices">http://translate.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices</a>
+# Title of topic (x7520d812) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Semiconductor devices"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series</a>
+# Title of topic (xf4d8767b) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Fourier series"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series</a>
+# Description of topic (xf4d8767b) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The Fourier Series is a way to approximate any arbitrary periodic signal as the sum of sines and cosines. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals">http://translate.khanacademy.org/science/electrical-engineering/ee-signals</a>
+# Title of topic (xa2487c41) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Signals and systems"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals">http://translate.khanacademy.org/science/electrical-engineering/ee-signals</a>
+# Description of topic (xa2487c41) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Signals and Systems covers analog and digital signal processing, ideas at the heart of modern communication and measurement. We present the basic concepts for continuous-time and discrete-time signals in the time and frequency domains. Time and frequency are related by the Fourier transform. "
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee">http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x6b5df677) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to circuits"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee">http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee</a>
+# Description of topic (x6b5df677) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Read a summary of the math and science preparation that will help you have the best experience studying electrical engineering on Khan Academy. Gain an intuitive understanding of the two most important electrical quantities: current and voltage. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee">http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee</a>
+# Title of topic (x92dcf0b7) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to electrical engineering"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee">http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee</a>
+# Description of topic (x92dcf0b7) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "A summary of the math and science preparation that will help you have the best experience with electrical engineering taught on Khan Academy. Become familiar with engineering numbers and notation, and learn about the two most important electrical quantities: current and voltage."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/reverse-engin/reverse-engineering">http://translate.khanacademy.org/science/electrical-engineering/reverse-engin/reverse-engineering</a>
+# Title of topic (x6b1028eb) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Household items"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/robots">http://translate.khanacademy.org/science/electrical-engineering/robots</a>
+# Title of topic (x7f8a9b2b) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Home-made robots"
+msgstr ""

@@ -1,0 +1,780 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-22 16:08+0000\n"
+"PO-Revision-Date: 2017-11-22 16:08+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# English version in label at <a href="https://www.khanacademy.org/article/a/basic-normal-calculations">https://www.khanacademy.org/article/a/basic-normal-calculations</a>
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/endocrine-system---passage-2">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/endocrine-system---passage-2</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-renal-system/e/renal-system-questions">http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-renal-system/e/renal-system-questions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/social-sciences-practice/social-science-practice-tut/e/biological-basis-of-behavior---endocrine-system">http://translate.khanacademy.org/test-prep/mcat/social-sciences-practice/social-science-practice-tut/e/biological-basis-of-behavior---endocrine-system</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions-on-abdominal-aortic-aneurysm">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions-on-abdominal-aortic-aneurysm</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions-on-heart-block">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions-on-heart-block</a>.
+# Exercise at (x172318ef) on the accents stage.
+# Exercise at (x172318ef) on the pt stage.
+# Exercise at (x5c23385e) on the accents stage.
+# Exercise at (x5c23385e) on the pt stage.
+# Exercise at (x8b85ca5a) on the accents stage.
+# Exercise at (x8b85ca5a) on the pt stage.
+# Exercise at (x98f6f1ed) on the accents stage.
+# Exercise at (x98f6f1ed) on the pt stage.
+# Exercise at (xb2bc03f1) on the accents stage.
+# Exercise at (xb2bc03f1) on the pt stage.
+# Exercise at (xd941c082) on the accents stage.
+# Exercise at (xd941c082) on the pt stage.
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-ddp">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-ddp</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/blood-pressure">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/blood-pressure</a>
+# Title of topic (x243a2b63) on the accents stage
+# Title of topic (x243a2b63) on the pt stage
+# Title of topic (x27b3f6ab) on the bg stage
+# Title of topic (x27b3f6ab) on the fr stage
+# Title of topic (x27b3f6ab) on the pl stage
+# Title of topic (x27b3f6ab) on the pt stage
+# Title of topic (x27b3f6ab) on the tr stage
+# Title of topic (x27b3f6ab) on the zh-hans stage
+# Translate label in article at <a href="https://www.khanacademy.org/translations/edit/redirect/a/basic-normal-calculations?lang=en-pt">https://www.khanacademy.org/translations/edit/redirect/a/basic-normal-calculations?lang=en-pt</a>.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+# (format: text)
+#: genfiles/labels/en/0166d62c659c7e8bb827154843df008fd323de0b-data.json:7 genfiles/labels/en/b43df3c7bea79c512eb72b4ac98151f0f121b0f9-data.json:7 genfiles/labels/en/d1e9526e35d4192eacdbe029dad250f0587e7910-data.json:7 intl/datastore:1
+msgid "Blood pressure"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/geometry-miscellaneous">http://translate.khanacademy.org/math/geometry-home/geometry-miscellaneous</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/geometry-miscellaneous">http://translate.khanacademy.org/math/geometry/geometry-miscellaneous</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/healthcare-misc">http://translate.khanacademy.org/science/health-and-medicine/healthcare-misc</a>
+# Title of topic (x069a1823) on the pl stage
+# Title of topic (x069a1823) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Miscellaneous"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/blood-vessel-diseases">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/blood-vessel-diseases</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf562c87e) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf562c87e) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Blood Vessel Diseases"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions-on-drug-abuse-and-addiction-2">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions-on-drug-abuse-and-addiction-2</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions-on-heart-block-2">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions-on-heart-block-2</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions-on-heart-failure-2">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions-on-heart-failure-2</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions-on-heart-valve-disease-1">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions-on-heart-valve-disease-1</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/vasculitis-quiz">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/vasculitis-quiz</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/vasculitis-quiz-2">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/vasculitis-quiz-2</a>.
+# Exercise at (x15c6ab42) on the pt stage.
+# Exercise at (x1c805f43) on the pt stage.
+# Exercise at (x97a3477a) on the pt stage.
+# Exercise at (xa64e9c63) on the pt stage.
+# Exercise at (xcaa6cd1a) on the pt stage.
+# Exercise at (xcbfec636) on the pt stage.
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/hypertension">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/hypertension</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/hypertension-2">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/hypertension-2</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/rn-cardiovascular-diseases/hypertension-rn">http://translate.khanacademy.org/test-prep/nclex-rn/rn-cardiovascular-diseases/hypertension-rn</a>
+# Title of topic (xc93c707d) on the pl stage
+# Title of topic (xc93c707d) on the tr stage
+# Title of topic (xce0db357) on the pt stage
+# Title of topic (xef0055aa) on the pl stage
+# Title of topic (xef0055aa) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Hypertension"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/arterial-stiffness">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/arterial-stiffness</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/arterial-stiffness-ddp">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/arterial-stiffness-ddp</a>
+# Title of topic (x243835e6) on the pl stage
+# Title of topic (x243835e6) on the tr stage
+# Title of topic (x3529d919) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Arterial stiffness"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/arterial-stiffness">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/arterial-stiffness</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/arterial-stiffness-ddp">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/arterial-stiffness-ddp</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x243835e6) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x243835e6) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x3529d919) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Arterial Stiffness"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-control">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-control</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/rn-blood-pressure-control">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/rn-blood-pressure-control</a>
+# Title of topic (x85762440) on the pt stage
+# Title of topic (x9c98f570) on the pl stage
+# Title of topic (x9c98f570) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Blood pressure control"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-control">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-control</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x9c98f570) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x9c98f570) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Blood Pressure Control"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-control">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-control</a>
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/rn-blood-pressure-control">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/rn-blood-pressure-control</a>
+# Description of topic (x85762440) on the pt stage
+# Description of topic (x9c98f570) on the pl stage
+# Description of topic (x9c98f570) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The human body enjoys stability. For example, if your blood pressure changes, the body puts a couple of brilliant systems into motion in order to respond and bring your blood pressure back to normal.  There are some quick responses using nerves and some slower responses using hormones.  The system using hormones is sometimes called the renin-angiotensin-aldosterone-system (RAAS), which is the main system in the body for controlling blood pressure. When your blood pressure drops too low or gets too high, your kidneys, liver, and pituitary gland (part of your brain) talk to each other to solve the problem. They do this without you even noticing! Learn how the body knows when the blood pressure has changed, and how hormones like angiotensin 2, aldosterone, and ADH help return blood pressure to back to normal."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-ddp">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-ddp</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/blood-pressure">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/blood-pressure</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x243a2b63) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x27b3f6ab) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x27b3f6ab) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Blood Pressure"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-ddp">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-ddp</a>
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/blood-pressure">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/blood-pressure</a>
+# Description of topic (x243a2b63) on the pt stage
+# Description of topic (x27b3f6ab) on the pl stage
+# Description of topic (x27b3f6ab) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Using the stethoscope to check blood pressure is a technique that’s been used for >100 years!  Blood pressure is one of the major vital signs frequently measured by health care workers, and it tells us a lot about our blood circulation.  Learn what blood pressure is, how it relates to resistance in a tube, why it is necessary to get oxygen to your cells, and how it can change as you age.  We’ll finally put it all together by relating pressure, flow, and resistance in one awesome equation!"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/induced-stem-cells-from-healthy-adults">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/induced-stem-cells-from-healthy-adults</a>.
+# Exercise at (xaeee17ce) on the pt stage.
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-vessels">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-vessels</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/bloodvessels">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/bloodvessels</a>
+# Title of topic (x1e8e0e76) on the pt stage
+# Title of topic (xb9efce3a) on the pl stage
+# Title of topic (xb9efce3a) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Blood vessels"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-vessels">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-vessels</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb9efce3a) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb9efce3a) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Blood Vessels"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-vessels">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/blood-vessels</a>
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/bloodvessels">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/bloodvessels</a>
+# Description of topic (x1e8e0e76) on the pt stage
+# Description of topic (xb9efce3a) on the pl stage
+# Description of topic (xb9efce3a) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Where does your blood go after it leaves the heart? Your body has a fantastic pipeline system that moves your blood around to drop off oxygen and food to those hungry cells, and removes cell waste. Learn how arteries carry blood away from the heart, how veins bring blood back to the heart, and about the different layers of cells that make up these blood vessels."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/changing-the-pv-loop-nm">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/changing-the-pv-loop-nm</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/changing-the-pv-loop">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/changing-the-pv-loop</a>
+# Title of topic (xda292f80) on the pl stage
+# Title of topic (xda292f80) on the tr stage
+# Title of topic (xf49eb476) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Changing the PV loop"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/changing-the-pv-loop-nm">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/changing-the-pv-loop-nm</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/changing-the-pv-loop">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/changing-the-pv-loop</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xda292f80) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xda292f80) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf49eb476) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Changing the PV Loop"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/fetal-circulation">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/fetal-circulation</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/fetal-circulation-ddp">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/fetal-circulation-ddp</a>
+# Title of topic (x3e8aeab7) on the pl stage
+# Title of topic (x3e8aeab7) on the tr stage
+# Title of topic (xd88f3ab8) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Fetal circulation"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/fetal-circulation">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/fetal-circulation</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/fetal-circulation-ddp">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/fetal-circulation-ddp</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x3e8aeab7) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x3e8aeab7) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd88f3ab8) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Fetal Circulation"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/heart-depolarization">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/heart-depolarization</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/heart-depolarization-ddp">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/heart-depolarization-ddp</a>
+# Title of topic (x5f0a1b83) on the pt stage
+# Title of topic (xb0d8cc8f) on the pl stage
+# Title of topic (xb0d8cc8f) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Heart depolarization"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/heart-muscle-contraction">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/heart-muscle-contraction</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/heart-muscle-contraction-ddp">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/heart-muscle-contraction-ddp</a>
+# Title of topic (xe1a3ead8) on the pl stage
+# Title of topic (xe1a3ead8) on the tr stage
+# Title of topic (xeeee9b06) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Heart muscle contraction"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/heart-muscle-contraction">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/heart-muscle-contraction</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/heart-muscle-contraction-ddp">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/heart-muscle-contraction-ddp</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe1a3ead8) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe1a3ead8) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xeeee9b06) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Heart Muscle Contraction"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/nerve-regulation-of-the-heart">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/nerve-regulation-of-the-heart</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/nerve-regulation-of-the-heart-ddp">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/nerve-regulation-of-the-heart-ddp</a>
+# Title of topic (x4d0eb449) on the pl stage
+# Title of topic (x4d0eb449) on the tr stage
+# Title of topic (x5c935b9c) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Nerve regulation of the heart"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/nerve-regulation-of-the-heart">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/nerve-regulation-of-the-heart</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/nerve-regulation-of-the-heart-ddp">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/nerve-regulation-of-the-heart-ddp</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x4d0eb449) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x4d0eb449) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x5c935b9c) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Nerve Regulation of the Heart"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/preload-and-afterload">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/preload-and-afterload</a>
+# Title of topic (x8c6b9867) on the pl stage
+# Title of topic (x8c6b9867) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Preload and afterload"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/preload-and-afterload">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/preload-and-afterload</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8c6b9867) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8c6b9867) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Preload and Afterload"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/pressure-volume-loops">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/pressure-volume-loops</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/pressure-volume-loops-ddp">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/pressure-volume-loops-ddp</a>
+# Title of topic (xb8414533) on the pt stage
+# Title of topic (xbc61f732) on the pl stage
+# Title of topic (xbc61f732) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Pressure volume loops"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/pressure-volume-loops">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/pressure-volume-loops</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/pressure-volume-loops-ddp">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-rn-circulatory-system/pressure-volume-loops-ddp</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb8414533) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xbc61f732) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xbc61f732) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Pressure Volume Loops"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/health-care-system">http://translate.khanacademy.org/science/health-and-medicine/health-care-system</a>
+# Title of topic (x07fc128c) on the pl stage
+# Title of topic (x07fc128c) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Health care system"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/health-care-system">http://translate.khanacademy.org/science/health-and-medicine/health-care-system</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x07fc128c) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x07fc128c) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Health Care System"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/healthcare-misc">http://translate.khanacademy.org/science/health-and-medicine/healthcare-misc</a>
+# Description of topic (x069a1823) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1 templates/emails/onboarding/download_apps_email.html:102 templates/emails/onboarding/download_apps_email.txt:16
+msgid "Enjoy!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/infectious-diseases/influenza">http://translate.khanacademy.org/science/health-and-medicine/infectious-diseases/influenza</a>
+# Description of topic (x0b35bcd7) on the pl stage
+# Description of topic (x0b35bcd7) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Most people have had the flu virus at least once in their lives, and it’s usually not a pleasant experience…  Fight back with some good information!  Learn about typical flu symptoms (and how tell it apart from the cold), and how the flu virus invades your cells to cause disease.  Finally, learn how flu vaccines may help prevent you from getting sick, and how we can test and treat the flu just in case you get really ill.  Stay healthy, my friends!"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/lab-values">http://translate.khanacademy.org/science/health-and-medicine/lab-values</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x1f8c66c8) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x1f8c66c8) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Lab Values and Concentrations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/respiratory-system/breathing-control-ir">http://translate.khanacademy.org/science/health-and-medicine/respiratory-system/breathing-control-ir</a>
+# Title of topic (x23de9609) on the pl stage
+# Title of topic (x23de9609) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Breathing control"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/respiratory-system/breathing-control-ir">http://translate.khanacademy.org/science/health-and-medicine/respiratory-system/breathing-control-ir</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x23de9609) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x23de9609) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/rn-respiratory-system/breathing-control">http://translate.khanacademy.org/test-prep/nclex-rn/rn-respiratory-system/breathing-control</a>
+# Title of topic (x28a19c00) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Breathing Control"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/respiratory-system/gas-exchange-jv">http://translate.khanacademy.org/science/health-and-medicine/respiratory-system/gas-exchange-jv</a>
+# Title of topic (x3f397449) on the pl stage
+# Title of topic (x3f397449) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Gas exchange"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/health-and-medicine/respiratory-system/gas-exchange-jv">http://translate.khanacademy.org/science/health-and-medicine/respiratory-system/gas-exchange-jv</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x3f397449) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x3f397449) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/rn-respiratory-system/gas-exchange-pf">http://translate.khanacademy.org/test-prep/nclex-rn/rn-respiratory-system/gas-exchange-pf</a>
+# Title of topic (xee2c3c38) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Gas Exchange"
+msgstr ""

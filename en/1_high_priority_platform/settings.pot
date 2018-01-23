@@ -1,0 +1,446 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2017-12-01 14:41+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# See text on <a href="http://www.khanacademy.org/login">http://www.khanacademy.org/login</a>
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: intl/datastore:1 templates/settings.html:265 templates/signup_embedded.html:37
+msgid "Google"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/settings/linkaccount">http://www.khanacademy.org/settings/linkaccount</a>
+#: javascript/phantom-package/link-email-dialog.handlebars:5 templates/settings-linkemail.html:25
+msgid "Link an email address"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/settings/linkaccount">http://www.khanacademy.org/settings/linkaccount</a>
+#: templates/emails/link_verification_email.html:29 templates/settings-linkemail.html:46
+msgid "Link this email address"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/settings/linkaccount">http://www.khanacademy.org/settings/linkaccount</a>
+#: templates/settings-linkemail.html:28
+#, python-format
+msgid "Do you want to link <b>%(email)s</b> to your Khan Academy account?"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/settings/linkaccount">http://www.khanacademy.org/settings/linkaccount</a>
+#: templates/settings-linkemail.html:30
+msgid "You will be unlinked from your parent's account and be able to log into your account using your Khan Academy password or any Google or Facebook account connected to that email address."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/settings/linkaccount">http://www.khanacademy.org/settings/linkaccount</a>
+#: templates/settings-linkemail.html:32
+msgid "You will be able to log into your account using your Khan Academy password or any Google or Facebook account connected to that email address."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/settings/linkaccount">http://www.khanacademy.org/settings/linkaccount</a>
+#: templates/settings-linkemail.html:36
+msgid "By clicking \"Link this email address\", you agree to our <a href=\"/about/tos\" target=\"_blank\">Terms of Service</a> and <a href=\"/about/privacy-policy\" target=\"_blank\">Privacy Policy</a>."
+msgstr ""
+
+#: accounts/settings.py:112
+#, python-format
+msgid "The email address %(email)s is already linked to your Khan Academy account."
+msgstr ""
+
+#: accounts/settings.py:117
+#, python-format
+msgid "Sorry, %(email)s is already linked to another Khan Academy account. Please log into it and unlink the email address or delete the account in order to link the email address to this account."
+msgstr ""
+
+#: accounts/settings.py:124
+msgid "Please enter a valid email address in order to link it to your Khan Academy account."
+msgstr ""
+
+#: accounts/settings.py:129
+msgid "You can now log in with your Google account."
+msgstr ""
+
+#: accounts/settings.py:133
+msgid "You can now log in with your Facebook account."
+msgstr ""
+
+#: accounts/settings.py:137
+msgid "Your CollegeBoard.org account is now disconnected."
+msgstr ""
+
+#: accounts/settings.py:141
+msgid "Your Google account is now disconnected."
+msgstr ""
+
+#: accounts/settings.py:145
+msgid "Your Facebook account is now disconnected."
+msgstr ""
+
+#: accounts/settings.py:149
+msgid "You cannot disconnect this account since it would leave you unable to log in again."
+msgstr ""
+
+#: accounts/settings.py:154
+msgid "Unable to disconnect account."
+msgstr ""
+
+#: accounts/settings.py:184
+#, python-format
+msgid "Successfully linked %(email)s to your Khan Academy account."
+msgstr ""
+
+#: accounts/settings.py:189
+#, python-format
+msgid "Please check your email at %(email)s and click on the link to finish connecting your email address."
+msgstr ""
+
+#: accounts/settings.py:195
+#, python-format
+msgid "Dev-only verification link: %(email)s"
+msgstr ""
+
+#: accounts/settings.py:199
+#, python-format
+msgid "Successfully removed %(email)s from your Khan Academy account."
+msgstr ""
+
+#: accounts/settings.py:204
+#, python-format
+msgid "The email address %(email)s isn't linked to your Khan Academy account"
+msgstr ""
+
+#: accounts/settings.py:209
+#, python-format
+msgid "Please set your primary email address to be a different address before removing %(email)s."
+msgstr ""
+
+#: accounts/settings.py:342
+msgid "Your activity and achievements"
+msgstr ""
+
+#: accounts/settings.py:356
+msgid "One email with all your students"
+msgstr ""
+
+#: accounts/settings.py:408
+msgid "Mastery task notifications"
+msgstr ""
+
+#: accounts/settings.py:416
+msgid "Answer posted to your question"
+msgstr ""
+
+#: accounts/settings.py:425
+msgid "New assignment notifications"
+msgstr ""
+
+#: accounts/settings.py:434
+msgid "Failed evaluation responses"
+msgstr ""
+
+#: accounts/settings.py:504
+msgid "We can't load that settings page"
+msgstr ""
+
+#: accounts/settings.py:505
+msgid "Something went wrong; we can't load that settings page for that user. <br><a href='/settings/account'>Go back to your own settings page</a>."
+msgstr ""
+
+#: accounts/settings.py:836 javascript/settings-package/settings.js:347
+msgid "Please tell us your name"
+msgstr ""
+
+#: accounts/settings.py:840
+msgid "Please pick a different name"
+msgstr ""
+
+#: accounts/settings.py:844
+msgid "That username is unavailable."
+msgstr ""
+
+#: accounts/settings.py:858
+msgid "Information updated"
+msgstr ""
+
+#: accounts/settings.py:1077
+msgid "Unable to resend email."
+msgstr ""
+
+#: accounts/settings.py:1094
+msgid "Must provide a new email."
+msgstr ""
+
+#: accounts/settings.py:1122
+msgid "Unable to change email."
+msgstr ""
+
+# Comment: Section header for the General section of the Settings UI
+# Exercise at <a href="http://translate.khanacademy.org/humanities/us-history/road-to-revolution/benjamin-franklin/e/benjamin-franklin-quiz">http://translate.khanacademy.org/humanities/us-history/road-to-revolution/benjamin-franklin/e/benjamin-franklin-quiz</a>.
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/aspeninstitute/founding-fathers/aspen-benjamin-franklin/e/benjamin-franklin-quiz">http://translate.khanacademy.org/partner-content/aspeninstitute/founding-fathers/aspen-benjamin-franklin/e/benjamin-franklin-quiz</a>.
+# Exercise at (x00f37d21) on the accents stage.
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+# (format: xml)
+#: coaches/coach_models.py:1121 content/graphql/topics.py:162 content/graphql/topics.py:163 genfiles/compiled_jsx/en/javascript/settings-package/general-section.jsx.js:28 intl/datastore:1 javascript/class-creator-package/utils.js:14
+msgid "General"
+msgstr ""
+
+#: emails/api/emails.py:270
+msgid "Stuff we think you'll enjoy"
+msgstr ""
+
+#: emails/api/emails.py:273
+msgid "Really big announcements"
+msgstr ""
+
+#: emails/api/emails.py:279
+msgid "Updates for teachers & educators"
+msgstr ""
+
+#: emails/api/emails.py:282
+msgid "Updates for coaches & parents"
+msgstr ""
+
+#: emails/models.py:592
+msgid "Finish linking this email to your Khan Academy account"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/allow-coaches-setting.jsx.js:51
+msgid "Your setting could not be saved"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/email-reports-section.jsx.js:31
+msgid "Receive a summary of your activity for the week:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/email-reports-section.jsx.js:40
+msgid "Receive a separate email for this class:"
+msgid_plural "Receive separate emails for these classes:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/email-reports-section.jsx.js:46
+msgid "Receive a summary of what your students have been working on:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/email-reports-section.jsx.js:64
+msgid "Receive SAT activity emails for these classes:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/email-reports-section.jsx.js:78
+msgid "Receive a summary of what your children have been working on:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/email-reports-section.jsx.js:93
+msgid "Weekly activity reports"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/email-settings.jsx.js:108
+msgid "Sorry, email notifications are not available for child accounts. Come back after you turn 13!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/email-settings.jsx.js:113
+msgid "Back to account settings"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/email-settings.jsx.js:119
+msgid "Once you open the email we sent and finish signing up, you'll be able to receive other emails from Khan Academy."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/email-settings.jsx.js:128
+msgid "If you connect an email to your account, we'll be able to send you notifications and announcements about new stuff on Khan Academy. Don't worry though, we hate spam too, so we make it really easy to unsubscribe."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/email-settings.jsx.js:140 templates/settings.html:330
+msgid "Connect an email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/email-settings.jsx.js:220
+msgid "Successfully unsubscribed"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/email-settings.jsx.js:221
+msgid "This subscription has been turned off."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/email-subscription.jsx.js:61
+msgid "Error! Please try again :("
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/general-section.jsx.js:30
+msgid "Occasionally we'll send you email that we think you'll appreciate. If you'd rather not receive any email from Khan Academy, turn it off here."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/general-section.jsx.js:35
+msgid "Enable email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/general-section.jsx.js:40
+msgid "Note that you may still receive critical email such as forgotten password resets."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/newsletters-section.jsx.js:71
+#, python-format
+msgid "Sorry, something went wrong loading your newsletter preferences. Wait a minute or two, then %(tryAgain)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/newsletters-section.jsx.js:85
+msgid "Newsletters"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/newsletters-section.jsx.js:87
+msgid "Our newsletters keep you up-to-date with what's happening at Khan Academy."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/primary-email-section.jsx.js:46
+msgid "Send email to"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/settings-package/primary-email-section.jsx.js:55
+#, python-format
+msgid "To use an email address not listed here, %(connect)s."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/pwreset">http://www.khanacademy.org/pwreset</a>
+#: javascript/login-package/password-change.js:76 templates/password-reset.html:77 templates/settings.html:228
+msgid "Change password"
+msgstr ""
+
+#: javascript/settings-package/forms.js:75
+msgid "Invalid field"
+msgstr ""
+
+#: javascript/settings-package/settings.js:98
+msgid "In order to protect students from accidentally deleting their data, we wait a day before fully deleting any account.<br><br>Once you click Delete, your account and all of its history will automatically be deleted directly after this waiting period. <b>You don't have to do anything else.</b>"
+msgstr ""
+
+#: javascript/settings-package/settings.js:133
+msgid "Sound effects"
+msgstr ""
+
+#: javascript/settings-package/settings.js:139
+msgid "Video autocontinue"
+msgstr ""
+
+#: javascript/settings-package/settings.js:151
+msgid "Reduce motion and animations"
+msgstr ""
+
+#: javascript/settings-package/settings.js:323
+msgid "We ran into a problem trying to delete your account. If this happens repeatedly, please let us know via 'Report a Problem' at the bottom of this page so we can help."
+msgstr ""
+
+#: javascript/settings-package/settings.js:369
+msgid "Must be alphanumeric and start with a letter"
+msgstr ""
+
+#: javascript/settings-package/settings.js:433
+msgid "Roles updated"
+msgstr ""
+
+#: javascript/settings-package/settings.js:463
+msgid "Invalid Mobile Phone Number"
+msgstr ""
+
+#: javascript/settings-package/settings.js:478
+msgid "Mobile phone number updated!"
+msgstr ""
+
+#: javascript/settings-package/settings.js:514
+msgid "SAT extra time options updated"
+msgstr ""
+
+#: javascript/settings-package/settings.js:520
+msgid "Failed to update SAT extra timeoptions"
+msgstr ""
+
+#: javascript/settings-package/settings.js:539
+msgid "Accessibility options updated"
+msgstr ""
+
+#: javascript/settings-package/settings.js:558
+msgid "Invalid email"
+msgstr ""
+
+#: javascript/settings-package/settings.js:572
+msgid "Parent invited."
+msgstr ""
+
+#: javascript/settings-package/settings.js:594
+msgid "Password cannot be blank"
+msgstr ""
+
+#: javascript/settings-package/settings.js:600 login/passwords.py:176
+msgid "Passwords don't match"
+msgstr ""
+
+#: javascript/settings-package/settings.js:609
+msgid "Please enter your existing password"
+msgstr ""
+
+#: javascript/settings-package/settings.js:623 login/passwords.py:191 login/passwords.py:203
+msgid "Password changed"
+msgstr ""
+
+#: javascript/settings-package/settings.js:741
+#, python-format
+msgid "Are you sure you want to remove %(email)s from your account?"
+msgstr ""
+
+#: javascript/settings-package/settings.js:751 javascript/settings-package/settings.js:884
+msgid "Are you sure you want to disconnect this account?"
+msgstr ""

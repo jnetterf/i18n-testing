@@ -1,0 +1,596 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:17+0000\n"
+"PO-Revision-Date: 2017-11-21 12:17+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-programming/html-css-js/html-css-js-further-learning">http://translate.khanacademy.org/computing/computer-programming/html-css-js/html-css-js-further-learning</a>
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-programming/html-css/html-css-further-learning">http://translate.khanacademy.org/computing/computer-programming/html-css/html-css-further-learning</a>
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-programming/html-js-jquery/further-learning-jquery">http://translate.khanacademy.org/computing/computer-programming/html-js-jquery/further-learning-jquery</a>
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/algorithms-more-learning">http://translate.khanacademy.org/computing/computer-science/algorithms/algorithms-more-learning</a>
+# Title of topic (x14b5a3a3) on the bn stage
+# Title of topic (x14b5a3a3) on the pl stage
+# Title of topic (x3c59ea3c) on the bn stage
+# Title of topic (x3c59ea3c) on the pl stage
+# Title of topic (x5c00331a) on the bn stage
+# Title of topic (x5c00331a) on the pl stage
+# Title of topic (xa5b358af) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Further learning"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/algorithms-more-learning">http://translate.khanacademy.org/computing/computer-science/algorithms/algorithms-more-learning</a>
+# Description of topic (xa5b358af) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Ideas of how you could continue your learning journey in algorithms."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation">http://translate.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation</a>
+# Title of topic (xf15e54c8) on the pl stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation">http://translate.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation</a>
+# Title of tutorial article (x956cf7fd) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Asymptotic notation"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation">http://translate.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf15e54c8) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Asymptotic Notation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation">http://translate.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation</a>
+# Description of topic (xf15e54c8) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to use asymptotic analysis to describe the efficiency of an algorithm, and how to use asymptotic notation (Big O, Big-Theta, and Big-Omega) to more precisely describe the efficiency."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search</a>
+# Title of topic (x7f9cce89) on the pl stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search</a>
+# Title of tutorial article (xdaa637b0) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Binary search"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search</a>
+# Description of topic (x7f9cce89) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about binary search, a way to efficiently search an array of items by halving the search space each time."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/breadth-first-search">http://translate.khanacademy.org/computing/computer-science/algorithms/breadth-first-search</a>
+# Title of topic (xeb6a1ac8) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Breadth-first search"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/breadth-first-search">http://translate.khanacademy.org/computing/computer-science/algorithms/breadth-first-search</a>
+# Description of topic (xeb6a1ac8) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to traverse a graph using breadth-first-search to find a particular node or to make sure you've visited all the nodes, traversing one layer at a time."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/breadth-first-search">http://translate.khanacademy.org/computing/computer-science/algorithms/breadth-first-search</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to traverse a graph using breadth-first-search to find a particular node or to make sure you've visited all the notes, traversing one layer at a time."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation">http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation</a>
+# Title of topic (x595556b1) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Graph representation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation">http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation</a>
+# Description of topic (x595556b1) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to describe graphs, with their edges, vertices, and weights, and see different ways to store graph data, with edge lists, adjacency matrices, and adjacency lists."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/a/insertion-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/a/insertion-sort</a>.
+# Article is at (x73d59d90) on the pl stage.
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort</a>
+# Title of topic (xe2b236d2) on the pl stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/a/insertion-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/a/insertion-sort</a>
+# Title of tutorial article (x73d59d90) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Insertion sort"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort</a>
+# Description of topic (xe2b236d2) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn insertion sort, another simple but not very efficient way to sort an array of values."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms">http://translate.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms</a>
+# Title of topic (x06d329d9) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Intro to algorithms"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms">http://translate.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x06d329d9) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Intro to Algorithms"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms">http://translate.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms</a>
+# Description of topic (x06d329d9) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "What are algorithms and why should you care? We'll start with an overview of algorithms and then discuss two games that you could use an algorithm to solve more efficiently - the number guessing game and a route-finding game."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/overview-of-merge-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/overview-of-merge-sort</a>.
+# Article is at (xed3ada49) on the pl stage.
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort</a>
+# Title of topic (x5e770c96) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Merge sort"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort</a>
+# Description of topic (x5e770c96) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn merge sort, a more efficient sorting algorithm that relies heavily on the power of recursion to repeatedly sort and merge sub-arrays."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort</a>
+# Title of topic (xa9f8138d) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Quick sort"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort</a>
+# Description of topic (xa9f8138d) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn quick sort, another efficient sorting algorithm that uses recursion to more quickly sort an array of values."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms</a>
+# Title of topic (xdb0785c4) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Recursive algorithms"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xdb0785c4) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Recursive Algorithms"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms</a>
+# Description of topic (xdb0785c4) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn the concept of recursion, a technique that is often used in algorithms. See how to use recursion to calculate factorial and powers of a number, plus to generate art."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms</a>
+# Title of topic (x163318ed) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Selection sort"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms</a>
+# Description of topic (x163318ed) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn selection sort, a simple algorithm for sorting an array of values, and see why it isn't the most efficient algorithm."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi">http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi</a>
+# Title of topic (x8da3f78d) on the pl stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/a/towers-of-hanoi">http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/a/towers-of-hanoi</a>
+# Title of tutorial article (x0f99c1d1) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Towers of Hanoi"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi">http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi</a>
+# Description of topic (x8da3f78d) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Use the recursive technique to solve the Towers of Hanoi, a classic mathematical puzzle  and one reportedly faced by monks in a temple."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms">http://translate.khanacademy.org/computing/computer-science/algorithms</a>
+# Title of topic (x4cd91b0c) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Algorithms"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/algorithms">http://translate.khanacademy.org/computing/computer-science/algorithms</a>
+# Description of topic (x4cd91b0c) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We've partnered with Dartmouth college professors Tom Cormen and Devin Balkcom to teach introductory computer science algorithms, including searching, sorting, recursion, and graph theory. Learn with a combination of articles, visualizations, quizzes, and coding challenges."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/ciphers">http://translate.khanacademy.org/computing/computer-science/cryptography/ciphers</a>
+# Description of topic (xa6df0145) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Assess your understanding of the code breaking presented in the ancient cryptography lesson. This series of articles and exercises will prepare you for the upcoming challenge!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory</a>
+# Description of topic (xab669f88) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Why do primes make some problems fundamentally hard? To find out we need to explore primality tests in more detail."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge">http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge</a>
+# Description of topic (x355061c5) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Ready to try your hand at real-world code breaking? This adventure contains a beginner, intermediate and super-advanced level. See how far you can go!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/internet-intro">http://translate.khanacademy.org/computing/computer-science/internet-intro</a>
+# Title of topic (x5a0b1882) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Internet 101"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/internet-intro">http://translate.khanacademy.org/computing/computer-science/internet-intro</a>
+# Description of topic (x5a0b1882) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Thanks to our partners at Code.org, you can learn how the internet works - everything from WiFi and IP addresses to cybersecurity and crime."
+msgstr ""

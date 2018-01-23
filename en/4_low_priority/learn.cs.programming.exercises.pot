@@ -1,0 +1,1376 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:16+0000\n"
+"PO-Revision-Date: 2017-11-21 12:16+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Exercise is at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise is at (x0fa9195636a0bade) on the bn stage.
+# Exercise is at (x0fa9195636a0bade) on the pl stage.
+# Exercise is at (x0fa9195636a0bade) on the pt stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>
+# Pretty display name for exercise (x7cde8e67) on the bn stage
+# Pretty display name for exercise (x7cde8e67) on the pl stage
+# Pretty display name for exercise (x7cde8e67) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Quiz: While Loops"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Each time the loop is executed, it will print out \"hi\"."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Each time the loop is executed, it will print the value of the ```i``` variable."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "If ```i``` is not less than zero when the program encounters the while loop, it will not execute any of the code inside the loop."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "It will output an error!"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "It won't output anything."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Once the program prints out the value of ```x```, after the loop has executed three times, the value is now 6."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The ```i``` variable is assigned to 0 right before the while loop. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The ```i``` variable is initialized to 0 at the beginning of the program, and is incremented by 1 each time the loop is executed."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The ```i``` variable is initialized to 3 at the beginning of the program, and is incremented by 1 each time the loop is executed."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The ```i``` variable starts off at 0, and is incremented by 1 each time the loop is executed."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The condition ```i < 0``` will be false, since ```i``` is set to 0 right before the while loop, so the loop will not be executed and the program will output nothing."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The first time that the while loop is executed, the ```x``` variable is set to 4 (increased by 1 from its original value), and ```i``` is set to 1 (increased by 1 from its original value). "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The first time the loop is executed, the ```println(\"hi\");``` line will print out \"hi\", and then the ```i++``` line will set ```i``` to 1."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The first time the loop is executed, the ```println(i);``` line will print out 0, the initial value of ```i```, and then the ```i++``` line will set ```i``` to 1."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The first time the loop is executed, the ```println(i);``` line will print out 3, the initial value of ```i```, and then the ```i += 1``` line will set ```i``` to 4."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The program will then run the ```println(\"bye\");``` line, which will print \"bye\"."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The second time that the loop is executed, it will print out 1, the new value of ```i```, and then will set i to 2."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The second time that the loop is executed, it will print out 4, the new value of ```i```, and then will set i to 5."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The second time that the while loop is executed, the ```x``` variable is set to 5 (increased by 1 from its previous value), and ```i``` is set to 2 (increased by 1 from its previous value). "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The second time the loop is executed, the ```println(\"hi\");``` line will print out \"hi\", and then the ```i++``` line will set ```i``` to 2."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The third time that the loop is executed, it will print out 2, the new value of ```i```, and will set i to 3."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The third time that the loop is executed, it will print out 5, the new value of ```i```, and will set i to 6."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The third time that the while loop is executed, the ```x``` variable is set to 6 (increased by 1 from its previous value), and ```i``` is set to 3 (increased by 1 from its previous value). "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The third time the loop is executed, the ```println(\"hi\");``` line will print out \"hi\", and then the ```i++``` line will set ```i``` to 3."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The while loop will only be executed when the condition ```i < 0``` is true. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This program prints out the value of the ```x``` variable, which is incremented by 1 each time the while loop is executed."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"```\n"
+"hi\n"
+"```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"```\n"
+"hi\n"
+"hi\n"
+"```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"```\n"
+"hi\n"
+"hi\n"
+"hi\n"
+"```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Once the program is done running, the while loop will have executed three times, and the final output will be:\n"
+"```\n"
+"\n"
+"hi\n"
+"hi\n"
+"hi\n"
+"bye\n"
+"```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Once the value of the ```i``` variable is equal to or greater than 3, the loop will stop executing."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Once the value of the ```i``` variable is equal to or greater than 6, the loop will stop executing."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The loop will stop executing after that point, because the condition ```i < 3``` is no longer true."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The loop will stop executing after that point, because the condition ```i < 6``` is no longer true."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The while loop will be executed as long as the ```i``` variable is less than 3. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The while loop will stop executing at this point, since the condition ```i < 3``` is no longer true."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"```\n"
+"\n"
+"hi\n"
+"bye\n"
+"```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"```\n"
+"\n"
+"hi\n"
+"bye\n"
+"hi\n"
+"bye\n"
+"hi\n"
+"bye\n"
+"```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"```\n"
+"\n"
+"hi\n"
+"hi\n"
+"hi\n"
+"bye\n"
+"```"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise is at (x0fa9195636a0bade) on the bn stage.
+# Exercise is at (x0fa9195636a0bade) on the pl stage.
+# Exercise is at (x0fa9195636a0bade) on the pt stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables</a>
+# Pretty display name for exercise (xaa1aa46a) on the bn stage
+# Pretty display name for exercise (xaa1aa46a) on the pl stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Quiz: Variables"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (xaa1aa46a) on the bn stage.
+# Exercise at (xaa1aa46a) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Since ```xPos``` was assigned to the value 55, and then ```xPos``` is passed as the first parameter to the ellipse commands, then the ellipses will be drawn at an x position of 55."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (xaa1aa46a) on the bn stage.
+# Exercise at (xaa1aa46a) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The ```rectWidth``` variable was assigned to 20 at the top of the program."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (xaa1aa46a) on the bn stage.
+# Exercise at (xaa1aa46a) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The ```xPos``` variable was assigned to the value 55 at the top of the program."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (xaa1aa46a) on the bn stage.
+# Exercise at (xaa1aa46a) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The third parameter of the ```rect``` command determines the width of the rectangle."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables</a>.
+# Exercise at (xaa1aa46a) on the bn stage.
+# Exercise at (xaa1aa46a) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The ```h``` variable was assigned to the value 15 at the top of the program."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables</a>.
+# Exercise at (xaa1aa46a) on the bn stage.
+# Exercise at (xaa1aa46a) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The value of ```x``` will be whatever value was assigned to it."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables</a>.
+# Exercise at (xaa1aa46a) on the bn stage.
+# Exercise at (xaa1aa46a) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "```x``` was assigned to the value of 5, so the value will be 5."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Since ```h``` was assigned to 15, and ```h``` was passed as the fourth parameter to each command, then the shapes will be 15 pixels tall."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Since ```rectWidth``` was assigned to the value of 20, and ```rectWidth``` was passed as the third parameter, then the rectangle will be 20 pixels wide."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The ```h``` variable is passed as the fourth parameter to each of the commands, so the height of each shape will be whatever value the ```h``` variable was assigned to."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The shapes will be as tall as their height parameter. For both the ```rect``` and ```ellipse``` commands, the fourth parameter determines the height."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The variable ```rectWidth``` was passed as the third parameter to each command, so the width will be whatever value ```rectWidth``` was assigned to."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/e/exercise--intro-to-variables</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We are passing the variable ```xPos``` to the first argument of the ellipse commands, so the x position of the ellipses will be whatever value the ```xPos``` variable is assigned to."
+msgstr ""

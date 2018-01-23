@@ -1,0 +1,1584 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-29 11:24+0000\n"
+"PO-Revision-Date: 2017-11-29 11:24+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-eighth-grade-math/geometric-transformations">http://translate.khanacademy.org/math/cc-eighth-grade-math/geometric-transformations</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/sets/sets1">http://translate.khanacademy.org/partner-content/pixar/sets/sets1</a>
+# Title of topic (x726f62ed) on the ja stage
+# Title of topic (x726f62ed) on the pl stage
+# Title of topic (x726f62ed) on the tr stage
+# Title of topic (xc8775c02c8a5d124) on the pt stage
+# Title of topic (xc8775c02c8a5d124) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Geometric transformations"
+msgstr ""
+
+# Call to action for a curated module on <a href="http://translate.khanacademy.org/partner-content/pixar">http://translate.khanacademy.org/partner-content/pixar</a>.
+# Call to action for a curated module on <a href="http://translate.khanacademy.org/partner-content/pixar-latam">http://translate.khanacademy.org/partner-content/pixar-latam</a>.
+# Call to action for a curated module on (x5c06b0c3) on the pl stage.
+# Call to action for a curated module on (x9efc9f4b) on the es stage.
+# Call to action for a curated module on (x9efc9f4b) on the ja stage.
+# Call to action for a curated module on (x9efc9f4b) on the pl stage.
+# Call to action for a curated module on (x9efc9f4b) on the tr stage.
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/start">http://translate.khanacademy.org/partner-content/pixar/start</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x10961fed) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x10961fed) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x10961fed) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/start-here-latam">http://translate.khanacademy.org/partner-content/pixar-latam/start-here-latam</a>
+# Title of topic (x8f44f861) on the pl stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam/intro-to-animation-latam/a/start-here-animation-latam">http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam/intro-to-animation-latam/a/start-here-animation-latam</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam/mathematics-of-animation-curves-latam/a/lesson-brief-animation-latam">http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam/mathematics-of-animation-curves-latam/a/lesson-brief-animation-latam</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam/mathematics-of-subdivision-latam/a/subdivision-lession-brief-latam2">http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam/mathematics-of-subdivision-latam/a/subdivision-lession-brief-latam2</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam/modeling-with-subdivision-surfaces-latam/a/start-here-character-latam">http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam/modeling-with-subdivision-surfaces-latam/a/start-here-character-latam</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam/building-crowds-latam/a/start-here-crowds-latam">http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam/building-crowds-latam/a/start-here-crowds-latam</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam/counting-crowds-latam/a/lesson-brief-crowds-latam">http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam/counting-crowds-latam/a/lesson-brief-crowds-latam</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam/calculating-parabolas-latam/a/parabolas-lesson-brief-latam">http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam/calculating-parabolas-latam/a/parabolas-lesson-brief-latam</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam/modeling-grass-with-parabolas-latam/a/start-here-em-latam">http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam/modeling-grass-with-parabolas-latam/a/start-here-em-latam</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar-latam/rendering-latam/mathematics-of-rendering/a/rendering-lesson-brief-latam">http://translate.khanacademy.org/partner-content/pixar-latam/rendering-latam/mathematics-of-rendering/a/rendering-lesson-brief-latam</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar-latam/rendering-latam/rendering-101-latam/a/start-here-rendering-latam">http://translate.khanacademy.org/partner-content/pixar-latam/rendering-latam/rendering-101-latam/a/start-here-rendering-latam</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/animate/ball/a/start-here-animation">http://translate.khanacademy.org/partner-content/pixar/animate/ball/a/start-here-animation</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/animate/parametric-curves/a/lesson-brief-animation">http://translate.khanacademy.org/partner-content/pixar/animate/parametric-curves/a/lesson-brief-animation</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/crowds/crowds-1/a/start-here-crowds">http://translate.khanacademy.org/partner-content/pixar/crowds/crowds-1/a/start-here-crowds</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/crowds/crowds2/a/lesson-brief-crowds">http://translate.khanacademy.org/partner-content/pixar/crowds/crowds2/a/lesson-brief-crowds</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/effects/particle-physics/a/start-here-fx">http://translate.khanacademy.org/partner-content/pixar/effects/particle-physics/a/start-here-fx</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/environment-modeling-2/animating-parabolas-ver2/a/start-here-em">http://translate.khanacademy.org/partner-content/pixar/environment-modeling-2/animating-parabolas-ver2/a/start-here-em</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/environment-modeling-2/mathematics-of-parabolas2-ver2/a/parabolas-lesson-brief">http://translate.khanacademy.org/partner-content/pixar/environment-modeling-2/mathematics-of-parabolas2-ver2/a/parabolas-lesson-brief</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/modeling-character/modeling-subdivision/a/start-here-character">http://translate.khanacademy.org/partner-content/pixar/modeling-character/modeling-subdivision/a/start-here-character</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/modeling-character/subdivision-averages/a/subdivision-lession-brief">http://translate.khanacademy.org/partner-content/pixar/modeling-character/subdivision-averages/a/subdivision-lession-brief</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/pattern/dino/a/start-here-patterns">http://translate.khanacademy.org/partner-content/pixar/pattern/dino/a/start-here-patterns</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/pattern/perlin-noise/a/start-here-perlin">http://translate.khanacademy.org/partner-content/pixar/pattern/perlin-noise/a/start-here-perlin</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/pixar-rigging/code-character/a/rig2-start">http://translate.khanacademy.org/partner-content/pixar/pixar-rigging/code-character/a/rig2-start</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/pixar-rigging/intro-to-rigging/a/start-here-rigging1">http://translate.khanacademy.org/partner-content/pixar/pixar-rigging/intro-to-rigging/a/start-here-rigging1</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/rendering/rendering-2/a/rendering-lesson-brief">http://translate.khanacademy.org/partner-content/pixar/rendering/rendering-2/a/rendering-lesson-brief</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/rendering/rendering1/a/start-here-rendering">http://translate.khanacademy.org/partner-content/pixar/rendering/rendering1/a/start-here-rendering</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/sets/rotation/a/rotation-lesson-brief">http://translate.khanacademy.org/partner-content/pixar/sets/rotation/a/rotation-lesson-brief</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/sets/sets1/a/start-here-sets">http://translate.khanacademy.org/partner-content/pixar/sets/sets1/a/start-here-sets</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/puppies/piab-sandbox/fx2-test/a/start-here-fx">http://translate.khanacademy.org/puppies/piab-sandbox/fx2-test/a/start-here-fx</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/puppies/piab-sandbox/rigging/a/start-here-rigging1">http://translate.khanacademy.org/puppies/piab-sandbox/rigging/a/start-here-rigging1</a>
+# Title of tutorial article (x005380c0) on the pl stage
+# Title of tutorial article (x0390637f) on the ja stage
+# Title of tutorial article (x0390637f) on the pl stage
+# Title of tutorial article (x0390637f) on the tr stage
+# Title of tutorial article (x13f9ee38) on the ja stage
+# Title of tutorial article (x13f9ee38) on the pl stage
+# Title of tutorial article (x13f9ee38) on the tr stage
+# Title of tutorial article (x1d6065f8) on the ja stage
+# Title of tutorial article (x1d6065f8) on the pl stage
+# Title of tutorial article (x1d6065f8) on the tr stage
+# Title of tutorial article (x24deaaad) on the pl stage
+# Title of tutorial article (x286833db) on the ja stage
+# Title of tutorial article (x286833db) on the pl stage
+# Title of tutorial article (x286833db) on the tr stage
+# Title of tutorial article (x2df6919d) on the ja stage
+# Title of tutorial article (x2df6919d) on the pl stage
+# Title of tutorial article (x2df6919d) on the tr stage
+# Title of tutorial article (x3347a03f) on the ja stage
+# Title of tutorial article (x3347a03f) on the pl stage
+# Title of tutorial article (x3347a03f) on the tr stage
+# Title of tutorial article (x3766b047) on the pl stage
+# Title of tutorial article (x4eeb0e55) on the ja stage
+# Title of tutorial article (x4eeb0e55) on the pl stage
+# Title of tutorial article (x4eeb0e55) on the tr stage
+# Title of tutorial article (x6978565e) on the ja stage
+# Title of tutorial article (x6978565e) on the pl stage
+# Title of tutorial article (x6978565e) on the tr stage
+# Title of tutorial article (x73af4f9b) on the pl stage
+# Title of tutorial article (x74826699) on the pl stage
+# Title of tutorial article (x827ca763) on the pl stage
+# Title of tutorial article (x8fb7b92e) on the pl stage
+# Title of tutorial article (x97803dae) on the ja stage
+# Title of tutorial article (x97803dae) on the pl stage
+# Title of tutorial article (x97803dae) on the tr stage
+# Title of tutorial article (x9c54b624) on the ja stage
+# Title of tutorial article (x9c54b624) on the pl stage
+# Title of tutorial article (x9c54b624) on the tr stage
+# Title of tutorial article (xa98c0475) on the ja stage
+# Title of tutorial article (xa98c0475) on the pl stage
+# Title of tutorial article (xa98c0475) on the tr stage
+# Title of tutorial article (xabf57f20) on the ja stage
+# Title of tutorial article (xabf57f20) on the pl stage
+# Title of tutorial article (xabf57f20) on the tr stage
+# Title of tutorial article (xc0adb989) on the pl stage
+# Title of tutorial article (xc8229f62) on the ja stage
+# Title of tutorial article (xc8229f62) on the pl stage
+# Title of tutorial article (xc8229f62) on the tr stage
+# Title of tutorial article (xdc2e0e9a) on the ja stage
+# Title of tutorial article (xdc2e0e9a) on the pl stage
+# Title of tutorial article (xdc2e0e9a) on the tr stage
+# Title of tutorial article (xe67f8ae7) on the pl stage
+# Title of tutorial article (xead33e9a) on the ja stage
+# Title of tutorial article (xead33e9a) on the pl stage
+# Title of tutorial article (xead33e9a) on the tr stage
+# Title of tutorial article (xeb4407de) on the ja stage
+# Title of tutorial article (xeb4407de) on the pl stage
+# Title of tutorial article (xeb4407de) on the tr stage
+# Title of tutorial article (xf78e4021) on the pl stage
+# Title of tutorial article (xfc6ebb1c) on the ja stage
+# Title of tutorial article (xfc6ebb1c) on the pl stage
+# Title of tutorial article (xfc6ebb1c) on the tr stage
+# Title of video <a href="http://translate.khanacademy.org/partner-content/pixar/start/introduction/v/pipeline-video">http://translate.khanacademy.org/partner-content/pixar/start/introduction/v/pipeline-video</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Start here!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam/intro-to-animation-latam">http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam/intro-to-animation-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/animate/ball">http://translate.khanacademy.org/partner-content/pixar/animate/ball</a>
+# Title of topic (x197442f4) on the ja stage
+# Title of topic (x197442f4) on the pl stage
+# Title of topic (x197442f4) on the tr stage
+# Title of topic (x45e8918f) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to animation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam/intro-to-animation-latam">http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam/intro-to-animation-latam</a>
+# Description of topic (x45e8918f) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this lesson you will use animation tools to bring a ball to life. Along the way you'll learn some basic principles of animation. It's appropriate for all ages and takes 45-60 minutes (beware: animation can be addicting)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam/mathematics-of-animation-curves-latam">http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam/mathematics-of-animation-curves-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/animate/parametric-curves">http://translate.khanacademy.org/partner-content/pixar/animate/parametric-curves</a>
+# Title of topic (x5d7f7875) on the pl stage
+# Title of topic (xd21c4571) on the ja stage
+# Title of topic (xd21c4571) on the pl stage
+# Title of topic (xd21c4571) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Mathematics of animation curves"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam/mathematics-of-animation-curves-latam">http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam/mathematics-of-animation-curves-latam</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "This lesson begins with linear interpolation and builds to Bezier curves using de Castiljau's algorithm. It's great to try after you've finished the Environment Modeling topic. It's appropriate for grade 8 through high school and takes 30-40 minutes."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam">http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/animate">http://translate.khanacademy.org/partner-content/pixar/animate</a>
+# Title of topic (xe447391b) on the pl stage
+# Title of topic (xf15ede51) on the ja stage
+# Title of topic (xf15ede51) on the pl stage
+# Title of topic (xf15ede51) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Animation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam">http://translate.khanacademy.org/partner-content/pixar-latam/animation-latam</a>
+# Description of topic (xe447391b) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Explore how animators bring characters to life using different kinds of animation curves."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam/mathematics-of-subdivision-latam">http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam/mathematics-of-subdivision-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/modeling-character/subdivision-averages">http://translate.khanacademy.org/partner-content/pixar/modeling-character/subdivision-averages</a>
+# Title of topic (x543dc168) on the pl stage
+# Title of topic (x66202dcd) on the ja stage
+# Title of topic (x66202dcd) on the pl stage
+# Title of topic (x66202dcd) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Mathematics of subdivision"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam/mathematics-of-subdivision-latam">http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam/mathematics-of-subdivision-latam</a>
+# Description of topic (x543dc168) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Explore how to calculate a weighted average of 3 points and connect this to the subdivision operation from lesson 1. This lesson touches on concepts in grades 7 through high school and takes 35-50 minutes."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam/modeling-with-subdivision-surfaces-latam">http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam/modeling-with-subdivision-surfaces-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/modeling-character/modeling-subdivision">http://translate.khanacademy.org/partner-content/pixar/modeling-character/modeling-subdivision</a>
+# Title of topic (x6b8849b1) on the ja stage
+# Title of topic (x6b8849b1) on the pl stage
+# Title of topic (x6b8849b1) on the tr stage
+# Title of topic (x9fab3a44) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Modeling with subdivision surfaces"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam/modeling-with-subdivision-surfaces-latam">http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam/modeling-with-subdivision-surfaces-latam</a>
+# Description of topic (x9fab3a44) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Discover one of Pixar's key modeling technologies: subdivision surfaces. This lesson introduces the split and average operations used to make smooth surfaces. It's appropriate for all ages and takes 40-50 minutes. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam">http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/modeling-character">http://translate.khanacademy.org/partner-content/pixar/modeling-character</a>
+# Title of topic (x41dfaf5c) on the pl stage
+# Title of topic (xeb5f0454) on the ja stage
+# Title of topic (xeb5f0454) on the pl stage
+# Title of topic (xeb5f0454) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Character modeling"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam">http://translate.khanacademy.org/partner-content/pixar-latam/character-modeling-latam</a>
+# Description of topic (x41dfaf5c) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Explore how clay models are transformed into digital characters using weighted averages."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam/building-crowds-latam">http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam/building-crowds-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/crowds/crowds-1">http://translate.khanacademy.org/partner-content/pixar/crowds/crowds-1</a>
+# Title of topic (x01b4c2df) on the ja stage
+# Title of topic (x01b4c2df) on the pl stage
+# Title of topic (x01b4c2df) on the tr stage
+# Title of topic (x40746900) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Building crowds"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam/building-crowds-latam">http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam/building-crowds-latam</a>
+# Description of topic (x40746900) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Discover how combinations were used to design crowds of robots in WALL-E. This lesson introduces the counting principle using tree diagrams. It touches on concepts in grades 4 through 7 and takes 30-45 minutes. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam/counting-crowds-latam">http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam/counting-crowds-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/crowds/crowds2">http://translate.khanacademy.org/partner-content/pixar/crowds/crowds2</a>
+# Title of topic (x1da13660) on the ja stage
+# Title of topic (x1da13660) on the pl stage
+# Title of topic (x1da13660) on the tr stage
+# Title of topic (xd286de5c) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Counting crowds"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam/counting-crowds-latam">http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam/counting-crowds-latam</a>
+# Description of topic (xd286de5c) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this lesson we construct snakes using permutations and develop a powerful counting tool: the binomial coefficient. It touches on concepts in grade 6 through high school and takes 45-60 minutes. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam">http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/crowds">http://translate.khanacademy.org/partner-content/pixar/crowds</a>
+# Title of topic (x69d45bfb) on the pl stage
+# Title of topic (x7c62524e) on the ja stage
+# Title of topic (x7c62524e) on the pl stage
+# Title of topic (x7c62524e) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Crowds"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam">http://translate.khanacademy.org/partner-content/pixar-latam/crowds-latam</a>
+# Description of topic (x69d45bfb) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Explore how swarms of robots in Wall-E were made using combinatorics."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam/calculating-parabolas-latam">http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam/calculating-parabolas-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/environment-modeling-2/mathematics-of-parabolas2-ver2">http://translate.khanacademy.org/partner-content/pixar/environment-modeling-2/mathematics-of-parabolas2-ver2</a>
+# Title of topic (x80ea3bb0) on the ja stage
+# Title of topic (x80ea3bb0) on the pl stage
+# Title of topic (x80ea3bb0) on the tr stage
+# Title of topic (xa4f5011f) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Calculating parabolas"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam/calculating-parabolas-latam">http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam/calculating-parabolas-latam</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Discover how computers draw millions of parabolas really efficiently using DeCastlejau's algorithm.  This lesson introduces weighted averages of two points leading to parametric curves. It touches on concepts in grade 7 through high school and takes 35-50min."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam/modeling-grass-with-parabolas-latam">http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam/modeling-grass-with-parabolas-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/environment-modeling-2/animating-parabolas-ver2">http://translate.khanacademy.org/partner-content/pixar/environment-modeling-2/animating-parabolas-ver2</a>
+# Title of topic (x1f25dea1) on the ja stage
+# Title of topic (x1f25dea1) on the pl stage
+# Title of topic (x1f25dea1) on the tr stage
+# Title of topic (x3f283179) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Modeling grass with parabolas"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam/modeling-grass-with-parabolas-latam">http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam/modeling-grass-with-parabolas-latam</a>
+# Description of topic (x3f283179) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Discover how we create parabolic arcs by weaving together straight lines. This lesson touches on midpoints (grade 5) and takes 45-60min. Plus there's a hands-on activity at the end!\n"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam">http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/environment-modeling-2">http://translate.khanacademy.org/partner-content/pixar/environment-modeling-2</a>
+# Title of topic (x6ac12cb1) on the pl stage
+# Title of topic (xe9a2f1ad) on the ja stage
+# Title of topic (xe9a2f1ad) on the pl stage
+# Title of topic (xe9a2f1ad) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Environment modeling"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam">http://translate.khanacademy.org/partner-content/pixar-latam/environment-modeling-latam</a>
+# Description of topic (x6ac12cb1) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Explore how blades of grass in Brave were created using parabolic arcs."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/rendering/rendering-2">http://translate.khanacademy.org/partner-content/pixar/rendering/rendering-2</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb55ad5dd) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb55ad5dd) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb55ad5dd) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/rendering-latam/mathematics-of-rendering">http://translate.khanacademy.org/partner-content/pixar-latam/rendering-latam/mathematics-of-rendering</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/rendering/rendering-2">http://translate.khanacademy.org/partner-content/pixar/rendering/rendering-2</a>
+# Title of topic (x2dc18087) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Mathematics of Rendering"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/rendering-latam/rendering-101-latam">http://translate.khanacademy.org/partner-content/pixar-latam/rendering-latam/rendering-101-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/rendering/rendering1">http://translate.khanacademy.org/partner-content/pixar/rendering/rendering1</a>
+# Title of topic (x68280555) on the ja stage
+# Title of topic (x68280555) on the pl stage
+# Title of topic (x68280555) on the tr stage
+# Title of topic (xd169a3a7) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Rendering 101"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/rendering-latam/rendering-101-latam">http://translate.khanacademy.org/partner-content/pixar-latam/rendering-latam/rendering-101-latam</a>
+# Description of topic (xd169a3a7) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Discover the basics behind the rendering equation. This lesson is designed for all ages and takes 35-40 minutes."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/rendering-latam">http://translate.khanacademy.org/partner-content/pixar-latam/rendering-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/rendering">http://translate.khanacademy.org/partner-content/pixar/rendering</a>
+# Title of topic (x9551a19d) on the pl stage
+# Title of topic (xa4278817) on the ja stage
+# Title of topic (xa4278817) on the pl stage
+# Title of topic (xa4278817) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Rendering"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/rendering-latam">http://translate.khanacademy.org/partner-content/pixar-latam/rendering-latam</a>
+# Description of topic (x9551a19d) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Explore how pixels are painted digitally using algebra."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/start-here-latam">http://translate.khanacademy.org/partner-content/pixar-latam/start-here-latam</a>
+# Description of topic (x8f44f861) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Overview of Pixar in a Box  for students & teachers."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/whats-next-latam/sneak-peek-latam">http://translate.khanacademy.org/partner-content/pixar-latam/whats-next-latam/sneak-peek-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/whats-next/sneek-peaks">http://translate.khanacademy.org/partner-content/pixar/whats-next/sneek-peaks</a>
+# Title of topic (x1bd2069b) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Sneak peek"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/whats-next-latam">http://translate.khanacademy.org/partner-content/pixar-latam/whats-next-latam</a>
+# Description of topic (x0034548c) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Updates on what is coming next."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/animate/parametric-curves">http://translate.khanacademy.org/partner-content/pixar/animate/parametric-curves</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd21c4571) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd21c4571) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd21c4571) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Bezier Curves"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar/animate/parametric-curves">http://translate.khanacademy.org/partner-content/pixar/animate/parametric-curves</a>
+# Description of topic (xd21c4571) on the ja stage
+# Description of topic (xd21c4571) on the pl stage
+# Description of topic (xd21c4571) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "This lesson begins with linear interpolation and builds to Bezier curves using de Casteljau's algorithm. It's great to try after you have finished the \"Environment Modeling\" topic. This lesson takes 30-40 minutes to complete.\n"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/color">http://translate.khanacademy.org/partner-content/pixar/color</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf29146a53ff17883) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf29146a53ff17883) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf29146a53ff17883) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/color">http://translate.khanacademy.org/partner-content/pixar/color</a>
+# Title of video <a href="http://translate.khanacademy.org/partner-content/pixar/color/color-101/v/color-science-1">http://translate.khanacademy.org/partner-content/pixar/color/color-101/v/color-science-1</a>
+# Title of video (xbdbbd41dddcd1b19) on the ja stage
+# Title of video (xbdbbd41dddcd1b19) on the pl stage
+# Title of video (xbdbbd41dddcd1b19) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Color Science"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/color/color-101">http://translate.khanacademy.org/partner-content/pixar/color/color-101</a>
+# Title of topic (x8d1a8541505c5760) on the ja stage
+# Title of topic (x8d1a8541505c5760) on the pl stage
+# Title of topic (x8d1a8541505c5760) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to color"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/color/color-101">http://translate.khanacademy.org/partner-content/pixar/color/color-101</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8d1a8541505c5760) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8d1a8541505c5760) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8d1a8541505c5760) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/color/color-101">http://translate.khanacademy.org/partner-content/pixar/color/color-101</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to Color"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar/color/color-101">http://translate.khanacademy.org/partner-content/pixar/color/color-101</a>
+# Description of topic (x8d1a8541505c5760) on the ja stage
+# Description of topic (x8d1a8541505c5760) on the pl stage
+# Description of topic (x8d1a8541505c5760) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "In this lesson we'll explore how we represent and manipulate the color in our films. It's appropriate for all ages and takes approximately 1 hour to complete."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/color/color-space">http://translate.khanacademy.org/partner-content/pixar/color/color-space</a>
+# Title of topic (xb9eaf537c04e21f2) on the ja stage
+# Title of topic (xb9eaf537c04e21f2) on the pl stage
+# Title of topic (xb9eaf537c04e21f2) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Color spaces"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar/color/color-space">http://translate.khanacademy.org/partner-content/pixar/color/color-space</a>
+# Description of topic (xb9eaf537c04e21f2) on the ja stage
+# Description of topic (xb9eaf537c04e21f2) on the pl stage
+# Description of topic (xb9eaf537c04e21f2) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "In this lesson you'll learn how we express colors digitally using the concept of color space. It's appropriate for grade 7+ and will take approximately 1 hour to complete."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/color">http://translate.khanacademy.org/partner-content/pixar/color</a>
+# Title of topic (xf29146a53ff17883) on the ja stage
+# Title of topic (xf29146a53ff17883) on the pl stage
+# Title of topic (xf29146a53ff17883) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Color science"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar/color">http://translate.khanacademy.org/partner-content/pixar/color</a>
+# Description of topic (xf29146a53ff17883) on the ja stage
+# Description of topic (xf29146a53ff17883) on the pl stage
+# Description of topic (xf29146a53ff17883) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Just as dialog, acting, and music are tools filmmakers use to convey meaning and emotion, color can be used to the same effect. But determining “color” is not as simple as saying “red” or “brown” because there are endless shades of color in the visible spectrum. In this lesson, you will learn how color is determined partly by the physics of light and partly by how our brains perceive it."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/effects/particle-physics">http://translate.khanacademy.org/partner-content/pixar/effects/particle-physics</a>
+# Title of topic (x84ec6c9a) on the ja stage
+# Title of topic (x84ec6c9a) on the pl stage
+# Title of topic (x84ec6c9a) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The physics of particle systems"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/effects/particle-physics">http://translate.khanacademy.org/partner-content/pixar/effects/particle-physics</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x84ec6c9a) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x84ec6c9a) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x84ec6c9a) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Physics of particle systems"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/effects/particle">http://translate.khanacademy.org/partner-content/pixar/effects/particle</a>
+# Title of topic (x6aea481a) on the ja stage
+# Title of topic (x6aea481a) on the pl stage
+# Title of topic (x6aea481a) on the tr stage
+# Title of video <a href="http://translate.khanacademy.org/partner-content/pixar/effects/particle/v/fx1-finalcut">http://translate.khanacademy.org/partner-content/pixar/effects/particle/v/fx1-finalcut</a>
+# Title of video (xf98ec347) on the ja stage
+# Title of video (xf98ec347) on the pl stage
+# Title of video (xf98ec347) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to particle systems"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/effects">http://translate.khanacademy.org/partner-content/pixar/effects</a>
+# Title of topic (x2c647f70) on the ja stage
+# Title of topic (x2c647f70) on the pl stage
+# Title of topic (x2c647f70) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Effects"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/environment-modeling-2/animating-parabolas-ver2">http://translate.khanacademy.org/partner-content/pixar/environment-modeling-2/animating-parabolas-ver2</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x1f25dea1) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x1f25dea1) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x1f25dea1) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Animating parabolas"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/environment-modeling-2/mathematics-of-parabolas2-ver2">http://translate.khanacademy.org/partner-content/pixar/environment-modeling-2/mathematics-of-parabolas2-ver2</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x80ea3bb0) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x80ea3bb0) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x80ea3bb0) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Mathematics of parabolas 2"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/pattern/dino">http://translate.khanacademy.org/partner-content/pixar/pattern/dino</a>
+# Title of topic (xd3ee2d8d) on the ja stage
+# Title of topic (xd3ee2d8d) on the pl stage
+# Title of topic (xd3ee2d8d) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Geometry of dinosaur skin"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/pattern/perlin-noise">http://translate.khanacademy.org/partner-content/pixar/pattern/perlin-noise</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb00f7dd2) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb00f7dd2) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb00f7dd2) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Painting with Perlin noise"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/pixar-rigging/code-character">http://translate.khanacademy.org/partner-content/pixar/pixar-rigging/code-character</a>
+# Title of topic (xb1bf5e97) on the ja stage
+# Title of topic (xb1bf5e97) on the pl stage
+# Title of topic (xb1bf5e97) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Code a character"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/pixar-rigging/intro-to-rigging">http://translate.khanacademy.org/partner-content/pixar/pixar-rigging/intro-to-rigging</a>
+# Title of topic (x7a82e44b) on the ja stage
+# Title of topic (x7a82e44b) on the pl stage
+# Title of topic (x7a82e44b) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to rigging"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/pixar-rigging/intro-to-rigging">http://translate.khanacademy.org/partner-content/pixar/pixar-rigging/intro-to-rigging</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x7a82e44b) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x7a82e44b) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x7a82e44b) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/pixar-rigging/intro-to-rigging">http://translate.khanacademy.org/partner-content/pixar/pixar-rigging/intro-to-rigging</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to Rigging"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/pixar-rigging">http://translate.khanacademy.org/partner-content/pixar/pixar-rigging</a>
+# Title of topic (xa86eb5b0) on the ja stage
+# Title of topic (xa86eb5b0) on the pl stage
+# Title of topic (xa86eb5b0) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Rigging"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/pixar-rigging">http://translate.khanacademy.org/partner-content/pixar/pixar-rigging</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa86eb5b0) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa86eb5b0) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa86eb5b0) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Rigging (new)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/rendering/rendering-2">http://translate.khanacademy.org/partner-content/pixar/rendering/rendering-2</a>
+# Title of topic (xb55ad5dd) on the ja stage
+# Title of topic (xb55ad5dd) on the pl stage
+# Title of topic (xb55ad5dd) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Mathematics of rendering"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/sets/rotation">http://translate.khanacademy.org/partner-content/pixar/sets/rotation</a>
+# Title of topic (x5588a18b) on the ja stage
+# Title of topic (x5588a18b) on the pl stage
+# Title of topic (x5588a18b) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Mathematics of rotation"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/sets/sets1">http://translate.khanacademy.org/partner-content/pixar/sets/sets1</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x726f62ed) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x726f62ed) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x726f62ed) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Basic scene construction"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/sets">http://translate.khanacademy.org/partner-content/pixar/sets</a>
+# Title of topic (x6bb19dea) on the ja stage
+# Title of topic (x6bb19dea) on the pl stage
+# Title of topic (x6bb19dea) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Sets & staging"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/sets">http://translate.khanacademy.org/partner-content/pixar/sets</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x6bb19dea) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x6bb19dea) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x6bb19dea) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Layout"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/sets">http://translate.khanacademy.org/partner-content/pixar/sets</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Sets & Staging"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/simulation/hair-simulation-101">http://translate.khanacademy.org/partner-content/pixar/simulation/hair-simulation-101</a>
+# Title of topic (x65570bb5ec1d0624) on the ja stage
+# Title of topic (x65570bb5ec1d0624) on the pl stage
+# Title of topic (x65570bb5ec1d0624) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Hair simulation 101"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar/simulation/hair-simulation-101">http://translate.khanacademy.org/partner-content/pixar/simulation/hair-simulation-101</a>
+# Description of topic (x65570bb5ec1d0624) on the ja stage
+# Description of topic (x65570bb5ec1d0624) on the pl stage
+# Description of topic (x65570bb5ec1d0624) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Explore how millions of hairs can be simulated using a mass spring system. This lesson is appropriate for grades 5+ and takes approximately 1 hour to complete."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/simulation/hair-simulation-code">http://translate.khanacademy.org/partner-content/pixar/simulation/hair-simulation-code</a>
+# Title of topic (xaf81e10a027b038d) on the es stage
+# Title of topic (xaf81e10a027b038d) on the ja stage
+# Title of topic (xaf81e10a027b038d) on the pl stage
+# Title of topic (xaf81e10a027b038d) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Code your own simulation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar/simulation/hair-simulation-code">http://translate.khanacademy.org/partner-content/pixar/simulation/hair-simulation-code</a>
+# Description of topic (xaf81e10a027b038d) on the es stage
+# Description of topic (xaf81e10a027b038d) on the ja stage
+# Description of topic (xaf81e10a027b038d) on the pl stage
+# Description of topic (xaf81e10a027b038d) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "In this lesson we'll show you how to code a spring-mass system which is the basis for many different kinds of simulations. This lesson is most appropriate for grades 9+ and takes approximately 1 hour to complete."
+msgstr ""
+
+# Exercise at (xfb8e58b2) on the pt stage.
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/simulation">http://translate.khanacademy.org/partner-content/pixar/simulation</a>
+# Title of topic (x390e7de8591c6c15) on the ja stage
+# Title of topic (x390e7de8591c6c15) on the pl stage
+# Title of topic (x390e7de8591c6c15) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Simulation"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/simulation">http://translate.khanacademy.org/partner-content/pixar/simulation</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x390e7de8591c6c15) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x390e7de8591c6c15) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x390e7de8591c6c15) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Hair Simulation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar/simulation">http://translate.khanacademy.org/partner-content/pixar/simulation</a>
+# Description of topic (x390e7de8591c6c15) on the ja stage
+# Description of topic (x390e7de8591c6c15) on the pl stage
+# Description of topic (x390e7de8591c6c15) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "A believable world frequently contains objects that need to move in a realistic way, but are too complicated or numerous to move individually “by hand” - things like leaves on a tree or hairs on a monster’s body. In this lesson, visitors will learn how Pixar uses computer programming to create believable simulated hair as seen in the film Brave."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/start/introduction">http://translate.khanacademy.org/partner-content/pixar/start/introduction</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Learner's and educator's guides"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/start">http://translate.khanacademy.org/partner-content/pixar/start</a>
+# Title of topic (x10961fed) on the ja stage
+# Title of topic (x10961fed) on the pl stage
+# Title of topic (x10961fed) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Orientation"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/character">http://translate.khanacademy.org/partner-content/pixar/storytelling/character</a>
+# Title of topic (x4f82b64c97ed917b) on the ja stage
+# Title of topic (x4f82b64c97ed917b) on the pl stage
+# Title of topic (x4f82b64c97ed917b) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "2. Character"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/character">http://translate.khanacademy.org/partner-content/pixar/storytelling/character</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x4f82b64c97ed917b) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x4f82b64c97ed917b) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x4f82b64c97ed917b) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Character"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/character">http://translate.khanacademy.org/partner-content/pixar/storytelling/character</a>
+# Description of topic (x4f82b64c97ed917b) on the ja stage
+# Description of topic (x4f82b64c97ed917b) on the pl stage
+# Description of topic (x4f82b64c97ed917b) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Characters are at the heart of every film Pixar makes; they’re the individuals we follow on the journey of every story.  But how does Pixar come up with those characters, make them more than just generic ideas, and really bring them to life?  In this lesson you’ll explore how character development drives the storytelling process at Pixar, and you’ll start thinking about creating characters for your own stories.  \n"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/film-grammar">http://translate.khanacademy.org/partner-content/pixar/storytelling/film-grammar</a>
+# Title of topic (xea7f8c08d28039ba) on the ja stage
+# Title of topic (xea7f8c08d28039ba) on the pl stage
+# Title of topic (xea7f8c08d28039ba) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "5. Film grammar"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/film-grammar">http://translate.khanacademy.org/partner-content/pixar/storytelling/film-grammar</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xea7f8c08d28039ba) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xea7f8c08d28039ba) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xea7f8c08d28039ba) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Film grammar"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/film-grammar">http://translate.khanacademy.org/partner-content/pixar/storytelling/film-grammar</a>
+# Description of topic (xea7f8c08d28039ba) on the ja stage
+# Description of topic (xea7f8c08d28039ba) on the pl stage
+# Description of topic (xea7f8c08d28039ba) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Making a movie requires an understanding of the principles and terminology of cinematography, like camera angles, editing, composition, and movement of the camera and characters.  This is also known as Film Grammar, and like actual spoken grammar, it is a language used to tell stories in a visual way.  Each scene, shot, and frame is considered and crafted using this language.  In this lesson we explore the basic Film Grammar used in cinematography and how Pixar approaches its use in storytelling.  You will also use these principles to plan shots for your own film.  "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/story-structure">http://translate.khanacademy.org/partner-content/pixar/storytelling/story-structure</a>
+# Title of topic (xd1ad9e4ae9b78924) on the ja stage
+# Title of topic (xd1ad9e4ae9b78924) on the pl stage
+# Title of topic (xd1ad9e4ae9b78924) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "3. Story structure"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/story-structure">http://translate.khanacademy.org/partner-content/pixar/storytelling/story-structure</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd1ad9e4ae9b78924) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd1ad9e4ae9b78924) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd1ad9e4ae9b78924) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Story structure"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/story-structure">http://translate.khanacademy.org/partner-content/pixar/storytelling/story-structure</a>
+# Description of topic (xd1ad9e4ae9b78924) on the ja stage
+# Description of topic (xd1ad9e4ae9b78924) on the pl stage
+# Description of topic (xd1ad9e4ae9b78924) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Every story that is told has a foundation, or structure.  For example, one of the most basic story structures is “it begins, something happens, and it ends.”  But a story's structure can be complex, and if used well you’re not even aware of it.  In this lesson you’ll learn how Pixar structures their films, and you’ll start laying the foundation for your own stories."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/storyboard-your-film">http://translate.khanacademy.org/partner-content/pixar/storytelling/storyboard-your-film</a>
+# Title of topic (x58bca6d3c2b12a9f) on the ja stage
+# Title of topic (x58bca6d3c2b12a9f) on the pl stage
+# Title of topic (x58bca6d3c2b12a9f) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "6. Pitching and feedback"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/storyboard-your-film">http://translate.khanacademy.org/partner-content/pixar/storytelling/storyboard-your-film</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x58bca6d3c2b12a9f) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x58bca6d3c2b12a9f) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x58bca6d3c2b12a9f) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Storyboard your film"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/storyboard-your-film">http://translate.khanacademy.org/partner-content/pixar/storytelling/storyboard-your-film</a>
+# Description of topic (x58bca6d3c2b12a9f) on the pl stage
+# Description of topic (x58bca6d3c2b12a9f) on the tr stage
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Pixar films take years to make, and the finished version you see in the theater may be very different from the way it was originally envisioned.  The filmmaking team refines the films through the parts of their process called pitching and feedback. Pitching is the process of telling your story in very rough form, using storyboards or other rough imagery.  After you pitch, you get feedback, which is basically hearing from the people you’re pitching to what they liked and didn’t like.  This helps the storyteller assess what is working about their story, and what is not.  Pixar goes through this over and over - storyboarding, pitching, getting feedback, re-boarding, and re-pitching - to hone in on the story they really want to tell.  Once the film is working in storyboard form, it moves on to Editorial, the department responsible for adding dialogue, music, and sound effects, and figuring out the timing for the entire film.  In this lesson you’ll learn how the storyboarding, pitching, feedback, and editorial processes work at Pixar, and you’ll start to apply these ideas to your own stories."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/storyboard-your-film">http://translate.khanacademy.org/partner-content/pixar/storytelling/storyboard-your-film</a>
+# Description of topic (x58bca6d3c2b12a9f) on the ja stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Storyboarding is the act of telling a story through sequential frames using simple drawings; it’s a quick way of working out all the elements of your story, from structure to composition, as you iterate and refine it.  In this lesson we put everything together from the previous five lessons to demonstrate how Pixar uses storyboarding in their filmmaking process, and you will have the opportunity to try storyboarding the story you’ve been working on throughout these lessons.  "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/storyboard-your-film">http://translate.khanacademy.org/partner-content/pixar/storytelling/storyboard-your-film</a>
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "6. Storyboard your film"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/visual-language">http://translate.khanacademy.org/partner-content/pixar/storytelling/visual-language</a>
+# Title of topic (xe088e231c5ac22b4) on the ja stage
+# Title of topic (xe088e231c5ac22b4) on the pl stage
+# Title of topic (xe088e231c5ac22b4) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "4. Visual language"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/visual-language">http://translate.khanacademy.org/partner-content/pixar/storytelling/visual-language</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe088e231c5ac22b4) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe088e231c5ac22b4) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe088e231c5ac22b4) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Visual language"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/visual-language">http://translate.khanacademy.org/partner-content/pixar/storytelling/visual-language</a>
+# Description of topic (xe088e231c5ac22b4) on the ja stage
+# Description of topic (xe088e231c5ac22b4) on the pl stage
+# Description of topic (xe088e231c5ac22b4) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "While telling almost any story involves words, characters and structure, making a film involves another aspect of storytelling that Pixar thinks a lot about: visual language.  Visual language refers to how imagery is used to convey story ideas or meanings.  Perspective, color, and shape can all be used to support a story by guiding the audience to see and feel certain things.   In this lesson we introduce you to some basic principles of visual language, and you’ll get to apply those principles to your own stories."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/we-are-all-storytellers">http://translate.khanacademy.org/partner-content/pixar/storytelling/we-are-all-storytellers</a>
+# Title of topic (x4df39061b086c3da) on the ja stage
+# Title of topic (x4df39061b086c3da) on the pl stage
+# Title of topic (x4df39061b086c3da) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "1. We are all storytellers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling/we-are-all-storytellers">http://translate.khanacademy.org/partner-content/pixar/storytelling/we-are-all-storytellers</a>
+# Description of topic (x4df39061b086c3da) on the ja stage
+# Description of topic (x4df39061b086c3da) on the pl stage
+# Description of topic (x4df39061b086c3da) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "What makes a story great?  What makes someone a good storyteller?  Storytelling is something we all do naturally, starting at a young age, but there’s a difference between good storytelling and great storytelling.  In this lesson you’ll hear from Pixar directors and story artists about how they got their start and what stories inspire them, and you’ll begin to think about what kinds of stories you might want to tell."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling">http://translate.khanacademy.org/partner-content/pixar/storytelling</a>
+# Title of topic (x4c1ca722f937770f) on the ja stage
+# Title of topic (x4c1ca722f937770f) on the pl stage
+# Title of topic (x4c1ca722f937770f) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The art of storytelling"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling">http://translate.khanacademy.org/partner-content/pixar/storytelling</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x4c1ca722f937770f) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x4c1ca722f937770f) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x4c1ca722f937770f) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The Art of Storytelling"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar/storytelling">http://translate.khanacademy.org/partner-content/pixar/storytelling</a>
+# Description of topic (x4c1ca722f937770f) on the ja stage
+# Description of topic (x4c1ca722f937770f) on the pl stage
+# Description of topic (x4c1ca722f937770f) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic is an exploration of the storytelling process at Pixar. "
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/partner-content/pixar/virtual-cameras/virtual-cameras-1/e/depth-of-field">http://translate.khanacademy.org/partner-content/pixar/virtual-cameras/virtual-cameras-1/e/depth-of-field</a>
+# Pretty display name for exercise (x1c5a326a) on the ja stage
+# Pretty display name for exercise (x1c5a326a) on the pl stage
+# Pretty display name for exercise (x1c5a326a) on the tr stage
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/virtual-cameras/depth-of-field">http://translate.khanacademy.org/partner-content/pixar/virtual-cameras/depth-of-field</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x0ea44df9) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x0ea44df9) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x0ea44df9) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of video <a href="http://translate.khanacademy.org/partner-content/pixar/virtual-cameras/virtual-cameras-1/v/virtual-cameras-4">http://translate.khanacademy.org/partner-content/pixar/virtual-cameras/virtual-cameras-1/v/virtual-cameras-4</a>
+# Title of video (xf15b910f) on the ja stage
+# Title of video (xf15b910f) on the pl stage
+# Title of video (xf15b910f) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Depth of field"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/virtual-cameras/depth-of-field">http://translate.khanacademy.org/partner-content/pixar/virtual-cameras/depth-of-field</a>
+# Title of topic (x0ea44df9) on the ja stage
+# Title of topic (x0ea44df9) on the pl stage
+# Title of topic (x0ea44df9) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Mathematics of depth of field"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/virtual-cameras/virtual-cameras-1">http://translate.khanacademy.org/partner-content/pixar/virtual-cameras/virtual-cameras-1</a>
+# Title of topic (xd629f0ee) on the ja stage
+# Title of topic (xd629f0ee) on the pl stage
+# Title of topic (xd629f0ee) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "How virtual cameras work"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/virtual-cameras">http://translate.khanacademy.org/partner-content/pixar/virtual-cameras</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x5de88a59) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x5de88a59) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x5de88a59) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Virtual Cameras"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/whats-next/sneek-peaks">http://translate.khanacademy.org/partner-content/pixar/whats-next/sneek-peaks</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Sneek peaks"
+msgstr ""

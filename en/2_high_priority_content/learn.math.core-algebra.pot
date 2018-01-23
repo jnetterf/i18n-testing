@@ -1,0 +1,832 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-29 11:24+0000\n"
+"PO-Revision-Date: 2017-11-29 11:24+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/alg-basics-algebraic-expressions">http://translate.khanacademy.org/math/algebra-basics/alg-basics-algebraic-expressions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-expressions">http://translate.khanacademy.org/math/algebra-basics/core-algebra-expressions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-seventh-grade-math/algebraic-expressions">http://translate.khanacademy.org/math/in-seventh-grade-math/algebraic-expressions</a>
+# Title of topic (x7a60fc0c) on the accents stage
+# Title of topic (x7a60fc0c) on the bg stage
+# Title of topic (x7a60fc0c) on the es stage
+# Title of topic (x7a60fc0c) on the fr stage
+# Title of topic (x7a60fc0c) on the ja stage
+# Title of topic (x7a60fc0c) on the pt-pt stage
+# Title of topic (x93c46285) on the hy stage
+# Title of topic (x93c46285) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Algebraic expressions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/alg-basics-equations-and-geometry">http://translate.khanacademy.org/math/algebra-basics/alg-basics-equations-and-geometry</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-geometry">http://translate.khanacademy.org/math/algebra-basics/core-algebra-geometry</a>
+# Title of topic (x305b9738) on the hy stage
+# Title of topic (x305b9738) on the pt stage
+# Title of topic (x4a708f0f) on the accents stage
+# Title of topic (x4a708f0f) on the bg stage
+# Title of topic (x4a708f0f) on the es stage
+# Title of topic (x4a708f0f) on the fr stage
+# Title of topic (x4a708f0f) on the ja stage
+# Title of topic (x4a708f0f) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Equations and geometry"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/alg-basics-expressions-with-exponents">http://translate.khanacademy.org/math/algebra-basics/alg-basics-expressions-with-exponents</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-exponent-expressions">http://translate.khanacademy.org/math/algebra-basics/core-algebra-exponent-expressions</a>
+# Description of topic (x25c03557) on the hy stage
+# Description of topic (x25c03557) on the pt stage
+# Description of topic (xbaa0c0b3) on the accents stage
+# Description of topic (xbaa0c0b3) on the bg stage
+# Description of topic (xbaa0c0b3) on the es stage
+# Description of topic (xbaa0c0b3) on the fr stage
+# Description of topic (xbaa0c0b3) on the ja stage
+# Description of topic (xbaa0c0b3) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's build our toolkit that allow us to manipulate exponents algebraically."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope">http://translate.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope">http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope</a>
+# Title of topic (x1df8fb3e) on the hy stage
+# Title of topic (x1df8fb3e) on the pt stage
+# Title of topic (xf679b7f6) on the accents stage
+# Title of topic (xf679b7f6) on the bg stage
+# Title of topic (xf679b7f6) on the es stage
+# Title of topic (xf679b7f6) on the fr stage
+# Title of topic (xf679b7f6) on the ja stage
+# Title of topic (xf679b7f6) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphing lines and slope"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities">http://translate.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities">http://translate.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities</a>
+# Title of topic (x649777e8) on the hy stage
+# Title of topic (x649777e8) on the pt stage
+# Title of topic (x9d6a106d) on the accents stage
+# Title of topic (x9d6a106d) on the bg stage
+# Title of topic (x9d6a106d) on the es stage
+# Title of topic (x9d6a106d) on the fr stage
+# Title of topic (x9d6a106d) on the ja stage
+# Title of topic (x9d6a106d) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear equations and inequalities"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/alg-basics-quadratics-and-polynomials">http://translate.khanacademy.org/math/algebra-basics/alg-basics-quadratics-and-polynomials</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/quadratics-polynomials-topic">http://translate.khanacademy.org/math/algebra-basics/quadratics-polynomials-topic</a>
+# Title of topic (x95928316) on the hy stage
+# Title of topic (x95928316) on the pt stage
+# Title of topic (xa6990b91) on the accents stage
+# Title of topic (xa6990b91) on the bg stage
+# Title of topic (xa6990b91) on the es stage
+# Title of topic (xa6990b91) on the fr stage
+# Title of topic (xa6990b91) on the ja stage
+# Title of topic (xa6990b91) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Quadratics and polynomials"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-decimals">http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-decimals</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/algebra-foundations-decimal-operations">http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/algebra-foundations-decimal-operations</a>
+# Title of topic (x2b7aa3bb) on the pt stage
+# Title of topic (x4884a268) on the accents stage
+# Title of topic (x4884a268) on the bg stage
+# Title of topic (x4884a268) on the es stage
+# Title of topic (x4884a268) on the fr stage
+# Title of topic (x4884a268) on the ja stage
+# Title of topic (x4884a268) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Decimals, fractions and percentages"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-decimals">http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-decimals</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/algebra-foundations-decimal-operations">http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/algebra-foundations-decimal-operations</a>
+# Description of topic (x2b7aa3bb) on the pt stage
+# Description of topic (x4884a268) on the accents stage
+# Description of topic (x4884a268) on the bg stage
+# Description of topic (x4884a268) on the es stage
+# Description of topic (x4884a268) on the fr stage
+# Description of topic (x4884a268) on the ja stage
+# Description of topic (x4884a268) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's review how to convert between fractions, decimals and percentages"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-fractions">http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-fractions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/core-algebra-foundations-fractions">http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/core-algebra-foundations-fractions</a>
+# Description of topic (x664223c9) on the pt stage
+# Description of topic (xe282251b) on the accents stage
+# Description of topic (xe282251b) on the bg stage
+# Description of topic (xe282251b) on the es stage
+# Description of topic (xe282251b) on the fr stage
+# Description of topic (xe282251b) on the ja stage
+# Description of topic (xe282251b) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "This tutorial will help to review arithmetic with fractions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-negative-numbers">http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-negative-numbers</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/core-algebra-foundations-negative-numbers">http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/core-algebra-foundations-negative-numbers</a>
+# Description of topic (x80141162) on the pt stage
+# Description of topic (xbe9b4551) on the accents stage
+# Description of topic (xbe9b4551) on the bg stage
+# Description of topic (xbe9b4551) on the es stage
+# Description of topic (xbe9b4551) on the fr stage
+# Description of topic (xbe9b4551) on the ja stage
+# Description of topic (xbe9b4551) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Understanding and operating with negative numbers is key in algebra.  This tutorial will make sure that you have the basics down!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations">http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations">http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations</a>
+# Description of topic (xbe49b507) on the hy stage
+# Description of topic (xbe49b507) on the pt stage
+# Description of topic (xceb0c7f3) on the accents stage
+# Description of topic (xceb0c7f3) on the bg stage
+# Description of topic (xceb0c7f3) on the es stage
+# Description of topic (xceb0c7f3) on the fr stage
+# Description of topic (xceb0c7f3) on the ja stage
+# Description of topic (xceb0c7f3) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic isn't algebra, but it is a survey of all of the most important pre-algebra skills you need to really digest algebra.  These skills also tend to be pretty important in life in general!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-exponent-expressions/core-alg-negative-exponents">http://translate.khanacademy.org/math/algebra-basics/core-algebra-exponent-expressions/core-alg-negative-exponents</a>
+# Description of topic (x32728d17) on the accents stage
+# Description of topic (x32728d17) on the bg stage
+# Description of topic (x32728d17) on the es stage
+# Description of topic (x32728d17) on the fr stage
+# Description of topic (x32728d17) on the ja stage
+# Description of topic (x32728d17) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "In this tutorial, we're going to significantly deepen our understanding of the world of exponents.  In particular, we'll look at what it means to raise something to a negative exponent."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-expressions/al">http://translate.khanacademy.org/math/algebra-basics/core-algebra-expressions/al</a>
+# Description of topic (x1c16ecdf) on the accents stage
+# Description of topic (x1c16ecdf) on the bg stage
+# Description of topic (x1c16ecdf) on the es stage
+# Description of topic (x1c16ecdf) on the fr stage
+# Description of topic (x1c16ecdf) on the ja stage
+# Description of topic (x1c16ecdf) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Algebraic expression can be composed of pretty much any operation, including fractions.  Here we'll explore how to manipulate fractions algebraically.  In some ways this is just a review of adding, subtracting, multiplying and dividing fractions, but now we are doing it with variables!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/copy-of-perimeter-area-tutorial">http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/copy-of-perimeter-area-tutorial</a>
+# Title of topic (x160fb220) on the accents stage
+# Title of topic (x160fb220) on the bg stage
+# Title of topic (x160fb220) on the es stage
+# Title of topic (x160fb220) on the fr stage
+# Title of topic (x160fb220) on the ja stage
+# Title of topic (x160fb220) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Perimeter and area of triangles"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope/core-algebra-graphing-coordinate-plan">http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope/core-algebra-graphing-coordinate-plan</a>
+# Title of topic (xd5f78935) on the accents stage
+# Title of topic (xd5f78935) on the bg stage
+# Title of topic (xd5f78935) on the es stage
+# Title of topic (xd5f78935) on the fr stage
+# Title of topic (xd5f78935) on the ja stage
+# Title of topic (xd5f78935) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphing on the coordinate plane"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope/core-algebra-graphing-intercepts">http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope/core-algebra-graphing-intercepts</a>
+# Title of topic (x79ee4ab3) on the accents stage
+# Title of topic (x79ee4ab3) on the bg stage
+# Title of topic (x79ee4ab3) on the es stage
+# Title of topic (x79ee4ab3) on the fr stage
+# Title of topic (x79ee4ab3) on the ja stage
+# Title of topic (x79ee4ab3) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphing with intercepts"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope/core-algebra-graphing-intercepts">http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope/core-algebra-graphing-intercepts</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x79ee4ab3) on the accents stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x79ee4ab3) on the bg stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x79ee4ab3) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x79ee4ab3) on the fr stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x79ee4ab3) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x79ee4ab3) on the pt-pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphing with intercept"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope/core-algebra-slope">http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope/core-algebra-slope</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x5b28a456) on the accents stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x5b28a456) on the bg stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x5b28a456) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x5b28a456) on the fr stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x5b28a456) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x5b28a456) on the pt-pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Slope"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope/solutions-graphs-two-variable-equations">http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope/solutions-graphs-two-variable-equations</a>
+# Title of topic (x3755f328) on the accents stage
+# Title of topic (x3755f328) on the bg stage
+# Title of topic (x3755f328) on the es stage
+# Title of topic (x3755f328) on the fr stage
+# Title of topic (x3755f328) on the ja stage
+# Title of topic (x3755f328) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solutions and graphs of two-variable equations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/core-algebra-solving-basic-equations">http://translate.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/core-algebra-solving-basic-equations</a>
+# Description of topic (xac3e7a42) on the accents stage
+# Description of topic (xac3e7a42) on the bg stage
+# Description of topic (xac3e7a42) on the es stage
+# Description of topic (xac3e7a42) on the fr stage
+# Description of topic (xac3e7a42) on the ja stage
+# Description of topic (xac3e7a42) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Now we'll introduce you to the most fundamental ideas of what equations mean and how to solve them.  We'll then do a bunch of examples to make sure you're comfortable with things like 3x – 7 = 8.  So relax, grab a cup of hot chocolate, and be on your way to becoming an algebra rockstar.\n"
+"\n"
+"And, by the way, in any of the \"example\" videos, try to solve the problem on your own before seeing how Sal does it.  It makes the learning better!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/ratios-core-algebra">http://translate.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/ratios-core-algebra</a>
+# Description of topic (x64dbb8cc) on the accents stage
+# Description of topic (x64dbb8cc) on the bg stage
+# Description of topic (x64dbb8cc) on the es stage
+# Description of topic (x64dbb8cc) on the fr stage
+# Description of topic (x64dbb8cc) on the ja stage
+# Description of topic (x64dbb8cc) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"You remember a thing or two about ratios and proportions from your pre-algebra days.  Well, how can we use these same ideas to solve problems in algebra?\n"
+"\n"
+"This tutorial re-introduces ratios in an algebraic context and helps us solve some awesome problems!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/solving-fancier-linear-equations">http://translate.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/solving-fancier-linear-equations</a>
+# Title of topic (xaf11a741) on the accents stage
+# Title of topic (xaf11a741) on the bg stage
+# Title of topic (xaf11a741) on the es stage
+# Title of topic (xaf11a741) on the fr stage
+# Title of topic (xaf11a741) on the ja stage
+# Title of topic (xaf11a741) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving fancier linear equations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/solving-fancier-linear-equations">http://translate.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/solving-fancier-linear-equations</a>
+# Description of topic (xaf11a741) on the accents stage
+# Description of topic (xaf11a741) on the bg stage
+# Description of topic (xaf11a741) on the es stage
+# Description of topic (xaf11a741) on the fr stage
+# Description of topic (xaf11a741) on the ja stage
+# Description of topic (xaf11a741) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "You've been through \"Equations for beginners\" and are feeling good.  Well, this tutorial continues that journey by addressing equations that are just a bit more fancy.  By the end of this tutorial, you really will have some of the core algebraic tools in your toolkit!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-systems/core-algebra-systems-tutorial">http://translate.khanacademy.org/math/algebra-basics/core-algebra-systems/core-algebra-systems-tutorial</a>
+# Description of topic (xcc3cc895) on the accents stage
+# Description of topic (xcc3cc895) on the bg stage
+# Description of topic (xcc3cc895) on the es stage
+# Description of topic (xcc3cc895) on the fr stage
+# Description of topic (xcc3cc895) on the ja stage
+# Description of topic (xcc3cc895) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Here we'll see that you  may be able to actually solve for two unknowns if you have two different constraints or equations.  You can view this solution as being represented by the intersection of the graphs of the two equations."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-systems/core-algebra-systems-word-problems">http://translate.khanacademy.org/math/algebra-basics/core-algebra-systems/core-algebra-systems-word-problems</a>
+# Description of topic (x131510dd) on the accents stage
+# Description of topic (x131510dd) on the bg stage
+# Description of topic (x131510dd) on the es stage
+# Description of topic (x131510dd) on the fr stage
+# Description of topic (x131510dd) on the ja stage
+# Description of topic (x131510dd) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's now use systems of equations to solve real-world problems!"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/quadratics-polynomials-topic">http://translate.khanacademy.org/math/algebra-basics/quadratics-polynomials-topic</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa6990b91) on the accents stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa6990b91) on the bg stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa6990b91) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa6990b91) on the fr stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa6990b91) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa6990b91) on the pt-pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Quadratics  and polynomials"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/quadratics-polynomials-topic">http://translate.khanacademy.org/math/algebra-basics/quadratics-polynomials-topic</a>
+# Description of topic (xa6990b91) on the accents stage
+# Description of topic (xa6990b91) on the bg stage
+# Description of topic (xa6990b91) on the es stage
+# Description of topic (xa6990b91) on the fr stage
+# Description of topic (xa6990b91) on the ja stage
+# Description of topic (xa6990b91) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "We'll now progress beyond the world of purely linear expressions and equations and enter the world of quadratics (and more generally polynomials).  Here we'll learn to factor expression that have powers of 2 in them  and solve quadratic equations.  We'll also learn to manipulate more general polynomial expressions."
+msgstr ""

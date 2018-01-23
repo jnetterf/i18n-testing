@@ -1,0 +1,426 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:17+0000\n"
+"PO-Revision-Date: 2017-11-21 12:17+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Name of an avatar (cartoon figure)
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:74 rewards/avatars/util_avatar_parts.py:382 rewards/avatars/util_avatars.py:109 rewards/avatars/util_avatars.py:336
+msgid "Amelia"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:55
+msgid "Leaf (Green)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:61
+msgid "Leaf (Blue)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:67
+msgid "Leaf (Grey)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:73
+msgid "Leaf (Red)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:79
+msgid "Leaf (Orange)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:85
+msgid "leaf (Yellow)"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatar_parts.py:93 rewards/avatars/util_avatars.py:63
+msgid "Leafers (Seed)"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatar_parts.py:99 rewards/avatars/util_avatars.py:95
+msgid "Leafers (Seedling)"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatar_parts.py:105 rewards/avatars/util_avatars.py:133
+msgid "Leafers (Sapling)"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatar_parts.py:111 rewards/avatars/util_avatars.py:171
+msgid "Leafers (Tree)"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatar_parts.py:117 rewards/avatars/util_avatars.py:197
+msgid "Leafers (Ultimate)"
+msgstr ""
+
+# Name of a cartoon dinosaur avatar (pi-ceratops instead of triceratops, using the greek letter 'pi').
+#: rewards/avatars/util_avatar_parts.py:125 rewards/avatars/util_avatars.py:70
+msgid "πceratops (Seed)"
+msgstr ""
+
+# Name of a cartoon dinosaur avatar (pi-ceratops instead of triceratops, using the greek letter 'pi').
+#: rewards/avatars/util_avatar_parts.py:131 rewards/avatars/util_avatars.py:102
+msgid "πceratops (Seedling)"
+msgstr ""
+
+# Name of a cartoon dinosaur avatar (pi-ceratops instead of triceratops, using the greek letter 'pi').
+#: rewards/avatars/util_avatar_parts.py:138 rewards/avatars/util_avatars.py:140
+msgid "πceratops (Sapling)"
+msgstr ""
+
+# Name of a cartoon dinosaur avatar (pi-ceratops instead of triceratops, using the greek letter 'pi').
+#: rewards/avatars/util_avatar_parts.py:145 rewards/avatars/util_avatars.py:178
+msgid "πceratops (Tree)"
+msgstr ""
+
+# Name of a cartoon dinosaur avatar (pi-ceratops instead of triceratops, using the greek letter 'pi').
+#: rewards/avatars/util_avatar_parts.py:151 rewards/avatars/util_avatars.py:204
+msgid "πceratops (Ultimate)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:160
+msgid "Duskpin (Seed)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:166
+msgid "Duskpin (Seedling)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:172
+msgid "Duskpin (Sapling)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:178
+msgid "Duskpin (Tree)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:184
+msgid "Duskpin (Ultimate)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:192
+msgid "Primosaur (Seed)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:198
+msgid "Primosaur (Seedling)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:204
+msgid "Primosaur (Sapling)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:210
+msgid "Primosaur (Tree)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:216
+msgid "Primosaur (Ultimate)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:224
+msgid "Starky (Seed)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:230
+msgid "Starky (Seedling)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:236
+msgid "Starky (Sapling)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:242
+msgid "Starky (Tree)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:248
+msgid "Starky (Ultimate)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:258
+msgid "Aqualine (Seed)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:261 rewards/avatars/util_avatars.py:315
+msgid "Complete your first math task"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:268
+msgid "Aqualine (Seedling)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:272
+msgid "Master your first math skill"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:278
+msgid "Aqualine (Sapling)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:282
+msgid "Master three skills in math"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:288
+msgid "Aqualine (Tree)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:292
+msgid "Master ten skills in math"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:298
+msgid "Aqualine (Ultimate)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:302
+msgid "Master twenty skills in math"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:310
+msgid "Spunky Sam (Blue)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:316
+msgid "Spunky Sam (Green)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:322
+msgid "Spunky Sam (Orange)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:328
+msgid "Spunky Sam (Red)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:336
+msgid "Marcimus (Pink)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:342
+msgid "Marcimus (Orange)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:348
+msgid "Marcimus (Red)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:354
+msgid "Marcimus (Purple)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:362
+msgid "Mr. Pink (Red)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:368
+msgid "Mr. Pink (Green)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:374
+msgid "Mr. Pink (Orange)"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatar_parts.py:388 rewards/avatars/util_avatars.py:147
+msgid "Ada"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatar_parts.py:394 rewards/avatars/util_avatars.py:185
+msgid "Grace"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatar_parts.py:402 rewards/avatars/util_avatars.py:115 rewards/avatars/util_avatars.py:341
+msgid "Johnny"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatar_parts.py:408 rewards/avatars/util_avatars.py:153
+msgid "Donald"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatar_parts.py:414 rewards/avatars/util_avatars.py:191
+msgid "Hal"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:422
+msgid "Orange Juice Squid (Orange)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:431
+msgid "Purple Pi (Purple)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:437
+msgid "Purple Pi (Pink)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:443
+msgid "Purple Pi (Teal)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:451
+msgid "Pants (Teal)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:457
+msgid "Pants (Green)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:463
+msgid "Pants (Orange)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:469
+msgid "Pants (Pink)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:475
+msgid "Pants (Purple)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:483
+msgid "Old Spice Man (Green)"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:489
+msgid "Old Spice Man (Blue)"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatar_parts.py:505 rewards/avatars/util_avatars.py:218
+msgid "Baby Winston"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:514
+msgid "Oh noes, the Error Buddy"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatar_parts.py:523 rewards/avatars/util_avatars.py:230 rewards/avatars/util_avatars.py:391
+msgid "Hopper"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatar_parts.py:530 rewards/avatars/util_avatars.py:236
+msgid "Jumping Hopper"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatar_parts.py:537 rewards/avatars/util_avatars.py:242
+msgid "Cool Hopper"
+msgstr ""
+
+#: rewards/avatars/util_avatar_parts.py:613
+msgid "Background"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:32
+msgid "Green Leaf"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:37
+msgid "Blue Leaf"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:42
+msgid "Grey Leaf"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:47
+msgid "Red Leaf"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:52
+msgid "Orange Leaf"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:57
+msgid "Yellow Leaf"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatars.py:83 rewards/avatars/util_avatars.py:326
+msgid "Marcimus"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatars.py:224 rewards/avatars/util_avatars.py:385
+msgid "Oh Noes, the Error Buddy"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:251
+msgid "Be Sal"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:280
+msgid "Leaf"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:285
+msgid "Leafers"
+msgstr ""
+
+# Name of a cartoon dinosaur avatar (pi-ceratops instead of triceratops, using the greek letter 'pi').
+#: rewards/avatars/util_avatars.py:292
+msgid "πceratops"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:297
+msgid "Duskpin"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:302
+msgid "Primosaur"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:307
+msgid "Starky"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:312
+msgid "Aqualine"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:380
+msgid "Make a spin-off of any scratchpad"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:438
+msgid "Starter"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:441
+msgid "Common (10,000 points)"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:444
+msgid "Uncommon (50,000 points)"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:447
+msgid "Rare (100,000 points)"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:450
+msgid "Epic (250,000 points)"
+msgstr ""
+
+#: rewards/avatars/util_avatars.py:454
+msgid "Earn these avatars by getting <a href='/computer-programming'>Computer Programming</a> badges!"
+msgstr ""

@@ -1,0 +1,912 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-29 16:25+0000\n"
+"PO-Revision-Date: 2017-11-29 16:25+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-history">http://translate.khanacademy.org/humanities/art-history</a>
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-history-basics">http://translate.khanacademy.org/humanities/art-history-basics</a>
+# Description of topic (xa9a1f711) on the bg stage
+# Description of topic (xa9a1f711) on the pl stage
+# Description of topic (xa9a1f711) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "We understand the history of humanity through art. From prehistoric depictions of woolly mammoths to contemporary abstraction, artists have addressed their time and place in history and have expressed universal human truths for tens of thousands of years. "
+msgstr ""
+
+# English version in label at <a href="https://www.khanacademy.org/exercise/coordinate-plane-word-problems-in-the-first-quadrant">https://www.khanacademy.org/exercise/coordinate-plane-word-problems-in-the-first-quadrant</a>
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/big-history-project/what-is-big-history/what-are-disciplines/e/quiz-1-5-ways-of-knowing">http://translate.khanacademy.org/partner-content/big-history-project/what-is-big-history/what-are-disciplines/e/quiz-1-5-ways-of-knowing</a>.
+# Exercise at (xb3989af5) on the de stage.
+# Exercise at (xb3989af5) on the pl stage.
+# Exercise at (xb3989af5) on the pt stage.
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/ap-world-history">http://translate.khanacademy.org/humanities/ap-world-history</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/world-history">http://translate.khanacademy.org/humanities/world-history</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x5a5c539a6f73e7bf) on the bg stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x66f79d8a) on the accents stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x66f79d8a) on the bg stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x66f79d8a) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x66f79d8a) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x66f79d8a) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x66f79d8a) on the pt-pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x66f79d8a) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/humanities/all-history">http://translate.khanacademy.org/humanities/all-history</a>
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/coordinate-plane-word-problems-in-the-first-quadrant?lang=xb58043e864f1878f#en-pt.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+# (format: text)
+#: emails/onboarding/share_success_email.py:42 genfiles/labels/en/b0295437e2b33a5eb32313b0940f104240f2842a-data.json:22 genfiles/labels/en/b750bfbfd4e2f5cea98ec6f832ce7498522f92f8-data.json:22 genfiles/labels/en/f9d0c5d8db17f589aa32360ff3f6d41ac1c07ced-data.json:22 intl/datastore:1
+msgid "History"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/ancient-art-civilizations">http://translate.khanacademy.org/humanities/ancient-art-civilizations</a>
+# Title of topic (x7e914f5b) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art of the ancient Mediterranean"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/ancient-art-civilizations">http://translate.khanacademy.org/humanities/ancient-art-civilizations</a>
+# Description of topic (x7e914f5b) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory.  3000 B.C.E. - 400 C.E.: The Great Pyramids at Giza, the Parthenon in Athens, the Colosseum in Rome and more."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/ancient-art-civilizations">http://translate.khanacademy.org/humanities/ancient-art-civilizations</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "3000 B.C.E. - 400 C.E.: The Great Pyramids at Giza, the Parthenon in Athens, the Colosseum in Rome and more."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/ap-art-history">http://translate.khanacademy.org/humanities/ap-art-history</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "AP Art history"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/ap-art-history">http://translate.khanacademy.org/humanities/ap-art-history</a>
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Smarthistory is working to include each of the 250 required works of art. The new test will assess a student’s understanding of the methods used by art historians and familiarity with the cultural context in which a work of art was made and understood. Smarthistory’s art history content is designed to teach these skills and to make the art engaging and accessible (and it’s completely free!). Currently, some 95% of the 250 monuments are discussed in the videos and essays included in this section. We are working to cover the remaining content. New materials are being added regularly. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/ap-us-history">http://translate.khanacademy.org/humanities/ap-us-history</a>
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "AP US History"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/ap-us-history">http://translate.khanacademy.org/humanities/ap-us-history</a>
+# Title of topic (xb87a304a) on the es stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "AP US history"
+msgstr ""
+
+# Description for a curated module on <a href="http://translate.khanacademy.org/humanities/ap-us-history">http://translate.khanacademy.org/humanities/ap-us-history</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Meet Kim, one of the creators of Khan Academy's AP US History lessons. Kim earned her PhD in history at the University of North Carolina at Chapel Hill and taught US history at the college level for eight years. She has graded the AP US History exam in the past and is currently hard at work creating videos and exercises to help students master US history!"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-the-great-schism">http://translate.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-the-great-schism</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/medieval-world">http://translate.khanacademy.org/humanities/medieval-world</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/world-history/medieval-times/medieval">http://translate.khanacademy.org/humanities/world-history/medieval-times/medieval</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x4b0eb531) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x514b7b52) on the bg stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x514b7b52) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x514b7b52) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic (x514b7b52) on the es stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Medieval Europe"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/ap-world-history">http://translate.khanacademy.org/humanities/ap-world-history</a>
+# Description of topic <a href="http://translate.khanacademy.org/humanities/world-history">http://translate.khanacademy.org/humanities/world-history</a>
+# Description of topic (x66f79d8a) on the bg stage
+# Description of topic (x66f79d8a) on the es stage
+# Description of topic (x66f79d8a) on the pl stage
+# Description of topic (x66f79d8a) on the pt stage
+# Description of topic (x66f79d8a) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "From the earliest civilizations to the modern world, geography, religion, trade, and politics have bound peoples and nations together — and torn them apart. Take a journey through time and space and discover the fascinating history behind the complex world we inhabit today"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/ap-world-history">http://translate.khanacademy.org/humanities/ap-world-history</a>
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "AP World History"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/art-1010">http://translate.khanacademy.org/humanities/art-1010</a>
+# Title of topic (xdc974a79) on the es stage
+# Title of topic (xdc974a79) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Expressionism to Pop Art"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-1010">http://translate.khanacademy.org/humanities/art-1010</a>
+# Description of topic (xdc974a79) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory. This is the era of \"isms\"—Fauvism, Expressionism, Cubism, Surrealism, Abstract Expressionism and more. The avant-garde is unleashed in the 20th century and explores both abstraction and representation as a means to \"represent\" the radical changes, violence, alienation, and beauty that characterize the century."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-1010">http://translate.khanacademy.org/humanities/art-1010</a>
+# Description of topic (xdc974a79) on the es stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "This is the era of \"isms\"—Fauvism, Expressionism, Cubism, Surrealism, Abstract Expressionism and more. The avant-garde is unleashed in the 20th century and explores both abstraction and representation as a means to \"represent\" the radical changes, violence, alienation, and beauty that characterize the century."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/art-africa">http://translate.khanacademy.org/humanities/art-africa</a>
+# Title of topic (x1f9f8bff) on the es stage
+# Title of topic (x1f9f8bff) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art of Africa"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-africa">http://translate.khanacademy.org/humanities/art-africa</a>
+# Description of topic (x1f9f8bff) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory. Discover the diverse arts of Africa from select cultures and time periods on the world’s second largest continent."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-africa">http://translate.khanacademy.org/humanities/art-africa</a>
+# Description of topic (x1f9f8bff) on the es stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Discover the diverse arts of Africa from select cultures and time periods on the world’s second largest continent."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/art-americas">http://translate.khanacademy.org/humanities/art-americas</a>
+# Title of topic (xf20f462f) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art of the Americas to World War I"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/art-americas">http://translate.khanacademy.org/humanities/art-americas</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf20f462f) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art of the Americas"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-americas">http://translate.khanacademy.org/humanities/art-americas</a>
+# Description of topic (xf20f462f) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory. Here's where you'll find art from the ancient cultures of North and South America (and what we call Mesoamerica) through the period of European colonization and independence—and into the 19th century."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-americas">http://translate.khanacademy.org/humanities/art-americas</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Here's where you'll find art from the ancient cultures of North and South America (and what we call Mesoamerica) through the period of European colonization and independence—and into the 19th century."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/art-asia">http://translate.khanacademy.org/humanities/art-asia</a>
+# Title of topic (x97ec695a) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art of Asia"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-asia">http://translate.khanacademy.org/humanities/art-asia</a>
+# Description of topic (x97ec695a) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory. This section looks at the art and cultures of Imperial China (for ancient China please see the section, \"Ancient Art and Civilizations\" above), Hindu and Buddhist from South Asia, the great temple and palace complexes of Southeast Asia, and the art and architecture of Korea and Japan. Dr. Beth Harris and Dr. Steven Zucker of Smarthistory together with leading art historians, and our museum partners have created hundreds of short engaging conversational videos and articles, making Khan Academy one of the most accessible and extensive resources for the study of the history of art."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-asia">http://translate.khanacademy.org/humanities/art-asia</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "This section looks at the art and cultures of Imperial China (for ancient China please see the section, \"Ancient Art and Civilizations\" above), Hindu and Buddhist from South Asia, the great temple and palace complexes of Southeast Asia, and the art and architecture of Korea and Japan. Dr. Beth Harris and Dr. Steven Zucker of Smarthistory together with leading art historians, and our museum partners have created hundreds of short engaging conversational videos and articles, making Khan Academy one of the most accessible and extensive resources for the study of the history of art."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-history-basics">http://translate.khanacademy.org/humanities/art-history-basics</a>
+# Description of topic (x082c798e) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory. We understand the history of humanity through art. From prehistoric depictions of woolly mammoths to contemporary abstraction, artists have addressed their time and place in history and have expressed universal human truths for tens of thousands of years. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/art-history-for-teachers">http://translate.khanacademy.org/humanities/art-history-for-teachers</a>
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "For teachers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-history-for-teachers">http://translate.khanacademy.org/humanities/art-history-for-teachers</a>
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory. Look here for syllabi, sample discussion questions, and other useful resources for teachers."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-history-for-teachers">http://translate.khanacademy.org/humanities/art-history-for-teachers</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Look here for syllabi, sample discussion questions, and other useful resources for teachers."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/art-islam">http://translate.khanacademy.org/humanities/art-islam</a>
+# Title of topic (x9020ac79) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art of the Islamic world"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-islam">http://translate.khanacademy.org/humanities/art-islam</a>
+# Description of topic (x9020ac79) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory. Studying the Art of the Islamic world is challenging—partially because of the large geographic and chronological scope of Islam. Islam has been a major religion and cultural force for over fourteen centuries and continues to be so today. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-islam">http://translate.khanacademy.org/humanities/art-islam</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Studying the Art of the Islamic world is challenging—partially because of the large geographic and chronological scope of Islam. Islam has been a major religion and cultural force for over fourteen centuries and continues to be so today. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/art-oceania">http://translate.khanacademy.org/humanities/art-oceania</a>
+# Title of topic (xa3626015) on the es stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art of Oceania"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-oceania">http://translate.khanacademy.org/humanities/art-oceania</a>
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory. Oceania is a vast area of the Pacific Ocean that includes the island regions of Melanesia, Micronesia, and Polynesia."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern">http://translate.khanacademy.org/humanities/becoming-modern</a>
+# Title of topic (x4910f52e) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art in 19th century Europe"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern">http://translate.khanacademy.org/humanities/becoming-modern</a>
+# Description of topic (x4910f52e) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory. People use the term “modern” in a variety of ways—often very loosely, with a lot of implied associations of new, contemporary, up-to-date, and technological. The development of capitalism, urban culture, technology, and a growing middle class had an enormous impact on art."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern">http://translate.khanacademy.org/humanities/becoming-modern</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "People use the term “modern” in a variety of ways—often very loosely, with a lot of implied associations of new, contemporary, up-to-date, and technological. The development of capitalism, urban culture, technology, and a growing middle class had an enormous impact on art."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/global-culture">http://translate.khanacademy.org/humanities/global-culture</a>
+# Title of topic (x247213a3) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Global contemporary art"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/global-culture">http://translate.khanacademy.org/humanities/global-culture</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x247213a3) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Toward a global culture"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/global-culture">http://translate.khanacademy.org/humanities/global-culture</a>
+# Description of topic (x247213a3) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory. 1970-the present: Beuys, Hirst, Hadid and more."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/global-culture">http://translate.khanacademy.org/humanities/global-culture</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "1970-the present: Beuys, Hirst, Hadid and more."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-data/copy-of-cc-early-math-length-intro/e/indirect-measurement">http://translate.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-data/copy-of-cc-early-math-length-intro/e/indirect-measurement</a>.
+# Exercise at (x74bdb50f) on the hy stage.
+# Exercise at (x74bdb50f) on the pt stage.
+# Title of topic <a href="http://translate.khanacademy.org/humanities/grammar">http://translate.khanacademy.org/humanities/grammar</a>
+# Title of topic (x00307e86) on the pl stage
+# Title of topic (x00307e86) on the tr stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Grammar"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/grammar">http://translate.khanacademy.org/humanities/grammar</a>
+# Description of topic (x00307e86) on the pl stage
+# Description of topic (x00307e86) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Grammar is the collection of rules and conventions that makes languages go.  This section is about Standard American English, but there's something here for everyone."
+msgstr ""
+
+# Description for a curated module on <a href="http://translate.khanacademy.org/humanities">http://translate.khanacademy.org/humanities</a>.
+# Description for a curated module on <a href="http://translate.khanacademy.org/humanities/grammar">http://translate.khanacademy.org/humanities/grammar</a>.
+# Description for a curated module on (x00307e86) on the pl stage.
+# Description for a curated module on (x00307e86) on the tr stage.
+# Description for a curated module on (x905db83d) on the bg stage.
+# Description for a curated module on (x905db83d) on the tr stage.
+# Description of topic <a href="http://translate.khanacademy.org/humanities/grammar">http://translate.khanacademy.org/humanities/grammar</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Grammar is the collection of rules and conventions that make languages go.  This section is about Standard American English, but there's something here for everyone."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/medieval-world">http://translate.khanacademy.org/humanities/medieval-world</a>
+# Title of topic (x4b0eb531) on the es stage
+# Title of topic (x4b0eb531) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art of Medieval Europe"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/medieval-world">http://translate.khanacademy.org/humanities/medieval-world</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x4b0eb531) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory. Medieval Europe"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/medieval-world">http://translate.khanacademy.org/humanities/medieval-world</a>
+# Description of topic (x4b0eb531) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory. 400-1400: This was the period during which Christianity first flourished in Europe. Christianity—and specifically Catholicism in the Latin West—brought with it new ways of seeing the world while often rejecting the traditions and learning of the ancient world."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/medieval-world">http://translate.khanacademy.org/humanities/medieval-world</a>
+# Description of topic (x4b0eb531) on the es stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "400-1400: This was the period during which Christianity first flourished in Europe. Christianity—and specifically Catholicism in the Latin West—brought with it new ways of seeing the world while often rejecting the traditions and learning of the ancient world."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment">http://translate.khanacademy.org/humanities/monarchy-enlightenment</a>
+# Title of topic (xbcdaeeee) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Baroque to Neoclassical art in Europe"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment">http://translate.khanacademy.org/humanities/monarchy-enlightenment</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xbcdaeeee) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Baroque, Rococo, and Neoclassical art in Europe"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment">http://translate.khanacademy.org/humanities/monarchy-enlightenment</a>
+# Description of topic (xbcdaeeee) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory. 1600-1800: The monarchs of Europe embraced the most ornate elements of 17th-century art. Rulers invested vast resources on elaborate church facades, stunning, gold-covered chapels and strikingly-realistic painting and sculpture. While in the newly independent Dutch Republic, a market emerged to meet the Protestant tastes of the growing merchant class. By the 18th century, Voltaire, Rousseau and other intellectuals had put forward Enlightenment ideas that would spark an age of revolution and usher in the modern world."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment">http://translate.khanacademy.org/humanities/monarchy-enlightenment</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "1600-1800: The monarchs of Europe embraced the most ornate elements of 17th-century art. Rulers invested vast resources on elaborate church facades, stunning, gold-covered chapels and strikingly-realistic painting and sculpture. While in the newly independent Dutch Republic, a market emerged to meet the Protestant tastes of the growing merchant class. By the 18th century, Voltaire, Rousseau and other intellectuals had put forward Enlightenment ideas that would spark an age of revolution and usher in the modern world."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/music">http://translate.khanacademy.org/humanities/music</a>
+# Title of topic (x5dad6980) on the pl stage
+# Title of topic (x5dad6980) on the pt stage
+# Title of topic (x5dad6980) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Music"
+msgstr ""
+
+# Description for a curated module on <a href="http://translate.khanacademy.org/humanities">http://translate.khanacademy.org/humanities</a>.
+# Description for a curated module on (x905db83d) on the bg stage.
+# Description for a curated module on (x905db83d) on the tr stage.
+# Description of topic <a href="http://translate.khanacademy.org/humanities/music">http://translate.khanacademy.org/humanities/music</a>
+# Description of topic (x5dad6980) on the pl stage
+# Description of topic (x5dad6980) on the pt stage
+# Description of topic (x5dad6980) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "An exploration of classical music as a living tradition. Top orchestral players from across the United States meet once-a-year in New York as the All-Star Orchestra to record masterpieces and new works with Music Director Gerard Schwarz. Come behind the scenes, meet the musicians, attend an open rehearsal, gain a conductor's perspective, and have a first-person encounter with the music."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/prehistoric-art">http://translate.khanacademy.org/humanities/prehistoric-art</a>
+# Title of topic (x7e1ef7a0) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Prehistoric art in Europe and West Asia"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/prehistoric-art">http://translate.khanacademy.org/humanities/prehistoric-art</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x7e1ef7a0) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Prehistoric art in Europe"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/prehistoric-art">http://translate.khanacademy.org/humanities/prehistoric-art</a>
+# Description of topic (x7e1ef7a0) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory. You’ve seen the drawing of human evolution showing a procession of monkey, ape, primitive and modern man? Well, somewhere along that line early man could be shown holding a paint brush and a chisel. Mankind has been making art for at least 100,000 years. Why was the earliest art made? What might it have once meant? \"Prehistoric\" refers to a time before writing, which makes these questions particularly difficult to answer—but fascinating to contemplate."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/prehistoric-art">http://translate.khanacademy.org/humanities/prehistoric-art</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "You’ve seen the drawing of human evolution showing a procession of monkey, ape, primitive and modern man? Well, somewhere along that line early man could be shown holding a paint brush and a chisel. Mankind has been making art for at least 100,000 years. Why was the earliest art made? What might it have once meant? \"Prehistoric\" refers to a time before writing, which makes these questions particularly difficult to answer—but fascinating to contemplate."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/renaissance-reformation">http://translate.khanacademy.org/humanities/renaissance-reformation</a>
+# Title of topic (xa6688040) on the es stage
+# Title of topic (xa6688040) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Renaissance & Reformation in Europe"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/renaissance-reformation">http://translate.khanacademy.org/humanities/renaissance-reformation</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa6688040) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa6688040) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Renaissance and Reformation in Europe"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/renaissance-reformation">http://translate.khanacademy.org/humanities/renaissance-reformation</a>
+# Description of topic (xa6688040) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brought to you by Smarthistory. 1400-1600: In part, the Renaissance was a rebirth of interest in ancient Greek and Roman culture. It was also a period of economic prosperity in Europe—particularly in Italy and in Northern Europe. In 1517 a German theologian and monk, Martin Luther, challenged the authority of the Pope and sparked the Protestant Reformation. By challenging the power of the Church, and asserting the authority of individual conscience, the Reformation laid the foundation for the value that modern culture places on the individual. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/renaissance-reformation">http://translate.khanacademy.org/humanities/renaissance-reformation</a>
+# Description of topic (xa6688040) on the es stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "1400-1600: In part, the Renaissance was a rebirth of interest in ancient Greek and Roman culture. It was also a period of economic prosperity in Europe—particularly in Italy and in Northern Europe. In 1517 a German theologian and monk, Martin Luther, challenged the authority of the Pope and sparked the Protestant Reformation. By challenging the power of the Church, and asserting the authority of individual conscience, the Reformation laid the foundation for the value that modern culture places on the individual. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/special-topics-art-history">http://translate.khanacademy.org/humanities/special-topics-art-history</a>
+# Title of topic (xa0148fd6a60f2ff6) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Special topics in art history"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/us-history/american-civics-parent/american-civics">http://translate.khanacademy.org/humanities/us-history/american-civics-parent/american-civics</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd23db0ab) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/humanities/us-history/american-civics-parent">http://translate.khanacademy.org/humanities/us-history/american-civics-parent</a>
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "American civics"
+msgstr ""
+
+# Title for a curated module on <a href="http://translate.khanacademy.org/humanities">http://translate.khanacademy.org/humanities</a>.
+# Title for a curated module on (x905db83d) on the bg stage.
+# Title for a curated module on (x905db83d) on the tr stage.
+# Title of topic <a href="http://translate.khanacademy.org/humanities/us-history">http://translate.khanacademy.org/humanities/us-history</a>
+# Title of topic (x71a94f19) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "US history"
+msgstr ""
+
+# Description for a curated module on <a href="http://translate.khanacademy.org/humanities/us-history">http://translate.khanacademy.org/humanities/us-history</a>.
+# Description for a curated module on (x71a94f19) on the pt stage.
+# Description of topic <a href="http://translate.khanacademy.org/humanities/us-history">http://translate.khanacademy.org/humanities/us-history</a>
+# Description of topic (x71a94f19) on the pt stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The United States of America is a nation with a rich history and a noble goal: government of the people, by the people, for the people. Its citizens' struggle to achieve that goal is a dramatic story stretching over hundreds of years. "
+msgstr ""
+
+# Description for a curated module on <a href="http://translate.khanacademy.org/humanities/us-history">http://translate.khanacademy.org/humanities/us-history</a>.
+# Description of topic <a href="http://translate.khanacademy.org/humanities/us-history">http://translate.khanacademy.org/humanities/us-history</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "From a mosquito-ridden backwater to the world's last remaining superpower, the United States of America is a nation with a rich history and a noble goal: government of the people, by the people, for the people. Its citizens' struggle to achieve that goal is a dramatic story stretching over hundreds of years. "
+msgstr ""
+
+# Title for a curated module on <a href="http://translate.khanacademy.org/humanities">http://translate.khanacademy.org/humanities</a>.
+# Title for a curated module on (x905db83d) on the bg stage.
+# Title for a curated module on (x905db83d) on the tr stage.
+# Title of topic <a href="http://translate.khanacademy.org/humanities/world-history">http://translate.khanacademy.org/humanities/world-history</a>
+# Title of topic (x66f79d8a) on the bg stage
+# Title of topic (x66f79d8a) on the es stage
+# Title of topic (x66f79d8a) on the pl stage
+# Title of topic (x66f79d8a) on the pt stage
+# Title of topic (x66f79d8a) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "World history"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/world-history">http://translate.khanacademy.org/humanities/world-history</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "The history of the world (eventually)!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities">http://translate.khanacademy.org/humanities</a>
+# Description of topic (x905db83d) on the bg stage
+# Description of topic (x905db83d) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Beauty. War. Religion. Society. Language. The human condition, in all its wonder and depravity, is at the heart of the study of the arts and humanities."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities">http://translate.khanacademy.org/humanities</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Beauty. War. Religion. Society. Language. The human condition, in all its wonder and depravity, is at the heart of the study of the arts and humanities. "
+msgstr ""

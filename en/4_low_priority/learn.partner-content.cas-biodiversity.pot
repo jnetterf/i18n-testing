@@ -1,0 +1,655 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-22 16:08+0000\n"
+"PO-Revision-Date: 2017-11-22 16:08+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Exercise is at (x1a9e149e) on the pt stage.
+# Exercise is at (x20c0b163) on the pt stage.
+# Exercise is at (x2ba1c14c) on the pt stage.
+# Exercise is at (x2e9f749c) on the pt stage.
+# Exercise is at (x97e74a14) on the pt stage.
+# Exercise is at (xb58b83df) on the pt stage.
+# Exercise is at (xb80fe829) on the pt stage.
+# Exercise is at (xc686d33e) on the pt stage.
+# Exercise is at (xd0e6d57d) on the pt stage.
+# Exercise is at (xe847e006) on the pt stage.
+# Exercise is at (xf8afc419) on the pt stage.
+# Exercise is at (xfcc875ff) on the pt stage.
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/cas-welcome/cal-academy-welcome">http://translate.khanacademy.org/partner-content/cas-biodiversity/cas-welcome/cal-academy-welcome</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf5ed010a) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf5ed010a) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/nasa/nasa-welcome/nasa-mission-control">http://translate.khanacademy.org/partner-content/nasa/nasa-welcome/nasa-mission-control</a>
+# Title of topic (x448700a0) on the pl stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/teacher-5th-grade/unbounded-5th-guide/unbounded-5th-standards/a/welcome-unbounded-5th-guide">http://translate.khanacademy.org/math/teacher-5th-grade/unbounded-5th-guide/unbounded-5th-standards/a/welcome-unbounded-5th-guide</a>
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Welcome"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-levels/biodiversity-tree-of-life">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-levels/biodiversity-tree-of-life</a>
+# Title of topic (x27ce5cb1) on the pl stage
+# Title of topic (x27ce5cb1) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Biodiversity and the tree of life"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-levels/biodiversity-tree-of-life">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-levels/biodiversity-tree-of-life</a>
+# Description of topic (x27ce5cb1) on the pl stage
+# Description of topic (x27ce5cb1) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Understanding the place of every species in the tree of life is crucial in our race to save biodiversity. See how the history of a species can be traced through evolutionary trees."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-levels/genetic">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-levels/genetic</a>
+# Title of topic (x45d0780d) on the pl stage
+# Title of topic (x45d0780d) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Genetic and ecosystem biodiversity"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-levels/genetic">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-levels/genetic</a>
+# Description of topic (x45d0780d) on the pl stage
+# Description of topic (x45d0780d) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Diversity is important at the level of genes and ecosystems, as well as species."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-levels">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-levels</a>
+# Title of topic (x92861948) on the pl stage
+# Title of topic (x92861948) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "What are the different levels of biodiversity?"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-levels">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-levels</a>
+# Description of topic (x92861948) on the pl stage
+# Description of topic (x92861948) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to recognize the genetic, ecosystem, and evolutionary levels of biodiversity.  Along with species richness, these levels play crucial roles in conservation."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-origin/evolutionary-causes">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-origin/evolutionary-causes</a>
+# Title of topic (x3acc3aa5) on the pl stage
+# Title of topic (x3acc3aa5) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The evolutionary causes of biodiversity"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-origin/evolutionary-causes">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-origin/evolutionary-causes</a>
+# Description of topic (x3acc3aa5) on the pl stage
+# Description of topic (x3acc3aa5) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Environmental conditions play a critical role in determining if an individual will survive and contribute its genetic information to the next generation and how new species will evolve."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-origin/speciation-extinction">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-origin/speciation-extinction</a>
+# Title of topic (x29342a8f) on the pl stage
+# Title of topic (x29342a8f) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Biodiversity patterns of speciation and extinction"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-origin/speciation-extinction">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-origin/speciation-extinction</a>
+# Description of topic (x29342a8f) on the pl stage
+# Description of topic (x29342a8f) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Over time, species richness has had significant ups and downs. Speciation increases the number of species. Extinction decreases richness."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-origin">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-origin</a>
+# Title of topic (x4dd95405) on the pl stage
+# Title of topic (x4dd95405) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Where does biodiversity come from?"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-origin">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-origin</a>
+# Description of topic (x4dd95405) on the pl stage
+# Description of topic (x4dd95405) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Earth's amazing diversity of life is the result of billions of years of evolution, of natural selection acting on individual genetic variation."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-protection/biodiversitychampions">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-protection/biodiversitychampions</a>
+# Title of topic (x32ff7968) on the pl stage
+# Title of topic (x32ff7968) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Biodiversity champions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-protection/biodiversitychampions">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-protection/biodiversitychampions</a>
+# Description of topic (x32ff7968) on the pl stage
+# Description of topic (x32ff7968) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Advocates for biodiversity conservation come in all forms, from single individuals to international agencies."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-protection/science-education">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-protection/science-education</a>
+# Title of topic (xd34209c8) on the pl stage
+# Title of topic (xd34209c8) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Harnessing science and education for biodiversity conservation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-protection/science-education">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-protection/science-education</a>
+# Description of topic (xd34209c8) on the pl stage
+# Description of topic (xd34209c8) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "We are changing global environments and losing biodiversity at unprecedented rates. Our greatest tool for stemming that loss is the  symbiosis between science and education."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-protection">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-protection</a>
+# Title of topic (x2a64372c) on the pl stage
+# Title of topic (x2a64372c) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "How can biodiversity be protected?"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-protection">http://translate.khanacademy.org/partner-content/cas-biodiversity/biodiversity-protection</a>
+# Description of topic (x2a64372c) on the pl stage
+# Description of topic (x2a64372c) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Discover the wealth of options available in the vital race to protect biodiversity."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/cas-welcome">http://translate.khanacademy.org/partner-content/cas-biodiversity/cas-welcome</a>
+# Title of topic (xb91c1e3a) on the pl stage
+# Title of topic (xb91c1e3a) on the tr stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/cas-welcome/cal-academy-welcome/a/welcome-to-the-world-of-biodiversity">http://translate.khanacademy.org/partner-content/cas-biodiversity/cas-welcome/cal-academy-welcome/a/welcome-to-the-world-of-biodiversity</a>
+# Title of tutorial article (x95871501) on the pl stage
+# Title of tutorial article (x95871501) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Welcome to the world of biodiversity!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/cas-welcome/cal-academy-welcome">http://translate.khanacademy.org/partner-content/cas-biodiversity/cas-welcome/cal-academy-welcome</a>
+# Title of topic (xf5ed010a) on the pl stage
+# Title of topic (xf5ed010a) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Welcome "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/cas-welcome">http://translate.khanacademy.org/partner-content/cas-biodiversity/cas-welcome</a>
+# Description of topic (xb91c1e3a) on the pl stage
+# Description of topic (xb91c1e3a) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Take an expedition with us to investigate the amazing diversity of life on this planet. Learn what biodiversity is, why it is important, where it is found, how it comes into existence, how you study it, why it is threatened, and how it can be protected."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/exploring-ecosystems">http://translate.khanacademy.org/partner-content/cas-biodiversity/exploring-ecosystems</a>
+# Title of topic (x1a634263) on the pl stage
+# Title of topic (x1a634263) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Exploring ecosystems"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/exploring-ecosystems">http://translate.khanacademy.org/partner-content/cas-biodiversity/exploring-ecosystems</a>
+# Description of topic (x1a634263) on the pl stage
+# Description of topic (x1a634263) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "In addition to showcasing live footage from a unique ecosystem, each of the three videos in the Exploring Ecosystems series features an opportunity for students to actively participate in a problem-solving scenario based on an ongoing research project of an Academy scientist. As you watch the video, be prepared to pause at key points to participate fully! "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/how-is-biodiversity-studied/biodiversity-analyses-and-uncertainties">http://translate.khanacademy.org/partner-content/cas-biodiversity/how-is-biodiversity-studied/biodiversity-analyses-and-uncertainties</a>
+# Title of topic (x5b6ca905) on the pl stage
+# Title of topic (x5b6ca905) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Biodiversity analyses and unknowns"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/how-is-biodiversity-studied/biodiversity-analyses-and-uncertainties">http://translate.khanacademy.org/partner-content/cas-biodiversity/how-is-biodiversity-studied/biodiversity-analyses-and-uncertainties</a>
+# Description of topic (x5b6ca905) on the pl stage
+# Description of topic (x5b6ca905) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Collecting specimens in the field launches the lab work of analysis, documentation, and cataloging. Despite the ongoing work of scientists, only about 10% of Earth’s biodiversity has been documented."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/how-is-biodiversity-studied/biodiversity-fieldwork">http://translate.khanacademy.org/partner-content/cas-biodiversity/how-is-biodiversity-studied/biodiversity-fieldwork</a>
+# Title of topic (x65f30a37) on the pl stage
+# Title of topic (x65f30a37) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Biodiversity fieldwork"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/how-is-biodiversity-studied/biodiversity-fieldwork">http://translate.khanacademy.org/partner-content/cas-biodiversity/how-is-biodiversity-studied/biodiversity-fieldwork</a>
+# Description of topic (x65f30a37) on the pl stage
+# Description of topic (x65f30a37) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "For centuries, expeditions to discover biodiversity have taken scientists to the far corners of the planet. Today’s expeditions are multidisciplinary, incorporate new technologies and involve new ethics.\n"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/how-is-biodiversity-studied">http://translate.khanacademy.org/partner-content/cas-biodiversity/how-is-biodiversity-studied</a>
+# Title of topic (x0066ce37) on the pl stage
+# Title of topic (x0066ce37) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "How is biodiversity studied?"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/how-is-biodiversity-studied">http://translate.khanacademy.org/partner-content/cas-biodiversity/how-is-biodiversity-studied</a>
+# Description of topic (x0066ce37) on the pl stage
+# Description of topic (x0066ce37) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Delve into the history of humanity’s passion to document and display specimens from the natural world and learn how biodiversity expeditions are conducted today."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/where-biodiversity-is-found/biodiversity-hotspots-cas">http://translate.khanacademy.org/partner-content/cas-biodiversity/where-biodiversity-is-found/biodiversity-hotspots-cas</a>
+# Title of topic (x3c612950) on the pl stage
+# Title of topic (x3c612950) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Biodiversity Hotspots"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/where-biodiversity-is-found/biodiversity-hotspots-cas">http://translate.khanacademy.org/partner-content/cas-biodiversity/where-biodiversity-is-found/biodiversity-hotspots-cas</a>
+# Description of topic (x3c612950) on the pl stage
+# Description of topic (x3c612950) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Areas that have a high diversity of unique and threatened species are known as biodiversity hotspots."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/where-biodiversity-is-found/distribution-patterns">http://translate.khanacademy.org/partner-content/cas-biodiversity/where-biodiversity-is-found/distribution-patterns</a>
+# Title of topic (x946cfefe) on the pl stage
+# Title of topic (x946cfefe) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Biodiversity distribution patterns"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/where-biodiversity-is-found/distribution-patterns">http://translate.khanacademy.org/partner-content/cas-biodiversity/where-biodiversity-is-found/distribution-patterns</a>
+# Description of topic (x946cfefe) on the pl stage
+# Description of topic (x946cfefe) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Life is abundant on Earth, but is distributed unevenly, with species richness and population sizes greater in some areas than others. The physical environment, other organisms, evolutionary factors, and human actions all influence where species live."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/where-biodiversity-is-found">http://translate.khanacademy.org/partner-content/cas-biodiversity/where-biodiversity-is-found</a>
+# Title of topic (xb1fc9124) on the pl stage
+# Title of topic (xb1fc9124) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Where is biodiversity found?"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/where-biodiversity-is-found">http://translate.khanacademy.org/partner-content/cas-biodiversity/where-biodiversity-is-found</a>
+# Description of topic (xb1fc9124) on the pl stage
+# Description of topic (xb1fc9124) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Explore how life is found almost everywhere on Earth, but is not distributed evenly. And learn why the clumped distributions of species are the result of a wide variety of both natural and human-driven factors."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-important-ca/biodiversity-and-ecosystem-funct">http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-important-ca/biodiversity-and-ecosystem-funct</a>
+# Title of topic (xa6f5240b) on the pl stage
+# Title of topic (xa6f5240b) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Biodiversity and ecosystem function"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-important-ca/biodiversity-and-ecosystem-funct">http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-important-ca/biodiversity-and-ecosystem-funct</a>
+# Description of topic (xa6f5240b) on the pl stage
+# Description of topic (xa6f5240b) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "A wealth and variety of species, or species richness, promote strong ecological networks and functions, making ecosystems more resilient to major disturbances and collapse."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-important-ca/biodiversity-and-ecosystem-servi">http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-important-ca/biodiversity-and-ecosystem-servi</a>
+# Title of topic (x89eab031) on the pl stage
+# Title of topic (x89eab031) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Biodiversity and ecosystem services"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-important-ca/biodiversity-and-ecosystem-servi">http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-important-ca/biodiversity-and-ecosystem-servi</a>
+# Description of topic (x89eab031) on the pl stage
+# Description of topic (x89eab031) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Healthy ecosystems provide crucial direct, indirect, and aesthetic-ethical benefits to humans."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-important-ca">http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-important-ca</a>
+# Title of topic (x345d2860) on the pl stage
+# Title of topic (x345d2860) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Why is biodiversity important?"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-important-ca">http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-important-ca</a>
+# Description of topic (x345d2860) on the pl stage
+# Description of topic (x345d2860) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Discover why a high diversity of species sustains ecosystems, which in turn provide important services to humans."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-threatened/biodiversity-global">http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-threatened/biodiversity-global</a>
+# Title of topic (x2fec78ab) on the pl stage
+# Title of topic (x2fec78ab) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Global threats to biodiversity"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-threatened/biodiversity-global">http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-threatened/biodiversity-global</a>
+# Description of topic (x2fec78ab) on the pl stage
+# Description of topic (x2fec78ab) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Local impacts can have global consequences. Humans are causing accelerating changes in the atmosphere, on land, and in the oceans. Life in these changing environments is tough for many species."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-threatened/local-threats-to-biodiversity">http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-threatened/local-threats-to-biodiversity</a>
+# Title of topic (x56dff66f) on the pl stage
+# Title of topic (x56dff66f) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Local threats to biodiversity"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-threatened/local-threats-to-biodiversity">http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-threatened/local-threats-to-biodiversity</a>
+# Description of topic (x56dff66f) on the pl stage
+# Description of topic (x56dff66f) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Human population increase and activities threaten biodiversity in almost every corner of our planet. Local threats to species richness include land-use changes, pollution, resource exploitation, and invasive species."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-threatened">http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-threatened</a>
+# Title of topic (x8e37066c) on the pl stage
+# Title of topic (x8e37066c) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Why is biodiversity threatened?"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-threatened">http://translate.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-threatened</a>
+# Description of topic (x8e37066c) on the pl stage
+# Description of topic (x8e37066c) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Examine the local and global threats to biodiversity that are caused by human activities. Many of the negative impacts start as regional, but easily add up to affect the entire planet."
+msgstr ""

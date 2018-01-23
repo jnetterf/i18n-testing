@@ -1,0 +1,2669 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-28 11:40+0000\n"
+"PO-Revision-Date: 2017-11-28 11:40+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers">http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/introduction-to-complex-numbers-algebra-2">http://translate.khanacademy.org/math/algebra2/introduction-to-complex-numbers-algebra-2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-complex-num">http://translate.khanacademy.org/math/math2/math2-complex-num</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers">http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers</a>
+# Title of topic mastery/exercise mission badge "topic:wUXIUR9Hs-zsIFnoyfcoiOBECV_GutaZu0GGZvf6"
+# Title of topic mastery/exercise mission badge "topic:xd7a3ca35"
+# Title of topic (x1dd60c20) on the pt stage
+# Title of topic (x50953e8f) on the pt stage
+# Title of topic (x81a51245) on the lol stage
+# Title of topic (xea2655a7) on the pt stage
+# Title of topic (xf380b814) on the bg stage
+# Title of topic (xf380b814) on the pt stage
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-numbers">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-numbers</a>
+# Title of video (x53c95fe4) on the tr stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Complex numbers"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-feedback">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-feedback</a>
+# Description of video (xb159b105) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Feedback is the design technique where a part of the amplifier output &quot;feeds back&quot; to the input of the amplifier. The overall effect creates a very stable gain determined by resistor ratios."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-inverting-opamp">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-inverting-opamp</a>
+# Title of video (xd6dd3ffd) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Inverting op-amp"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-inverting-opamp">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-inverting-opamp</a>
+# Description of video (xd6dd3ffd) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We analyze the inverting op-amp configuration, doing all the algebra from first principles."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-noninverting-opamp">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-noninverting-opamp</a>
+# Title of video (xb80be02c) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Non-inverting op-amp"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-noninverting-opamp">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-noninverting-opamp</a>
+# Description of video (xb80be02c) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "An op-amp can be used to amplify a voltage. The gain is determined by the ratio of two resistors."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-opamp-intro">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-opamp-intro</a>
+# Title of video (xaf155f88) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "What is an operational amplifier?"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-opamp-intro">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-opamp-intro</a>
+# Description of video (xaf155f88) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "The &quot;operational amplifier&quot; has two differential inputs and very high gain. Willy describes the symbol and properties of an op-amp. Op-amps are the backbone of analog circuit design."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-summing-opamp">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-summing-opamp</a>
+# Title of video (x78eefffe) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Summing op-amp"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-summing-opamp">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-summing-opamp</a>
+# Description of video (x78eefffe) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "This op-amp circuit outputs the sum of two input voltages. You can do analog arithmetic on signals."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-virtual-ground-examples">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-virtual-ground-examples</a>
+# Title of video (x83b79b90) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Virtual ground - examples"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-virtual-ground-examples">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-virtual-ground-examples</a>
+# Description of video (x83b79b90) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Using the &quot;virtual ground&quot; idea, we reexamine the inverting op-amp and find a solution much quicker. We apply the virtual ground method to a unity-gain buffer (amplifier with gain = 1)."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-virtual-ground">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-virtual-ground</a>
+# Title of video (xa9088670) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Virtual ground"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-virtual-ground">http://translate.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-virtual-ground</a>
+# Description of video (xa9088670) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "The idea of a &quot;virtual ground&quot; makes some simplifying assumptions, giving us an elegant and simple way to look at op-amp circuits."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/circuit-terminology">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/circuit-terminology</a>
+# Description of video (x05b9c9e6) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Definition of circuit terms: element, component, node, branch, mesh, and loop&nbsp;"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ee-ideal-sources">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ee-ideal-sources</a>
+# Title of video (x99d7332b) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Ideal sources"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ee-ideal-sources">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ee-ideal-sources</a>
+# Description of video (x99d7332b) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to the voltage source and current source."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ee-labeling-voltages">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ee-labeling-voltages</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-labeling-voltages">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-labeling-voltages</a>
+# Title of video (xbbbe6a4d) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Labeling voltages"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ee-labeling-voltages">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ee-labeling-voltages</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-labeling-voltages">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-labeling-voltages</a>
+# Description of video (xbbbe6a4d) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Labeling voltages on a schematic is not a matter of \"right\" and \"wrong\". It simply establishes how the voltage appears in the analysis equations."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ee-passive-sign-convention">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ee-passive-sign-convention</a>
+# Title of video (xb4f026f4) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Sign convention for passive components"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ee-passive-sign-convention">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ee-passive-sign-convention</a>
+# Description of video (xb4f026f4) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "The sign convention for passive components defines what we mean by positive and negative voltage and current."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ideal-circuit-elements">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ideal-circuit-elements</a>
+# Description of video (x0085d2b0) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to the most common circuit elements: resistor, capacitor, and inductor. Introducing the current-voltage equations for these elements, including Ohm&#39;s Law for resistors."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ideal-circuit-elements">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements/v/ideal-circuit-elements</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to the most common circuit elements: resistor, capacitor, and inductor"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-intro1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-intro1</a>
+# Title of video (xd05ad841) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "AC analysis intro 1"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-intro1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-intro1</a>
+# Description of video (xd05ad841) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Solving circuits with differential equations is hard. If we limit ourselves to sinusoidal input signals, a whole new method of AC analysis emerges."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-intro2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-intro2</a>
+# Title of video (xbf82f3c6) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "AC analysis intro 2"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-intro2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-intro2</a>
+# Description of video (xbf82f3c6) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Here&#39;s a preview of how AC analysis is going to work. To get ready we need to review some of the ideas from trig and complex numbers."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-superposition">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-superposition</a>
+# Title of video (xafc6252e) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "AC analysis superposition"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-superposition">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-analysis-superposition</a>
+# Description of video (xafc6252e) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We break a sinusoidal input voltage into two complex exponentials. Using superposition, we can recover the complex output signals and reassemble them into a real sinusoidal output voltage."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-trig-review">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-trig-review</a>
+# Title of video (xeca5168a) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Trigonometry review"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-trig-review">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-ac-trig-review</a>
+# Description of video (xeca5168a) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "A quick review of some ideas from trigonometry that will help us with AC analysis. The definitions of sine, cosine, and tangent, circles, degrees, radians."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-exponential-magnitude">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-exponential-magnitude</a>
+# Title of video (x7d155a8b) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Complex exponential magnitude"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-exponential-magnitude">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-exponential-magnitude</a>
+# Description of video (x7d155a8b) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "A closer look at the complex exponential term in Euler&#39;s Formula. We see that it represents a complex number, a distance of 1 from the origin of the complex plane."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-exponential-magnitude">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-exponential-magnitude</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "A closer look at the complex exponential term in Euler's Formula. We see that it represents a complex number, a distance of 1 from the origin of the complex plane."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-exponentials-spin">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-exponentials-spin</a>
+# Title of video (xb095c462) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Complex exponentials spin"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-exponentials-spin">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-exponentials-spin</a>
+# Description of video (xb095c462) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "When we put time in the exponent of a complex exponential, the complex number it represent rotates in a circle on the complex plane. You can think of it as a spinning number!"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-numbers">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-numbers</a>
+# Description of video (x53c95fe4) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Complex numbers can be represented three ways on the complex plane: cartesian coordinates, radius and angle, and exponential form."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-rotation">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-rotation</a>
+# Title of video (x7079f83a) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Complex rotation"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-rotation">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-complex-rotation</a>
+# Description of video (x7079f83a) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Multiplying a real or complex number by the imaginary unit j corresponds to a rotation by +90 degrees. This is the key feature of j that makes it such a useful number."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-eli-the-ice-man">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-eli-the-ice-man</a>
+# Title of video (xbb84e633) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "ELI the ICE man"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-eli-the-ice-man">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-eli-the-ice-man</a>
+# Description of video (xbb84e633) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Remember the relationship between current and voltage in an inductor and capacitor with the help of ELI the ICE man."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-euler-cosine">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-euler-cosine</a>
+# Title of video (xf6747f03) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Euler's cosine wave"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-euler-cosine">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-euler-cosine</a>
+# Description of video (xf6747f03) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "A cosine wave emerges from Euler&#39;s Formula. Music, no narration. Animated with d3.js."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-eulers-formula">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-eulers-formula</a>
+# Title of video (x9bea2f03) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Euler's formula"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-eulers-formula">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-eulers-formula</a>
+# Description of video (x9bea2f03) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Euler&#39;s formula relates the complex exponential to the cosine and sine functions. This formula is the most important tool in AC analysis. It is why electrical engineers need to understand complex numbers."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-eulers-sine-wave">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-eulers-sine-wave</a>
+# Title of video (x1ecb1090) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Euler's sine wave"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-eulers-sine-wave">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-eulers-sine-wave</a>
+# Description of video (x1ecb1090) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "A sine wave emerges from Euler&#39;s Formula. Music, no narration. Animated with d3.js."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-impedance-of-simple-networks">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-impedance-of-simple-networks</a>
+# Title of video (x022a2cf2) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Impedance of simple networks"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-impedance-of-simple-networks">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-impedance-of-simple-networks</a>
+# Description of video (x022a2cf2) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Impedance of 2 elements in series is a complex number. Impedance terminology: reactance, susceptance, admittance."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-impedance-vs-frequency">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-impedance-vs-frequency</a>
+# Title of video (x9dbef6a8) on the es stage
+# Title of video (x9dbef6a8) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Impedance vs frequency"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-impedance-vs-frequency">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-impedance-vs-frequency</a>
+# Description of video (x9dbef6a8) on the es stage
+# Description of video (x9dbef6a8) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "The impedance of capacitors and inductors in a circuit depend on the frequency of the electric signal. The impedance of an inductor is directly proportional to frequency, while the impedance of a capacitor is inversely proportional to frequency."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-impedance">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-impedance</a>
+# Title of video (x7ea223b6) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Impedance"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-impedance">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-impedance</a>
+# Description of video (x7ea223b6) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "The ratio of a sinusoidal voltage to a sinusoidal current is called &quot;impedance&quot;. This is a generalization of Ohm&#39;s Law for resistors. We derive the impedance of a resistor, inductor, and capacitor. The inductor and capacitor impedance includes a term for frequency, so the impedance of these components depends on frequency."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-impedance">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-impedance</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "The ratio of a sinusoidal voltage to a sinusoidal current is called &quot;impedance&quot;. This is a generalization of Ohm&#39;s Law. We derive the impedance of a resistor, inductor, and capacitor. The inductor and capacitor impedance has a term for frequency, so the impedance of these components depends on frequency."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-kvl-frequency-domain">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-kvl-frequency-domain</a>
+# Title of video (x04d23e29) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "KVL in the frequency domain"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-kvl-frequency-domain">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-kvl-frequency-domain</a>
+# Description of video (x04d23e29) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Demonstration that Kirchhoff&#39;s voltage law applies in the frequency domain. The voltage phase offsets around a loop sum to zero."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-lead-lag">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-lead-lag</a>
+# Title of video (x6d4df74e) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Lead Lag"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-lead-lag">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-lead-lag</a>
+# Description of video (x6d4df74e) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Sine and cosine look similar, except they are out of phase. When we talk about sine and cosine as a function of time, the difference is called &quot;lead&quot; or &quot;lag&quot;."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-lead-lag">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-lead-lag</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "Sine and cosine look similar, except they are out of phase. When we talk about sine and cosine as a function of time, the difference is called \"lead\" or \"lag\"."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-multiplying-j-rotation">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-multiplying-j-rotation</a>
+# Title of video (x99f14726) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiplying by j is rotation"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-multiplying-j-rotation">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-multiplying-j-rotation</a>
+# Description of video (x99f14726) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Successive powers of the imaginary unit j correspond to a rotation.&nbsp;"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-multiplying-j-rotation">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-multiplying-j-rotation</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "Multiplying any real or complex number by the imaginary unit j corresponds to a rotation. This is the key feature of j that makes it such a useful number."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency</a>
+# Title of video (xbb83765d) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Negative frequency"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-negative-frequency</a>
+# Description of video (xbb83765d) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "The concept of negative frequency is perplexing, but it makes sense when you think about rotating complex exponentials"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-circles">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-circles</a>
+# Title of video (x2c67c16e) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Sine and cosine come from circles"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-circles">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-circles</a>
+# Description of video (x2c67c16e) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Sine and cosine can be generated by projecting the tip of a vector onto the y-axis and x-axis as the vector rotates about the origin.&nbsp;"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-circles">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-circles</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Sine and Cosine come from circles"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-circles">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-circles</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "Sine and cosine can be generated by projecting the tip of a vector onto the y-axis and x-axis as the vector rotates about the origin."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-from-rotating-vector">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-from-rotating-vector</a>
+# Title of video (xdde03158) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Sine and cosine from rotating vector"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-from-rotating-vector">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-cosine-from-rotating-vector</a>
+# Description of video (xdde03158) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "One way to generate sine and cosine is to track the motion of a rotating vector.&nbsp;Animated."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-of-time">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-of-time</a>
+# Title of video (xb88ed089) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Sine of time"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-of-time">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis/v/ee-sine-of-time</a>
+# Description of video (xb88ed089) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "If we introduce time as the argument to the sine function, we get a sine wave.&nbsp;Animated."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-application-of-the-fundamental-laws-setup">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-application-of-the-fundamental-laws-setup</a>
+# Title of video (x501e0a36) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Application of the fundamental laws (setup)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-application-of-the-fundamental-laws-setup">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-application-of-the-fundamental-laws-setup</a>
+# Description of video (x501e0a36) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We can solve circuits by the direct application of the fundamental laws: Ohm&#39;s Law and Kirchhoff&#39;s Laws. (Part 1 of 2)"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-application-of-the-fundamental-laws-solve">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-application-of-the-fundamental-laws-solve</a>
+# Title of video (x889b22a3) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Application of the fundamental laws (solve)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-application-of-the-fundamental-laws-solve">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-application-of-the-fundamental-laws-solve</a>
+# Description of video (x889b22a3) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We solve the equations created by direct application of the fundamental laws: Ohm&#39;s Law and Kirchhoff&#39;s Laws. (Part 2 of 2)"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-mesh-current-method-step-4-solve">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-mesh-current-method-step-4-solve</a>
+# Title of video (x7c56cf3c) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Mesh current method (step 4)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-mesh-current-method-step-4-solve">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-mesh-current-method-step-4-solve</a>
+# Description of video (x7c56cf3c) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We complete the solution of a circuit using the mesh current method. Fourth step (solve) out of four."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-mesh-current-steps-1-to-3">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-mesh-current-steps-1-to-3</a>
+# Title of video (x8d04abc2) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Mesh current method (steps 1 to 3)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-mesh-current-steps-1-to-3">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-mesh-current-steps-1-to-3</a>
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: html)
+#: intl/datastore:1
+msgid "We solve a circuit by writing Kirchhoff&#39;s Voltage Law in terms of &quot;mesh currents.&quot; This video covers the first three steps our of four."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-mesh-current-steps-1-to-3">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-mesh-current-steps-1-to-3</a>
+# Description of video (x8d04abc2) on the tr stage
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We solve a circuit by writing Kirchhoff&#39;s Voltage Law in terms of &quot;mesh currents.&quot; This video covers the first three steps out of four."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-node-voltage-method-step-5">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-node-voltage-method-step-5</a>
+# Title of video (x7c70cce8) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Node voltage method (step 5)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-node-voltage-method-step-5">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-node-voltage-method-step-5</a>
+# Description of video (x7c70cce8) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Last step of the Node voltage method for analyzing circuits: Solve the system of simultaneous equations"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-node-voltage-method-steps-1-to-4">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-node-voltage-method-steps-1-to-4</a>
+# Title of video (x86bd1a36) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Node voltage method (steps 1 to 4)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-node-voltage-method-steps-1-to-4">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-node-voltage-method-steps-1-to-4</a>
+# Description of video (x86bd1a36) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "The Node Voltage Method solves circuits with the minimum number of KCL equations. Steps 1 to 4 out of 5."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-capacitor-i-v-equations">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-capacitor-i-v-equations</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-capacitor-i-v-equations">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-capacitor-i-v-equations</a>
+# Title of video (xb62c6631) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Capacitor i-v equations"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-capacitor-i-v-equations">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-capacitor-i-v-equations</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-capacitor-i-v-equations">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-capacitor-i-v-equations</a>
+# Description of video (xb62c6631) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "The capacitor current-voltage equation in derivative form and integral form"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-capacitor-integrates-current">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-capacitor-integrates-current</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-capacitor-integrates-current">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-capacitor-integrates-current</a>
+# Title of video (xf4894782) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "A capacitor integrates current"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-capacitor-integrates-current">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-capacitor-integrates-current</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-capacitor-integrates-current">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-capacitor-integrates-current</a>
+# Description of video (xf4894782) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "A current flowing into a capacitor causes charge to accumulate. The voltage rises according to q = Cv and we say the capacitor integrates current."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-inductor-equations">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-inductor-equations</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-inductor-equations">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-inductor-equations</a>
+# Title of video (x192b1d27) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Inductor equations"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-inductor-equations">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-inductor-equations</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-inductor-equations">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-inductor-equations</a>
+# Description of video (x192b1d27) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We look at the inductor i-v equations in derivative and integral form."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-inductor-kickback-1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-inductor-kickback-1</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-inductor-kickback-1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-inductor-kickback-1</a>
+# Title of video (x3d6518e7) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Inductor kickback  (1 of 2)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-inductor-kickback-1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-inductor-kickback-1</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-inductor-kickback-1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-inductor-kickback-1</a>
+# Description of video (x3d6518e7) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We notice how important it is to give inductor current a place to flow"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-inductor-kickback-2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-inductor-kickback-2</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-inductor-kickback-2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-inductor-kickback-2</a>
+# Title of video (x5c5c4af3) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Inductor kickback (2 of 2)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-inductor-kickback-2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-inductor-kickback-2</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-inductor-kickback-2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-inductor-kickback-2</a>
+# Description of video (x5c5c4af3) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We give the inductor&#39;s kickback current a path to flow by adding a diode"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation1</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation1</a>
+# Title of video (x1a672ae3) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "LC natural response derivation 1"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation1</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation1</a>
+# Description of video (x1a672ae3) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We begin the derivation of the natural response of the LC circuit, by modeling it with a 2nd-order differential equation."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation2</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation2</a>
+# Title of video (x77ef60da) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "LC natural response derivation 2"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation2</a>
+# Description of video (x77ef60da) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Starting from the differential equation, we come up with a proposed exponential solution and plug it into the equation. This gives us a characteristic equation. A &quot;natural frequency&quot; emerges."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation3">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation3</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation3">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation3</a>
+# Title of video (x57ae5231) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "LC natural response derivation 3"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation3">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation3</a>
+# Description of video (x57ae5231) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We use Euler&#39;s Formula to change our complex exponential solution into a solution expressed in terms of sines and cosines."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation4">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation4</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation4">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation4</a>
+# Title of video (xccd5c0d0) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "LC natural response derivation 4"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation4">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-derivation4</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation4">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation4</a>
+# Description of video (xccd5c0d0) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "In this final step of the derivation, we find two initial conditions and use them to come up with a sinusoidal solution for the LC natural response."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-example">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-example</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-example">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-example</a>
+# Title of video (xb469f4a4) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "LC natural response example"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-example">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-example</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-example">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-example</a>
+# Description of video (xb469f4a4) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We solve the voltage and current of an example LC circuit with given values for L and C, and an initial charge on the capacitor"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-intuition1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-intuition1</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-intuition1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-intuition1</a>
+# Title of video (x6a27615d) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "LC natural response intuition 1"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-intuition1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-intuition1</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-intuition1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-intuition1</a>
+# Description of video (x6a27615d) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "The inductor-capacitor (LC) circuit is the place where sinewaves are born. We talk about how this circuit works by tracking the movement of an initial charge we placed on the capacitor."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-intuition2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-intuition2</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-intuition2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-intuition2</a>
+# Title of video (xadf4d02b) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "LC natural response intuition 2"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-intuition2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-lc-natural-response-intuition2</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-intuition2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-intuition2</a>
+# Description of video (xadf4d02b) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We can predict the shape of voltage and current in an LC circuit by tracking the motion of charge as it flows back and forth."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-natural-response-derivation">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-natural-response-derivation</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-natural-response-derivation">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-natural-response-derivation</a>
+# Title of video (x9e7f9050) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "RC natural response - derivation"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-natural-response-derivation">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-natural-response-derivation</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-natural-response-derivation">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-natural-response-derivation</a>
+# Description of video (x9e7f9050) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We derive the natural response of an RC circuit and discover it has an exponential form."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-natural-response-intuition">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-natural-response-intuition</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-natural-response-intuition">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-natural-response-intuition</a>
+# Title of video (xed38ea01) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "RC natural response - intuition"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-natural-response-intuition">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-natural-response-intuition</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-natural-response-intuition">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-natural-response-intuition</a>
+# Description of video (xed38ea01) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We put some charge on a capacitor in an RC circuit and observe what happens to the voltage and current. This is called the natural response."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-1-of-3-setup">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-1-of-3-setup</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-1-of-3-setup">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-1-of-3-setup</a>
+# Title of video (xd7e40b7e) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "RC step response setup (1 of 3)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-1-of-3-setup">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-1-of-3-setup</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-1-of-3-setup">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-1-of-3-setup</a>
+# Description of video (xd7e40b7e) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "The RC step response is an exponential curve. We set up the circuit and create the differential equation we need to solve. We introduce the technique of Natural response + Forced response."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-2-of-3-solve">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-2-of-3-solve</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-2-of-3-solve">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-2-of-3-solve</a>
+# Title of video (xa7268fa5) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "RC step response solve (2 of 3)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-2-of-3-solve">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-2-of-3-solve</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-2-of-3-solve">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-2-of-3-solve</a>
+# Description of video (xa7268fa5) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We find the RC step response using the method of Natural + Forced response = Total response."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-3-of-3-example">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-3-of-3-example</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-3-of-3-example">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-3-of-3-example</a>
+# Title of video (x7270efde) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "RC step response example (3 of 3)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-3-of-3-example">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-3-of-3-example</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-3-of-3-example">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-3-of-3-example</a>
+# Description of video (x7270efde) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "An example solution of an RC step response, with real component values."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-intuition">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-intuition</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-intuition">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-intuition</a>
+# Title of video (x3d9229e2) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "RC step response - intuition"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-intuition">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-rc-step-response-intuition</a>
+# Description of video (x3d9229e2) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "An RC circuit responds to a step of voltage with a smooth transition between the starting and ending voltage.&nbsp;&nbsp;The RC step response is a fundamental behavior of all digital circuits.&nbsp;"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-sketching-exponentials-examples">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-sketching-exponentials-examples</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-sketching-exponentials-examples">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-sketching-exponentials-examples</a>
+# Title of video (xa7d45c96) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Sketching exponentials - examples"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-sketching-exponentials-examples">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-sketching-exponentials-examples</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-sketching-exponentials-examples">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-sketching-exponentials-examples</a>
+# Description of video (xa7d45c96) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Sketch exponentials with different time constants"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-sketching-exponentials">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-sketching-exponentials</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-sketching-exponentials">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-sketching-exponentials</a>
+# Title of video (x74c74eda) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Sketching exponentials"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-sketching-exponentials">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/ee-sketching-exponentials</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-sketching-exponentials">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-sketching-exponentials</a>
+# Description of video (x74c74eda) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Voltages and currents often have an exponential shape. We look at some properties of exponential curves and learn how to rapidly sketch accurate waveforms."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/rc-natural-response-example">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/rc-natural-response-example</a>
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/rc-natural-response-example">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/rc-natural-response-example</a>
+# Title of video (x6879a53e) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "RC natural response - example"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/rc-natural-response-example">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/v/rc-natural-response-example</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/rc-natural-response-example">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/rc-natural-response-example</a>
+# Description of video (x6879a53e) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "An example of the exponential natural response of an RC circuit, with real component values"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation2</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "Starting from the differential equation, we come up with a proposed exponential solution and plug it into the equation. This gives us a characteristic equation. A \"natural frequency\" emerges."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation3">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-lc-natural-response-derivation3</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "We use Euler's Formula to change our complex exponential solution into a solution expressed in terms of sines and cosines."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-intuition">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/v/ee-rc-step-response-intuition</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "An RC circuit responds to a step of voltage with a smooth transition between the starting and ending voltage"
+msgstr ""
+
+# Description of tutorial article <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/a/ee-series-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/a/ee-series-resistors</a>
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-series-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-series-resistors</a>
+# Description of video (xa405e84f) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Resistors connected head-to-tail are in series. The equivalent overall resistance is the sum of the individual resistance values."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-parallel-resistors-1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-parallel-resistors-1</a>
+# Title of video (xf40ba5f6) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Parallel resistors (part 1)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-parallel-resistors-1">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-parallel-resistors-1</a>
+# Description of video (xf40ba5f6) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Resistors are in parallel if their terminals are connected to the same two nodes. The equivalent single parallel resistance is smaller than the smallest parallel resistor."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-parallel-resistors-2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-parallel-resistors-2</a>
+# Title of video (xd00091cc) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Parallel resistors (part 2)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-parallel-resistors-2">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-parallel-resistors-2</a>
+# Description of video (xd00091cc) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Multiple resistors in parallel can be combined into a single equivalent resistor"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-parallel-resistors-3">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-parallel-resistors-3</a>
+# Title of video (xa85f5f14) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Parallel resistors (part 3)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-parallel-resistors-3">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-parallel-resistors-3</a>
+# Description of video (xa85f5f14) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "When two resistors are in parallel, the equivalent resistance is the product of the two resistors divided by their sum. When both resistors are the same value, the equivalent parallel resistance is exactly half of the original resistance.&nbsp;"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-simplifying-resistor-networks">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-simplifying-resistor-networks</a>
+# Description of video (x618abc88) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "A systematic approach to simplify a complicated resistor network by looking for series and parallel resistor patterns."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-voltage-divider">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/v/ee-voltage-divider</a>
+# Description of video (xa22475c5) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "The output voltage is a fixed fraction of the input voltage. The ratio is determined by two resistors."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices/ee-diode/v/ee-diode-graphical-solution">http://translate.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices/ee-diode/v/ee-diode-graphical-solution</a>
+# Title of video (x3c002e02) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Diode graphical solution"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices/ee-diode/v/ee-diode-graphical-solution">http://translate.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices/ee-diode/v/ee-diode-graphical-solution</a>
+# Description of video (x3c002e02) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "We solve a diode circuit graphically by plotting a diode i-v curve and resistor to find the intersection. Graphical solution methods are a common way to work with non-linear components like diodes."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices/ee-diode/v/ee-diode">http://translate.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices/ee-diode/v/ee-diode</a>
+# Description of video (x4ce88ac1) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Introducing the diode as a circuit element. A diode conducts current in one direction but not the other."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-first-term-fourier-series">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-first-term-fourier-series</a>
+# Title of video (x19e42e4e) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "First term in a Fourier series"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-first-term-fourier-series">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-first-term-fourier-series</a>
+# Description of video (x19e42e4e) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "The first term in a Fourier series is the average value (DC value) of the function being approximated."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-coefficients-cosine">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-coefficients-cosine</a>
+# Title of video (x24abab90) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Fourier coefficients for cosine terms"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-coefficients-for-square-wave">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-coefficients-for-square-wave</a>
+# Title of video (xc0806f77) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding Fourier coefficients for square wave"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-coefficients-for-square-wave">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-coefficients-for-square-wave</a>
+# Description of video (xc0806f77) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Finding Fourier coefficients for a square wave"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-coefficients-sine">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-coefficients-sine</a>
+# Title of video (x91ce05b4) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Fourier coefficients for sine terms"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-series-intro">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-series-intro</a>
+# Title of video (x05009cb1) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Fourier Series introduction"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-series-intro">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-fourier-series-intro</a>
+# Description of video (x05009cb1) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "The Fourier Series allows us to model any arbitrary periodic signal with a combination of sines and cosines. In this video sequence Sal works out the Fourier Series of a square wave."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-cosine-times-cosine">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-cosine-times-cosine</a>
+# Title of video (x7e684a10) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Integral of product of cosines"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-cosine-times-cosine">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-cosine-times-cosine</a>
+# Description of video (x7e684a10) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Definite integral of the product of cosines. The integral of cos(mt) * cos(nt) = 0, except for the special case when m = n. When m = n, the integral evaluates to pi."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-of-sine-times-cosine">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-of-sine-times-cosine</a>
+# Title of video (xee75f2fb) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Integral of sine times cosine"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-of-sine-times-cosine">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-of-sine-times-cosine</a>
+# Description of video (xee75f2fb) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Definite integral of the product of sine and cosine. Integrating sin(mt) * cos(nt) over a full period equals zero for any integer m and n."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-of-sinmt-and-cosmt">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-of-sinmt-and-cosmt</a>
+# Title of video (xb8db33db) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Integral of sin(mt) and cos(mt)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-of-sinmt-and-cosmt">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-of-sinmt-and-cosmt</a>
+# Description of video (xb8db33db) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Integrating sin(mt) and cos(mt) over a full period equals zero."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-sine-times-sine">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-sine-times-sine</a>
+# Title of video (x90a87d13) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Integral of product of sines"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-sine-times-sine">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-integral-sine-times-sine</a>
+# Description of video (x90a87d13) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Definite integral of product of sines.&nbsp;The integral of sin(mt) * sin(nt) = 0, except for the special case when m = n. When m = n, the integral evaluates to pi."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-visualize-fourier-series-square-wave">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-visualize-fourier-series-square-wave</a>
+# Title of video (xe5597c6d) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Visualizing the Fourier expansion of a square wave"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-visualize-fourier-series-square-wave">http://translate.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series/v/ee-visualize-fourier-series-square-wave</a>
+# Description of video (xe5597c6d) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Visualize the Fourier expansion of a square wave. A square wave can be approximated by adding odd harmonics of a sine wave."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/current-direction">http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/current-direction</a>
+# Title of video (x6c7f6193) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Current direction"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/current-direction">http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/current-direction</a>
+# Description of video (x6c7f6193) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "The positive sign for current corresponds to the direction a positive charge would move. In metal wires, current is carried by negatively charged electrons, so the positive current arrow points in the opposite direction the electrons move. This has been the sign convention for 270 years, ever since Ben Franklin named electric charges with + and - signs. This convention came about 150 years before the discovery of the electron."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/ee-conventional-current">http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/ee-conventional-current</a>
+# Title of video (x267eb7e6) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Conventional current"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/ee-conventional-current">http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/ee-conventional-current</a>
+# Description of video (x267eb7e6) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "By convention, we define positive current to flow in the direction a positive charge would move. Electrons (with their negative charge) move in the opposite direction of the positive current arrow."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/ee-current">http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/ee-current</a>
+# Description of video (x91cda9c9) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Current is the flow of charge. We measure current by counting the amount of charge passing through a boundary in one second."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/ee-voltage-intuition">http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/ee-voltage-intuition</a>
+# Description of video (xd11f8925) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Voltage is a cornerstone concept in electricity. We create an intuitive mental image by comparing voltage to gravity."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/electrical-engineering/robots/bit-zee/v/bit-zee-s-chassis-timelapse-mov">http://translate.khanacademy.org/science/electrical-engineering/robots/bit-zee/v/bit-zee-s-chassis-timelapse-mov</a>
+# Description of video (1124617722) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "In this video we show you how to craft the chassis for the Bit-zee using a \\$3 piece of Lexan and tap light housing"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/robots/spider-bot/v/11-connect-spider-s-stablizer-bar">http://translate.khanacademy.org/science/electrical-engineering/robots/spider-bot/v/11-connect-spider-s-stablizer-bar</a>
+# Title of video (1378982910) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Spider's stabilizer bar"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/robots/spout-bot-with-solder/v/soldering-saftey">http://translate.khanacademy.org/science/electrical-engineering/robots/spout-bot-with-solder/v/soldering-saftey</a>
+# Title of video (x2537b483) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Soldering Safety"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/science/physics/circuits-topic/skill-check--circuits/e/skill-check--circuits">http://translate.khanacademy.org/science/physics/circuits-topic/skill-check--circuits/e/skill-check--circuits</a>.
+# Exercise is at (xe9eba48d) on the pl stage.
+# Exercise is at (xe9eba48d) on the tr stage.
+# Title of video <a href="http://translate.khanacademy.org/science/physics/circuits-topic/circuits-resistance/v/ee-kirchhoffs-current-law">http://translate.khanacademy.org/science/physics/circuits-topic/circuits-resistance/v/ee-kirchhoffs-current-law</a>
+# Title of video (x5d40a1b6) on the pl stage
+# Title of video (x5d40a1b6) on the tr stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Kirchhoff's current law"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/physics/circuits-topic/circuits-resistance/v/ee-kirchhoffs-current-law">http://translate.khanacademy.org/science/physics/circuits-topic/circuits-resistance/v/ee-kirchhoffs-current-law</a>
+# Description of video (x5d40a1b6) on the pl stage
+# Description of video (x5d40a1b6) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Kirchhoff&#39;s Current Law says the currents flowing into a node must add up to zero."
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/science/physics/circuits-topic/skill-check--circuits/e/skill-check--circuits">http://translate.khanacademy.org/science/physics/circuits-topic/skill-check--circuits/e/skill-check--circuits</a>.
+# Exercise is at (xe9eba48d) on the pl stage.
+# Exercise is at (xe9eba48d) on the tr stage.
+# Title of video <a href="http://translate.khanacademy.org/science/physics/circuits-topic/circuits-resistance/v/ee-kirchhoffs-voltage-law">http://translate.khanacademy.org/science/physics/circuits-topic/circuits-resistance/v/ee-kirchhoffs-voltage-law</a>
+# Title of video (x2eab8586) on the pl stage
+# Title of video (x2eab8586) on the tr stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Kirchhoff's voltage law"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/physics/circuits-topic/circuits-resistance/v/ee-kirchhoffs-voltage-law">http://translate.khanacademy.org/science/physics/circuits-topic/circuits-resistance/v/ee-kirchhoffs-voltage-law</a>
+# Description of video (x2eab8586) on the pl stage
+# Description of video (x2eab8586) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Kirchhoff&#39;s Voltage Law says if you travel around any loop in a circuit, the voltages across the elements add up to zero."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/charge-electric-force/v/coulombs-law">http://translate.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/charge-electric-force/v/coulombs-law</a>
+# Description of video (x650c1508) on the pl stage
+# Description of video (x650c1508) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal explains the fundamental force that causes charged particles to attract or repel each other"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/electric-field/v/proof-advanced-field-from-infinite-plate-part-1">http://translate.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/electric-field/v/proof-advanced-field-from-infinite-plate-part-1</a>
+# Title of video (25687) on the pl stage
+# Title of video (25687) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Proof: Field from infinite plate (part 1)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/electric-field/v/proof-advanced-field-from-infinite-plate-part-1">http://translate.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/electric-field/v/proof-advanced-field-from-infinite-plate-part-1</a>
+# Description of video (25687) on the pl stage
+# Description of video (25687) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Advanced proof of the formula for the electric field generated by a uniformly charged, infinite plate"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/electric-field/v/proof-advanced-field-from-infinite-plate-part-2">http://translate.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/electric-field/v/proof-advanced-field-from-infinite-plate-part-2</a>
+# Title of video (25689) on the pl stage
+# Title of video (25689) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Proof: Field from infinite plate (part 2)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/electric-potential-voltage/v/electric-potential-energy">http://translate.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/electric-potential-voltage/v/electric-potential-energy</a>
+# Description of video (25691) on the pl stage
+# Description of video (25691) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to electric potential energy"
+msgstr ""

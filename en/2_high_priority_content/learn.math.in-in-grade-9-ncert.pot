@@ -1,0 +1,1131 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-24 11:19+0000\n"
+"PO-Revision-Date: 2017-11-24 11:19+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x49df3b0304a3a36c) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/polynomial-functions">http://translate.khanacademy.org/math/algebra2/polynomial-functions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-2-polynomials-2">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-2-polynomials-2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-polynomials">http://translate.khanacademy.org/math/math2/math2-polynomials</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-polynomials">http://translate.khanacademy.org/math/math3/math3-polynomials</a>
+# Title of topic mastery/exercise mission badge "topic:3vJ8-Fd78I9nW6O0p64JfDGdtieKP2hYXRcczyZu"
+# Title of topic mastery/exercise mission badge "topic:XPlK0iMemAN1Cs5FwRB0SWeF_d7_m0iT2l5j4bmE"
+# Title of topic mastery/exercise mission badge "topic:x4bafbcd5"
+# Title of topic (x474ee3e7) on the pt stage
+# Title of topic (x5e2afacb) on the bg stage
+# Title of topic (x5e2afacb) on the pt stage
+# Title of topic (x75f7d943) on the pt stage
+# Title of topic (xa6c1ce5e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Polynomials"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-lines-angles">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-lines-angles</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-seventh-grade-math/lines-angles">http://translate.khanacademy.org/math/in-seventh-grade-math/lines-angles</a>
+# Title of topic (x2329b905b1424c63) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lines and angles"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-11-constructions-2">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-11-constructions-2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-11-constructions">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-11-constructions</a>
+# Title of topic (x0cd90cf7c6eabee8) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Constructions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-laws-of-exponents-for-real-numbers">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-laws-of-exponents-for-real-numbers</a>
+# Title of topic (xd02ae1ddb6cf3113) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Laws of exponents for real numbers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-laws-of-exponents-for-real-numbers">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-laws-of-exponents-for-real-numbers</a>
+# Description of topic (xd02ae1ddb6cf3113) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You may already know the laws of exponents when they are positive. Do exponents always have to be positive? What happens when the exponents become negative? What happens when the exponent is zero? "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-operations-on-real-numbers">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-operations-on-real-numbers</a>
+# Title of topic (xca063b2018332998) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Operations on real numbers"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-operations-on-real-numbers">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-operations-on-real-numbers</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xca063b2018332998) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Operations on Real Numbers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-operations-on-real-numbers">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-operations-on-real-numbers</a>
+# Description of topic (xca063b2018332998) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic is about performing various operations of addition, subtraction, multiplication and division of rational and irrational numbers."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-rationalising-the-denominator">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-rationalising-the-denominator</a>
+# Title of topic (x56ce67549db49d33) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Rationalising the denominator"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-rationalising-the-denominator">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-rationalising-the-denominator</a>
+# Description of topic (x56ce67549db49d33) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to rationalise the denominator of a fraction representing an irrational number"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-repeating-decimals">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-repeating-decimals</a>
+# Title of topic (x9d33a8d009aeeef7) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Rational numbers and repeating decimals"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-repeating-decimals">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-repeating-decimals</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x9d33a8d009aeeef7) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Rational numbers and repeating Decimals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-repeating-decimals">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/in-in-repeating-decimals</a>
+# Description of topic (x9d33a8d009aeeef7) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to convert rational numbers from their repeating decimal form to their fractional form and vice versa."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/ncert-9th-math1-rational-exp-eval">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/ncert-9th-math1-rational-exp-eval</a>
+# Title of topic (xb716ee7e6f9cdd49) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Advanced: exponent & radical evaluation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/ncert-9th-math1-rational-exp-eval">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/ncert-9th-math1-rational-exp-eval</a>
+# Description of topic (xb716ee7e6f9cdd49) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's evaluate elaborate expressions that contain radicals and fractional exponents."
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/topic-quiz-tutorial-in-in-chapter-1-number-systems/e/topic-quiz-exercise-in-in-chapter-1-number-systems">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/topic-quiz-tutorial-in-in-chapter-1-number-systems/e/topic-quiz-exercise-in-in-chapter-1-number-systems</a>
+# Pretty display name for exercise (x390e0306c45ae916) on the hi stage
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/topic-quiz-tutorial-in-in-chapter-1-number-systems">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/topic-quiz-tutorial-in-in-chapter-1-number-systems</a>
+# Title of topic (x681f6c028975cb97) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Test Yourself: Number systems"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/topic-quiz-tutorial-in-in-chapter-1-number-systems/e/topic-quiz-exercise-in-in-chapter-1-number-systems">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/topic-quiz-tutorial-in-in-chapter-1-number-systems/e/topic-quiz-exercise-in-in-chapter-1-number-systems</a>
+# Description of exercise (x390e0306c45ae916) on the hi stage
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/topic-quiz-tutorial-in-in-chapter-1-number-systems">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/topic-quiz-tutorial-in-in-chapter-1-number-systems</a>
+# Description of topic (x681f6c028975cb97) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+# (format: text)
+#: intl/datastore:1
+msgid "See how you score on Number systems quiz"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems</a>
+# Title of topic (xe2e6dc9187b01949) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Number systems"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems</a>
+# Description of topic (xe2e6dc9187b01949) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this chapter we'll be revisiting concepts of rational and irrational numbers and operations as well as concepts about real numbers."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-angle-subtended-by-an-arc-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-angle-subtended-by-an-arc-of-a-circle</a>
+# Title of topic (xcf4b248e3a2e1b61) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Angle Subtended by an Arc of a Circle"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-angle-subtended-by-an-arc-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-angle-subtended-by-an-arc-of-a-circle</a>
+# Description of topic (xcf4b248e3a2e1b61) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Did you know that if two chords of a circle are equal, then their corresponding arcs are congruent and conversely, if two arcs are congruent, then their corresponding chords are equal! Let's see how and also prove it."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-circles-and-its-related-terms-a-review">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-circles-and-its-related-terms-a-review</a>
+# Title of topic (x37a7d008a2cc8a43) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to circles and related terms"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-circles-and-its-related-terms-a-review">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-circles-and-its-related-terms-a-review</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x37a7d008a2cc8a43) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction and related terms"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-circles-and-its-related-terms-a-review">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-circles-and-its-related-terms-a-review</a>
+# Description of topic (x37a7d008a2cc8a43) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This section reviews the basic terminologies associated with circles: radius, diameter, center, exterior and interior of the circle, major and minor segment etc."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-cyclic-quadrilaterals">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-cyclic-quadrilaterals</a>
+# Title of topic (xe8a6c7f8b1b13cb6) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Cyclic Quadrilaterals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-cyclic-quadrilaterals">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-cyclic-quadrilaterals</a>
+# Description of topic (xe8a6c7f8b1b13cb6) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We can inscribe quadrilaterals in a circle, such quadrilaterals are known as Cyclic Quadrilaterals. Let's learn about the properties of such quadrilaterals in this section."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-perpendicular-from-the-centre-to-a-chord">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-perpendicular-from-the-centre-to-a-chord</a>
+# Title of topic (x7b807ec780d0737d) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Perpendicular from the centre of a circle to a chord"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-perpendicular-from-the-centre-to-a-chord">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-perpendicular-from-the-centre-to-a-chord</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x7b807ec780d0737d) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Perpendicular from the Centre to a Chord"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-perpendicular-from-the-centre-to-a-chord">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles/in-in-perpendicular-from-the-centre-to-a-chord</a>
+# Description of topic (x7b807ec780d0737d) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"In this section, we will learn about two theorems: \n"
+"1. The perpendicular from the centre of a circle to a chord bisects the chord.\n"
+"2. The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-10-circles</a>
+# Description of topic (x8e8dd9c3c6b98390) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"In this chapter, we will learn about circles, terms related to circles and some\n"
+"properties of a circle. We'll also get to know about chords, sectors and cyclic quadrilaterals."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-11-constructions/in-in-basic-constructions">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-11-constructions/in-in-basic-constructions</a>
+# Title of topic (xa7a39410ea551c7b) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Basic constructions"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-11-constructions/in-in-basic-constructions">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-11-constructions/in-in-basic-constructions</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa7a39410ea551c7b) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Basic Constructions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-11-constructions/in-in-basic-constructions">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-11-constructions/in-in-basic-constructions</a>
+# Description of topic (xa7a39410ea551c7b) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We will be learning the steps to draw the Bisectors of a given angle, and also how to bisect a line of any given length. In this section, we will also learn to construct angles of 60°, 90°, 45° with the help of scale and compass."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-11-constructions">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-11-constructions</a>
+# Description of topic (x0cd90cf7c6eabee8) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this chapter, Let's explore some basic constructions that involve bisecting line segments and angles."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-12-herons-formula/in-in-area-of-a-triangle-by-herons-formula">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-12-herons-formula/in-in-area-of-a-triangle-by-herons-formula</a>
+# Title of topic (x9c3564271d72291d) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding the area of a triangle using Heron's formula"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-12-herons-formula/in-in-area-of-a-triangle-by-herons-formula">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-12-herons-formula/in-in-area-of-a-triangle-by-herons-formula</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x9c3564271d72291d) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Area of a triangle-by Heron's formula"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-12-herons-formula/in-in-area-of-a-triangle-by-herons-formula">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-12-herons-formula/in-in-area-of-a-triangle-by-herons-formula</a>
+# Description of topic (x9c3564271d72291d) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Till now we have read 1/2*b*h as the only formulae to calculate the area of a triangle, now we will be able to calculate the area of any triangle using heron's Formula. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-12-herons-formula">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-12-herons-formula</a>
+# Title of topic (xb49c4613625549ad) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Heron's Formula"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-12-herons-formula">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-12-herons-formula</a>
+# Description of topic (xb49c4613625549ad) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We'll be learning in this chapter a new method called heron's formula to calculate the area of any type of triangle. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes/copy-of-volume-cones">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes/copy-of-volume-cones</a>
+# Title of topic (x90359e78daf00f8d) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Surface area and volume of cylinders, cones and spheres"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes/copy-of-volume-cones">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes/copy-of-volume-cones</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x90359e78daf00f8d) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Volume of cones, cylinders, and spheres"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes/in-in-surface-area-of-a-right-circular-cone">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes/in-in-surface-area-of-a-right-circular-cone</a>
+# Title of topic (xfcd241f8a64a2745) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Surface Area and volume of cubes and cuboids"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes/in-in-surface-area-of-a-right-circular-cone">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes/in-in-surface-area-of-a-right-circular-cone</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xfcd241f8a64a2745) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Surface Area and Volume of a Cuboid"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes/in-in-surface-area-of-a-right-circular-cone">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes/in-in-surface-area-of-a-right-circular-cone</a>
+# Description of topic (xfcd241f8a64a2745) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to find the surface area and volume of a cuboid whose dimensions are given."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes</a>
+# Title of topic (xbbbe8f6c2a2a4744) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Surface areas and volumes"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-13-surface-areas-and-volumes</a>
+# Description of topic (xbbbe8f6c2a2a4744) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's learn how to find the surface areas and volumes of cuboids and cylinders in detail and extend this study to some other solids such as cones and spheres."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-ggraphical-representation-of-data">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-ggraphical-representation-of-data</a>
+# Title of topic (xe5ffdb3f424aca84) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphical Representation of Data using bar graphs"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-ggraphical-representation-of-data">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-ggraphical-representation-of-data</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe5ffdb3f424aca84) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Ggraphical Representation of Data"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-ggraphical-representation-of-data">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-ggraphical-representation-of-data</a>
+# Description of topic (xe5ffdb3f424aca84) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Building on to more formal approach than previous classes on Bar graphs. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-graphical-representation-histograms">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-graphical-representation-histograms</a>
+# Title of topic (x364a1a22f8d516eb) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphical representation  of data using histograms"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-graphical-representation-histograms">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-graphical-representation-histograms</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x364a1a22f8d516eb) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphical representation of data using histograms"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-graphical-representation-histograms">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-graphical-representation-histograms</a>
+# Description of topic (x364a1a22f8d516eb) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We will learn how to draw histograms of uniform width, and of varying widths-for continuous class intervals depending upon the categories. We will also be learning to make Frequency polygons which is somehow just the extended version of histogram."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-measures-of-central-tendency">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-measures-of-central-tendency</a>
+# Title of topic (xcca721839153f694) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Measures of Central Tendency"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-measures-of-central-tendency">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-measures-of-central-tendency</a>
+# Description of topic (xcca721839153f694) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Now we will learn to analyse the data and put it into practical use. We will learn the meaning and how to calculate Mean (frequency included), median and mode of a given data."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-presentation-of-data">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-presentation-of-data</a>
+# Title of topic (x0e6923362cef141a) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Presentation of Data"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-presentation-of-data">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics/in-in-presentation-of-data</a>
+# Description of topic (x0e6923362cef141a) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"We will be exploring the methods to collect the data (primary & secondary) which is explained briefly through an activity. And when we've learnt how to collect the data, we will see how can data be arranged to make it more clear meaningful and to analyse it better. we will also see how to construct frequency distribution tables with given intervals to observe\n"
+" certain important features at a glance."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics</a>
+# Title of topic (x6931a556aff2dd5b) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Statistics "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics</a>
+# Description of topic (x6931a556aff2dd5b) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this chapter, we shall briefly discuss some the aspects regarding data such as presentation of data and graphical representation as well as methods to calculate central tendency."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-15-probability/in-in-probability-an-experimental-approach">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-15-probability/in-in-probability-an-experimental-approach</a>
+# Title of topic (x99283ada7693ad10) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Probability – an experimental approach"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-15-probability/in-in-probability-an-experimental-approach">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-15-probability/in-in-probability-an-experimental-approach</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x99283ada7693ad10) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Probability – an Experimental Approach"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-15-probability/in-in-probability-an-experimental-approach">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-15-probability/in-in-probability-an-experimental-approach</a>
+# Description of topic (x99283ada7693ad10) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Will it rain on the day of the world cup final? Will questions from the chapter I omitted appear on the final exam? Will the person I have a crush on like me back? Questions like these may have no certain answer but I do want to know what my 'chances' are, don't you? As you dive in and learn more about what 'probability' means, you may begin to see how to get to the answers for these and more questions. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-15-probability">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-15-probability</a>
+# Description of topic (x0747c562c58e98b0) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We'll be studying in this chapter the experimental approach used in the probability for the events."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials/in-in-factoring-a-polynomial">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials/in-in-factoring-a-polynomial</a>
+# Title of topic (xbb930cc7edd4470b) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Factoring a polynomial"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials/in-in-factoring-a-polynomial">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials/in-in-factoring-a-polynomial</a>
+# Description of topic (xbb930cc7edd4470b) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "There are two ways to factorise a polynomial - by using the factor theorem and by splitting the middle term. Learn both of these in this tutorial."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials/in-in-long-division-of-polynomials">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials/in-in-long-division-of-polynomials</a>
+# Description of topic (xe75f3daaa27d0ca7) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We can divide one number by another and get a quotient and a reminder. We use the long division method to do this for numbers. Polynomials are just numbers in variable form. Let's see how we can use the same long division method to divide one polynomial by another."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials/in-in-polynomials-in-one-variable">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials/in-in-polynomials-in-one-variable</a>
+# Description of topic (x2d7a47e213dc626c) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "What exactly is a polynomial? What does the degree of a polynomial mean? Are there many types of polynomials? Let's learn more about polynomials and some terms related to them. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials/in-in-remainder-theorem-factorisation-of-polynomials-using-factor-theorem-and-algebraic-identities">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials/in-in-remainder-theorem-factorisation-of-polynomials-using-factor-theorem-and-algebraic-identities</a>
+# Description of topic (xbe1393f543887c4b) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lets' learn about the polynomial remainder theorem and how to use it to find the factors of a polynomial."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials/in-in-zeroes-of-a-polynomial">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials/in-in-zeroes-of-a-polynomial</a>
+# Title of topic (x56968ba69b2978ec) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Zeroes of a polynomial"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials/in-in-zeroes-of-a-polynomial">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials/in-in-zeroes-of-a-polynomial</a>
+# Description of topic (x56968ba69b2978ec) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "What are zeroes of a polynomial? Why are they called the 'zeroes' when they are not the number zero? How do we find these zeroes?"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials</a>
+# Title of topic (x49df3b0304a3a36c) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Polynomials "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-2-polynomials</a>
+# Description of topic (x49df3b0304a3a36c) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this chapter, we'll study a particular type of algebraic expression, called a polynomial.  We will also learn about the Remainder theorem and Factor theorem and their applications in the factorisation of polynomials."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-3-coordinate-geometry/in-in-introduction-to-cartesian-system">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-3-coordinate-geometry/in-in-introduction-to-cartesian-system</a>
+# Title of topic (x6f0ca150fe66a6d2) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to the Cartesian System"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-3-coordinate-geometry/in-in-introduction-to-cartesian-system">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-3-coordinate-geometry/in-in-introduction-to-cartesian-system</a>
+# Description of topic (x6f0ca150fe66a6d2) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about the cartesian system and how to plot a point on it. Also, get to know about the quadrants i.e. the four parts in which it is divided."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-3-coordinate-geometry/in-in-plotting-points-on-a-coordinate-plane">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-3-coordinate-geometry/in-in-plotting-points-on-a-coordinate-plane</a>
+# Title of topic (x35f537195cc060e3) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Plotting points on the coordinate plane"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-3-coordinate-geometry/in-in-plotting-points-on-a-coordinate-plane">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-3-coordinate-geometry/in-in-plotting-points-on-a-coordinate-plane</a>
+# Description of topic (x35f537195cc060e3) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Understand how to graph a given point on the coordinate plane."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-3-coordinate-geometry">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-3-coordinate-geometry</a>
+# Description of topic (xeb7db20ba635bbf3) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this chapter, we'll learn about the cartesian system. We'll also understand how to locate points as well as some operations."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-4-linear-equations-in-two-variables/in-in-graph-of-a-linear-equation-in-two-variables">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-4-linear-equations-in-two-variables/in-in-graph-of-a-linear-equation-in-two-variables</a>
+# Title of topic (x5389623bf9b4a717) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Graph of a Linear Equation in Two Variables"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-4-linear-equations-in-two-variables/in-in-graph-of-a-linear-equation-in-two-variables">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-4-linear-equations-in-two-variables/in-in-graph-of-a-linear-equation-in-two-variables</a>
+# Description of topic (x5389623bf9b4a717) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's learn how to plot the graph of a linear equation in two variables and visualise why these equations are called 'linear'. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-4-linear-equations-in-two-variables/ncert-9th-math1-solutions-to-two-var-linear-equations">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-4-linear-equations-in-two-variables/ncert-9th-math1-solutions-to-two-var-linear-equations</a>
+# Title of topic (x1fc3293f16857564) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to linear equations in 2 variables"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-4-linear-equations-in-two-variables/ncert-9th-math1-solutions-to-two-var-linear-equations">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-4-linear-equations-in-two-variables/ncert-9th-math1-solutions-to-two-var-linear-equations</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x1fc3293f16857564) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to linear equation in 2 variables"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-4-linear-equations-in-two-variables/ncert-9th-math1-solutions-to-two-var-linear-equations">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-4-linear-equations-in-two-variables/ncert-9th-math1-solutions-to-two-var-linear-equations</a>
+# Description of topic (x1fc3293f16857564) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Understand what a solution to an equation really means. Practice plugging in values for variables to see whether or not an equation is true. And then, learn about the ways to solving a two-variable linear equation. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-4-linear-equations-in-two-variables">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-4-linear-equations-in-two-variables</a>
+# Title of topic (xc004702f32f138c0) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear equations in two variables"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-4-linear-equations-in-two-variables">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-4-linear-equations-in-two-variables</a>
+# Description of topic (xc004702f32f138c0) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this chapter, we'll brush up our prior knowledge of linear equations in one variable and extend that to two variables. You will also learn how to graph linear equations. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-5-introduction-to-euclids-geometry/in-in-introduction">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-5-introduction-to-euclids-geometry/in-in-introduction</a>
+# Title of topic (xeaf33be8937462b6) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to Euclidean geometry"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-5-introduction-to-euclids-geometry/in-in-introduction">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-5-introduction-to-euclids-geometry/in-in-introduction</a>
+# Description of topic (xeaf33be8937462b6) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "So what did Euclid really do to be known as the 'father of geometry'. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-5-introduction-to-euclids-geometry">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-5-introduction-to-euclids-geometry</a>
+# Title of topic (xe2fdb59e840c22d7) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to Euclid's geometry"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-5-introduction-to-euclids-geometry">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-5-introduction-to-euclids-geometry</a>
+# Description of topic (xe2fdb59e840c22d7) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "On the surface, Euclidean Geometry seems like it is only about the properties of shapes such as triangles, quadrilaterals and circles. When you take a deeper look though, you begin to observe that euclidean geometry is really about learning how to think. It is about the almost addictive process of starting from the first principles (axioms) as the foundation and logically reasoning our way to the top. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/ncert-9th-angle-types">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/ncert-9th-angle-types</a>
+# Description of topic (x935cf5df782aa792) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Now that we know what angles are, let's dig a bit deeper what happens when straight lines intersect and what is the relationship between corresponding angles."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/ncert-9th-geometry-lines-rays">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/ncert-9th-geometry-lines-rays</a>
+# Title of topic (x2ddbba686884689c) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Angle relationships"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/ncert-9th-geometry-lines-rays">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/ncert-9th-geometry-lines-rays</a>
+# Description of topic (x2ddbba686884689c) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We'll start with defining the most common terms used in geometry. Building on our knowledge, we would try to classify different types of angle relationships that can happen when straight lines intersect in a coordinate plane."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/ncert-9th-geometry-parallel-perp">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/ncert-9th-geometry-parallel-perp</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xae1f93e51ffdbcf3) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Parallel and perpendicular lines"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/ncert-9th-geometry-parallel-perp">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/ncert-9th-geometry-parallel-perp</a>
+# Description of topic (xae1f93e51ffdbcf3) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The sum of the angles of a triangle is 180. Learn why is this so, and also solve some problems by applying this concept. "
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/topic-quiz-tutorial-in-in-chapter-6-lines-and-angles/e/topic-quiz-exercise-in-in-chapter-6-lines-and-angles">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/topic-quiz-tutorial-in-in-chapter-6-lines-and-angles/e/topic-quiz-exercise-in-in-chapter-6-lines-and-angles</a>
+# Pretty display name for exercise (x4e4645fa5ff5f38a) on the hi stage
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/topic-quiz-tutorial-in-in-chapter-6-lines-and-angles">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/topic-quiz-tutorial-in-in-chapter-6-lines-and-angles</a>
+# Title of topic (xdd44750806d5b944) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Test Yourself: Lines and angles"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/topic-quiz-tutorial-in-in-chapter-6-lines-and-angles/e/topic-quiz-exercise-in-in-chapter-6-lines-and-angles">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/topic-quiz-tutorial-in-in-chapter-6-lines-and-angles/e/topic-quiz-exercise-in-in-chapter-6-lines-and-angles</a>
+# Description of exercise (x4e4645fa5ff5f38a) on the hi stage
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/topic-quiz-tutorial-in-in-chapter-6-lines-and-angles">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles/topic-quiz-tutorial-in-in-chapter-6-lines-and-angles</a>
+# Description of topic (xdd44750806d5b944) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+# (format: text)
+#: intl/datastore:1
+msgid "See how you score on Lines and angles quiz"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-6-lines-and-angles</a>
+# Description of topic (x2329b905b1424c63) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's study the properties of the angles formed when two lines intersect each other and also the properties of the angles formed when a line intersects two or more parallel lines at distinct points. Let's then use the knowledge of these properties to practice deductive reasoning. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/in-in-congruence-of-triangles-its-criteria">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/in-in-congruence-of-triangles-its-criteria</a>
+# Title of topic (x43c1a62fcc72e5cb) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Congruence of triangles and the criteria for congruence"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/in-in-congruence-of-triangles-its-criteria">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/in-in-congruence-of-triangles-its-criteria</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x43c1a62fcc72e5cb) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Congruence of Triangles & its criteria"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/in-in-congruence-of-triangles-its-criteria">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/in-in-congruence-of-triangles-its-criteria</a>
+# Description of topic (x43c1a62fcc72e5cb) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "How do we know that two triangles are congruent if we cannot check by physically placing them on top of each other? We can use the various postulates of congruence- SSS, SAS, ASA and RHS to identify congruent triangles. We'll study these in detail and see a few examples of congruence here."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/in-in-inequalities-in-a-triangle">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/in-in-inequalities-in-a-triangle</a>
+# Title of topic (xcda773c1953d86a9) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Inequalities in a Triangle"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/in-in-inequalities-in-a-triangle">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/in-in-inequalities-in-a-triangle</a>
+# Description of topic (xcda773c1953d86a9) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this section, we will study Triangle Inequality Theorem which shows the relation between angles of a triangle and length of sides."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/in-in-some-properties-of-a-triangle">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/in-in-some-properties-of-a-triangle</a>
+# Title of topic (xe45f2c201f466bca) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Some Properties of a Triangle"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/in-in-some-properties-of-a-triangle">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/in-in-some-properties-of-a-triangle</a>
+# Description of topic (xe45f2c201f466bca) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Isosceles triangles are special triangles with two equal sides. We will see some properties of isosceles triangles and their proofs in this topic."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/ncert-9th-corresponding-angles-in-congruent-triangles">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/ncert-9th-corresponding-angles-in-congruent-triangles</a>
+# Description of topic (xe9dfc267ae86112b) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's see in brief what congruence means and how to identify corresponding angles in congruent triangles."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/ncert-9th-hs-geo-trans-and-congruence">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles/ncert-9th-hs-geo-trans-and-congruence</a>
+# Title of topic (x223f0c1b49f78cf4) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to congruence"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-7-triangles</a>
+# Description of topic (xf856d217f9ce9846) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"In this chapter, we'll will deep dive into the details\n"
+"and prove the congruence of triangles, rules of congruence,\n"
+"some more properties of triangles and inequalities in\n"
+"a triangle."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals/in-in-properties-of-a-parallelogram">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals/in-in-properties-of-a-parallelogram</a>
+# Title of topic (x13925c211f6f81de) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Properties of a parallelogram"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals/in-in-properties-of-a-parallelogram">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals/in-in-properties-of-a-parallelogram</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x13925c211f6f81de) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Proerties of a parallelogram"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals/in-in-properties-of-a-parallelogram">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals/in-in-properties-of-a-parallelogram</a>
+# Description of topic (x13925c211f6f81de) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Now that we know of some of the quadrilaterals and how they differ from one another, lets dig deeper into our first special quadrilateral - The parallelogram."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals/in-in-types-of-quadrilaterals-and-their-properties">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals/in-in-types-of-quadrilaterals-and-their-properties</a>
+# Title of topic (x41378ef96c8fc912) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Types of Quadrilaterals and their Properties"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals/in-in-types-of-quadrilaterals-and-their-properties">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals/in-in-types-of-quadrilaterals-and-their-properties</a>
+# Description of topic (x41378ef96c8fc912) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Quadrilaterals are of various types based on number of sides, length of sides, angles etc. Also, each of these quadrilaterals have some special properties using which they are differentiated from each other. Let us focus our attention to the properties of quadrilaterals which have both pairs of sides parallel, called parallelograms. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals/ncert-9th-angle-sum-property-of-a-quadrilateral">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals/ncert-9th-angle-sum-property-of-a-quadrilateral</a>
+# Title of topic (xa96ae077829fb987) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction and angle Sum Property of a Quadrilateral"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals/ncert-9th-angle-sum-property-of-a-quadrilateral">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals/ncert-9th-angle-sum-property-of-a-quadrilateral</a>
+# Description of topic (xa96ae077829fb987) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We will learn about angle sum property of a quadrilateral and prove that the sum of the angles of a quadrilateral is 360º."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-8-quadrilaterals</a>
+# Description of topic (x4a49f685132be7c8) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We have already read a lot about triangles and their properties, we'll now be learning about the properties of quadrilaterals and their types. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-9-areas-of-parallelograms-triangles/ncert-9th-geometry-parallelogram-area">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-9-areas-of-parallelograms-triangles/ncert-9th-geometry-parallelogram-area</a>
+# Title of topic (x62af37263253177c) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding areas by intuition"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-9-areas-of-parallelograms-triangles/ncert-9th-geometry-parallelogram-area">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-9-areas-of-parallelograms-triangles/ncert-9th-geometry-parallelogram-area</a>
+# Description of topic (x62af37263253177c) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Understand the formula for the area of a parallelogram and triangle by intuition."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-9-areas-of-parallelograms-triangles">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-9-areas-of-parallelograms-triangles</a>
+# Title of topic (xeaf1b14a63e96ab7) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Areas of parallelograms and triangles"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-9-areas-of-parallelograms-triangles">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-9-areas-of-parallelograms-triangles</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xeaf1b14a63e96ab7) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Areas of parallelograms & triangles"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-9-areas-of-parallelograms-triangles">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-9-areas-of-parallelograms-triangles</a>
+# Description of topic (xeaf1b14a63e96ab7) on the hi stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "There are some interesting properties associated with finding the area of a Triangle and a Parallelogram. This chapter talks about these properties in detail."
+msgstr ""

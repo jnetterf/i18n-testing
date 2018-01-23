@@ -1,0 +1,1086 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2017-12-01 14:41+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Comment: Label for a button that allows a user to edit a list of items.
+# See text on <a href="http://www.khanacademy.org/coach/roster">http://www.khanacademy.org/coach/roster</a>
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/assignments-package/coach-assignments/actions-cell.jsx.js:96 genfiles/compiled_jsx/en/javascript/assignments-package/components/new-assignment-modal.jsx.js:49 genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:1305 genfiles/compiled_jsx/en/javascript/clarifications-package/mod-controls.jsx.js:260 genfiles/compiled_jsx/en/javascript/clarifications-package/official.jsx.js:137 genfiles/compiled_jsx/en/javascript/content-library-package/modules/classes-dashboard.jsx.js:757 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-buttons.jsx.js:160 intl/datastore:1 javascript/discussion-package/author-controls.handlebars:9 javascript/discussion-package/mod-controls.handlebars:66 templates/scratchpads/drawing.html:62
+msgid "Edit"
+msgstr ""
+
+# 'The "by" in "1 Comment 7 days ago on math-1 by John"
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-prepositions/e/prepositions-about-time-and-space">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-prepositions/e/prepositions-about-time-and-space</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/types-of-prepositions-and-phrases/e/common-prepositions">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/types-of-prepositions-and-phrases/e/common-prepositions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-preposition/e/common-prepositions">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-preposition/e/common-prepositions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-preposition/e/prepositions-about-time-and-space">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-preposition/e/prepositions-about-time-and-space</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/usage-and-style/common-expressions-and-idioms/e/common-expressions--easy">http://translate.khanacademy.org/humanities/grammar/usage-and-style/common-expressions-and-idioms/e/common-expressions--easy</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/usage-and-style/common-expressions-and-idioms/e/common-expressions--hard">http://translate.khanacademy.org/humanities/grammar/usage-and-style/common-expressions-and-idioms/e/common-expressions--hard</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/usage-and-style/common-expressions-and-idioms/e/common-expressions--medium">http://translate.khanacademy.org/humanities/grammar/usage-and-style/common-expressions-and-idioms/e/common-expressions--medium</a>.
+# Exercise at (x45691d65) on the accents stage.
+# Exercise at (x45691d65) on the bg stage.
+# Exercise at (x45691d65) on the pl stage.
+# Exercise at (x45691d65) on the pt stage.
+# Exercise at (x45691d65) on the tr stage.
+# Exercise at (x45691d65) on the zh-hans stage.
+# Exercise at (x79193b03) on the accents stage.
+# Exercise at (x79193b03) on the bg stage.
+# Exercise at (x79193b03) on the pl stage.
+# Exercise at (x79193b03) on the pt stage.
+# Exercise at (x79193b03) on the tr stage.
+# Exercise at (x79193b03) on the zh-hans stage.
+# Exercise at (x885529a5) on the accents stage.
+# Exercise at (x885529a5) on the pt stage.
+# Exercise at (x91b1f3b042457d67) on the bg stage.
+# Exercise at (x91b1f3b042457d67) on the pl stage.
+# Exercise at (x91b1f3b042457d67) on the tr stage.
+# Exercise at (x91b1f3b042457d67) on the zh-hans stage.
+# Exercise at (xec6719cbcbdd9841) on the bg stage.
+# Exercise at (xec6719cbcbdd9841) on the pl stage.
+# Exercise at (xec6719cbcbdd9841) on the tr stage.
+# Exercise at (xec6719cbcbdd9841) on the zh-hans stage.
+# Exercise at (xfee8d31c6bb6ad4c) on the bg stage.
+# Exercise at (xfee8d31c6bb6ad4c) on the pl stage.
+# Exercise at (xfee8d31c6bb6ad4c) on the tr stage.
+# Exercise at (xfee8d31c6bb6ad4c) on the zh-hans stage.
+# Used to indicate the author of a comment. As in,"this was written _by_ Sal"
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/assignment-form-horizontal.jsx.js:246 genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:1486 intl/datastore:1 javascript/discussion-package/discussion-meta.handlebars:145 javascript/discussion-package/reply.handlebars:51
+msgid "by"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/base-flag-modal.jsx.js:132 javascript/discussion-package/flag-modal.handlebars:4
+msgid "Flag for Guardian attention"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-flag-modal.jsx.js:30 javascript/discussion-package/flag-modal.handlebars:23 javascript/discussion-package/flag-modal.handlebars:25
+msgid "a tip or thanks"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-flag-modal.jsx.js:31 javascript/discussion-package/flag-modal.handlebars:24
+msgid "a question"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-flag-modal.jsx.js:35 javascript/discussion-package/flag-modal.handlebars:29 javascript/discussion-package/flag-modal.handlebars:31
+msgid "should be in Tips & Thanks"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-flag-modal.jsx.js:36 javascript/discussion-package/flag-modal.handlebars:30
+msgid "should be in Questions"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-flag-modal.jsx.js:64 javascript/discussion-package/flag-modal.handlebars:56
+msgid "a question about Khan Academy (e.g. \"What software does Sal use?\")"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-flag-modal.jsx.js:70 javascript/discussion-package/discussion-guidelines.handlebars:142 javascript/discussion-package/flag-modal.handlebars:59 javascript/discussion-package/meta-panel-guidelines.handlebars:74
+msgid "a request for videos or features"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:61 javascript/discussion-package/formatting-tips.handlebars:15
+msgid "Accent your posts with *bold* or _italics_ and format `code`"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:69 javascript/discussion-package/formatting-tips.handlebars:7
+msgid "Typing this:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:70 javascript/discussion-package/formatting-tips.handlebars:10
+msgid "Displays this:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:106 genfiles/compiled_jsx/en/javascript/clarifications-package/low-quality-notice.jsx.js:19 javascript/discussion-package/duplicate-notice.handlebars:3 javascript/discussion-package/low-quality-notice-header.handlebars:3
+msgid "Reduce, Reuse, Recycle."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:116 genfiles/compiled_jsx/en/javascript/clarifications-package/low-quality-notice.jsx.js:29 javascript/discussion-package/low-quality-notice-header.handlebars:8
+msgid "Yours in cleanliness, the Khan Academy Guardians."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:271 genfiles/compiled_jsx/en/javascript/projectfeedback-package/projectfeedback-form.jsx.js:181 javascript/discussion-package/form-controls.handlebars:17
+msgid "Formatting tips"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:459 javascript/discussion-package/vote-controls.handlebars:3
+msgid "Vote up, this is encouraging or helpful (click again to undo)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:465 javascript/discussion-package/vote-controls.handlebars:14
+msgid "Vote down, this is not encouraging or helpful (click again to undo)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:681 javascript/discussion-package/question.handlebars:6
+msgid "View this question"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:825 javascript/discussion-package/discussion-list-profile-widget.handlebars:49
+msgid "Show more comments"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:986 javascript/discussion-package/discussion-replies.js:143
+#, python-format
+msgid "%(num)s Comment"
+msgid_plural "%(num)s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+# 'Comment' here means the command ("Comment!")
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:988 javascript/discussion-package/discussion-replies.js:136
+msgid "Comment"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:1103 javascript/discussion-package/discussion-replies.js:517
+msgid "Comment on this answer..."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:1349
+msgid "Flag"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod/flaggedfeedback">http://www.khanacademy.org/discussion/mod/flaggedfeedback</a>
+# Used to indicate that a post was _flagged_ for moderation
+# When a post has been "flagged" for moderator attention
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:1349 javascript/discussion-package/flag-controls.handlebars:5 javascript/discussion-package/flag.js:149 templates/discussion/mod/flaggedfeedback.html:20
+msgid "Flagged"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:1360 javascript/discussion-package/flag-controls.handlebars:10 javascript/discussion-package/flag-controls.handlebars:13
+msgid "Flag for moderator attention"
+msgstr ""
+
+# 'The "on" in "1 Comment 7 days ago on math-1 by John"
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/e/meet-the-adjective">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/e/meet-the-adjective</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adverbs/e/meet-the-adverb">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adverbs/e/meet-the-adverb</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/topic-quiz-tutorial-parts-of-speech-the-modifier/e/topic-quiz-exercise-parts-of-speech-the-modifier">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/topic-quiz-tutorial-parts-of-speech-the-modifier/e/topic-quiz-exercise-parts-of-speech-the-modifier</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-noun/grammar-nouns/e/identifying-nouns">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-noun/grammar-nouns/e/identifying-nouns</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-prepositions/e/meet-the-preposition">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-prepositions/e/meet-the-preposition</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-prepositions/e/meet-the-preposition-with-pictures">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-prepositions/e/meet-the-preposition-with-pictures</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-prepositions/e/prepositions-about-time-and-space">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-prepositions/e/prepositions-about-time-and-space</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/topic-quiz-tutorial-parts-of-speech-the-preposition-and-the-conjunction/e/topic-quiz-exercise-parts-of-speech-the-preposition-and-the-conjunction">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/topic-quiz-tutorial-parts-of-speech-the-preposition-and-the-conjunction/e/topic-quiz-exercise-parts-of-speech-the-preposition-and-the-conjunction</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/types-of-prepositions-and-phrases/e/common-prepositions">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/types-of-prepositions-and-phrases/e/common-prepositions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-verb/introduction-to-verbs/e/identifying-verbs">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-verb/introduction-to-verbs/e/identifying-verbs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/grammar-nouns/e/identifying-nouns">http://translate.khanacademy.org/humanities/grammar/partsofspeech/grammar-nouns/e/identifying-nouns</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/grammar-verbs/e/identifying-verbs">http://translate.khanacademy.org/humanities/grammar/partsofspeech/grammar-verbs/e/identifying-verbs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adjective">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adjective</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adverb">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adverb</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-preposition/e/common-prepositions">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-preposition/e/common-prepositions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-preposition/e/meet-the-preposition">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-preposition/e/meet-the-preposition</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-preposition/e/meet-the-preposition-with-pictures">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-preposition/e/meet-the-preposition-with-pictures</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-preposition/e/prepositions-about-time-and-space">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-preposition/e/prepositions-about-time-and-space</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/usage-and-style/common-expressions-and-idioms/e/common-expressions--easy">http://translate.khanacademy.org/humanities/grammar/usage-and-style/common-expressions-and-idioms/e/common-expressions--easy</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/usage-and-style/common-expressions-and-idioms/e/common-expressions--hard">http://translate.khanacademy.org/humanities/grammar/usage-and-style/common-expressions-and-idioms/e/common-expressions--hard</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/usage-and-style/common-expressions-and-idioms/e/common-expressions--medium">http://translate.khanacademy.org/humanities/grammar/usage-and-style/common-expressions-and-idioms/e/common-expressions--medium</a>.
+# Exercise at (x30a7c19d) on the accents stage.
+# Exercise at (x30a7c19d) on the bg stage.
+# Exercise at (x30a7c19d) on the pl stage.
+# Exercise at (x30a7c19d) on the pt stage.
+# Exercise at (x30a7c19d) on the tr stage.
+# Exercise at (x30a7c19d) on the zh-hans stage.
+# Exercise at (x39891c98) on the accents stage.
+# Exercise at (x39891c98) on the pt stage.
+# Exercise at (x45691d65) on the accents stage.
+# Exercise at (x45691d65) on the bg stage.
+# Exercise at (x45691d65) on the pl stage.
+# Exercise at (x45691d65) on the pt stage.
+# Exercise at (x45691d65) on the tr stage.
+# Exercise at (x45691d65) on the zh-hans stage.
+# Exercise at (x4f03e754) on the accents stage.
+# Exercise at (x4f03e754) on the bg stage.
+# Exercise at (x4f03e754) on the pl stage.
+# Exercise at (x4f03e754) on the pt stage.
+# Exercise at (x4f03e754) on the tr stage.
+# Exercise at (x4f03e754) on the zh-hans stage.
+# Exercise at (x79193b03) on the accents stage.
+# Exercise at (x79193b03) on the bg stage.
+# Exercise at (x79193b03) on the pl stage.
+# Exercise at (x79193b03) on the pt stage.
+# Exercise at (x79193b03) on the tr stage.
+# Exercise at (x79193b03) on the zh-hans stage.
+# Exercise at (x885529a5) on the accents stage.
+# Exercise at (x885529a5) on the pt stage.
+# Exercise at (x8e7aac0b) on the accents stage.
+# Exercise at (x8e7aac0b) on the bg stage.
+# Exercise at (x8e7aac0b) on the pl stage.
+# Exercise at (x8e7aac0b) on the pt stage.
+# Exercise at (x8e7aac0b) on the tr stage.
+# Exercise at (x8e7aac0b) on the zh-hans stage.
+# Exercise at (x91b1f3b042457d67) on the bg stage.
+# Exercise at (x91b1f3b042457d67) on the pl stage.
+# Exercise at (x91b1f3b042457d67) on the tr stage.
+# Exercise at (x91b1f3b042457d67) on the zh-hans stage.
+# Exercise at (xa7b8de32) on the accents stage.
+# Exercise at (xa7b8de32) on the bg stage.
+# Exercise at (xa7b8de32) on the pl stage.
+# Exercise at (xa7b8de32) on the pt stage.
+# Exercise at (xa7b8de32) on the tr stage.
+# Exercise at (xa7b8de32) on the zh-hans stage.
+# Exercise at (xc67a726a) on the accents stage.
+# Exercise at (xc67a726a) on the bg stage.
+# Exercise at (xc67a726a) on the pl stage.
+# Exercise at (xc67a726a) on the pt stage.
+# Exercise at (xc67a726a) on the tr stage.
+# Exercise at (xc67a726a) on the zh-hans stage.
+# Exercise at (xebfbefa2) on the accents stage.
+# Exercise at (xebfbefa2) on the bg stage.
+# Exercise at (xebfbefa2) on the pl stage.
+# Exercise at (xebfbefa2) on the pt stage.
+# Exercise at (xebfbefa2) on the tr stage.
+# Exercise at (xebfbefa2) on the zh-hans stage.
+# Exercise at (xec6719cbcbdd9841) on the bg stage.
+# Exercise at (xec6719cbcbdd9841) on the pl stage.
+# Exercise at (xec6719cbcbdd9841) on the tr stage.
+# Exercise at (xec6719cbcbdd9841) on the zh-hans stage.
+# Exercise at (xfee8d31c6bb6ad4c) on the bg stage.
+# Exercise at (xfee8d31c6bb6ad4c) on the pl stage.
+# Exercise at (xfee8d31c6bb6ad4c) on the tr stage.
+# Exercise at (xfee8d31c6bb6ad4c) on the zh-hans stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:1463 intl/datastore:1 javascript/discussion-package/discussion-meta.handlebars:122
+msgid "on"
+msgstr ""
+
+# Clear flags for moderation
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/mod-controls.jsx.js:47 javascript/discussion-package/moderation.js:219
+msgid "Cleared flags"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/mod-controls.jsx.js:68 javascript/discussion-package/mod-controls.handlebars:40
+msgid "(A)pprove"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/mod-controls.jsx.js:155 javascript/discussion-package/mod-controls.handlebars:54
+msgid "Change to (Q)uestion"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/mod-controls.jsx.js:159 javascript/discussion-package/mod-controls.handlebars:56
+msgid "Change to (F)eedback"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/mod-controls.jsx.js:179 javascript/discussion-package/mod-controls.handlebars:54
+msgid "Change to question"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/mod-controls.jsx.js:186 javascript/discussion-package/mod-controls.handlebars:56
+msgid "Change to feedback"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/mod-controls.jsx.js:260 javascript/discussion-package/mod-controls.handlebars:66
+msgid "(E)dit"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/mod-controls.jsx.js:282 javascript/discussion-package/mod-controls.handlebars:73 javascript/discussion-package/moderation.js:138 javascript/discussion-package/reply.handlebars:14
+msgid "Undelete"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/mod-controls.jsx.js:287 javascript/discussion-package/mod-controls.handlebars:75
+msgid "(D)elete"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/userhoverable.jsx.js:35 genfiles/compiled_jsx/en/javascript/cs-shared-package/userhoverable.jsx.js:35 javascript/discussion-package/discussion-meta.handlebars:155 javascript/discussion-package/reply.handlebars:63
+msgid "Anonymous"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/userhoverable.jsx.js:43 genfiles/compiled_jsx/en/javascript/cs-shared-package/userhoverable.jsx.js:43 javascript/discussion-package/discussion-meta.handlebars:151 javascript/discussion-package/reply.handlebars:59
+msgid "View profile for:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/usersubmit.jsx.js:191 javascript/discussion-package/discussion-guidelines.handlebars:45 javascript/discussion-package/discussion-guidelines.handlebars:52 javascript/discussion-package/discussion-guidelines.handlebars:58 javascript/discussion-package/feedback-guidelines.handlebars:50 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:45 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:52 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:58 javascript/discussion-package/question-guidelines.handlebars:52
+msgid "Report a mistake in the article"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/usersubmit.jsx.js:192 javascript/discussion-package/discussion-guidelines.handlebars:49 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:49
+msgid "The link in the third paragraph is broken."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/usersubmit.jsx.js:194 javascript/discussion-package/discussion-guidelines.handlebars:16 javascript/discussion-package/discussion-guidelines.handlebars:23 javascript/discussion-package/discussion-guidelines.handlebars:29 javascript/discussion-package/feedback-guidelines.handlebars:44 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:16 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:23 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:29 javascript/discussion-package/question-guidelines.handlebars:46
+msgid "Report a mistake in the video"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/usersubmit.jsx.js:235 javascript/discussion-package/feedback-guidelines.handlebars:35 javascript/discussion-package/question-guidelines.handlebars:37
+msgid "Report a technical problem with the site"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/usersubmit.jsx.js:242 javascript/discussion-package/feedback-guidelines.handlebars:38
+msgid "Request a feature"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/social-sciences-practice/social-science-practice-tut/e/normative-and-non-normative-behavior---passage-1">http://translate.khanacademy.org/test-prep/mcat/social-sciences-practice/social-science-practice-tut/e/normative-and-non-normative-behavior---passage-1</a>.
+# Exercise at (xaf53ebfe) on the pt stage.
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/coach-report-programs-package/report.jsx.js:106 genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:509 intl/datastore:1
+msgid "More"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/cs-shared-package/program-square.jsx.js:56
+#, python-format
+msgid "1 Vote"
+msgid_plural "%(num)s Votes"
+msgstr[0] ""
+msgstr[1] ""
+
+# the noun form, as in "a question"
+#: genfiles/compiled_jsx/en/javascript/exercise-task-card-package/exercise-end-of-task-card-do-n.jsx.js:125 javascript/discussion-package/discussion.js:461 templates/emails/subscriptions/coach_report_email.html:45 templates/emails/subscriptions/parent_report_email.html:50
+msgid "question"
+msgid_plural "questions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/exercises-components-package/report-issue.jsx.js:210 genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/modals/report-issue-modal.jsx.js:125 javascript/discussion-package/video-discussion.handlebars:47
+msgid "Report a mistake"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-spinoffs.jsx.js:43
+msgid "Login to view your spin-offs of this project."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad.jsx.js:238 javascript/discussion-package/video-discussion.handlebars:52
+msgid "Guidelines"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/pixar/crowds/crowds2/e/calculating-factorials">http://translate.khanacademy.org/partner-content/pixar/crowds/crowds2/e/calculating-factorials</a>.
+# Exercise at (x2f791dba) on the es stage.
+# Exercise at (x2f791dba) on the ja stage.
+# Exercise at (x2f791dba) on the pl stage.
+# Exercise at (x2f791dba) on the pt stage.
+# Exercise at (x2f791dba) on the tr stage.
+# the noun form, as in "an answer"
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1 javascript/discussion-package/discussion.js:464 javascript/discussion-package/duplicate-notice.js:98
+msgid "answer"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/science/biology/gene-expression-central-dogma/transcription-of-dna-into-rna/a/overview-of-transcription">http://translate.khanacademy.org/science/biology/gene-expression-central-dogma/transcription-of-dna-into-rna/a/overview-of-transcription</a>.
+# Article is at <a href="http://translate.khanacademy.org/science/biology/gene-expression-central-dogma/transcription-of-dna-into-rna/a/stages-of-transcription">http://translate.khanacademy.org/science/biology/gene-expression-central-dogma/transcription-of-dna-into-rna/a/stages-of-transcription</a>.
+# Article is at (x42a337ba) on the accents stage.
+# Article is at (x42a337ba) on the bg stage.
+# Article is at (x42a337ba) on the es stage.
+# Article is at (x42a337ba) on the fr stage.
+# Article is at (x42a337ba) on the ja stage.
+# Article is at (x42a337ba) on the ka stage.
+# Article is at (x42a337ba) on the pl stage.
+# Article is at (x42a337ba) on the pt stage.
+# Article is at (x42a337ba) on the pt-pt stage.
+# Article is at (x42a337ba) on the tr stage.
+# Article is at (x72618b50) on the accents stage.
+# Article is at (x72618b50) on the bg stage.
+# Article is at (x72618b50) on the fr stage.
+# Article is at (x72618b50) on the ja stage.
+# Article is at (x72618b50) on the ka stage.
+# Article is at (x72618b50) on the pl stage.
+# Article is at (x72618b50) on the pt stage.
+# Article is at (x72618b50) on the pt-pt stage.
+# Article is at (x72618b50) on the tr stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1 javascript/discussion-package/discussion-guidelines.handlebars:18 javascript/discussion-package/discussion-guidelines.handlebars:47 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:18 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:47
+msgid "Example:"
+msgstr ""
+
+#: javascript/discussion-package/answer-form.handlebars:5 javascript/discussion-package/answer.handlebars:26
+msgid "From the author:"
+msgstr ""
+
+#: javascript/discussion-package/answer-form.handlebars:10 javascript/discussion-package/discussion-replies.js:344 javascript/discussion-package/thread.handlebars:37
+msgid "Answer this question"
+msgstr ""
+
+#: javascript/discussion-package/answer-form.handlebars:14
+msgid "Answer this question..."
+msgstr ""
+
+#: javascript/discussion-package/answer-form.handlebars:18
+msgid "{{#invokePartial \"discussion\" \"form-controls\" label=\"Answer\"}}{{/invokePartial}}"
+msgstr ""
+
+#: javascript/discussion-package/answer-notification-link.handlebars:5
+msgid "This question is very old, so you won't receive notifications when someone answers it."
+msgstr ""
+
+#: javascript/discussion-package/answer-notification-link.handlebars:6
+msgid "Answer email notifications are off"
+msgstr ""
+
+#: javascript/discussion-package/answer-notification-link.handlebars:11 javascript/discussion-package/moderation.js:82
+msgid "Turn off answer notifications"
+msgstr ""
+
+#: javascript/discussion-package/answer-notification-link.handlebars:15 javascript/discussion-package/moderation.js:78
+msgid "Turn on answer notifications"
+msgstr ""
+
+#: javascript/discussion-package/answer.handlebars:12
+msgid "View this question by {{question.authorNickname}}"
+msgstr ""
+
+#: javascript/discussion-package/answer.handlebars:46
+msgid "{{#invokePartial \"discussion\" \"form-controls\" label=\"Edit this answer\"}}{{/invokePartial}}"
+msgstr ""
+
+#: javascript/discussion-package/comment-form.handlebars:8
+msgid "Post a tip or thanks."
+msgstr ""
+
+#: javascript/discussion-package/comment-form.handlebars:10
+msgid "Post a tip or thanks..."
+msgstr ""
+
+#: javascript/discussion-package/comment-form.handlebars:13
+msgid "{{#invokePartial \"discussion\" \"form-controls\" label=\"Post your tip or thanks\"}}{{/invokePartial}}"
+msgstr ""
+
+#: javascript/discussion-package/comment.handlebars:8
+msgid "View this comment"
+msgstr ""
+
+#: javascript/discussion-package/comment.handlebars:18
+msgid "{{#invokePartial \"discussion\" \"form-controls\" label=\"Edit this feedback\"}}{{/invokePartial}}"
+msgstr ""
+
+#: javascript/discussion-package/discussion-guidelines.handlebars:4 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:4
+msgid "Answer more questions"
+msgstr ""
+
+#: javascript/discussion-package/discussion-guidelines.handlebars:6 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:6
+msgid ""
+"Visit <a href=\"{{communityQuestionsUrl}}\">Community Questions</a>\n"
+"        to answer new questions in\n"
+"        <a href=\"{{communityQuestionsUrl}}\">{{translatedCommunityQuestionsTitle}}</a>."
+msgstr ""
+
+#: javascript/discussion-package/discussion-guidelines.handlebars:20 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:20
+msgid "At 2:33, Sal said \"single bonds\" but meant \"covalent bonds.\""
+msgstr ""
+
+#: javascript/discussion-package/discussion-guidelines.handlebars:32 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:32
+msgid "Clarifications are disabled for this video."
+msgstr ""
+
+#: javascript/discussion-package/discussion-guidelines.handlebars:35 javascript/discussion-package/discussion-guidelines.handlebars:64 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:35 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:64
+msgid "View existing clarifications"
+msgstr ""
+
+#: javascript/discussion-package/discussion-guidelines.handlebars:61 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:61
+msgid "Clarifications are disabled for this article."
+msgstr ""
+
+#: javascript/discussion-package/discussion-guidelines.handlebars:71 javascript/discussion-package/meta-panel-guidelines.handlebars:3 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:71
+msgid "Discuss the site"
+msgstr ""
+
+#: javascript/discussion-package/discussion-guidelines.handlebars:73 javascript/discussion-package/meta-panel-guidelines.handlebars:5 javascript/discussion-package/meta-panel-report-a-mistake.handlebars:73
+msgid "View <a href=\"https://khanacademy.zendesk.com/hc/communities/public/topics\">general discussions about Khan Academy</a>."
+msgstr ""
+
+# A discussion post that doesn't belong in "Tips & Thanks"
+#: javascript/discussion-package/discussion-guidelines.handlebars:118 javascript/discussion-package/meta-panel-guidelines.handlebars:50
+msgid "a question in Tips & Thanks"
+msgstr ""
+
+#: javascript/discussion-package/discussion-list-profile-widget.handlebars:24 javascript/discussion-package/discussion-list.handlebars:12
+msgid "(<span class=\"discussion-list-count-value\">{{count}}</span> total)"
+msgstr ""
+
+#: javascript/discussion-package/discussion-list.js:71
+msgid "(<span class=\"sr-only\">read</span>more<span class=\"sr-only\">of this comment</span>)"
+msgstr ""
+
+#: javascript/discussion-package/discussion-list.js:125
+msgid "Most Voted"
+msgstr ""
+
+#: javascript/discussion-package/discussion-list.js:152 javascript/discussion-package/discussion-list.js:153 javascript/discussion-package/sorts.handlebars:17
+msgid "All subjects"
+msgstr ""
+
+#: javascript/discussion-package/discussion-list.js:211
+#, python-format
+msgid "Show more %(label)s"
+msgstr ""
+
+#: javascript/discussion-package/discussion-meta.handlebars:32
+msgid "{{sumVotesIncremented}} <span class=\"vote-word\">Vote</span>"
+msgid_plural "{{sumVotesIncremented}} <span class=\"vote-word\">Votes</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/discussion-package/discussion-meta.handlebars:39
+msgid "{{ spinoffCount }} Spin-off"
+msgid_plural "{{ spinoffCount }} Spin-offs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/discussion-package/discussion-meta.handlebars:61
+msgid "{{replyCount}} Comment"
+msgid_plural "{{replyCount}} Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/discussion-package/discussion-meta.handlebars:70
+msgid ""
+"\n"
+"                                {{replyCount}} Comment\n"
+"                            "
+msgid_plural ""
+"\n"
+"                                {{replyCount}} Comments\n"
+"                            "
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/discussion-package/discussion-meta.handlebars:77
+msgid "Comment <span class=\"sr-only\">on {{authorNickname}}'s question</span>"
+msgstr ""
+
+#: javascript/discussion-package/discussion-meta.handlebars:79
+msgid "Comment <span class=\"sr-only\">on this question</span>"
+msgstr ""
+
+#: javascript/discussion-package/discussion-replies.js:105
+msgid "The question you are replying to has been deleted. Please refresh the page."
+msgstr ""
+
+#: javascript/discussion-package/discussion-replies.js:274
+msgid "Comments on this post are closed."
+msgstr ""
+
+#: javascript/discussion-package/discussion-replies.js:341
+#, python-format
+msgid "Edit your %(parentType)s"
+msgstr ""
+
+#: javascript/discussion-package/discussion-replies.js:503
+msgid "Comment on your question..."
+msgstr ""
+
+#: javascript/discussion-package/discussion-replies.js:505
+msgid "Suggest a way to improve this question..."
+msgstr ""
+
+#: javascript/discussion-package/discussion-replies.js:509
+msgid "Comment on your tip/feedback..."
+msgstr ""
+
+#: javascript/discussion-package/discussion-replies.js:511
+msgid "Comment on this tip/feedback..."
+msgstr ""
+
+#: javascript/discussion-package/discussion-replies.js:515
+msgid "Comment on your answer..."
+msgstr ""
+
+#: javascript/discussion-package/discussion-voting.js:100
+#, python-format
+msgid "%(num)s <span class='vote-word'>Vote</span>"
+msgid_plural "%(num)s <span class='vote-word'>Votes</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+# the noun form, as in "a post"
+#: javascript/discussion-package/discussion.js:470 javascript/discussion-package/discussion.js:479
+msgid "post"
+msgstr ""
+
+#: javascript/discussion-package/discussion.js:474
+msgid "comments"
+msgstr ""
+
+#: javascript/discussion-package/discussion.js:476
+msgid "scratchpad"
+msgstr ""
+
+#: javascript/discussion-package/discussion.js:854
+msgid "Notifications for this question are ON"
+msgstr ""
+
+#: javascript/discussion-package/discussion.js:855
+msgid "Notifications for this question are OFF"
+msgstr ""
+
+#: javascript/discussion-package/discussion.js:901 javascript/discussion-package/discussion.js:931
+#, python-format
+msgid "%(emailSettingsUrl)s"
+msgstr ""
+
+# translatedFeedbackType is "question", "answer", or "comment".
+#: javascript/discussion-package/duplicate-notice.handlebars:5
+msgid ""
+"Thank you for your {{translatedFeedbackType}}. Our scrub-bots have integrated it\n"
+"    into the earlier {{translatedFeedbackType}} highlighted above and voted that up.\n"
+"    <br>\n"
+"    Yours in cleanliness, the Khan Academy Guardians."
+msgstr ""
+
+#: javascript/discussion-package/feedback-guidelines.handlebars:6
+msgid "Share a tip"
+msgstr ""
+
+#: javascript/discussion-package/feedback-guidelines.handlebars:10
+msgid "When naming a variable, it is okay to use most letters, but some are reserved, like 'e', which represents the value 2.7183..."
+msgstr ""
+
+#: javascript/discussion-package/feedback-guidelines.handlebars:15
+msgid "Thank the author"
+msgstr ""
+
+#: javascript/discussion-package/feedback-guidelines.handlebars:19
+msgid "This is great, I finally understand quadratic functions!"
+msgstr ""
+
+#: javascript/discussion-package/feedback-guidelines.handlebars:25
+msgid "Have something that's not a tip or thanks about this content?"
+msgstr ""
+
+#: javascript/discussion-package/feedback-guidelines.handlebars:29 javascript/discussion-package/question-form.handlebars:8
+msgid "Ask a question"
+msgstr ""
+
+#: javascript/discussion-package/feedback-guidelines.handlebars:32 javascript/discussion-package/question-guidelines.handlebars:34
+msgid "Join our help discussions"
+msgstr ""
+
+#: javascript/discussion-package/feedback-guidelines.handlebars:61 javascript/discussion-package/question-guidelines.handlebars:63
+msgid "This discussion area is not meant for answering homework questions."
+msgstr ""
+
+#: javascript/discussion-package/flag-controls.handlebars:11
+msgid "Flag project</a>"
+msgstr ""
+
+#: javascript/discussion-package/flag-controls.handlebars:15
+msgid "Flag <span class=\"sr-only\">{{authorNickname}}'s comment</span></a>"
+msgstr ""
+
+#: javascript/discussion-package/flag-controls.handlebars:17
+msgid "Flag <span class=\"sr-only\">this comment</span></a>"
+msgstr ""
+
+# translatedFeedbackType is "question", "answer", or "comment".
+#: javascript/discussion-package/flag-modal.handlebars:11
+msgid "This {{translatedFeedbackType}} is:"
+msgstr ""
+
+#: javascript/discussion-package/flags-hovercard.handlebars:6
+msgid "Flags:"
+msgstr ""
+
+#: javascript/discussion-package/flags-hovercard.handlebars:14
+msgid "Unknown or deleted user"
+msgstr ""
+
+#: javascript/discussion-package/formatting-tips.handlebars:19
+msgid "Accent your posts with <strong>bold</strong> or <i>italics</i> and format <code>code</code>"
+msgstr ""
+
+# translatedFeedbackType is "question", "answer", or "comment".
+#: javascript/discussion-package/low-quality-notice-header.handlebars:5
+msgid ""
+"Thank you for your {{translatedFeedbackType}}. Our scrub-bots have integrated it\n"
+"        into the earlier {{translatedFeedbackType}} highlighted above and voted that up."
+msgstr ""
+
+# translatedFeedbackType is "question", "answer", or "comment".
+#: javascript/discussion-package/low-quality-notice-header.handlebars:11
+msgid "Please clarify your {{translatedFeedbackType}}."
+msgstr ""
+
+# translatedFeedbackType is "question", "answer", or "comment".
+#: javascript/discussion-package/low-quality-notice-header.handlebars:14
+msgid ""
+"Our robot army has targeted your post as \"low quality\". To appear on the\n"
+"        site as originally written, the Khan Academy Guardians must manually\n"
+"        approve your {{translatedFeedbackType}}."
+msgstr ""
+
+#: javascript/discussion-package/low-quality-notice.js:78
+#, python-format
+msgid "Tip: %(translatedFeedbackEditTip)s"
+msgstr ""
+
+#: javascript/discussion-package/mod-controls.handlebars:24
+msgid ""
+"\n"
+"                            (C)lear  Flag\n"
+"                        "
+msgid_plural ""
+"\n"
+"                            (C)lear {{numberOfFlags}} Flags\n"
+"                        "
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/discussion-package/mod-controls.handlebars:30
+msgid ""
+"\n"
+"                            Clear  Flag\n"
+"                        "
+msgid_plural ""
+"\n"
+"                            Clear {{numberOfFlags}} Flags\n"
+"                        "
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/discussion-package/mod-controls.handlebars:47
+msgid "Skip taking an action on this post right now."
+msgstr ""
+
+#: javascript/discussion-package/mod-controls.handlebars:47
+msgid "(S)kip"
+msgstr ""
+
+#: javascript/discussion-package/moderation.js:115
+msgid "Are you sure you want to delete this?"
+msgstr ""
+
+#: javascript/discussion-package/moderation.js:190
+#, python-format
+msgid "Changed to %(targetTypeName)s"
+msgstr ""
+
+#: javascript/discussion-package/note.handlebars:3
+msgid "Log in first"
+msgstr ""
+
+#: javascript/discussion-package/question-form.handlebars:16 javascript/discussion-package/question-form.handlebars:20
+msgid "Ask a question..."
+msgstr ""
+
+#: javascript/discussion-package/question-form.handlebars:24
+msgid "{{#invokePartial \"discussion\" \"form-controls\" label=\"Ask your question\"}}{{/invokePartial}}"
+msgstr ""
+
+#: javascript/discussion-package/question-guidelines.handlebars:7
+msgid "Be specific, and indicate a location in the text:"
+msgstr ""
+
+#: javascript/discussion-package/question-guidelines.handlebars:11
+msgid "In the second paragraph, how is the moon large enough to block the sun? Isn't the sun way larger?"
+msgstr ""
+
+#: javascript/discussion-package/question-guidelines.handlebars:16
+msgid "Be specific, and indicate a time in the video:"
+msgstr ""
+
+#: javascript/discussion-package/question-guidelines.handlebars:20
+msgid "At 5:31, how is the moon large enough to block the sun? Isn't the sun way larger?"
+msgstr ""
+
+#: javascript/discussion-package/question-guidelines.handlebars:27
+msgid "Have something that's not a question about this content?"
+msgstr ""
+
+#: javascript/discussion-package/question-guidelines.handlebars:31
+msgid "Post a tip or thanks"
+msgstr ""
+
+#: javascript/discussion-package/question-guidelines.handlebars:40
+msgid "<a class=\"alert-link\" href=\"https://khanacademy.zendesk.com/hc/communities/public/topics/200136634-Feature-Requests\">Request a feature</a>"
+msgstr ""
+
+#: javascript/discussion-package/question-guidelines.handlebars:66
+msgid ""
+"Before asking, please make sure you've checked the top questions below and\n"
+"            <a href=\"https://khanacademy.org/r/computer-programming-faq\">our FAQ</a>. Thanks!"
+msgstr ""
+
+#: javascript/discussion-package/question.handlebars:16
+msgid "{{#invokePartial \"discussion\" \"form-controls\" label=\"Edit this question\"}}{{/invokePartial}}"
+msgstr ""
+
+#: javascript/discussion-package/reply-form.handlebars:17
+msgid "{{#invokePartial \"discussion\" \"form-controls\" label=\"Comment\"}}{{/invokePartial}}"
+msgstr ""
+
+#: javascript/discussion-package/scratchpad-flag-modal.handlebars:4
+msgid "Flag project for Guardian attention"
+msgstr ""
+
+#: javascript/discussion-package/scratchpad-flag-modal.handlebars:7
+msgid "Please consult our project guidelines for what we consider to be appropriate project."
+msgstr ""
+
+#: javascript/discussion-package/scratchpad-flag-modal.handlebars:8
+msgid "How does this project violate the guidelines?"
+msgstr ""
+
+#: javascript/discussion-package/scratchpad-flag-modal.handlebars:12
+msgid "This project is:"
+msgstr ""
+
+#: javascript/discussion-package/scratchpad-flag-modal.handlebars:15
+msgid ""
+"<h4>abuse</h4>\n"
+"                    <ul>\n"
+"                        <li>disrespectful or offensive</li>\n"
+"                        <li>advertisement for off-site company/service</li>\n"
+"                    </ul>"
+msgstr ""
+
+#: javascript/discussion-package/scratchpad-flag-modal.handlebars:23
+msgid ""
+"<h4>plagiarism</h4>\n"
+"                    <ul>\n"
+"                        <li>not a spin-off and not giving credit to original author</li>\n"
+"                    </ul>"
+msgstr ""
+
+#: javascript/discussion-package/scratchpad-flag-modal.handlebars:30
+msgid ""
+"<h4>soliciting votes</h4>\n"
+"                    <ul>\n"
+"                        <li>requesting votes</li>\n"
+"                        <li>making promises for votes</li>\n"
+"                        <li>receiving votes from a voting ring</li>\n"
+"                    </ul>"
+msgstr ""
+
+#: javascript/discussion-package/scratchpad-flag-modal.handlebars:41
+msgid ""
+"<h4>using disallowed functionality</h4>\n"
+"                    <ul>\n"
+"                        <li>accessing externals or the DOM to go beyond allowed functionality</li>\n"
+"                        <li>examples: playing sounds inappropriately, using localStorage</li>\n"
+"                    </ul>"
+msgstr ""
+
+#: javascript/discussion-package/scratchpad-flag-modal.handlebars:50
+msgid ""
+"<h4>off-topic</h4>\n"
+"                    <ul>\n"
+"                        <li>petitions to change the site</li>\n"
+"                        <li>contentious projects about politics, religion/atheism, or personal issues</li>\n"
+"                    </ul>"
+msgstr ""
+
+#: javascript/discussion-package/sorts.handlebars:15
+msgid "Show projects from: "
+msgstr ""
+
+#: javascript/discussion-package/thread.handlebars:18
+msgid ""
+"\n"
+"                                <span aria-hidden=\"true\">Show answer</span>\n"
+"                                <span class=\"sr-only\">Show the answer to {{authorNickname}}'s question</span>\n"
+"                            "
+msgid_plural ""
+"\n"
+"                                Show all {{answerCount}} answers <span class=\"sr-only\">to {{authorNickname}}'s question</span>\n"
+"                            "
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/discussion-package/thread.handlebars:25
+msgid ""
+"\n"
+"                                <span aria-hidden=\"true\">Show answer</span>\n"
+"                                <span class=\"sr-only\">Show the answer to this question</span>\n"
+"                            "
+msgid_plural ""
+"\n"
+"                                Show all {{answerCount}} answers <span class=\"sr-only\">to this question</span>\n"
+"                            "
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/discussion-package/video-discussion.handlebars:6
+msgid "Show all questions"
+msgstr ""
+
+#: javascript/discussion-package/video-discussion.handlebars:32
+msgid "Tips &amp; Thanks"
+msgstr ""
+
+#: javascript/discussion-package/video-discussion.handlebars:42
+msgid "Clarifications"
+msgstr ""
+
+#: javascript/discussion-package/video-discussion.handlebars:70
+msgid ""
+"\n"
+"                Want to ask a question to the community about improving your project?\n"
+"                <br>\n"
+"                Head over to the <a href=\"javascript:void(0);\" data-tab-target=\"projectfeedback\">help requests tab</a>!\n"
+"                <br>\n"
+"                We'll keep this area for questions that the community has for you about your project."
+msgstr ""
+
+#: javascript/discussion-package/vote-controls.handlebars:9
+msgid "You have upvoted this comment"
+msgstr ""
+
+#: javascript/discussion-package/vote-controls.handlebars:20
+msgid "You have downvoted this comment"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod/flaggedfeedback">http://www.khanacademy.org/discussion/mod/flaggedfeedback</a>
+#: javascript/profile-nav-package/profile-router.js:273 javascript/profile-package/discussion-tab-links.handlebars:24 javascript/profile-package/profile-discussion.js:489 templates/discussion/mod/flaggedfeedback.html:29 templates/discussion/qa/static_question_answer.html:49
+msgid "Answers"
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:278
+msgid "The user was banned for the following reason:"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod/flaggedfeedback">http://www.khanacademy.org/discussion/mod/flaggedfeedback</a>
+#: templates/discussion/mod/flaggedfeedback.html:15
+msgid "Low Quality Score"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod/flaggedfeedback">http://www.khanacademy.org/discussion/mod/flaggedfeedback</a>
+#: templates/discussion/mod/flaggedfeedback.html:35
+msgid "Tips &amp; Feedback"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod/flaggedfeedback">http://www.khanacademy.org/discussion/mod/flaggedfeedback</a>
+#: templates/discussion/mod/flaggedfeedback.html:41
+msgid "CS Help Requests"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod/flaggedfeedback">http://www.khanacademy.org/discussion/mod/flaggedfeedback</a>
+#: templates/discussion/mod/flaggedfeedback.html:44
+msgid "CS Project Evaluations"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod/flaggedfeedback">http://www.khanacademy.org/discussion/mod/flaggedfeedback</a>
+#: templates/discussion/mod/flaggedfeedback.html:50
+msgid "Nice work! This queue is empty!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod">http://www.khanacademy.org/discussion/mod</a>
+# See text on <a href="http://www.khanacademy.org/discussion/mod/flaggedfeedback">http://www.khanacademy.org/discussion/mod/flaggedfeedback</a>
+#: templates/discussion/mod/mod.html:5 templates/discussion/mod/mod_template.html:5
+msgid "Discussion Moderation"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod">http://www.khanacademy.org/discussion/mod</a>
+#: templates/discussion/mod/mod.html:7
+msgid "If you're not supposed to be here, please turn yourself in to the appropriate authorities."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod">http://www.khanacademy.org/discussion/mod</a>
+#: templates/discussion/mod/mod.html:10
+msgid "Work through the queue of flagged and low-quality content"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod">http://www.khanacademy.org/discussion/mod</a>
+# See text on <a href="http://www.khanacademy.org/discussion/mod/moderationlogs">http://www.khanacademy.org/discussion/mod/moderationlogs</a>
+#: templates/discussion/mod/mod.html:11 templates/discussion/mod/moderationlogs.html:28
+msgid "Moderation logs"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod/flaggedfeedback">http://www.khanacademy.org/discussion/mod/flaggedfeedback</a>
+#: templates/discussion/mod/mod_template.html:15
+msgid "Moderation Panel"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod/flaggedfeedback">http://www.khanacademy.org/discussion/mod/flaggedfeedback</a>
+#: templates/discussion/mod/mod_template.html:16
+msgid "Flag Queue"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod/moderationlogs">http://www.khanacademy.org/discussion/mod/moderationlogs</a>
+#: templates/discussion/mod/moderationlogs.html:47
+msgid "No logs found."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod/moderationlogs">http://www.khanacademy.org/discussion/mod/moderationlogs</a>
+#: templates/discussion/mod/moderationlogs.html:52
+msgid "More &raquo;"
+msgstr ""

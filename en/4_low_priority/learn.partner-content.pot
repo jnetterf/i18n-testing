@@ -1,0 +1,839 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2017-12-01 14:41+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/crash-course1">http://translate.khanacademy.org/partner-content/crash-course1</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Crash Course"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/mit-k12">http://translate.khanacademy.org/partner-content/mit-k12</a>
+# Title of topic (xf3c15d4e) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "MIT+K12"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/mit-k12">http://translate.khanacademy.org/partner-content/mit-k12</a>
+# Description of topic (xf3c15d4e) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "MIT+K12 is collaborating with Khan Academy to provide experiential materials to complement their virtual offerings."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/stanford-medicine">http://translate.khanacademy.org/partner-content/stanford-medicine</a>
+# Title of topic (xbb5b204c) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Stanford School of Medicine"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/stanford-medicine">http://translate.khanacademy.org/partner-content/stanford-medicine</a>
+# Description of topic (xbb5b204c) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Stanford is collaborating with Khan Academy to provide free health and medicine content to anyone, anywhere."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/brookings-institution">http://translate.khanacademy.org/partner-content/brookings-institution</a>
+# Title of topic (xa24e7409) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The Brookings Institution"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/brookings-institution">http://translate.khanacademy.org/partner-content/brookings-institution</a>
+# Description of topic (xa24e7409) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Designed for clinicians as well as the general public, these engaging tutorials provide an overview of the U.S. health care system and payment and delivery reform efforts at the federal, state, and local levels. Created by the Merkin Initiative at The Brookings Institution and presented by Khan Academy, the content covers an introduction to health care costs, Medicare, Medicaid, prescription drug coverage, and more."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/lebron-asks-subject">http://translate.khanacademy.org/partner-content/lebron-asks-subject</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/lebron-asks-subject/lebron-asks">http://translate.khanacademy.org/partner-content/lebron-asks-subject/lebron-asks</a>
+# Title of topic (xc579d153) on the tr stage
+# Title of topic (xe9b9297e) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "LeBron asks"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/lebron-asks-subject">http://translate.khanacademy.org/partner-content/lebron-asks-subject</a>
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/lebron-asks-subject/lebron-asks">http://translate.khanacademy.org/partner-content/lebron-asks-subject/lebron-asks</a>
+# Description of topic (xc579d153) on the tr stage
+# Description of topic (xe9b9297e) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "LeBron James asks questions about math and science, and we answer!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/getty-museum">http://translate.khanacademy.org/partner-content/getty-museum</a>
+# Title of topic (xd45c6cf9) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The J. Paul Getty Museum"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/getty-museum">http://translate.khanacademy.org/partner-content/getty-museum</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd45c6cf9) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "J. Paul Getty Museum"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/getty-museum">http://translate.khanacademy.org/partner-content/getty-museum</a>
+# Description of topic (xd45c6cf9) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The J. Paul Getty Museum seeks to inspire curiosity about, and enjoyment and understanding of, the visual arts by collecting, conserving, exhibiting and interpreting works of art of outstanding quality and historical importance. To fulfill this mission, the Museum continues to build its collections through purchase and gifts, and develops programs of exhibitions, publications, scholarly research, public education, and the performing arts that engage our diverse local and international audiences. All of these activities are enhanced by the uniquely evocative architectural and garden settings provided by the Museum's two renowned venues: the Getty Villa and the Getty Center."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/educator">http://translate.khanacademy.org/educator</a>
+# Description of topic <a href="http://translate.khanacademy.org/resources">http://translate.khanacademy.org/resources</a>
+# Description of topic (x12772614) on the hy stage
+# Description of topic (x12772614) on the lol stage
+# Description of topic (x12772614) on the pl stage
+# Description of topic (x6a4a5e33) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "KA Educator is here to empower the most important factor in a student's learning: the teacher. Whether you're looking to save valuable time by assigning auto-graded, Common Core-aligned exercises or you're looking to explore personalized learning, this site has the tools and the help to get started."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/educator">http://translate.khanacademy.org/educator</a>
+# Title of topic (x6a4a5e33) on the es stage
+# Title of topic (x6a4a5e33) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "KA Educator"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/23andme">http://translate.khanacademy.org/partner-content/23andme</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "23andMe"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/23andme">http://translate.khanacademy.org/partner-content/23andme</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Genetics has come a long way since Mendel and his peas. 23andMe’s mission is to help people access, understand and benefit from the human genome."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/49ers-steam">http://translate.khanacademy.org/partner-content/49ers-steam</a>
+# Title of topic (x70da55a9) on the es stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "49ers STEAM education"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/49ers-steam">http://translate.khanacademy.org/partner-content/49ers-steam</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x70da55a9) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid " 49ers STEAM education"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/49ers-steam">http://translate.khanacademy.org/partner-content/49ers-steam</a>
+# Description of topic (x70da55a9) on the es stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Established in 1946, the five-time Super Bowl Champion San Francisco 49ers has become recognized as one of the most successful and beloved franchises in the NFL. The team has a rich history of success on the field, but they also make a substantial and positive impact off the field, leading with a long-standing and proven commitment to support education at all levels. The organization is the first in professional sports to design, create and provide accessible, student learning opportunities that revolve around STEAM (Science, Technology, Engineering, Arts, & Mathematics) education in schools and at Levi's® Stadium. This partnership with Khan Academy represents the pinnacle of creative partnership and program development aimed to connecting and engaging students of all ages to meet real-world challenges head-on through innovation, collaboration, and creative problem solving."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/all-star-orchestra">http://translate.khanacademy.org/partner-content/all-star-orchestra</a>
+# Title of topic (x5ed1079b) on the pl stage
+# Title of topic (x5ed1079b) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "All-Star Orchestra"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/all-star-orchestra">http://translate.khanacademy.org/partner-content/all-star-orchestra</a>
+# Description of topic (x5ed1079b) on the pl stage
+# Description of topic (x5ed1079b) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The All-Star Orchestra encourages greater appreciation of classical music as a living tradition. Top orchestral players from across the United States meet once-a-year in New York to record masterpieces and new works with Music Director Gerard Schwarz. Come behind the scenes, meet the musicians, attend an open rehearsal, gain a conductor's perspective, and have a first-person encounter with the music."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/amgen-test-subject">http://translate.khanacademy.org/partner-content/amgen-test-subject</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Amgen-test"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/amgen-test-subject">http://translate.khanacademy.org/partner-content/amgen-test-subject</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Amgen Test"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/amnh">http://translate.khanacademy.org/partner-content/amnh</a>
+# Title of topic (x1dd6613c) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "American Museum of Natural History"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/amnh">http://translate.khanacademy.org/partner-content/amnh</a>
+# Description of topic (x1dd6613c) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The American Museum of Natural History in New York City is one of the world's preeminent scientific, educational, and cultural institutions, drawing millions of visitors each year. Visit amnh.org for more information."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/arts-humanities-partners">http://translate.khanacademy.org/partner-content/arts-humanities-partners</a>
+# Title of topic (x9d5edd3b) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Arts & humanities partners"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/asian-art-museum">http://translate.khanacademy.org/partner-content/asian-art-museum</a>
+# Title of topic (xc4e9b2d5) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Asian Art Museum"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/asian-art-museum">http://translate.khanacademy.org/partner-content/asian-art-museum</a>
+# Description of topic (xc4e9b2d5) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The Asian Art Museum is one of the largest museums in the Western world devoted exclusively to Asian art and culture. Home to more than 18,000 works of art from over 40 Asian countries, we strive to be a catalyst for discovery, dialogue, and inspiration. With Asia as our lens and art as our cornerstone, we spark connections across cultures and through time, igniting curiosity, conversation, and creativity."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/aspeninstitute">http://translate.khanacademy.org/partner-content/aspeninstitute</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The Aspen Institute"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/aspeninstitute">http://translate.khanacademy.org/partner-content/aspeninstitute</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The Aspen Institute is an educational and policy studies organization. Its mission is to foster leadership based on enduring values and to provide a nonpartisan venue for dealing with critical issues. The Aspen Institute and Khan Academy partnership is made possible with the support of the Kimsey Foundation."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/berkeley-digital">http://translate.khanacademy.org/partner-content/berkeley-digital</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Haas School of Business"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/partner-content/big-history-project/acceleration/the-anthropocene/a/gallery-the-modern-world">http://translate.khanacademy.org/partner-content/big-history-project/acceleration/the-anthropocene/a/gallery-the-modern-world</a>.
+# Article is at <a href="http://translate.khanacademy.org/partner-content/big-history-project/solar-system-and-earth/earth-and-form-solar-system/a/gallery-earth-solar-system">http://translate.khanacademy.org/partner-content/big-history-project/solar-system-and-earth/earth-and-form-solar-system/a/gallery-earth-solar-system</a>.
+# Article is at (xa80096dc) on the pl stage.
+# Article is at (xe1797dd3) on the pl stage.
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/nasa">http://translate.khanacademy.org/partner-content/nasa</a>
+# Title of topic (x1b441846) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "NASA"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/partner-content/big-history-project/solar-system-and-earth/earth-and-form-solar-system/a/gallery-earth-solar-system">http://translate.khanacademy.org/partner-content/big-history-project/solar-system-and-earth/earth-and-form-solar-system/a/gallery-earth-solar-system</a>.
+# Article is at (xa80096dc) on the pl stage.
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/big-history-project">http://translate.khanacademy.org/partner-content/big-history-project</a>
+# Title of topic (x5d2ce072) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Big History Project"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/big-history-project">http://translate.khanacademy.org/partner-content/big-history-project</a>
+# Description of topic (x5d2ce072) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Journey through nearly 14 billion years of history with the Big History Project, now available on Khan Academy. This course asks the big questions about our Universe, our planet, life and humanity. Examine our shared history across scales and disciplines. From the Big Bang to our still expanding universe, this course, created and maintained by the Big History Project, will lead you on a journey of astounding connections and exciting discoveries. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/bjc">http://translate.khanacademy.org/partner-content/bjc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Breakthrough Junior Challenge"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/bjc">http://translate.khanacademy.org/partner-content/bjc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The Breakthrough Junior Challenge is an annual challenge that invites students, ages 13-18, to share their passion for math and science with the world!"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/british-museum">http://translate.khanacademy.org/partner-content/british-museum</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x0d6c5f5b) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x0d6c5f5b) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The British Museum "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/british-museum">http://translate.khanacademy.org/partner-content/british-museum</a>
+# Description of topic (x0d6c5f5b) on the pl stage
+# Description of topic (x0d6c5f5b) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The British Museum was founded in 1753, the first national public museum in the world. When the doors opened to the public in 1759, each day about 75 people made their way round. In 2013, annual visits rose to 6.7 million. Through Khan Academy, you can explore world cultures through articles and videos about the British Museum’s collection and special exhibitions."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/cas-biodiversity">http://translate.khanacademy.org/partner-content/cas-biodiversity</a>
+# Description of topic (xd9c94318) on the pl stage
+# Description of topic (xd9c94318) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The California Academy of Sciences is a renowned scientific and educational institution with a mission to explore, explain, and sustain life. Based in San Francisco, it is home to an aquarium, planetarium and natural history museum as well as innovative scientific research and education programs all under one living roof. The Academy is also home to nearly 46 million scientific specimens from around the world; essential tools for comparative studies on the history and future of life on Earth. The Academy’s Biodiversity Course encourages students of all ages to explore the natural world and become active stewards of the environment and is supported by the Global Environmental Literacy Initiative, with major funding provided by the Pisces Foundation."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/code-org">http://translate.khanacademy.org/partner-content/code-org</a>
+# Title of topic (x06130d92) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Code.org"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/code-org">http://translate.khanacademy.org/partner-content/code-org</a>
+# Description of topic (x06130d92) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Launched in 2013, Code.org is a non-profit dedicated to expanding access to computer science, and increasing participation by women and underrepresented students of color. Our vision is that every student in every school should have the opportunity to learn computer science. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/computing-partners">http://translate.khanacademy.org/partner-content/computing-partners</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Computing partners"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/dartmouth-college">http://translate.khanacademy.org/partner-content/dartmouth-college</a>
+# Title of topic (xaff557ce) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Dartmouth College"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/dartmouth-college">http://translate.khanacademy.org/partner-content/dartmouth-college</a>
+# Description of topic (xaff557ce) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Founded in 1769, Dartmouth is a member of the Ivy League and consistently ranks among the world's greatest academic institutions. Dartmouth has forged a singular identity for combining its deep commitment to outstanding undergraduate liberal arts and graduate education with distinguished research and scholarship in the Arts & Sciences and its three leading professional schools—the Geisel School of Medicine, Thayer School of Engineering, and the Tuck School of Business."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/exploratorium-ddp">http://translate.khanacademy.org/partner-content/exploratorium-ddp</a>
+# Title of topic (x41337c2e) on the pl stage
+# Title of topic (x41337c2e) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Exploratorium"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/exploratorium-ddp">http://translate.khanacademy.org/partner-content/exploratorium-ddp</a>
+# Description of topic (x41337c2e) on the pl stage
+# Description of topic (x41337c2e) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"The Exploratorium is a 21st-century learning laboratory and museum based in San Francisco. Since 1969, we’ve offered visitors and learners around the world the opportunity to experience everyday scientific phenomena firsthand through creative, thought-provoking exhibits, educational tools, and programs. We promote an inquiry-based approach to learning—one that ignites curiosity about the world around us, encourages exploration, and leads to profound discoveries.\n"
+"\n"
+"The science \"snacks\" on this website are fun, hands-on activities developed and thoroughly tested by the Exploratorium Teacher Institute. Dive in and discover what we're all about!\n"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/jogosdoconhecimento">http://translate.khanacademy.org/partner-content/jogosdoconhecimento</a>
+# Title of topic (x7fb6a9f1) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Jogos do Conhecimento"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/learnstorm-mindset-activities-17">http://translate.khanacademy.org/partner-content/learnstorm-mindset-activities-17</a>
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/learnstorm-mindset-activities-17/activity-one/get-started-activity-one">http://translate.khanacademy.org/partner-content/learnstorm-mindset-activities-17/activity-one/get-started-activity-one</a>
+# Description of topic (x437d977f44feb5c2) on the pt stage
+# Description of topic (x5a843654f597a311) on the pt stage
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The LearnStorm growth mindset activities are designed to help build strong mindsets and develop learning strategies. As you learn about the brain, you'll earn limited edition badges. The LearnStorm growth mindset activities were developed in collaboration with PERTS, a Stanford University based research center. Learn more at www.learnstorm2017.org. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/learnstorm-mindset-activities-17">http://translate.khanacademy.org/partner-content/learnstorm-mindset-activities-17</a>
+# Title of topic (x5a843654f597a311) on the pt stage
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "LearnStorm growth mindset activities"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home">http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "LearnStorm Weekly Activities"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home">http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Developed in collaboration with PERTS, a leading Stanford University research center, LearnStorm Weekly Activities are designed to help you learn to learn.  \n"
+"\n"
+"Each week of LearnStorm, we’ll release a new activity and you'll have the chance to submit a creative response. Outstanding responses will be featured with the permission of the student in the weekly highlighted submissions article.  \n"
+"\n"
+"Complete the Mindset Marathon by doing all 9 Weekly Activities before April 1st! Mindset Marathon Finishers will have their names entered into a raffle for a chance to win a ticket to the in-person LearnStorm Finals Celebration! What are you waiting for?\n"
+"\n"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/metropolitan-museum">http://translate.khanacademy.org/partner-content/metropolitan-museum</a>
+# Title of topic (x4c0cffdd) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The Metropolitan Museum of Art"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/metropolitan-museum">http://translate.khanacademy.org/partner-content/metropolitan-museum</a>
+# Description of topic (x4c0cffdd) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The Metropolitan Museum of Art, founded in 1870, is one of the world’s largest and finest museums. Its collections span more than 5,000 years of world culture, from prehistory to the present and from every part of the globe. The Museum’s 2.4 million-square-foot building has vast holdings represented by a series of collections, each of which ranks in its category among the best in the world. Last year, the Museum had about 30 million unique visits to its website (metmuseum.org) and more than six million visitors to its two New York locations—its main building along Fifth Avenue and The Cloisters, its branch for medieval art and architecture in northern Manhattan."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/moma">http://translate.khanacademy.org/partner-content/moma</a>
+# Description of topic (xeb48c24e) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "With the world's finest collection of modern and contemporary art and a dynamic exhibition program, The Museum of Modern Art is a place for discovery and engagement that fuels creativity and inspires art enthusiasts of all ages and experiences. In the MoMA tutorials, you can explore the fascinating world of modern and contemporary artworks through artist interviews, behind-the-scenes, and how-to videos."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/nasa">http://translate.khanacademy.org/partner-content/nasa</a>
+# Description of topic (x1b441846) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"NASA's vision is to reach for new heights and reveal the unknown so that what we do and learn will benefit all humankind.\n"
+"\n"
+"This section contains a series of tutorials on astronomy and space exploration developed in collaboration with NASA"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/nature-conservancy">http://translate.khanacademy.org/partner-content/nature-conservancy</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The Nature Conservancy"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/nature-conservancy">http://translate.khanacademy.org/partner-content/nature-conservancy</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The Nature Conservancy is the leading, science-based conservation organization working around the world to protect ecologically important lands and waters for nature and people. The Conservancy and its 600 scientists have created Nature Works Everywhere to help students learn the science behind how nature works to produce our clean air, water, energy and food – and how we can help keep nature running strong."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/nova">http://translate.khanacademy.org/partner-content/nova</a>
+# Title of topic (x6aa3b8f3) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "NOVA Labs "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/nova">http://translate.khanacademy.org/partner-content/nova</a>
+# Description of topic (x6aa3b8f3) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "What do you get when you combine science-based games and research activities with the most popular science series on American television? You get NOVA Labs, a free digital platform where anyone can actively participate in science. Predict solar storms, design renewable energy systems, track cloud movements, design biomolecules and more. Watch our videos, then visit the NOVA Labs website to see how you can take part in real-world investigations by visualizing, analyzing, and playing with the same data that scientists use."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar">http://translate.khanacademy.org/partner-content/pixar</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam">http://translate.khanacademy.org/partner-content/pixar-latam</a>
+# Title of topic (x5c06b0c3) on the pl stage
+# Title of topic (x9efc9f4b) on the es stage
+# Title of topic (x9efc9f4b) on the ja stage
+# Title of topic (x9efc9f4b) on the pl stage
+# Title of topic (x9efc9f4b) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Pixar in a Box"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam">http://translate.khanacademy.org/partner-content/pixar-latam</a>
+# Description of topic (x5c06b0c3) on the pl stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"A collaboration between Pixar Animation Studios and Khan Academy.\n"
+"\n"
+"Sponsored by Disney. Questions/Feedback: piab@khanacademy.org\n"
+"\n"
+"\n"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/san-francisco-49ers">http://translate.khanacademy.org/partner-content/san-francisco-49ers</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "San Francisco 49ers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/san-francisco-49ers">http://translate.khanacademy.org/partner-content/san-francisco-49ers</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Established in 1946, the five-time Super Bowl Champion San Francisco 49ers has\n"
+"become recognized as one of the most successful and beloved franchises in the NFL. The team\n"
+"has a rich history of success on the field, but they also make a substantial and positive impact\n"
+"off the field, leading with a long-standing and proven commitment to support education at all\n"
+"levels. The organization is the first in professional sports to design, create and provide\n"
+"accessible, student learning opportunities that revolve around STEM (Science, Technology,\n"
+"Engineering, & Math) education in schools and at Levi's® Stadium. This partnership with\n"
+"Khan Academy represents the pinnacle of creative partnership and program development\n"
+"aimed at connecting and engaging students of all ages to meet real-world challenges head-on\n"
+"through innovation, collaboration, and creative problem solving."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/science-engineering-partners">http://translate.khanacademy.org/partner-content/science-engineering-partners</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Science & engineering partners"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/ssf-cci">http://translate.khanacademy.org/partner-content/ssf-cci</a>
+# Title of topic (x81a3add8) on the sr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (format: text)
+#: intl/datastore:1
+msgid "Silicon Schools Fund and Clayton Christensen Institute"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/ssf-cci">http://translate.khanacademy.org/partner-content/ssf-cci</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x81a3add8) on the sr stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (format: text)
+#: intl/datastore:1
+msgid "Integrating Technology in the Classroom"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/ssf-cci">http://translate.khanacademy.org/partner-content/ssf-cci</a>
+# Description of topic (x81a3add8) on the sr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (format: text)
+#: intl/datastore:1
+msgid "Silicon Schools Fund and the Clayton Christensen Institute have teamed up to provide insight and guidance on delivering high-quality blended learning.  Learn more about how to personalize K-12 education for all students by combining the best of traditional schools with the transformative power of online learning."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/tate">http://translate.khanacademy.org/partner-content/tate</a>
+# Title of topic (xebf99b63) on the pl stage
+# Title of topic (xebf99b63) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Tate"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/tate">http://translate.khanacademy.org/partner-content/tate</a>
+# Description of topic (xebf99b63) on the pl stage
+# Description of topic (xebf99b63) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Tate holds the United Kingdom's national collection of British art from 1500 to the present day alongside international modern and contemporary art. Through imaginative education and interpretation programmes we aim to promote public understanding and enjoyment of art. Here you can explore the subject and learn from artists, curators, critics and writers."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/wi-phi">http://translate.khanacademy.org/partner-content/wi-phi</a>
+# Title of topic (xd226e27a) on the pl stage
+# Title of topic (xd226e27a) on the tr stage
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Wireless Philosophy"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/wi-phi">http://translate.khanacademy.org/partner-content/wi-phi</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd226e27a) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd226e27a) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/wi-phi">http://translate.khanacademy.org/partner-content/wi-phi</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Wi-Phi (Wireless Philosophy)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/partner-content/wi-phi">http://translate.khanacademy.org/partner-content/wi-phi</a>
+# Description of topic (xd226e27a) on the pl stage
+# Description of topic (xd226e27a) on the tr stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Wi-Phi's mission is to introduce people to the practice of philosophy by offering lectures on philosophical issues and critical thinking concepts that are freely available in a form that is entertaining, interesting and accessible to people with no background in the subject.\n"
+"\n"
+"We see this as a part of a larger mission: building our collective capacity to engage in rational thought and discourse.  By providing the toolkit for building better minds, we hope that Wi-Phi plays some small role in realizing that goal."
+msgstr ""

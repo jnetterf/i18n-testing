@@ -1,0 +1,961 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-22 16:08+0000\n"
+"PO-Revision-Date: 2017-11-22 16:08+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>
+# Pretty display name for exercise (x1da98008) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Series and parallel resistors"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>
+# Description of exercise (x1da98008) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Identify series and parallel resistors in a circuit setting"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"- R1 is in series with R5\n"
+"- R3 is in series with R4."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Correct. There are no series resistors."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in PARALLEL.  \n"
+"\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/a3acc8b138283bddf6b7fdee93dbffbedbe2952f.svg)\n"
+"\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in PARALLEL.  \n"
+"![](https://ka-perseus-images.s3.amazonaws.com/36b2b34be89c0136a6d99e3984e5e159285d6059.svg)\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in PARALLEL.  \n"
+"![](https://ka-perseus-images.s3.amazonaws.com/5620bb84d8b410f9f638ef88deb34553203ba9ef.svg)\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in PARALLEL.  \n"
+"![](https://ka-perseus-images.s3.amazonaws.com/756519dc10ca31327d4f4582567e513733c64bdb.svg)\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in SERIES.  \n"
+"![](https://ka-perseus-images.s3.amazonaws.com/36b2b34be89c0136a6d99e3984e5e159285d6059.svg)\n"
+"[[☃ radio 1]] \n"
+"\n"
+"\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in SERIES.  \n"
+"![](https://ka-perseus-images.s3.amazonaws.com/5620bb84d8b410f9f638ef88deb34553203ba9ef.svg)\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in SERIES.  \n"
+"![](https://ka-perseus-images.s3.amazonaws.com/756519dc10ca31327d4f4582567e513733c64bdb.svg)\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in SERIES.  \n"
+"![](https://ka-perseus-images.s3.amazonaws.com/a3acc8b138283bddf6b7fdee93dbffbedbe2952f.svg)\n"
+"\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "No resistors are in parallel."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "No resistors are in parallel. There are no resistors with both ends connected together."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Parallel resistors have both ends connected to the same two nodes."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Parallel resistors have their terminals connected to the same two nodes."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R1 -- R2"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R1 -- R3"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R1 -- R5"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R1 and R1 are in parallel. It doesn't matter that a current source is drawn between them. They are still connected at both ends by ideal wires. They share the same voltage."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R1 and R2 are in parallel. Both ends are connected together, so R1 and R2 share the same voltage."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R1 and R2 are not in series. The upper terminals of R1 and R2 are connected, but there are other branches also connected to this node, going to the voltage source and to R3. So it is not certain that R1 and R2 have the same current."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R1 and R3 are not in parallel. They do not share the same voltage."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R1 and R3 are not in series. They do not share the same current."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R1 is in parallel with R2."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R1 is in parallel with R2. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R1 || R2"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R1 || R3"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R1 || R5"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R2 -- R3"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R2 -- R4"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R2 and R3 are not in parallel. They do not share the same voltage."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R2 and R3 are not in series. They do not share the same current."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R2 and R4 are in not series. They do not share the same current. The ground symbol (downward pointing triangle) at the junction of R2 and R4 is assumed to be connected to the other ground symbols. This counts as a branch leading away from the node between R2 and R4. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R2 and R4 are not in parallel. They do not share the same voltage."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R2 and R4 are not in series. They do not share the same current."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R2 and R5 are in series. They share the same current."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R2 and R5 are not in parallel. They do not share the same voltage."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R2 is in parallel with R3."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R2 || R3"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R3 -- R4"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R3 and R4 are in not parallel. They do not share the same voltage."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R3 and R4 are in not series. They do not share the same current."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R3 and R4 are in parallel. They share the same voltage."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R3 and R4 are in series. They share the same current."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R3 and R4 are not in parallel. They do not share the same voltage."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R3 and R4 are not in parallel. They share the same voltage."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R3 is in series with R4."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R3 is in series with R4. \n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "R3 || R4"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Resistors connected directly end to end, with no extra branches in between, are said to be in series."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The terminals of parallel resistors are connected to the same two nodes."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "There are no resistors in series."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "There is a better answer."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "There is a better answer. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# Exercise at (x1da98008) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "There is a better choice."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in parallel.  \n"
+"\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/a3acc8b138283bddf6b7fdee93dbffbedbe2952f.svg)\n"
+"\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in parallel.  \n"
+"![](https://ka-perseus-images.s3.amazonaws.com/36b2b34be89c0136a6d99e3984e5e159285d6059.svg)\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in parallel.  \n"
+"![](https://ka-perseus-images.s3.amazonaws.com/5620bb84d8b410f9f638ef88deb34553203ba9ef.svg)\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in parallel.  \n"
+"![](https://ka-perseus-images.s3.amazonaws.com/756519dc10ca31327d4f4582567e513733c64bdb.svg)\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in series.  \n"
+"![](https://ka-perseus-images.s3.amazonaws.com/36b2b34be89c0136a6d99e3984e5e159285d6059.svg)\n"
+"[[☃ radio 1]] \n"
+"\n"
+"\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in series.  \n"
+"![](https://ka-perseus-images.s3.amazonaws.com/5620bb84d8b410f9f638ef88deb34553203ba9ef.svg)\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in series.  \n"
+"![](https://ka-perseus-images.s3.amazonaws.com/756519dc10ca31327d4f4582567e513733c64bdb.svg)\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Identify the resistors in series.  \n"
+"![](https://ka-perseus-images.s3.amazonaws.com/a3acc8b138283bddf6b7fdee93dbffbedbe2952f.svg)\n"
+"\n"
+"[[☃ radio 1]]"
+msgstr ""

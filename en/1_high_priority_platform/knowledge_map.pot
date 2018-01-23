@@ -1,0 +1,32 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-03 19:43+0000\n"
+"PO-Revision-Date: 2017-11-03 19:43+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# See text on <a href="http://www.khanacademy.org/exercisedashboard">http://www.khanacademy.org/exercisedashboard</a>
+#: templates/macros/exercises.html:4
+msgid "WARNING: Some links may be broken"
+msgstr ""
+
+#: javascript/maps-package/knowledgemap.js:157
+msgid ""
+"Please make sure you're not using any browser extensions or addons that may be blocking google.com, which is needed to display Khan Academy exercises.\n"
+"\n"
+"Once you've done that, restart your browser and reload this page."
+msgstr ""
+
+#: javascript/maps-package/knowledgemap.js:459
+msgid "Image Credit: SDSS, DSS Consortium, NASA/ESA/STScI"
+msgstr ""
+
+#: javascript/maps-package/knowledgemap.js:803
+#, python-format
+msgid "(Showing %(counts)s of %(nodeRowViews)s)"
+msgstr ""

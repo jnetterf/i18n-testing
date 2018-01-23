@@ -1,0 +1,1952 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:42+0000\n"
+"PO-Revision-Date: 2017-12-01 14:42+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# See text on <a href="http://www.khanacademy.org/login">http://www.khanacademy.org/login</a>
+#: genfiles/compiled_jsx/en/javascript/login-package/login-action-screen.jsx.js:251 templates/login_contents.html:36
+msgid "Forgot password?"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/login">http://www.khanacademy.org/login</a>
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+#: genfiles/compiled_jsx/en/javascript/login-package/oauth-approval.jsx.js:29 templates/signup_embedded.html:26
+msgid "KHANacademy"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/login">http://www.khanacademy.org/login</a>
+#: genfiles/compiled_jsx/en/javascript/page-package/header.jsx.js:858 genfiles/compiled_jsx/en/javascript/page-package/header.jsx.js:931 genfiles/compiled_jsx/en/javascript/page-package/responsive-nav-menu.jsx.js:415 genfiles/compiled_jsx/en/javascript/zero-rating-package/login-warning-modal.jsx.js:26 templates/login_contents.html:40
+msgid "Login"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/login">http://www.khanacademy.org/login</a>
+#: templates/login_contents.html:43
+msgid "Don't have an account yet?"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/login">http://www.khanacademy.org/login</a>
+#: templates/macros/login_buttons.html:3 templates/macros/login_buttons.html:5
+msgid "Login with Google"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/login">http://www.khanacademy.org/login</a>
+#: templates/macros/login_buttons.html:13 templates/macros/login_buttons.html:15
+msgid "Login with Facebook"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/login">http://www.khanacademy.org/login</a>
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+#: templates/signup_embedded.html:44
+msgid "We'll <strong>never</strong> post without your permission."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/login">http://www.khanacademy.org/login</a>
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+#: templates/signup_embedded.html:63
+#, python-format
+msgid "By logging in, you agree to our <a href='%(tos_url)s' target='_blank'>Terms of Service</a> and <a href='%(privacy_policy_url)s' target='_blank'>Privacy Policy</a>."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/clever-package/onboarding.jsx.js:224 genfiles/compiled_jsx/en/javascript/clever-package/onboarding.jsx.js:268 genfiles/compiled_jsx/en/javascript/clever-package/onboarding.jsx.js:346 genfiles/compiled_jsx/en/javascript/shared-components-package/kui-button.jsx.js:83 genfiles/compiled_jsx/en/javascript/stories-package/story-form.jsx.js:137 intl/datastore:1 templates/under13.html:46
+msgid "Submit"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-intro-screen.jsx.js:166 genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:950 genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:1091 templates/signup_embedded.html:57
+msgid "Already have an account?"
+msgstr ""
+
+# Comment: Text for Sign In button
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: intl/datastore:1 templates/under13.html:3
+msgid "Sign In"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+# See text on <a href="http://www.khanacademy.org/teachers">http://www.khanacademy.org/teachers</a>
+#: templates/signup.html:15 templates/signup_teacher.html:10
+msgid "Sign Up"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+#: templates/signup_embedded.html:30
+msgid "Sign up with"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+#: templates/signup_embedded.html:52
+msgid "You can use email to sign up for a new account by going to www.khanacademy.org in a web browser."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+#: templates/signup_embedded.html:59
+msgid "Log in."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+#: templates/under13.html:21
+msgid ""
+"Waiting for parent or guardian\n"
+"                to complete signup"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+#: templates/under13.html:22
+msgid "Child account signup"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+#: templates/under13.html:26
+msgid "Thanks for your interest in Khan Academy! To go on, we need your parent to complete the signup process."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+#: templates/under13.html:30
+msgid "Please enter your parent or guardian's email address here and we'll send them instructions for the next step in your signup."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+#: templates/under13.html:32
+msgid "We've sent information to your parent or guardian for completing your signup. Please have them check their e-mail (make sure to check their \"Spam\" or \"Junk\" folder in case it got lost there). Or, if you entered your parent's email address incorrectly, you can re-enter it now."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+#: templates/under13.html:51
+msgid "Questions about creating an account?"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+#: templates/under13.html:86
+msgid "Great! We've sent information to your parent or guardian for completing your signup. Please have them check their e-mail."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/createchild">http://www.khanacademy.org/createchild</a>
+#: templates/create-child.html:3
+msgid "Create Child Account"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/createchild">http://www.khanacademy.org/createchild</a>
+#: templates/create-child.html:17
+msgid "First, create or log in to <span class='bold-text'>your parent account</span>"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/createchild">http://www.khanacademy.org/createchild</a>
+#: templates/create-child.html:19
+msgid "We will then take you through creating your child's account."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/createchild">http://www.khanacademy.org/createchild</a>
+#: templates/create-child.html:21
+msgid "Continue to parent login"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:927 genfiles/compiled_jsx/en/javascript/stories-package/story-form.jsx.js:112 templates/completesignup.html:55
+msgid "Your name"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+# See text on <a href="http://www.khanacademy.org/pwreset">http://www.khanacademy.org/pwreset</a>
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:625 javascript/profile-nav-package/username-picker.handlebars:24 templates/completesignup.html:81 templates/emails/teacher_bulk_add_students.html:40 templates/password-reset.html:46 templates/settings.html:76
+msgid "Username"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-third-grade-math/cc-third-grade-measurement/cc-third-grade-picture-graphs/e/creating-picture-and-bar-graphs-2">http://translate.khanacademy.org/math/cc-third-grade-math/cc-third-grade-measurement/cc-third-grade-picture-graphs/e/creating-picture-and-bar-graphs-2</a>.
+# Exercise at (x0287481a) on the bg stage.
+# Exercise at (x0287481a) on the de stage.
+# Exercise at (x0287481a) on the es stage.
+# Exercise at (x0287481a) on the fr stage.
+# Exercise at (x0287481a) on the ka stage.
+# Exercise at (x0287481a) on the pt stage.
+# Exercise at (x0287481a) on the zh-hans stage.
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+# (format: xml)
+#: intl/datastore:1 templates/completesignup.html:73
+msgid "Birthday"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+# See text on <a href="http://www.khanacademy.org/pwreset">http://www.khanacademy.org/pwreset</a>
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: intl/datastore:1 templates/completesignup.html:104 templates/password-reset.html:66
+msgid "Passwords should be at least 8 characters long and should contain a mixture of letters, numbers, and other characters."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+#: templates/completesignup.html:7
+msgid "Create your account"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+#: templates/completesignup.html:26
+msgid ""
+"<span class='bold-text'>Welcome!</span>\n"
+"                Create your username and password."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+#: templates/completesignup.html:61
+msgid "Gender (optional)"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+#: templates/completesignup.html:90
+msgid "Usernames must start with a letter and can only contain letters and numbers."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+#: templates/completesignup.html:117
+msgid "By clicking, you agree to our <a href='/about/tos' target='_blank'>Terms of Service</a> and <a href='/about/privacy-policy' target='_blank'>Privacy Policy</a>"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+#: templates/completesignup.html:120
+msgid "Signup"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+#: templates/completesignup.html:125
+msgid "Note: If you would like to hide visually-dependent content on Khan Academy you will be able to update your preferences on your settings page."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/forgotpw">http://www.khanacademy.org/forgotpw</a>
+#: templates/forgot-password.html:3
+msgid "Forgot Password"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/forgotpw">http://www.khanacademy.org/forgotpw</a>
+#: templates/forgot-password.html:19
+#, python-format
+msgid "Sorry, we can't find a Khan Academy account connected to <span class=\"email-address\">%(error_email)s</span>."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/forgotpw">http://www.khanacademy.org/forgotpw</a>
+#: templates/forgot-password.html:20
+msgid "If you can't find your account, you can <a href=\"/signup\">sign up</a> for a new one."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/forgotpw">http://www.khanacademy.org/forgotpw</a>
+#: templates/forgot-password.html:26
+msgid "We've sent you a message at:"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/forgotpw">http://www.khanacademy.org/forgotpw</a>
+#: templates/forgot-password.html:29
+msgid "Follow the link in that message to reset your password."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/forgotpw">http://www.khanacademy.org/forgotpw</a>
+#: templates/forgot-password.html:38
+msgid "Enter your email to reset your password:"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/forgotpw">http://www.khanacademy.org/forgotpw</a>
+#: templates/forgot-password.html:50
+msgid "Reset password"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/forgotpw">http://www.khanacademy.org/forgotpw</a>
+#: templates/forgot-password.html:54
+#, python-format
+msgid ""
+"If you have a child account,\n"
+"                <span class=\"visit-settings\">your parent</span>\n"
+"                can reset your password at <a href=\"%(settings_link)s\">Settings > Child Accounts</a>."
+msgstr ""
+
+# Math SEO keyword
+# Title of mission which can be selected while logged in on <https://translate.khanacademy.org>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-sixth-grade-math">http://translate.khanacademy.org/math/cc-sixth-grade-math</a>
+# Title of topic (x0267d782) on the accents stage
+# Title of topic (x0267d782) on the bg stage
+# Title of topic (x0267d782) on the de stage
+# Title of topic (x0267d782) on the es stage
+# Title of topic (x0267d782) on the fr stage
+# Title of topic (x0267d782) on the hi stage
+# Title of topic (x0267d782) on the hy stage
+# Title of topic (x0267d782) on the ja stage
+# Title of topic (x0267d782) on the ka stage
+# Title of topic (x0267d782) on the pt stage
+# Title of topic (x0267d782) on the pt-pt stage
+# Title of topic (x0267d782) on the tr stage
+# Title of topic (x0267d782) on the zh-hans stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:259 intl/datastore:1 intl/manual.csv:1945
+msgid "6th grade"
+msgstr ""
+
+# Math SEO keyword
+# Title of mission which can be selected while logged in on <https://translate.khanacademy.org>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-eighth-grade-math">http://translate.khanacademy.org/math/cc-eighth-grade-math</a>
+# Title of topic (x7c7044d7) on the accents stage
+# Title of topic (x7c7044d7) on the bg stage
+# Title of topic (x7c7044d7) on the de stage
+# Title of topic (x7c7044d7) on the es stage
+# Title of topic (x7c7044d7) on the fr stage
+# Title of topic (x7c7044d7) on the hi stage
+# Title of topic (x7c7044d7) on the ja stage
+# Title of topic (x7c7044d7) on the pt stage
+# Title of topic (x7c7044d7) on the pt-pt stage
+# Title of topic (x7c7044d7) on the tr stage
+# Title of topic (x7c7044d7) on the zh-hans stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:261 intl/datastore:1 intl/manual.csv:1929
+msgid "8th grade"
+msgstr ""
+
+# Math SEO keyword
+# Title of mission which can be selected while logged in on <https://translate.khanacademy.org>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math">http://translate.khanacademy.org/math/cc-seventh-grade-math</a>
+# Title of topic (x6b17ba59) on the accents stage
+# Title of topic (x6b17ba59) on the bg stage
+# Title of topic (x6b17ba59) on the es stage
+# Title of topic (x6b17ba59) on the fr stage
+# Title of topic (x6b17ba59) on the hi stage
+# Title of topic (x6b17ba59) on the ja stage
+# Title of topic (x6b17ba59) on the ka stage
+# Title of topic (x6b17ba59) on the pt stage
+# Title of topic (x6b17ba59) on the pt-pt stage
+# Title of topic (x6b17ba59) on the tr stage
+# Title of topic (x6b17ba59) on the zh-hans stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:260 intl/datastore:1 intl/manual.csv:1917
+msgid "7th grade"
+msgstr ""
+
+#: accounts/settings.py:1098 login/signup.py:967
+msgid "That email is invalid"
+msgstr ""
+
+#: accounts/settings.py:1104 login/signup.py:978
+msgid "That email address is already taken"
+msgstr ""
+
+#: auth/age_util.py:22
+msgid "Invalid birthdate"
+msgstr ""
+
+#: auth/age_util.py:24
+msgid "Birthdate required"
+msgstr ""
+
+#: coaches/checklist/parent_checklist.py:99
+msgid "Learn something for yourself"
+msgstr ""
+
+#: emails/models.py:565
+msgid "Finish signing up for Khan Academy"
+msgstr ""
+
+#: emails/models.py:618
+msgid "Verify your email with Khan Academy"
+msgstr ""
+
+#: emails/models.py:1147
+msgid "Help finish creating a child account"
+msgstr ""
+
+#: emails/models.py:2052
+msgid "Khan Academy account recovery"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-introduction-ab/using-the-formal-definition-of-derivative-ab/a/tangent-lines-and-rates-of-change">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-introduction-ab/using-the-formal-definition-of-derivative-ab/a/tangent-lines-and-rates-of-change</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/using-the-formal-definition-of-derivative-calc/a/tangent-lines-and-rates-of-change">http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/using-the-formal-definition-of-derivative-calc/a/tangent-lines-and-rates-of-change</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-intro-dc/using-the-formal-definition-of-derivative-dc/a/tangent-lines-and-rates-of-change">http://translate.khanacademy.org/math/differential-calculus/derivative-intro-dc/using-the-formal-definition-of-derivative-dc/a/tangent-lines-and-rates-of-change</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/geometry/cc-geometry-circles/inscribed-angles/a/inscribed-and-central-angles-proof">http://translate.khanacademy.org/math/geometry/cc-geometry-circles/inscribed-angles/a/inscribed-and-central-angles-proof</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/geometry/hs-geo-circles/hs-geo-inscribed-angles/a/inscribed-and-central-angles-proof">http://translate.khanacademy.org/math/geometry/hs-geo-circles/hs-geo-inscribed-angles/a/inscribed-and-central-angles-proof</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/greens-theorem-articles/a/greens-theorem-examples">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/greens-theorem-articles/a/greens-theorem-examples</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a/a/double-integrals">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a/a/double-integrals</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a/a/double-integrals-in-polar-coordinates">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a/a/double-integrals-in-polar-coordinates</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a/a/double-integrals-over-non-rectangular-regions">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a/a/double-integrals-over-non-rectangular-regions</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/sine-and-cosine-of-complementary-angles/a/sine-and-cosine-are-cofunctions">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/sine-and-cosine-of-complementary-angles/a/sine-and-cosine-are-cofunctions</a>.
+# Article is at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-linearity">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-linearity</a>.
+# Article is at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/a/ee-rlc-natural-response-derivation">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response/a/ee-rlc-natural-response-derivation</a>.
+# Article is at <a href="http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/a/ee-rlc-natural-response-derivation">http://translate.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-network-response/a/ee-rlc-natural-response-derivation</a>.
+# Article is at (x36f22d0d) on the ja stage.
+# Article is at (x36f22d0d) on the pl stage.
+# Article is at (x94b27442) on the ja stage.
+# Article is at (x94b27442) on the pl stage.
+# Article is at (xa358acc3) on the es stage.
+# Article is at (xa358acc3) on the pt stage.
+# Article is at (xa358acc3) on the tr stage.
+# Article is at (xb515088c) on the ja stage.
+# Article is at (xb515088c) on the pl stage.
+# Article is at (xb5e712b3) on the tr stage.
+# Article is at (xde47441a) on the ja stage.
+# Article is at (xde47441a) on the pl stage.
+# Article is at (xfd88c05e) on the pt stage.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/e/meet-the-adjective">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/e/meet-the-adjective</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adverbs/e/meet-the-adverb">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adverbs/e/meet-the-adverb</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/correlative-conjunctions-and-starting-sentences/e/correlative-conjuntions">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/correlative-conjunctions-and-starting-sentences/e/correlative-conjuntions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-conjunctions/e/coordinating-and-subordinating-conjunctions">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-conjunctions/e/coordinating-and-subordinating-conjunctions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-conjunctions/e/coordinating-conjunctions">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-conjunctions/e/coordinating-conjunctions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-conjunctions/e/meet-the-conjunction">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-conjunctions/e/meet-the-conjunction</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/conjunctions/e/coordinating-and-subordinating-conjunctions">http://translate.khanacademy.org/humanities/grammar/partsofspeech/conjunctions/e/coordinating-and-subordinating-conjunctions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/conjunctions/e/coordinating-conjunctions">http://translate.khanacademy.org/humanities/grammar/partsofspeech/conjunctions/e/coordinating-conjunctions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/conjunctions/e/correlative-conjuntions">http://translate.khanacademy.org/humanities/grammar/partsofspeech/conjunctions/e/correlative-conjuntions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/conjunctions/e/meet-the-conjunction">http://translate.khanacademy.org/humanities/grammar/partsofspeech/conjunctions/e/meet-the-conjunction</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adjective">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adjective</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adverb">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adverb</a>.
+# Exercise at (x07a9ba89) on the pt stage.
+# Exercise at (x27966ebf) on the pl stage.
+# Exercise at (x27966ebf) on the tr stage.
+# Exercise at (x30a7c19d) on the pl stage.
+# Exercise at (x30a7c19d) on the tr stage.
+# Exercise at (x3e03eb4c) on the pl stage.
+# Exercise at (x3e03eb4c) on the tr stage.
+# Exercise at (x712ced67) on the pt stage.
+# Exercise at (x87a68e6f) on the pl stage.
+# Exercise at (x87a68e6f) on the tr stage.
+# Exercise at (x885529a5) on the pt stage.
+# Exercise at (x89ccec20) on the pl stage.
+# Exercise at (x89ccec20) on the tr stage.
+# Exercise at (xa7b8de32) on the pl stage.
+# Exercise at (xa7b8de32) on the tr stage.
+# Exercise at (xb124fb87) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/create-accounts-screen.jsx.js:138 intl/datastore:1
+msgid "and"
+msgstr ""
+
+# Comment: Button title for finishing onboarding
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/tate/get-started-here">http://translate.khanacademy.org/partner-content/tate/get-started-here</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x2f035236) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x2f035236) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# String from ios-app.xliff in iOS app
+# Title of topic (x7f9fe2bc978dec8f) on the es stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/welcome-screen.jsx.js:64 genfiles/compiled_jsx/en/javascript/class-package/learnstorm/learnstorm-tab.jsx.js:596 intl/datastore:1
+msgid "Get started"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clever-package/onboarding.jsx.js:103 genfiles/compiled_jsx/en/javascript/login-package/login-action-screen.jsx.js:136 javascript/login-package/login-legacy.js:268 javascript/login-package/login.js:364
+msgid "Your login or password is incorrect."
+msgstr ""
+
+# Comment: Button title accepting an action
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/coach-report-exercises-package/report.jsx.js:341 intl/datastore:1 javascript/profile-package/discussion-hellban.handlebars:26 login/signup.py:946
+msgid "OK"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/birthday-block.jsx.js:26
+msgid "Your child's birthday"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/birthday-block.jsx.js:27
+msgid "To protect your child's privacy, accounts for your children under 13 are managed by you."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/buttons-block.jsx.js:33
+msgid "My child already has an account"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/final.jsx.js:47
+msgid "Continue on with what you were doing"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/final.jsx.js:66
+msgid "Back to Manage Students"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/final.jsx.js:71 genfiles/compiled_jsx/en/javascript/login-package/add-child/final.jsx.js:91
+msgid "Add another child"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/final.jsx.js:80 genfiles/compiled_jsx/en/javascript/login-package/add-child/logout-buttons-block.jsx.js:30
+msgid "Log out and have your child log in"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/final.jsx.js:86
+msgid "Visit your parent homepage"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/final.jsx.js:102
+#, python-format
+msgid "We've sent an invitation to %(email)s. Your child should check their email to get started."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/final.jsx.js:106
+msgid "Invitation sent! You'll be able to follow your child's progress once they log in and accept your invitation."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/final.jsx.js:110
+msgid "Your child's account has been created! For your child to log in now, you will first need to log out."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/form.jsx.js:129
+#, python-format
+msgid "Create %(bold_start)syour child's%(bold_end)s Khan Academy account."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/has-account.jsx.js:39
+msgid "No email provided"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/has-account.jsx.js:42
+msgid "Invalid email address"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/has-account.jsx.js:101 genfiles/compiled_jsx/en/javascript/login-package/add-child/invite-child-block.jsx.js:75
+msgid "Child's email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/has-account.jsx.js:126
+#, python-format
+msgid "We don't see that email in our system. Try again, or have your child log in. They can then add you as a coach on the \"Coaches\" tab of their profile page. If your child doesn't have an account, %(inviteButton)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/has-account.jsx.js:173
+msgid "My child doesn't have email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/has-account.jsx.js:194
+msgid "Back to previous step"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/has-account.jsx.js:197
+msgid "Connect to your child's Khan Academy account to be their coach."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/has-account.jsx.js:203
+msgid "To enable account and coaching privileges for children under 13, have your child log in and enter your email address on their \"Settings\" page."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/has-account.jsx.js:210
+msgid "If your child already has a connected parent or guardian, have them add you as a coach by entering your email address on their \"Coaches\" tab. Coaches do not have account privileges over children."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/has-email-block.jsx.js:23
+msgid "Does your child have email?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/invite-child-block.jsx.js:36
+msgid "Not a valid email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/invite-child-block.jsx.js:56
+msgid "We will send your child an invitation to join you on Khan Academy!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/invite-child-block.jsx.js:65
+msgid "I'd prefer to create a username and password for my child."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/invite-child-block.jsx.js:108
+msgid "Send invite"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/logout-buttons-block.jsx.js:23
+msgid "Go to parent homepage"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:47
+msgid "Username is too short"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:50
+msgid "Username cannot contain spaces"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:53
+msgid "Invalid username"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:63
+msgid "Password is too short"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:135
+msgid "Tip:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:135
+msgid "Write down the username and password you choose for your child."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:143
+msgid "restricted child account"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:147
+#, python-format
+msgid "Because your child is under 13, they will have a %(docLink)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:170
+msgid "Create a username and password for your child"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:183
+msgid "Child's username"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:196
+msgid "example: bluemonkey128"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:206
+msgid "Usernames may only contain letters and numbers, no spaces."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:208
+msgid "For your child's privacy, don't include their real name in their username."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:217
+msgid "Child's password"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:237
+#, python-format
+msgid "Passwords are case-sensitive and must be at least %(minPasswordLength)s characters."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:245
+msgid "School grade"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:253
+msgid "Pre-K/Kindergarten"
+msgstr ""
+
+# Title of mission which can be selected while logged in on <https://translate.khanacademy.org>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-1st-grade-math">http://translate.khanacademy.org/math/cc-1st-grade-math</a>
+# Title of topic (xef8f4cb4) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:254 intl/datastore:1
+msgid "1st grade"
+msgstr ""
+
+# Title of mission which can be selected while logged in on <https://translate.khanacademy.org>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math">http://translate.khanacademy.org/math/cc-2nd-grade-math</a>
+# Title of topic (x3184e0ec) on the pt stage
+# Title of topic (x3184e0ec) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:255 intl/datastore:1
+msgid "2nd grade"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:263
+msgid "Other/Not applicable"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/emotion/e/emotion-questions">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/emotion/e/emotion-questions</a>.
+# Exercise at (x59326ae3) on the accents stage.
+# Exercise at (x59326ae3) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:270 intl/datastore:1 templates/settings.html:83
+msgid "Gender"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:300 javascript/profile-package/coaches.handlebars:22 javascript/profile-package/coaches.handlebars:48
+msgid "Allow your child to add other coaches"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:303
+msgid "You control whether your child can accept invitations to be \"coached\" by their classroom teacher or another coach. Your child's coaches are able to view all of their activity."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:344
+#, python-format
+msgid "By clicking next, you confirm that you are the child's parent or legal guardian and agree to our %(tosLink)s and %(privacyLink)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/birthday-and-signup-subform.jsx.js:26
+msgid "Please select a valid birthdate."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/birthday-and-signup-subform.jsx.js:278 genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:951 genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:1077
+msgid "Sign up with Email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/birthday-and-signup-subform.jsx.js:345
+msgid "What is your date of birth?"
+msgstr ""
+
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/login-package/facebook-button.jsx.js:96 intl/datastore:1
+msgid "Continue with Facebook"
+msgstr ""
+
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/login-package/google-button.jsx.js:115 intl/datastore:1
+msgid "Continue with Google"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/join-widget-action-screen.jsx.js:32
+msgid "Whoops, we can't find that class. Please double-check the code is correct or ask your teacher for help!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/join-widget-action-screen.jsx.js:36
+msgid "It looks like you've already have that class! Do you have another class you would like to add?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/join-widget-action-screen.jsx.js:186
+msgid "Already have a Khan Academy account?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/join-widget-action-screen.jsx.js:195
+msgid "Log in & add classes"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/join-widget-action-screen.jsx.js:210
+msgid "Enter your class code"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/join-widget-detail-screen.jsx.js:47
+msgid "Enter class code(s)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/join-widget-detail-screen.jsx.js:60
+msgid "Sign up for Khan Academy"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/join-widget-detail-screen.jsx.js:66
+msgid "Khan Academy helps connect teachers to students and vice versa!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/join-widget-detail-screen.jsx.js:72 genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:31
+msgid "Join Khan Academy to get personalized help with what you’re studying or to learn something completely new. We’ll save all of your progress."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/join-widget-detail-screen.jsx.js:84
+msgid "Join your class on Khan Academy"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/login-action-screen.jsx.js:35
+msgid "An email or username is required to log in. You can also log in with Google or Facebook."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/login-action-screen.jsx.js:39
+msgid "A password is required to log in."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/login-action-screen.jsx.js:125 genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:347
+msgid "Logging you in..."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/login-action-screen.jsx.js:141 javascript/login-package/login-legacy.js:272 javascript/login-package/login.js:368
+msgid "Error logging in. Please try again."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/login-action-screen.jsx.js:295
+msgid "Create an account"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/login-form-legacy.jsx.js:80 javascript/login-package/login-legacy.js:213
+msgid "Email or username required"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/login-form-legacy.jsx.js:85 javascript/login-package/login-legacy.js:214
+msgid "Password required"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/oauth-approval.jsx.js:33
+#, python-format
+msgid "The application %(consumerName)s is requesting access to your Khan Academy account:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/oauth-approval.jsx.js:43
+msgid "By clicking Accept, you give this application access to your personal Khan Academy data (videos watched, exercises done, badges earned, coaches approved, profile information, and other activity)."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:40 login/signup.py:633
+msgid "Please tell us your first name."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:41 login/signup.py:634
+msgid "Please tell us your last name."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:42
+msgid "Please tell us your email."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:43 genfiles/compiled_jsx/en/javascript/login-package/u13-reminder-update-email-screen.jsx.js:65
+msgid "This email doesn't appear to be formatted correctly."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:45
+msgid "You need to create a password to access your account."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:47
+msgid "Your password must be at least 8 characters long."
+msgstr ""
+
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:49 genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:239 intl/datastore:1
+msgid "Sorry, we saw an unexpected error! Please try again later."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:51
+msgid "Please choose a username!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:52
+msgid "Usernames must contain only letters and numbers, start with a letter, and be at least three characters long."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:56
+msgid "This username is unavailable."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:445 genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:765
+#, python-format
+msgid "Did you mean %(suggestedEmailSpan)s?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:498 genfiles/compiled_jsx/en/javascript/login-package/u13-reminder-update-email-screen.jsx.js:99
+msgid "Your parent or guardian's email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:499 genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "Your email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:503
+msgid "You’re under 13 and we think that’s awesome, but we need to notify a caregiver of your account."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:513 genfiles/compiled_jsx/en/javascript/login-package/u13-reminder-update-email-screen.jsx.js:107
+msgid "example@email.com"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:630
+msgid "Choose a username"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:632
+msgid "Use letters and numbers only. For safety, don't use your real name."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:679 genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "Create a password"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-identify-screen.jsx.js:713
+msgid "Passwords must be at least 8 characters long and must not be common words or patterns like \"12345678\". We recommend using a long phrase that you can easily remember."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-intro-screen.jsx.js:89
+msgid "Join Khan Academy as a"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-intro-screen.jsx.js:97
+msgid "We’ll keep you up-to-date with what your child is learning on Khan Academy."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-intro-screen.jsx.js:106
+msgid "We’ll walk you through creating your child’s account and then keep you up-to-date with what they’re learning on Khan Academy."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:27
+msgid "A world class education for anyone, anywhere. 100% free."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:44
+msgid ""
+"Welcome to LearnStorm 2017! Create an account \n"
+"                    to get started."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:49
+msgid "LearnStorm is a free, six-week challenge to start the school year strong with:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:61
+msgid "Six Growth Mindset Activities and lesson plans"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:66
+msgid "A class progress tracker to celebrate learning"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:71
+msgid "Prizes like digital badges, certificates, and school supplies"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:80
+msgid "Help every student succeed with personalized practice. 100% free."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:93
+msgid "Find standards-aligned content"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:98
+msgid "Assign practice exercises, videos and articles"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:103
+msgid "Track student progress"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:108
+msgid "Join millions of teachers and students"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:121
+msgid "First, create your parent account."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:125
+msgid "After that, we'll take you through creating an account for your child."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:129
+msgid "Khan Academy is a great way for your child to get help with what they’re learning in school or to learn something completely new."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:137
+msgid "Thank you for approving your child's account! Next, create your parent account."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-detail-screen.jsx.js:144
+msgid "Your child's account has expired."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:44
+msgid "Kimberly Jones"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:46
+msgid "Seventh and eighth grade English language arts, Somerset Middle School"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:52
+msgid "I have found Khan Academy to be a great option for homework. It has freed up valuable class time. Instead of making copies, correcting paperwork, and returning paperwork, I have more time to spend with my students teaching them how to write. Lots of benefits."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:62
+msgid "RAB"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:63 genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:90
+msgid "Teacher using Khan Academy"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:65
+msgid "I use Khan Academy videos and exercises for assignments for both homework and preparation for class. Using these materials allows me to spend more valuable face-to-face time with my students and work on areas where they need help—and they love the materials."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:75
+msgid "Student using Khan Academy"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:77
+msgid "I’m sure I would’ve never made it to university without Khan Academy’s resources. I didn’t have access to much support during my high school years and thought the reason I wasn’t doing well was due to my lack of intellect. But, thanks to Khan Academy, I’ve been able to gain confidence in my trickiest subjects—math and chemistry. Khan Academy has opened up worlds of educational possibilities."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:89
+msgid "Stuart"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:92
+msgid "This year we had 20 eighth grade students pass the biology entrance exam and receive high school credit for science. What makes this significant is that we are the only school in South Phoenix to have this accomplishment, and our students prepared by using Khan Academy. Our expectations for next year are even greater as we implement Khan Academy and our curriculum together."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:165
+msgid "Field is missing"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:949 genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "Khan Academy for Teachers"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:950 genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:951
+msgid "Continue with Email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:951
+#, python-format
+msgid "By signing up for Khan Academy, you agree to our %(terms_of_use)s and %(privacy_notice)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "100% free."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+#, python-format
+msgid "Help every student succeed with personalized practice. %(one_hundred_percent_free)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "How Khan Academy works"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "Provide remediation, grade-level practice and enrichment today."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "An open book"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "1. Find standards-aligned content"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "Khan Academy offers K-14 content in math, science, history, economics and more."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "A pencil"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "2. Make assignments"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "More than instructional videos and articles, Khan Academy offers thousands of interactive practice problems."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "An arrow hitting a bullseye"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "3. Track student progress"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "Powerful reports show you student activity, gaps and progress."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "learning outcomes"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "Students get instant feedback and build a growth mindset"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "When students practice their skills on Khan Academy, they get immediate feedback, helpful hints, and encouragement to keep trying—so they can take ownership of their learning."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+#, python-format
+msgid "And results? We’re delighted to share that multiple studies show students get higher-than-expected %(learning_outcomes)s when studying with Khan Academy."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "A student backpack"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "A laptop and a stack of books"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "Easy to use, and 100% free forever"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "Integrated with Google Classroom for easy setup"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "Works with the technology you have, whether it’s shared devices, 1:1, tech lab, or mobile phones"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "Number one SAT tool"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "Official practice partner for AP"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:954
+msgid "Available in multiple languages"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:956
+msgid "millions"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:966
+#, python-format
+msgid "Join %(millions)s of teachers from around the world"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:988
+msgid "Quotation marks"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-teacher-widget.jsx.js:1032
+msgid "Start differentiating your classroom today."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-blue-mountain.jsx.js:112
+msgid "To continue to the Help Center, log in to Khan Academy"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-blue-mountain.jsx.js:114
+msgid "Good to see you again!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:209
+msgid "Get started as a teacher on Khan Academy"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:211
+msgid "Get started as a parent on Khan Academy"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:793 javascript/login-package/signup.js:616
+msgid "Please tell us your first name"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:803 javascript/login-package/signup.js:618
+msgid "Please tell us your last name"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:813 javascript/login-package/completesignup.js:59 login/login_util.py:37 login/signup.py:1732
+msgid "Please pick a username."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:823 javascript/login-package/completesignup.js:60 login/signup.py:635 login/signup.py:1733
+msgid "We need a password from you."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:833 javascript/login-package/signup.js:623
+msgid "Please tell us your email address"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:841 javascript/login-package/login-legacy.js:341 javascript/login-package/login.js:439
+msgid "Birthday required"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:925 javascript/login-package/password-change.js:46 javascript/login-package/signup.js:119
+msgid "Submitting..."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:1052
+msgid "I'm a student"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:1056
+msgid "I'm a teacher"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-widget-single-step.jsx.js:1060
+msgid "I'm a parent"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/terms-of-service-signup-statement.jsx.js:57
+msgid "signing up for"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/terms-of-service-signup-statement.jsx.js:57
+msgid "logging into"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/terms-of-service-signup-statement.jsx.js:64
+#, python-format
+msgid "By %(action)s Khan Academy, you agree to our <a href='%(tos_url)s' target='_blank' style='%(style)s'>Terms of use</a> and <a href='%(privacy_policy_url)s' target='_blank' style='%(style)s' >Privacy notice</a>."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/u13-reminder-update-email-screen.jsx.js:153
+msgid "Send email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/parent-package/parent-nav.jsx.js:96
+msgid "Log out and let your child log in"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/add-email-modal.jsx.js:77 javascript/phantom-package/link-email-dialog.handlebars:22
+msgid "Send confirmation email"
+msgstr ""
+
+# Comment: Placeholder for email address text field for signing up during onboarding
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: intl/datastore:1 javascript/phantom-package/link-email-dialog.handlebars:12
+msgid "Email address"
+msgstr ""
+
+# Comment: Separator text between social buttons and normal login for the 'Sign In' screen
+# Comment: Used in separating out sections in the log in screen
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: intl/datastore:1
+msgid "OR"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/ee-current">http://translate.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee/v/ee-current</a>
+# Title of video (x91cda9c9) on the bg stage
+# Title of video (x91cda9c9) on the fr stage
+# Title of video (x91cda9c9) on the pt stage
+# Title of video (x91cda9c9) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1 javascript/phantom-package/change-email-dialog.handlebars:7
+msgid "Current"
+msgstr ""
+
+#: javascript/login-package/add-child/dao.js:55
+msgid "Unable to check username"
+msgstr ""
+
+#: javascript/login-package/completesignup.js:48
+msgid "Signing up"
+msgstr ""
+
+#: javascript/login-package/completesignup.js:58 login/signup.py:1731
+msgid "Please tell us your name."
+msgstr ""
+
+#: javascript/login-package/completesignup.js:133 login/passwords.py:159
+msgid "Oops. Something went wrong. Please try again."
+msgstr ""
+
+#: javascript/login-package/dupeaccount.js:64
+#, python-format
+msgid "%(num)s completed video"
+msgid_plural "%(num)s completed videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/login-package/dupeaccount.js:73
+#, python-format
+msgid "Parent to %(num)s child account"
+msgid_plural "Parent to %(num)s child accounts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/login-package/dupeaccount.js:81
+#, python-format
+msgid "Coaching %(num)s student"
+msgid_plural "Coaching %(num)s students"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/login-package/dupeaccount.js:90
+msgid "1000+ computer science programs"
+msgstr ""
+
+#: javascript/login-package/dupeaccount.js:91
+#, python-format
+msgid "%(num)s computer science program"
+msgid_plural "%(num)s computer science programs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/login-package/dupeaccount.js:99
+msgid "This account will be kept"
+msgstr ""
+
+#: javascript/login-package/dupeaccount.js:100
+msgid "This account will be deleted"
+msgstr ""
+
+#: javascript/login-package/dupeaccount.js:137
+#, python-format
+msgid "plus %(num)s child account"
+msgid_plural "plus %(num)s child accounts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/login-package/login-legacy.js:102 javascript/login-package/login.js:345
+msgid "Logging in"
+msgstr ""
+
+#: javascript/login-package/login.js:534
+msgid "Year:"
+msgstr ""
+
+#: javascript/login-package/login.js:535
+msgid "Month:"
+msgstr ""
+
+#: javascript/login-package/login.js:536
+msgid "Day:"
+msgstr ""
+
+# A header that is always followed by an e-mail address confirming re-delivery of an e-mail from the signup system.
+#: javascript/login-package/signup-success-inner.handlebars:8
+msgid "We've re-sent you a message at"
+msgstr ""
+
+# A header that is always followed by an e-mail address confirming delivery of an e-mail from the signup system.
+#: javascript/login-package/signup-success-inner.handlebars:12
+msgid "We've sent you a message at"
+msgstr ""
+
+#: javascript/login-package/signup-success-inner.handlebars:24
+msgid "Check your spam folder if the message doesn't arrive in your inbox soon."
+msgstr ""
+
+#: javascript/login-package/signup-success-inner.handlebars:26
+msgid "Follow the link in that message to create your Khan Academy account."
+msgstr ""
+
+# Anchor link used to link to an e-mail service (e.g. "Gmail").
+#: javascript/login-package/signup-success-inner.handlebars:33
+msgid "Open your {{mailServerName}}"
+msgstr ""
+
+#: javascript/login-package/signup.js:230
+msgid "Parent's first name"
+msgstr ""
+
+#: javascript/login-package/signup.js:231
+msgid "Parent's last name"
+msgstr ""
+
+#: javascript/login-package/signup.js:233
+msgid "Parent's birthdate"
+msgstr ""
+
+#: javascript/login-package/signup.js:574 javascript/profile-package/coaches.js:147
+#, python-format
+msgid "Did you mean <span class='suggestion-value'>%(suggestion)s</span>?"
+msgstr ""
+
+#: javascript/phantom-package/change-email-dialog.handlebars:3
+msgid "Sign up using a different email"
+msgstr ""
+
+#: javascript/phantom-package/change-email-dialog.handlebars:11
+msgid "New"
+msgstr ""
+
+#: javascript/phantom-package/link-email-dialog.handlebars:17
+msgid "Enter your new email address and we'll send a confirmation email for you to open. By adding an email address you agree to our <a href='/about/tos' target='_blank' tabindex='1'>Terms of Service</a> and <a href='/about/privacy-policy' target='_blank' tabindex='1'>Privacy Policy</a>."
+msgstr ""
+
+#: login/children.py:145
+msgid "You must be over 18 to create child accounts."
+msgstr ""
+
+#: login/children.py:175 login/children.py:265
+msgid "Oops. Something went wrong. Please try again later."
+msgstr ""
+
+#: login/children.py:238 login/children.py:242
+msgid "You must be over 18 to create student accounts."
+msgstr ""
+
+#: login/clever.py:75
+msgid "Sorry!"
+msgstr ""
+
+#: login/clever.py:76
+msgid "There was an issue talking to Clever."
+msgstr ""
+
+#: login/clever.py:77
+msgid "Please head back to your Instant Login Portal and try again."
+msgstr ""
+
+#: login/login_util.py:42
+msgid "Sorry, that username's too short."
+msgstr ""
+
+#: login/login_util.py:44
+msgid "Usernames must start with a letter and only contain letters and numbers."
+msgstr ""
+
+#: login/login_util.py:47 login/signup.py:835 login/signup.py:1817 login/signup.py:1861 login/signup.py:1907
+msgid "That username isn't available."
+msgstr ""
+
+#: login/login_util.py:61
+msgid "We need a password."
+msgstr ""
+
+#: login/login_util.py:64 login/signup.py:649 login/signup.py:1753
+msgid "Sorry, but that password's too weak."
+msgstr ""
+
+#: login/login_util.py:75
+msgid "Please provide an e-mail address."
+msgstr ""
+
+#: login/login_util.py:78 login/signup.py:658
+msgid "That email appears to be invalid."
+msgstr ""
+
+#: login/passwords.py:166
+msgid "Incorrect password"
+msgstr ""
+
+#: login/passwords.py:173
+msgid "Password too weak"
+msgstr ""
+
+#: login/passwords.py:183
+msgid "Password changed. Taking you to login page..."
+msgstr ""
+
+#: login/signup.py:678
+#, python-format
+msgid "There's already an account with that email. If it's yours, <a href='%(login_url)s'>log in now</a>"
+msgstr ""
+
+#: login/signup.py:681
+msgid "There's already an account with that email. If it's yours, log in with Google or Facebook above."
+msgstr ""
+
+#: login/signup.py:692
+msgid "Please enter your email."
+msgstr ""
+
+#: login/signup.py:963
+msgid "Email required"
+msgstr ""
+
+#: login/signup.py:972
+msgid "Can't change to the same email"
+msgstr ""
+
+#: login/signup.py:1783
+msgid "Must have a parent create your account."
+msgstr ""
+
+#: login/signup.py:1922
+msgid "Oops! Something went wrong. Please try again later."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/dupeaccount">http://www.khanacademy.org/dupeaccount</a>
+#: templates/dupeaccount.html:5
+msgid "Choose Account"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/dupeaccount">http://www.khanacademy.org/dupeaccount</a>
+#: templates/dupeaccount.html:174
+msgid "Whoa there, partner!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/dupeaccount">http://www.khanacademy.org/dupeaccount</a>
+#: templates/dupeaccount.html:176
+msgid "We found more than one account"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/dupeaccount">http://www.khanacademy.org/dupeaccount</a>
+#: templates/dupeaccount.html:176
+#, python-format
+msgid "linked to the email address <strong>%(email)s</strong>"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/dupeaccount">http://www.khanacademy.org/dupeaccount</a>
+#: templates/dupeaccount.html:176
+msgid "for you"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/dupeaccount">http://www.khanacademy.org/dupeaccount</a>
+#: templates/dupeaccount.html:178
+msgid "Because of recent changes to our system, an email address may now only be linked to a single account."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/dupeaccount">http://www.khanacademy.org/dupeaccount</a>
+#: templates/dupeaccount.html:180
+msgid "Please select the account you would like to keep:"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/dupeaccount">http://www.khanacademy.org/dupeaccount</a>
+#: templates/dupeaccount.html:188
+#, python-format
+msgid "I understand that I will only be able to keep the account <span id=\"account-description\">that I selected above</span> and that my other account<span id=\"deleting-children\"></span> will be <strong>permanently deleted</strong>."
+msgid_plural "I understand that I will only be able to keep the account <span id=\"account-description\">that I selected above</span> and that my other %(num)s accounts<span id=\"deleting-children\"></span> will be <strong>permanently deleted</strong>."
+msgstr[0] ""
+msgstr[1] ""
+
+# See text on <a href="http://www.khanacademy.org/dupeaccount">http://www.khanacademy.org/dupeaccount</a>
+#: templates/dupeaccount.html:194
+msgid "Keep one account and finish logging in"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/dupeaccount">http://www.khanacademy.org/dupeaccount</a>
+#: templates/dupeaccount.html:197
+#, python-format
+msgid "If you encounter any problems, please <a href=\"mailto:dupeaccount@khanacademy.org?subject=Duplicate%%20accounts%%20for%%20%(email)s\">email us at dupeaccount@khanacademy.org</a>."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/invitesignup">http://www.khanacademy.org/invitesignup</a>
+#: templates/invite-signup.html:11
+msgid "Sign up via invitation"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/invitesignup">http://www.khanacademy.org/invitesignup</a>
+#: templates/invite-signup.html:29
+#, python-format
+msgid "To join %(coach_name)s's class, sign up using"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/invitesignup">http://www.khanacademy.org/invitesignup</a>
+#: templates/invite-signup.html:33
+msgid "First, sign up <span class='bold-text'>as the parent</span> using"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/invitesignup">http://www.khanacademy.org/invitesignup</a>
+#: templates/invite-signup.html:37
+msgid "Sign up using"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/invitesignup">http://www.khanacademy.org/invitesignup</a>
+#: templates/invite-signup.html:51
+msgid "These give you an easy way to log in. We'll never post without your permission."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/invitesignup">http://www.khanacademy.org/invitesignup</a>
+#: templates/invite-signup.html:58
+msgid "I don't have an account with Google or Facebook"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/login/clever">http://www.khanacademy.org/login/clever</a>
+#: templates/login/clever_onboarding.html:11
+msgid "Khan Academy + Clever"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/login/oauth/approval">http://www.khanacademy.org/login/oauth/approval</a>
+#: templates/oauth_approval.html:4
+msgid "Request for Permission"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/pwreset">http://www.khanacademy.org/pwreset</a>
+#: templates/password-reset.html:3
+msgid "Password Reset"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/pwreset">http://www.khanacademy.org/pwreset</a>
+#: templates/password-reset.html:21
+msgid "Create a new password for your account."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/pwreset">http://www.khanacademy.org/pwreset</a>
+#: templates/password-reset.html:23
+msgid "Change password."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/pwreset">http://www.khanacademy.org/pwreset</a>
+#: templates/password-reset.html:53 templates/settings.html:200
+msgid "Current password"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/pwreset">http://www.khanacademy.org/pwreset</a>
+#: templates/password-reset.html:58 templates/settings.html:213
+msgid "New password"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/pwreset">http://www.khanacademy.org/pwreset</a>
+#: templates/password-reset.html:70
+msgid "Re-type new password"
+msgstr ""

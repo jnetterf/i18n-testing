@@ -1,0 +1,1722 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-25 11:18+0000\n"
+"PO-Revision-Date: 2017-11-25 11:18+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Exercise at <a href="http://translate.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-mult-10s-100s-1000s/e/multiply-1-digit-number-by-10--100-1000">http://translate.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-mult-10s-100s-1000s/e/multiply-1-digit-number-by-10--100-1000</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-whole-num-10-100-1000/e/mult-div-whole-numbers-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-whole-num-10-100-1000/e/mult-div-whole-numbers-by-10-100-1000</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-powers-of-10/e/multiplying-and-dividing-by-powers-of-10">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-powers-of-10/e/multiplying-and-dividing-by-powers-of-10</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/cc-4th-mult-10s-100s-1000s/e/multiply-1-digit-number-by-10--100-1000">http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/cc-4th-mult-10s-100s-1000s/e/multiply-1-digit-number-by-10--100-1000</a>.
+# Exercise at (x1058b54e) on the pt stage.
+# Exercise at (x5942ae71106bd390) on the es stage.
+# Exercise at (x6cff7d10) on the pt stage.
+# Exercise at (xc6b664e5) on the pt stage.
+# Exercise at (xcc76e47f) on the hy stage.
+# Exercise at (xcc76e47f) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\Huge 4"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-mult-10s-100s-1000s/e/multiply-1-digit-number-by-10--100-1000">http://translate.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-mult-10s-100s-1000s/e/multiply-1-digit-number-by-10--100-1000</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-whole-num-10-100-1000/e/mult-div-whole-numbers-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-whole-num-10-100-1000/e/mult-div-whole-numbers-by-10-100-1000</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-powers-of-10/e/multiplying-and-dividing-by-powers-of-10">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-powers-of-10/e/multiplying-and-dividing-by-powers-of-10</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/cc-4th-mult-10s-100s-1000s/e/multiply-1-digit-number-by-10--100-1000">http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/cc-4th-mult-10s-100s-1000s/e/multiply-1-digit-number-by-10--100-1000</a>.
+# Exercise at (x1058b54e) on the pt stage.
+# Exercise at (x5942ae71106bd390) on the es stage.
+# Exercise at (x6cff7d10) on the pt stage.
+# Exercise at (xc6b664e5) on the pt stage.
+# Exercise at (xcc76e47f) on the hy stage.
+# Exercise at (xcc76e47f) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\Huge 7"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-mult-10s-100s-1000s/e/multiply-1-digit-number-by-10--100-1000">http://translate.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-mult-10s-100s-1000s/e/multiply-1-digit-number-by-10--100-1000</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-whole-num-10-100-1000/e/mult-div-whole-numbers-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-whole-num-10-100-1000/e/mult-div-whole-numbers-by-10-100-1000</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-powers-of-10/e/multiplying-and-dividing-by-powers-of-10">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-powers-of-10/e/multiplying-and-dividing-by-powers-of-10</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/cc-4th-mult-10s-100s-1000s/e/multiply-1-digit-number-by-10--100-1000">http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/cc-4th-mult-10s-100s-1000s/e/multiply-1-digit-number-by-10--100-1000</a>.
+# Exercise at (x1058b54e) on the pt stage.
+# Exercise at (x5942ae71106bd390) on the es stage.
+# Exercise at (x65ca2a8141f80c5b) on the es stage.
+# Exercise at (x6cff7d10) on the pt stage.
+# Exercise at (xc6b664e5) on the pt stage.
+# Exercise at (xcc76e47f) on the hy stage.
+# Exercise at (xcc76e47f) on the pt stage.
+# Exercise at (xe0cd472b563e087c) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\Huge 9"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\Huge 7 "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\Huge9"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 0.09"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 0.09 \\times 10"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 0.554"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 0.554 \\times 10"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 0.554 \\times 100"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 0.554 \\times 1000"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 0.6 \\div 100"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 0.6 \\times 100"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 0.92"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 0.92 \\div 10"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 14.2"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 14.2 \\times 1000"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 154.83"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 154.83 \\div 10"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 154.83 \\times 10"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 16.2"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 16.2 \\times 10"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 16.2 \\times 100"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 16.2 \\times 1000"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 3.78"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 3.78 \\times 1000"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 30"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 30 \\div 10"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 30 \\div 100"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 30 \\div 1000"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 322"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 322 \\div 100"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 4.0765"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 4.0765 \\times 100"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 5.6"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 5.6 \\times 100"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 6240"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 6240 \\div 100"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 7.99 \\div 10"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 7.99 \\div 100"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 7.99 \\div 1000"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 763.1"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 763.1 \\div 1000"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 8.09"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 8.09\\div 1000"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 8.09\\times 1000"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 8.71"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 8.71 \\times 10"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 88.5"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 88.5 \\div 100"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x5942ae71106bd390) on the es stage.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 95.06"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x5942ae71106bd390) on the es stage.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 95.06 \\div 10"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 97.2"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 97.2 \\div 10"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small 97.2 \\times 10"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-div-decimals-10-100-1000/e/mult-div-decimals-by-10-100-1000</a>.
+# Exercise at (x6cff7d10) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\\small7.99"
+msgstr ""

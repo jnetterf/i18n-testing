@@ -1,0 +1,2704 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-05 11:58+0000\n"
+"PO-Revision-Date: 2017-11-05 11:58+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Article is at <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-in-vector-fields-articles/a/fundamental-theorem-of-line-integrals">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-in-vector-fields-articles/a/fundamental-theorem-of-line-integrals</a>.
+# Article is at (xfe8f97b6) on the ja stage.
+# Article is at (xfe8f97b6) on the pl stage.
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$f(x, y) = x^2 + y^2$"
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>
+# Pretty display name for exercise (x6cddfcc2) on the ja stage
+# Pretty display name for exercise (x6cddfcc2) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Skill check: Partial derivatives and the gradient"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>
+# Description of exercise (x6cddfcc2) on the ja stage
+# Description of exercise (x6cddfcc2) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Test your knowledge of partial derivatives"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"$\n"
+"    \\left[\n"
+"        \\begin{array}{c}\n"
+"            3x^2 - 4y \\\\\n"
+"            -4x + \\cos(y)\n"
+"        \\end{array}\n"
+"    \\right]\n"
+"$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"$\n"
+"    \\left[\n"
+"        \\begin{array}{c}\n"
+"            x^3 - 4xy \\\\\n"
+"            -4xy + \\sin(y)\n"
+"        \\end{array}\n"
+"    \\right]\n"
+"$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$3x^2dx - 4x\\,dy - 4y\\,dx + \\cos(y)dy$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$6x -4 - \\sin(y)$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"$f(x, y) = x^3 - 4xy + \\sin(y)$\n"
+"\n"
+"What is $\\nabla f(x, y) $?\n"
+"\n"
+"[[☃ radio 1]]\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Define a two-variable function as follows: $f(x, y) = x^2 + 2xy + y^2$\n"
+"\n"
+"Compute its partial derivative with respect to $x$.\n"
+"\n"
+"$\\dfrac{\\partial f}{\\partial x} = $  [[☃ expression 1]]\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Diagonally sliced graph of f(x, y) = x^2 y"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Differentiating with respect to $x$, here's what we get:\n"
+"\n"
+"$\n"
+"    \\dfrac{\\partial}{\\blueE{\\partial x}}\n"
+"    (\\blueE{x^2} + 2\\blueE{x}y + y^2)\n"
+"    = \\blueE{2x} + 2y\n"
+"$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Each component of the gradient of $f(x, y)$ is a partial derivative of $f(x, y)$.  "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Finding the slope means you are looking for the rate of change of $f(x, y)$ while $x$ is being held constant.  This corresponds to taking a partial derivative with respect to $y$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Given that $f(a, b, c) = \\cos(ab)\\sin(b) + c$, compute the following:\n"
+"\n"
+"$\\dfrac{\\partial f}{\\partial a}\\left(\\dfrac{1}{2}, \\dfrac{\\pi}{3}, 7\\right) = $ [[☃ expression 1]]\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Gradient field."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "It has a low point at the origin."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "It has a peak at the origin."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Its slope increases near the origin."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Let $f(x, y) = x^2 - xy$ and $\\vec{\\text{v}} = \\left[\\begin{array}{c} 2 \\\\ -1 \\end{array} \\right]$.  Compute the directional derivative of $f$ along $\\vec{\\text{v}}$.  \n"
+"\n"
+"$\\nabla_\\vec{\\text{v}} f(x, y) = $ [[☃ expression 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Overlayed vector field and contour plot."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Plugging in $(a, b, c) = \\left(\\dfrac{1}{2}, \\dfrac{\\pi}{3}, 7\\right)$ to this formula, here's what we get:\n"
+"\n"
+"$\\begin{align}\n"
+"    &-\\sin(\\blueE{a}b)b\\sin(b) \\\\\\\\\n"
+"    =& -\\sin\\left(\\blueE{\\dfrac{1}{2}} \\dfrac{\\pi}{3}\\right)  \\cdot\\dfrac{\\pi}{3}\n"
+"    \\sin\\left(\\dfrac{\\pi}{3}\\right) \\\\\\\\\n"
+"    =& -\\sin\\left(\\dfrac{\\pi}{6}\\right) \\cdot\\dfrac{\\pi}{3}\\sin\\left(\\dfrac{\\pi}{3}\\right) \\\\\\\\\n"
+"    =& -\\dfrac{1}{2} \\cdot\\dfrac{\\pi}{3}\\cdot\\dfrac{\\sqrt{3}}{2} \\\\\\\\\n"
+"    =& -\\dfrac{\\sqrt{3}\\pi}{12}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Since all the vectors in the gradient field pictured above point towards the origin, it indicates that as you travel towards the origin on the $xy$ plane, the height of the graph of $f$ above you will be increasing, but if you travel away from the origin, that height will be decreasing."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Since many of the vectors in the picture above are not perpendicular to the contour lines they touch, this vector field cannot be the gradient field for the function $f(x, y)$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Since this is a partial derivative with respect to $x$, pretend $y$ is a constant and take the ordinary derivative."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Slicing the graph with the plane $x=1$ corresponds to holding the variable $x$ constant."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Taking the dot product between the gradient and the vector $\\vec{\\text{v}}$, here's what we get:\n"
+"\n"
+"$\\begin{align}\n"
+"    \\nabla_\\vec{\\text{v}} f(x, y) \n"
+"    &= \\nabla f(x, y) \\cdot \\vec{\\text{v}} \\\\\\\\\n"
+"    &= \n"
+"    \\left[\n"
+"        \\begin{array}{c}\n"
+"            2x - y \\\\\n"
+"            -x\n"
+"        \\end{array}\n"
+"    \\right] \\cdot\n"
+"    \\left[\n"
+"        \\begin{array}{c}\n"
+"            2 \\\\\n"
+"            -1\n"
+"        \\end{array}\n"
+"    \\right] \\\\\\\\\n"
+"    &= (2x - y)2 + (-x)(-1) \\\\\\\\\n"
+"    &= 5x - 2y\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The directional derivative of $f(x, y)$ in the direction of $\\left[\\begin{array}{c} \\sqrt{2}/2 \\\\ \\sqrt{2} / 2 \\end{array} \\right]$ at the point $(-1, -1)$ is \n"
+"\n"
+"$\\begin{align}\n"
+"    &\\nabla f(-1, -1) \\cdot \n"
+"    \\left[\n"
+"        \\begin{array}{c} \n"
+"            \\sqrt{2}/2 \\\\\\\\ \n"
+"            \\sqrt{2} / 2 \n"
+"        \\end{array} \n"
+"    \\right]\n"
+"    \\\\\\\\\n"
+"    =&\n"
+"    \\left[\n"
+"        \\begin{array}{c} \n"
+"            2 \\\\\n"
+"            1\n"
+"        \\end{array} \n"
+"    \\right] \\cdot\n"
+"    \\left[\n"
+"        \\begin{array}{c} \n"
+"            \\sqrt{2}/2 \\\\ \n"
+"            \\sqrt{2} / 2 \n"
+"        \\end{array} \n"
+"    \\right]\n"
+"    \\\\\\\\\n"
+"    =&\n"
+"    2\\dfrac{\\sqrt{2}}{2} + 1\\dfrac{\\sqrt{2}}{2}\n"
+"    \\\\\\\\\n"
+"    =&\n"
+"    \\sqrt{2} + \\dfrac{\\sqrt{2}}{2}\n"
+"\\end{align}$\n"
+"\n"
+"Since we are using a unit vector, this gives the slope of the graph in the direction of the vector."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The each gradient vector of a function at a point $(x, y)$ must be perpendicular to the contour line of that function passing through that point."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The gradient field for a two-variable function $f(x, y)$ is shown below:\n"
+"\n"
+"[[☃ image 1]]\n"
+"\n"
+"What can you say about the graph of $f(x, y)$ above the region of the $xy$-plane shown in this gradient field?\n"
+"\n"
+"[[☃ radio 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The gradient of $f$ is\n"
+"\n"
+"$\n"
+"    \\nabla f(x, y)\n"
+"    = \n"
+"    \\left[\n"
+"        \\begin{array}{c}\n"
+"            \\dfrac{\\partial}{\\partial x} x^2 y \\\\\\\\\n"
+"            \\dfrac{\\partial}{\\partial y} x^2 y \n"
+"        \\end{array}\n"
+"    \\right]\n"
+"    = \n"
+"    \\left[\n"
+"        \\begin{array}{c}\n"
+"            2xy \\\\\\\\\n"
+"            x^2\n"
+"        \\end{array}\n"
+"    \\right]\n"
+"$\n"
+"\n"
+"Evaluating this at the point $(-1, -1)$, we get \n"
+"\n"
+"$\n"
+"    \\nabla f(-1, -1)\n"
+"    = \n"
+"    \\left[\n"
+"        \\begin{array}{c}\n"
+"            2(-1)(-1) \\\\\n"
+"            (-1)^2\n"
+"        \\end{array}\n"
+"    \\right]\n"
+"    = \n"
+"    \\left[\n"
+"        \\begin{array}{c}\n"
+"            2 \\\\\n"
+"            1\n"
+"        \\end{array}\n"
+"    \\right]\n"
+"$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The gradient of $f$ is\n"
+"\n"
+"$\n"
+"    \\nabla f(x, y) = \n"
+"    \\left[\n"
+"        \\begin{array}{c}\n"
+"            \\frac{\\partial}{\\partial x} (x^2 - xy) \\\\\\\\\n"
+"            \\frac{\\partial}{\\partial y} (x^2 - xy)\n"
+"        \\end{array}\n"
+"    \\right] = \n"
+"    \\left[\n"
+"        \\begin{array}{c}\n"
+"            2x - y \\\\\n"
+"            -x\n"
+"        \\end{array}\n"
+"    \\right]\n"
+"$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The gradient of $f(x, y)$ is defined as follows:\n"
+"\n"
+"$\n"
+"    \\nabla f(x, y) = \n"
+"    \\left[\n"
+"        \\begin{array}{c}\n"
+"            \\dfrac{\\partial f}{\\partial x} \\\\\\\\\n"
+"            \\dfrac{\\partial f}{\\partial y} \n"
+"        \\end{array}\n"
+"    \\right]\n"
+"$\n"
+"\n"
+"For $f(x, y) = x^3 - 4xy + \\sin(y)$, these are the partial derivatives:\n"
+"\n"
+"$\n"
+"    \\dfrac{\\partial}{\\blueE{\\partial x}}\n"
+"    (\n"
+"        \\blueE{x^3} - 4\\blueE{x}y + \\sin(y)\n"
+"    ) = \n"
+"    \\blueE{3x^2} - 4y\n"
+"$\n"
+"\n"
+"$\n"
+"    \\dfrac{\\partial}{\\redE{\\partial x}}\n"
+"    (\n"
+"        x^3 - 4x\\redE{y} + \\redE{\\sin(y)}\n"
+"    ) = \n"
+"    -4x + \\redE{\\cos(y)}\n"
+"$\n"
+"\n"
+"Plopping both of these into a vector, we get the gradient:\n"
+"\n"
+"$\n"
+"    \\nabla f(x, y) = \n"
+"    \\left[\n"
+"        \\begin{array}{c}\n"
+"            3x^2 - 4y \\\\\n"
+"            -4x + \\cos(y)\n"
+"        \\end{array}\n"
+"    \\right]\n"
+"$\n"
+"\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The gradient of a scalar-valued function is a vector-valued function."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The gradient points in the direction of steepest ascent for a function.  This means that the gradient vector attached to a point $(x, y)$ on the $xy$-plane points in the direction one should travel to increase the value of $f(x, y)$ the fastest."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The height of the graph above the origin represents the average height of the portion of the graph above a circle centered at the origin."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The partial derivative of $f$ with respect to $y$ is\n"
+"\n"
+"$\n"
+"    \\dfrac{\\partial}{\\redE{\\partial y}} (\\redE{y}x^2 - \\redE{y^3})\n"
+"    = x^2 - \\redE{3y^2}\n"
+"$\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The unit vector pointing in the same direction as $\\left[\\begin{array}{c} 1 \\\\ 1 \\end{array} \\right]$ is $\\left[\\begin{array}{c} \\sqrt{2}/2 \\\\ \\sqrt{2} / 2 \\end{array} \\right]$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This means the graph has a peak above the origin."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"To compute the directional derivative at a point, start by computing the gradient of the function at that point.\n"
+"\n"
+"\n"
+"\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"To find the slope of the graph of $f$ in the direction parallel to the $y$-axis at the point $(1, 1, 0)$, plug in the values $x = 1$ and $y = 1$ to the partial derivative $\\dfrac{\\partial f}{\\partial y}$:\n"
+"\n"
+"$\n"
+"    x^2 - \\redE{3y^2} = 1^2 - 3(1^2) = -2\n"
+"$\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "To take the directional derivative of a multivariable function $f(x, y)$ along a vector $\\vec{\\text{v}}$, take the dot product between the gradient of $f$ and $\\vec{\\text{v}}$. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Treating $b$ and $c$ as if they are constants, and taking the derivative with respect to $a$, here's what we get:\n"
+"\n"
+"$\n"
+"    \\dfrac{\\partial}{\\blueE{\\partial a}}\n"
+"    \\cos(\\blueE{a}b)\\sin(b) + c = \n"
+"    \\underbrace{-\\sin(\\blueE{a}b)b}_{\n"
+"        \\frac{\\partial}{\\blueE{\\partial a}} \\cos(\\blueE{a}b)\n"
+"    }\\sin(b) + 0\n"
+"$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Viewing $y$ as a constant, here's how the derivative looks:\n"
+"\n"
+"$\n"
+"    \\dfrac{\\partial}{\\blueE{\\partial x}}\n"
+"    (\\blueE{x^2} + \n"
+"    2\\blueE{x}\\!\\!\\!\\!\\overbrace{y}^{\\text{Constant}} \\!\\!\\!\\! + \n"
+"    \\!\\!\\!\\! \\underbrace{y^2}_{\\text{Constant}})\n"
+"$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "You are taking the partial derivative with respect to $a$, so you must treat all other variables as if they are constant.  In this case, that means you must treat $b$ and $c$ as if they are constants."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"You should use the directional derivative.\n"
+"\n"
+"However, when the directional derivative is used to compute slope, the vector you use must have a unit length."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"[[☃ image 1]]\n"
+"\n"
+"Suppose you take the graph $f(x, y) = x^2 y$, and you slice it with a vertical plane in the direction of the vector $\\vec{\\text{v}} = \\left[\\begin{array}{c} 1 \\\\ 1 \\end{array} \\right]$.   This plane intersects the graph of $f(x, y)$ along a curve (pictured in red above).  What is the slope of that curve at the point $(-1, -1, -1)$?\n"
+"\n"
+"[[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"[[☃ image 1]]\n"
+"\n"
+"The diagram above has two things overlayed on top of each other:\n"
+"\n"
+"- The contour plot of a two-variable function $f(x, y)$, indicated with the black lines.\n"
+"- A two-dimensional vector field.\n"
+"\n"
+"Is it possible for this vector field to be the gradient field of the function $f(x, y)$?\n"
+"\n"
+"[[☃ radio 1]]\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"[[☃ video 1]]\n"
+"\n"
+"What's shown above is the graph of the function \n"
+"\n"
+"$f(x, y) = yx^2 - y^3$\n"
+"\n"
+"The graph as been sliced along the plane $x = 1$ (pictured in white), which gives a curve in 3d space corresponding to all points on the graph where $x=1$ (pictured in red).  What is the slope of the tangent line to this curve at the point $(1, 1, 0)$?\n"
+"\n"
+"[[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "https://ka-perseus-images.s3.amazonaws.com/5852a3efe1833179200f06bc973d8be33717a465.png"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "https://ka-perseus-images.s3.amazonaws.com/a6a4e998ed6a0d445143a7d80f6b7e2c52ccdb2b.png"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise at (x6cddfcc2) on the ja stage.
+# Exercise at (x6cddfcc2) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "https://ka-perseus-images.s3.amazonaws.com/c5a6e52da159db25fb72e5916d67d5b56e5371e5.png"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Let $f(x, y) = x^2 - xy$ and $\\vec{\\textbf{v}} = \\left[\\begin{array}{c} 2 \\\\ -1 \\end{array} \\right]$.  Compute the directional derivative of $f$ along $\\vec{\\textbf{v}}$.  \n"
+"\n"
+"$\\nabla_\\vec{\\textbf{v}} f(x, y) = $ [[☃ expression 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Taking the dot product between the gradient and the vector $\\vec{\\textbf{v}}$, here's what we get:\n"
+"\n"
+"$\\begin{align}\n"
+"    \\nabla_\\vec{\\textbf{v}} f(x, y) \n"
+"    &= \\nabla f(x, y) \\cdot \\vec{\\textbf{v}} \\\\\\\\\n"
+"    &= \n"
+"    \\left[\n"
+"        \\begin{array}{c}\n"
+"            2x - y \\\\\n"
+"            -x\n"
+"        \\end{array}\n"
+"    \\right] \\cdot\n"
+"    \\left[\n"
+"        \\begin{array}{c}\n"
+"            2 \\\\\n"
+"            -1\n"
+"        \\end{array}\n"
+"    \\right] \\\\\\\\\n"
+"    &= (2x - y)2 + (-x)(-1) \\\\\\\\\n"
+"    &= 5x - 2y\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The gradient field for a two-variable function $f(x, y)$ is shown below:\n"
+"\n"
+"[[☃ image 1]]\n"
+"\n"
+"What can you say about the graph of $f(x, y)$ above the region of the $xy$-plane shown in this gradient field.\n"
+"\n"
+"[[☃ radio 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "To take the directional derivative of a multivariable function $f(x, y)$ along a vector $\\vec{\\textbf{v}}$, take the dot product between the gradient of $f$ and $\\vec{\\textbf{v}}$. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"[[☃ image 1]]\n"
+"\n"
+"Suppose you take the graph $f(x, y) = x^2 y$, and you slice it with a vertical plane in the direction of the vector $\\vec{\\textbf{v}} = \\left[\\begin{array}{c} 1 \\\\ 1 \\end{array} \\right]$.   This plane intersects the graph of $f(x, y)$ along a curve (pictured in red above).  What is the slope of that curve at the point $(-1, -1, -1)$?\n"
+"\n"
+"[[☃ expression 1]]"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks/e/skill-check--partial-derivatives</a>.
+# Exercise is at (x6cddfcc2) on the ja stage.
+# Exercise is at (x6cddfcc2) on the pl stage.
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Partial Derivatives"
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>
+# Pretty display name for exercise (x0532b959) on the ja stage
+# Pretty display name for exercise (x0532b959) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Skill check: Visualizing multivariable functions"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>
+# Description of exercise (x0532b959) on the ja stage
+# Description of exercise (x0532b959) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Test your ability to recognize functions based on various different ways to visualize them"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "Test ability to recognize functions based on various different ways to visualize them"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\vec{\\textbf{s}}(t) = \\left[\\begin{array}{c} t \\\\ t^2 \\end{array} \\right]$ for $0 \\le t \\le 4$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\vec{\\textbf{s}}(t) = \\left[\\begin{array}{c} t^2 \\\\ t^3 \\end{array} \\right]$ for $-2 \\le t \\le 2$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\vec{\\textbf{s}}(t) = \\left[\\begin{array}{c} t^3 \\\\ t \\end{array} \\right]$ for $-8 \\le t \\le 8$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\vec{\\textbf{v}}(x, y) = \\left[\\begin{array}{c} x \\\\ y \\end{array} \\right]$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\vec{\\textbf{v}}(x, y) = \\left[\\begin{array}{c} x^2 \\\\ y^2 \\end{array} \\right]$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\vec{\\textbf{v}}(x, y) = \\left[\\begin{array}{c} y \\\\ x \\end{array} \\right]$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\vec{\\textbf{v}}(x, y) = \\left[\\begin{array}{c} y^2 \\\\ x^2 \\end{array} \\right]$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$f(x) = \\left[\\begin{array}{c} \\cos(x) \\\\ \\sin(x) \\end{array} \\right]$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$f(x) = \\left[\\begin{array}{c} x \\\\ \\sin(x) \\end{array} \\right]$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$f(x) = \\left[\\begin{array}{c} x^2 \\\\ -y^2 \\end{array} \\right]$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$f(x) = \\left[\\begin{array}{c} x^2 \\\\ y^2 \\end{array} \\right]$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$f(x, y) = (x^2 + y^2, x^2 - y^2)$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$f(x, y) = (x^2 - y^2, x^2 + y^2)$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$f(x, y) = x^2 - y^2$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$f(x, y) = y  + \\sin(x)$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$f(x, y) =\\sin(x) + \\sin(y)$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "3d graph of a function."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"3d graphs are a way of representing functions with a two-dimensional input, and a one-dimensional output.  This means they apply to functions that look something like this:\n"
+"\n"
+"$f(x, y) = ...\\text{Some expression of $x$ and $y$}...$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "A good start here would be looking at the end points of the curve, and comparing them with the end points suggested by each function."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"As you move purely in the $x$-direction, the height of the graph oscillates up and down, like a sine function.  This suggests that as you hold the $y$-value of the input constant, the function should look like a sine wave.  Depending on where you start, the height of that sine wave might be shifted up or down.  Therefore, when you hold $y$ constant, the function might look something like this:\n"
+"\n"
+"$f(x, \\text{const}) = \\sin(x) + ...(\\text{something})...$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"As you move purely in the $y$-direction, the height of the graph increases linearly.  The only available option which matches this effect is.\n"
+"\n"
+"$f(x, y) = \\sin(x) + y$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Consider the following transformation of two-dimensional space.\n"
+"\n"
+"[[☃ video 2]]\n"
+"\n"
+"What function could this transformation represent?\n"
+"\n"
+"[[☃ radio 2]]\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Consider the following vector field:\n"
+"\n"
+"[[☃ image 1]]\n"
+"\n"
+"If this vector field represents some kind of fluid flow, which of the following statements are true about that fluid flow?\n"
+"\n"
+"[[☃ radio 1]]\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Consider the general direction of the vectors in each quadrant of the $xy$-plane.  Compare this with how each of the functions listed behaves when the inputs $x$ and $y$ are positive or negative."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Consider the option $\\vec{\\text{v}}(x, y) = \\left[\\begin{array}{c} x \\\\ y \\end{array} \\right]$.  In the upper left quadrant, where $x < 0$ and $y > 0$, the output of this function would have the following feel:\n"
+"\n"
+"$\\vec{\\text{v}}(x, y) = \\left[\\begin{array}{c} \\text{Something negative} \\\\ \\text{Something positive} \\end{array} \\right]$\n"
+"\n"
+"This would suggest that vectors in that region point up and to the left.  Since this is not what happens, we can rule out that function. \n"
+"\n"
+"This leaves only the option $\\vec{\\text{v}}(x, y) = \\left[\\begin{array}{c} y \\\\ x \\end{array} \\right]$.  If you consider how it behaves in each quadrant, you will see that it matches the diagram shown."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Consider the unit sphere in three-dimensional space.\n"
+"\n"
+"[[☃ image 1]]\n"
+"\n"
+"This is defined as all the points $(x, y, z)$ such that $x^2 + y^2 + z^2 = 1$.  Note, this means the word \"sphere\" refers just to the surface of a ball, not to the interior points of that ball.\n"
+"\n"
+"Which of the following describes the type of multivariable function which could parameterize this surface?\n"
+"\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Consider the vector field pictured below:\n"
+"\n"
+"[[☃ image 1]]\n"
+"\n"
+"Which of the following functions could this vector field represent?\n"
+"\n"
+"[[☃ radio 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Contour map with hyperbolic curves."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Contour maps only apply to scalar-valued functions, meaning those which just output a number.\n"
+"This means the function must look something like this:\n"
+"\n"
+"$f(x, y) = ...\\text{Some expression of $x$ and $y$}...$\n"
+"\n"
+"Each line of a contour map, called a \"contour line\", represents a set of input values $(x, y)$ that correspond to a constant output of the function $f(x, y)$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Each point in 3d space is represented with a triplet of numbers, $(x, y, z)$.  For the 3d graph of a function $f(x, y)$, the $z$-value at each point on the graph represents the output of the function.   That is to say, the height of the graph above a point $(x, y, 0)$ on the $xy$-plane represents the output of the function $f(x, y)$.  \n"
+"\n"
+"Think about how the graph of the function changes as you move purely in the $x$-direction or purely in the $y$-direction."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"First consider this option:\n"
+"\n"
+"$\\vec{\\text{s}}(t) = \\left[\\begin{array}{c} t^3 \\\\ t \\end{array} \\right]$ for $-8 \\le t \\le 8$\n"
+"\n"
+"Since $t$ starts at the value $-8$, the curve which this function draws will start at\n"
+"\n"
+"$\n"
+"    \\vec{\\text{s}}(-8) =  \n"
+"    \\left[\\begin{array}{c} (-8)^3 \\\\ (-8) \\end{array} \\right] = \n"
+"    \\left[\\begin{array}{c} -512 \\\\ -8 \\end{array} \\right] \n"
+"$\n"
+"\n"
+"This is a huge vector, and when you put its tail at the origin, it's tip is far outside the range shown in the diagram above.\n"
+"\n"
+"[[☃ image 1]]\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Following the motion of the fluid starting at various points in the upper right quadrant, there is no reason that a given particle should have to eventually cross the $x$-axis.  In fact, from the portion of the vector field shown, it seems that many of the particles in that region will eventually be travelling up and to the left indefinitely."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"For example, look at the upper left quadrant.  This corresponds to input values where $x$ is negative and $y$ is positive. \n"
+"\n"
+"[[☃ image 1]]\n"
+"\n"
+"All the vectors in this region tend to point down and to the right.  Think about what this should mean for the output."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Having eliminated the previous two, we already know the answer.\n"
+"\n"
+"$\\vec{\\text{s}}(t) = \\left[\\begin{array}{c} t^2 \\\\ t^3 \\end{array} \\right]$ for $-2 \\le t \\le 2$\n"
+"\n"
+"But let's step through why it makes sense.  Plugging in the endpoints, here's what we get:\n"
+"\n"
+"$\n"
+"    \\vec{\\text{s}}(-2) = \n"
+"    \\left[\\begin{array}{c} (-2)^2 \\\\ (-2)^3 \\end{array} \\right] =\n"
+"    \\left[\\begin{array}{c} 4 \\\\ -8 \\end{array} \\right]\n"
+"$\n"
+"\n"
+"$\n"
+"    \\vec{\\text{s}}(2) = \n"
+"    \\left[\\begin{array}{c} 2^2 \\\\ 2^3 \\end{array} \\right] =\n"
+"    \\left[\\begin{array}{c} 4 \\\\ 8 \\end{array} \\right]\n"
+"$\n"
+"\n"
+"This means our curve should range from the point $(4, -8)$ to $(4, 8)$, which is exactly what the one drawn in the problem does.  It also should pass through the origin at $\\vec{\\text{s}}(0)$, and the curve does indeed pass through the origin.\n"
+"\n"
+"[[☃ image 1]]\n"
+"\n"
+"Of course, just because two curves share the same endpoints doesn't mean they are the same.  Far from it.  But in this case, it means the function $\\vec{\\text{s}}(t) = \\left[\\begin{array}{c} t^2 \\\\ t^3 \\end{array} \\right]$ for $-2 \\le t \\le 2$ is the only viable option. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "If a fluid particle starts in the upper-right quadrant, it must cross the $x$-axis at some point."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"If the vectors in a vector field generally point down and right in a region, this means the output of the underlying function has a positive x-component and negative y-component in that region.\n"
+"\n"
+"$\\vec{\\text{v}}(x, y) = \\left[ \\begin{array}{c} \\text{Something positive} \\\\ \\text{Something negative} \\end{array} \\right]$\n"
+"\n"
+"This rules out $\\vec{\\text{v}}(x, y) = \\left[\\begin{array}{c} x^2 \\\\ y^2 \\end{array} \\right]$ and $\\vec{\\text{v}}(x, y) = \\left[\\begin{array}{c} y^2 \\\\ x^2 \\end{array} \\right]$, since both components of their outputs are always positive."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "If you let your eyes follow the vectors in the upper left quadrant, moving along each vector from its tip to its tail, you can see how the fluid flowing in that region will have a general tendency to rotate clockwise."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In a contour map, the space you are looking at represents the input space of the function, which in this case is the $xy$-plane.  "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Notice, all the points end up on the right-half of the $xy$-plane.  This means the first component of the output must always be positive.  On the other hand, the $y$-component of the output looks like it can be both positive and negative, since some points land in the top half of space while others land in the bottom half."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "One with a one-dimensional input and a two-dimensional output."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "One with a three-dimensional input and a one-dimensional output."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "One with a two-dimensional input and a one-dimensional output."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "One with a two-dimensional input and a three-dimensional output."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Parametric function."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Parametric functions are visualised just by looking at the output space. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Pictured below is a parametric curve:\n"
+"\n"
+"[[☃ image 1]]\n"
+"\n"
+"Which of the following functions could represent this curve?\n"
+"\n"
+"[[☃ radio 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Similarly, let's analyze another option in terms of its end points:\n"
+"\n"
+"$\\vec{\\text{s}}(t) = \\left[\\begin{array}{c} t \\\\ t^2 \\end{array} \\right]$ for $0 \\le t \\le 4$\n"
+"\n"
+"Plugging in the endpoints $t = 0$ and $t = 4$, here's what we get.\n"
+"\n"
+"$\n"
+"    \\vec{\\text{s}}(0) = \n"
+"    \\left[\\begin{array}{c} 0 \\\\ 0^2 \\end{array} \\right] =\n"
+"    \\left[\\begin{array}{c} 0 \\\\ 0 \\end{array} \\right]\n"
+"$\n"
+"\n"
+"$\n"
+"    \\vec{\\text{s}}(4) = \n"
+"    \\left[\\begin{array}{c} 4 \\\\ 4^2 \\end{array} \\right] =\n"
+"    \\left[\\begin{array}{c} 4 \\\\ 16 \\end{array} \\right]\n"
+"$\n"
+"\n"
+"This would suggest that the curve goes from the origin to the point $(4, 16)$, which is again beyond the range of the actual curve drawn.\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Since the vectors themselves stay constant over time (there is no indication in the problem statement that they would change), the velocity of the fluid at each specific point will stay constant over time.\n"
+"\n"
+"However, this does not mean the velocity of a given particle stays constant over time.  As a particle moves from one location to another, it will be sitting under a new vector, and hence have a new velocity."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Take a look at this 3d graph:\n"
+"\n"
+"[[☃ image 1]]\n"
+"\n"
+"Which of the following functions could this graph represent?\n"
+"\n"
+"[[☃ radio 1]]\n"
+"\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Technically, there is a notion of a space-filling curve, which would let you draw a surface with only one input.  Hilbert's curve, for example, is a famous one you can look up.  However, for most \"normal\" functions that you'll deal with, and importantly for those that you can actually do calculus with, describing a surface requires a two-dimensional input."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The contour lines for $f(x, y) = x^2 + y^2$ are each represented by an equation that looks like this:\n"
+"\n"
+"$x^2 + y^2 = c$\n"
+"\n"
+"Here, $c$ is some constant.  For positive values of $c$, those curves would all be circles, which is not what's pictured above.\n"
+"\n"
+"Contour lines for the function $f(x, y) = x^2 - y^2$ are each represented by an equation that looks like this:\n"
+"\n"
+"$x^2 - y^2 = \\!\\!\\!\\!\\underbrace{c}_{\\text{constant}}$\n"
+"\n"
+"These will each be some kind of hyperbolic curve, which is what you see in the diagram above.  Therefore, $f(x, y) = x^2 - y^2$ is the only viable candidate."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The fluid tends to rotate clockwise in the upper left quadrant."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The only function listed which could behave this way is \n"
+"\n"
+"$f(x, y) = (\\underbrace{x^2 + y^2}_{\\text{Always positive}}, \\overbrace{x^2 - y^2}^{\\text{Only sometimes positive}})$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The vector pointing to $(-512, -8)$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The velocity of each fluid particle is constant as it moves around."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The velocity of the fluid particles at any given point stays constant over time."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"This means the output of the desired function will describe each point on the unit sphere, and hence, should be three-dimensional.\n"
+"\n"
+"If the input was one dimensional, the output would look like some kind of curve.  To get a surface, the input should be two-dimensional.\n"
+"\n"
+"[[☃ explanation 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This transformation starts with points in two-dimensional space and moves them within two-dimensional space.  This means both its input and its output should be two-dimensional."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Unit sphere."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Upper left quadrant of the vector field."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Vector field representing fluid flow."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Vector field."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Well actually..."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "When a vector field represents a fluid flow, it means the velocity of a fluid particle at a specific point is given by the vector attached to that point."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"[[☃ image 1]]\n"
+"\n"
+"What function could this be a contour map of?\n"
+"\n"
+"[[☃ radio 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "https://ka-perseus-images.s3.amazonaws.com/21829da78df7c5f51c877f586abaa6cb9892c6cc.png"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "https://ka-perseus-images.s3.amazonaws.com/3665022005e616a35ef60eefd46b8cde43dee488.png"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "https://ka-perseus-images.s3.amazonaws.com/523d3960300c61f81d08c8bf0a1df77802eaf363.png"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "https://ka-perseus-images.s3.amazonaws.com/8fc152e0a38fed4d0f00f218457e1db3c8015e09.png"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "https://ka-perseus-images.s3.amazonaws.com/aa316a3d93bde8ae83941ea76725997993a40546.png"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "https://ka-perseus-images.s3.amazonaws.com/eaedbca1883bee255a2e1d672aafc7062e2faa79.png"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/04b1a870322b426e2af38d1175a252d217c69915"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise at (x0532b959) on the ja stage.
+# Exercise at (x0532b959) on the pl stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/4d0ca8b04a0308945f4d42cf7337012ea6ba24d5"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "A good start here would be looking at the end points of the curve, and comparing it with the end points suggested by each function."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Consider the option $\\vec{\\textbf{v}}(x, y) = \\left[\\begin{array}{c} x \\\\ y \\end{array} \\right]$.  In the upper left quadrant, where $x < 0$ and $y > 0$, the output of this function would have the following feel:\n"
+"\n"
+"$\\vec{\\textbf{v}}(x, y) = \\left[\\begin{array}{c} \\text{Something negative} \\\\ \\text{Something positive} \\end{array} \\right]$\n"
+"\n"
+"This would suggest that vectors in that region point up and to the left.  Since this is not what happens, we can rule out that function. \n"
+"\n"
+"This leaves only the option $\\vec{\\textbf{v}}(x, y) = \\left[\\begin{array}{c} y \\\\ x \\end{array} \\right]$.  If you consider how it behaves in each quadrant, you will see that it matches the diagram shown."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"First consider this option:\n"
+"\n"
+"$\\vec{\\textbf{s}}(t) = \\left[\\begin{array}{c} t^3 \\\\ t \\end{array} \\right]$ for $-8 \\le t \\le 8$\n"
+"\n"
+"Since $t$ starts at the value $-8$, the curve which this function draws will start at\n"
+"\n"
+"$\n"
+"    \\vec{\\textbf{s}}(-8) =  \n"
+"    \\left[\\begin{array}{c} (-8)^3 \\\\ (-8) \\end{array} \\right] = \n"
+"    \\left[\\begin{array}{c} -512 \\\\ -8 \\end{array} \\right] \n"
+"$\n"
+"\n"
+"This is a huge vector, and when you put its tail at the origin, it's tip is far outside the range shown in the diagram above.\n"
+"\n"
+"[[☃ image 1]]\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Having eliminated the previous two, we already know the answer.\n"
+"\n"
+"$\\vec{\\textbf{s}}(t) = \\left[\\begin{array}{c} t^2 \\\\ t^3 \\end{array} \\right]$ for $-2 \\le t \\le 2$\n"
+"\n"
+"But let's step through why it makes sense.  Plugging in the endpoints, here's what we get:\n"
+"\n"
+"$\n"
+"    \\vec{\\textbf{s}}(-2) = \n"
+"    \\left[\\begin{array}{c} (-2)^2 \\\\ (-2)^3 \\end{array} \\right] =\n"
+"    \\left[\\begin{array}{c} 4 \\\\ -8 \\end{array} \\right]\n"
+"$\n"
+"\n"
+"$\n"
+"    \\vec{\\textbf{s}}(2) = \n"
+"    \\left[\\begin{array}{c} 2^2 \\\\ 2^3 \\end{array} \\right] =\n"
+"    \\left[\\begin{array}{c} 4 \\\\ 8 \\end{array} \\right]\n"
+"$\n"
+"\n"
+"This means our curve should range from the point $(4, -8)$ to $(4, 8)$, which is exactly what the one drawn in the problem does.  It also should pass through the origin at $\\vec{\\textbf{s}}(0)$, and the curve does indeed pass through the origin.\n"
+"\n"
+"[[☃ image 1]]\n"
+"\n"
+"Of course, just because two curves share the same endpoints doesn't mean they are the same.  Far from it.  But in this case, it means the function $\\vec{\\textbf{s}}(t) = \\left[\\begin{array}{c} t^2 \\\\ t^3 \\end{array} \\right]$ for $-2 \\le t \\le 2$ is the only viable option. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"If the vectors in a vector field generally point down and right in a region, this means the output of the underlying function has a positive x-component and negative y-component in that region.\n"
+"\n"
+"$\\vec{\\textbf{v}}(x, y) = \\left[ \\begin{array}{c} \\text{Something positive} \\\\ \\text{Something negative} \\end{array} \\right]$\n"
+"\n"
+"This rules out $\\vec{\\textbf{v}}(x, y) = \\left[\\begin{array}{c} x^2 \\\\ y^2 \\end{array} \\right]$ and $\\vec{\\textbf{v}}(x, y) = \\left[\\begin{array}{c} y^2 \\\\ x^2 \\end{array} \\right]$, since both components of their outputs are always positive."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Similarly, let's analyze another option in terms of its end points:\n"
+"\n"
+"$\\vec{\\textbf{s}}(t) = \\left[\\begin{array}{c} t \\\\ t^2 \\end{array} \\right]$ for $0 \\le t \\le 4$\n"
+"\n"
+"Plugging in the endpoints $t = 0$ and $t = 4$, here's what we get.\n"
+"\n"
+"$\n"
+"    \\vec{\\textbf{s}}(0) = \n"
+"    \\left[\\begin{array}{c} 0 \\\\ 0^2 \\end{array} \\right] =\n"
+"    \\left[\\begin{array}{c} 0 \\\\ 0 \\end{array} \\right]\n"
+"$\n"
+"\n"
+"$\n"
+"    \\vec{\\textbf{s}}(4) = \n"
+"    \\left[\\begin{array}{c} 4 \\\\ 4^2 \\end{array} \\right] =\n"
+"    \\left[\\begin{array}{c} 4 \\\\ 16 \\end{array} \\right]\n"
+"$\n"
+"\n"
+"This would suggest that the curve goes from the origin to the point $(4, 16)$, which is again beyond the range of the actual curve drawn.\n"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise is at (x0532b959) on the ja stage.
+# Exercise is at (x0532b959) on the pl stage.
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphs"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise is at (x0532b959) on the ja stage.
+# Exercise is at (x0532b959) on the pl stage.
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Vector fields and fluid flow"
+msgstr ""

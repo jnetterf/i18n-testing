@@ -1,0 +1,195 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:42+0000\n"
+"PO-Revision-Date: 2017-12-01 14:42+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/polynomial-factorization/factoring-polynomials-2-quadratic-forms/e/factoring_polynomials_with_two_variables">http://translate.khanacademy.org/math/algebra/polynomial-factorization/factoring-polynomials-2-quadratic-forms/e/factoring_polynomials_with_two_variables</a>.
+# Exercise at (x11ef1f7abc5625e3) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"In order to factor $y^2\\green{-5}y\\blue{+6}$ as $(y+a)(y+b)$, we need to find two integers $a$ and $b$ $\\green{\\text{whose sum is}}\\ \\green{-5}$ and $\\blue{\\text{whose product is}}\\ \\blue{6}$. We can find them by first considering all pairs of integers whose product is $6$, and then calculating the sums of those pairs.\n"
+"\n"
+"It turns out that $a=-3$ and $b=-2$ satisfy these conditions, since $-3+(-2)=\\green{-5}$ and $(-3)(-2)=\\blue{6}$.\n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/b8b44827db0f80d289e23b2b374ce097b606049e)\n"
+"\n"
+"We now know that  $y^2-5y+6=(y-3)(y-2)$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/polynomial-factorization/factoring-polynomials-2-quadratic-forms/e/factoring_polynomials_with_two_variables">http://translate.khanacademy.org/math/algebra/polynomial-factorization/factoring-polynomials-2-quadratic-forms/e/factoring_polynomials_with_two_variables</a>.
+# Exercise at (x11ef1f7abc5625e3) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Let's factor the polynomial expression and compare our answer to what Robin and Vivi wrote.  \n"
+"\n"
+"Each term in the polynomial expression shares the common monomial factor $5y^2$, so we can begin by factoring this out.\n"
+"\n"
+"$5y^4-25y^3+30y^2=5y^2(y^2-5y+6)$\n"
+"\n"
+"We can now focus on factoring the quadratic expression $y^2-5y+6$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving-quadratics-by-using-structure">http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving-quadratics-by-using-structure</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"**Find one value of $x$ that is a solution to the equation:**\n"
+"\n"
+"$(7x+2)^2+6(7x+2)=27$\n"
+"\n"
+"$x=$ [[☃ numeric-input 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving-quadratics-by-using-structure">http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving-quadratics-by-using-structure</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Let's solve this equation in terms of ${p}$:\n"
+"\n"
+"$\\begin{align}\\blueD{p}^2+6\\blueD{p}&=27\\\\\\\\\n"
+"\\blueD{p}^2+6\\blueD{p}-27&=0\\\\\\\\\n"
+"(\\blueD{p}+9)(\\blueD{p}-3)&=0\\\\\\\\\n"
+"\\blueD{p}=-9\\  &\\text{or} \\ \\ \\blueD{p}=3\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving-quadratics-by-using-structure">http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving-quadratics-by-using-structure</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Since $\\blueD{p}=\\blueD{7x+2}$, let's substitute this value back into our two solutions in order to solve for $x$:\n"
+"\n"
+"$\\blueD{7x+2}=-9\\ \\ \\  \\text{or} \\ \\ \\ \\blueD{7x+2}=3$\n"
+"\n"
+"When we solve ${7x+2}=-9$, we find that $x=-\\dfrac{11}{7}$.\n"
+"\n"
+"When we solve ${7x+2}=3$, we find that $x=\\dfrac{1}{7}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving-quadratics-by-using-structure">http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving-quadratics-by-using-structure</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"We could solve for $x$ by expanding $(7x+2)^2$, combining terms that are alike, and using the quadratic formula or factoring to solve for $x$.  However there is a more elegant way to approach this problem. Let's use *structural features* to rewrite the equation in a simpler form.\n"
+"\n"
+"Let's look at the given equation:\n"
+"\n"
+"$(\\blueD{7x+2})^2+6(\\blueD{7x+2})=27$\n"
+"\n"
+"If we let $\\blueD{p}=\\blueD{7x+2}$, we can see that this equation is in the form:\n"
+"\n"
+"$\\blueD{p}^2+6\\blueD{p}=27$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving_quadratics_by_factoring">http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving_quadratics_by_factoring</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"**Solve for $x$.**\n"
+"\n"
+"$x^2 - 20x + 100 = 0$\n"
+"\n"
+"$x=$ [[☃ numeric-input 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving_quadratics_by_factoring">http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving_quadratics_by_factoring</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Both $x^2$ and $100$ are *perfect squares,* since $x^2=(\\blueD{x})^2$ and $100=(\\greenD{10})^2$.\n"
+"\n"
+"Additionally, $20x$ is twice the product of the roots of $x^2$ and $100$, since $2x=2(\\blueD x)(\\greenD 10)$.\n"
+"\n"
+"$x^2-20x+1= (\\blueD{x})^2-2(\\blueD x)(\\greenD 10)+(\\greenD{10})^2$\n"
+"\n"
+"So we can use the *square of a difference* pattern to factor:\n"
+"\n"
+"$\\blueD{a}^2 -2(\\blueD a)(\\greenD b)+ \\greenD{b}^2 =(\\blueD{a}-\\greenD{b})^2$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving_quadratics_by_factoring">http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving_quadratics_by_factoring</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"In this case, $\\blueD{a}=\\blueD{x}$ and $\\greenD{b}=\\greenD{10}$:\n"
+"\n"
+"$ (\\blueD{x})^2-2(\\blueD x)(\\greenD 10)+(\\greenD{10})^2 =(\\blueD{x}-\\greenD{10})^2$\n"
+"\n"
+"So our equation can be re-written:\n"
+"\n"
+"$(x -10)^2 = 0$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving_quadratics_by_factoring">http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving_quadratics_by_factoring</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The only possible solution is when $x -10 = 0$, which is\n"
+"\n"
+"$x=10$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving_quadratics_by_factoring_2">http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving_quadratics_by_factoring_2</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Dividing both sides by $3$ gives:\n"
+"\n"
+" $ \\qquad x^2 \\color{#28AE7B}{-18}x + \\color{#6495ED}{81} = 0 $"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving_quadratics_by_factoring_2">http://translate.khanacademy.org/math/algebra/quadratics/solving-quadratic-equations-by-factoring/e/solving_quadratics_by_factoring_2</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The number $-9$ used twice satisfies both conditions:\n"
+"\n"
+" $ \\qquad \\color{#FF00AF}{-9} + \\color{#FF00AF}{-9} = \\color{#28AE7B}{-18} $\n"
+"\n"
+" $ \\qquad \\color{#FF00AF}{-9} \\times \\color{#FF00AF}{-9} = \\color{#6495ED}{81} $"
+msgstr ""

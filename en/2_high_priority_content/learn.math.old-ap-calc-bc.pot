@@ -1,0 +1,768 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:42+0000\n"
+"PO-Revision-Date: 2017-12-01 14:42+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/taylor-series-calc/e/taylor-polynomial-approximation">http://translate.khanacademy.org/math/calculus-home/series-calc/taylor-series-calc/e/taylor-polynomial-approximation</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-12">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-12</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lagrange error bound"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-10">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-10</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving motion problems using parametric and vector-valued functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-1">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Defining and differentiating parametric equations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-2">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Second derivatives of parametric equations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-3">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-3</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding arc lengths of curves given by parametric equations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-4">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-4</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Defining polar coordinates and differentiating in polar form"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-5">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-5</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding the area of a polar region or the area bounded by a single polar curve"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-7">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-7</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding the arc length of a polar graph"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-8">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new/bc-10-8</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Defining and differentiating vector-valued functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-advanced-functions-new</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Parametric equations, polar coordinates, and vector-valued functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-11">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-11</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Volumes with cross sections: squares and rectangles"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-13">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-13</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding the arc length of a smooth, planar curve"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-1">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding the average value of a function on an interval"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-2">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Connecting position, velocity, and acceleration functions using integrals"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-3">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-3</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Using accumulation functions and definite integrals in applied contexts"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-4">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-4</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding the area between curves expressed as functions of x"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-5">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-5</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding the area between curves expressed as functions of y"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-7">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-7</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Volume with disc method: revolving around x- or y-axis"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-9">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new/bc-9-9</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Volume with washer method: revolving around x- or y-axis"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-applications-of-integration-new</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Applications of integration"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-1">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Defining continuity at a point"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-2">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Confirming continuity over an interval"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-3">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-3</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Exploring types of discontinuities"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-4">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-4</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Removing discontinuities"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-5">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-5</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Connecting infinite limits and vertical asymptotes"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Connecting limits at infinity and horizontal asymptotes"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-7">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-7</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Working with the intermediate value theorem"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-10">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-10</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Connecting a function, its first derivative, and its second derivative"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-12">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-12</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving optimization problems"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-1">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Using L’Hôpital’s rule for finding limits of indeterminate forms"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-2">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Using the mean value theorem"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-3">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-3</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Extreme value theorem, global versus local extrema, and critical points"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-4">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-4</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determining intervals on which a function is increasing or decreasing"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-5">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-5</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Using the first derivative test to find local extrema"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-6">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-6</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Using the candidates test to find global extrema"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-7">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-7</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determining concavity of intervals and finding points of inflection"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-8">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-8</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Using the second derivative test to find extrema"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-9">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new/bc-6-9</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Sketching curves of functions and their derivatives"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-analytical-applications-new</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Analytical applications of differentiation"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-contextual-applications-new/bc-5-1">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-contextual-applications-new/bc-5-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Interpreting the meaning of the derivative in context"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-contextual-applications-new/bc-5-2">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-contextual-applications-new/bc-5-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Straight-line motion: connecting position, velocity, and acceleration"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-contextual-applications-new/bc-5-3">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-contextual-applications-new/bc-5-3</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Rates of change in other applied contexts (non-motion problems)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-contextual-applications-new/bc-5-4">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-contextual-applications-new/bc-5-4</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to related rates"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-contextual-applications-new/bc-5-5">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-contextual-applications-new/bc-5-5</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving related rates problems"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-contextual-applications-new/bc-5-6">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-contextual-applications-new/bc-5-6</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Approximating values of a function using local linearity and linearization"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-contextual-applications-new">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-diff-contextual-applications-new</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Contextual applications of differentiation"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-10">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-10</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Logistic models with differential equations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-1">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Modeling situations with differential equations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-2">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Verifying solutions for differential equations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-3">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-3</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Sketching slope fields"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-4">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-4</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Reasoning using slope fields"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-5">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-5</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Approximating solutions using Euler’s method"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-6">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-6</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding general solutions using separation of variables"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-7">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-7</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding particular solutions using separation of variables"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-8">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-8</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Exponential models with differential equations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-9">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differential-equations-new/bc-8-9</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Integrating using linear partial fractions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-10">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-10</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding the derivatives of tangent, cotangent, secant, and/or cosecant functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-1">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Defining average and instantaneous rates of change at a point"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-2">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Defining the derivative of a function and using derivative notation"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-3">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-3</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Estimating derivatives of a function at a point"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-4">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-4</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Connecting differentiability and continuity: determining When derivatives do and do not exist"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-5">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-5</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Applying the power rule"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-6">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-6</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Derivative rules: constant, sum, difference, and constant multiple"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Derivatives of sin(x), cos(x), 𝑒ˣ, and ln(x)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-8">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-8</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The product rule"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-9">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-9</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The quotient rule"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Differentiation: definition and fundamental properties"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The chain rule"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-3">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-3</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Differentiating inverse functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-4">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-4</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Differentiating inverse trigonometric functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-5">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-5</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Selecting procedures for calculating derivatives"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Calculating higher-order derivatives"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Differentiation: composite, implicit, and inverse functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-11">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-11</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Using integration by parts"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-12">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-12</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Evaluating improper integrals"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-1">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Exploring accumulations of change"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-2">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Approximating areas with Riemann sums"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-3">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-3</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Riemann sums, summation notation, and definite integral notation"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-4">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-4</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The fundamental theorem of calculus and accumulation functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-5">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-5</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Interpreting the behavior of area functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-6">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-6</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Applying algebraic properties of definite integrals"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-7">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-7</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The fundamental theorem of calculus and definite integrals"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-8">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-8</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding antiderivatives and indefinite integrals: basic rules and notation"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-9">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new/bc-7-9</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Integrating using substitution"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-integration-new</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Integration and accumulation of change"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-1">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introducing calculus: can change occur at an instant?"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-2">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Defining limits and using limit notation"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-3">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-3</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Estimating limit values from graphs"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-4">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-4</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Estimating limit values from tables"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-5">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-5</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determining limits using algebraic properties of limits"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-6">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-6</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determining limits using algebraic manipulation"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-7">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-7</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Selecting procedures for determining limits"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-8">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-8</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determining limits using the squeeze theorem"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-9">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-limits-new/bc-1-9</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Connecting multiple representations of limits"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-10">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-10</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Alternating series error bound"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-11">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-11</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding Taylor polynomial approximations of functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-13">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-13</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Representing functions as power series"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-14">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-14</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Radius and interval of convergence of power series"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-15">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-15</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding Taylor or Maclaurin series for a function"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-1">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Defining convergent and divergent infinite series"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-2">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Properties of infinite series and working with geometric series"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-3">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-3</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The nth-term test for divergence"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-4">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-4</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Integral test for convergence"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-5">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-5</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Harmonic series and p-series"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-6">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-6</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Comparison tests for convergence"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-7">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-7</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Alternating series test for convergence"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-8">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new/bc-11-8</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Ratio test for convergence"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-series-new</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Infinite sequences and series"
+msgstr ""

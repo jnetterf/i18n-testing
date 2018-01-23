@@ -1,0 +1,1769 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2017-12-01 14:41+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# English version in label at <a href="https://www.khanacademy.org/exercise/making-inferences-from-random-samples">https://www.khanacademy.org/exercise/making-inferences-from-random-samples</a>
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+# See text on <a href="http://www.khanacademy.org/give">http://www.khanacademy.org/give</a>
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/making-inferences-from-random-samples?lang=x8cfd62414e7752b3#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/making-inferences-from-random-samples?lang=xa1e54d37a97e87c6#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/making-inferences-from-random-samples?lang=xc0b6e26d7801eee0#en-pt.
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:771 genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:280 genfiles/labels/en/9d0b08f2a41410ad91b65ed0c98721bfc6bcada3-data.json:13 genfiles/labels/en/a31659213c382c6c5aec90cd1f6a6bf9af2a1aa1-data.json:13 genfiles/labels/en/c52339cf3344bcb2c8d5455cb15b546d6a34049c-data.json:14 profiles/focus_graph.py:35 templates/completesignup.html:66 templates/settings.html:90
+msgid "Other"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: javascript/profile-nav-package/profile-router.js:220 templates/viewprofile.html:75
+msgid "User Profile"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: javascript/reports-package/empty-list.handlebars:1
+msgid "The class list you selected is empty. To add students to your class list, go to <a href=\"/students\">Manage Students</a>."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/noprofile.html:5
+msgid "Profile not available"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/noprofile.html:10
+msgid "Whoops. Looks like that profile doesn't exist!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/profiles/class_energy_points_per_minute_graph.html:125
+msgid "Energy Points per Minute"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/profiles/class_energy_points_per_minute_graph.html:137
+msgid "Energy Points per Minute (Rolling Average)"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/profiles/class_energy_points_per_minute_graph.html:166
+msgid "Total Class Energy Points:"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/profiles/class_time_graph.html:6
+msgid "No class activity."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/profiles/class_time_graph.html:64
+msgid "~Time Active"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/profiles/class_time_graph.html:117
+msgid "During normal school hours"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/profiles/class_time_graph.html:121
+msgid "Outside of school hours"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/profiles/class_time_graph.html:129
+msgid "This view approximates what times your students were actively learning across all subjects (except SAT, which you can find"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/profiles/class_time_graph.html:129
+msgid "here)"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/profiles/class_time_graph.html:129
+msgid "on Khan Academy."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/profiles/class_time_graph.html:131
+msgid "This view approximates what times your students were actively learning across all subjects on Khan Academy."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/profiles/class_time_graph.html:134
+msgid "To avoid students earning credit while in another browser window, this tracker will time out after 10 minutes of inactivity."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/profiles/class_time_graph.html:135
+msgid " For more information on Khan Academy’s Reports, search our "
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/profile">http://www.khanacademy.org/profile</a>
+#: templates/profiles/class_time_graph.html:136
+msgid "Help Center"
+msgstr ""
+
+#: accounts/profile_widgets.py:48
+msgid "Showcase"
+msgstr ""
+
+#: coaches/under13.py:232 genfiles/compiled_jsx/en/javascript/profile-package/streak-widget.jsx.js:33 javascript/profile-package/profile-tabs.js:53
+#, python-format
+msgid "%(num)s day"
+msgid_plural "%(num)s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: discussions/profile_widgets.py:53
+msgid "Everyone can see your discussion history."
+msgstr ""
+
+#: discussions/profile_widgets.py:60
+msgid "All discussion activity is automatically public so other users can respond to your questions and learn from your answers."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/new-assignment-post-button.jsx.js:209 genfiles/compiled_jsx/en/javascript/content-library-package/components/class-picker-modal.jsx.js:351 genfiles/compiled_jsx/en/javascript/content-library-package/components/class-picker-modal.jsx.js:360 genfiles/compiled_jsx/en/javascript/profile-nav-package/username-picker.jsx.js:322 genfiles/compiled_jsx/en/javascript/profile-settings-package/profile-settings.jsx.js:145 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-save-spinoff-buttons.jsx.js:322 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-save-spinoff-buttons.jsx.js:326 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-save-spinoff-buttons.jsx.js:396
+msgid "Saving..."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/new-assignment-post-button.jsx.js:210 genfiles/compiled_jsx/en/javascript/avatar-customizer-package/avatar-customizer.jsx.js:905 genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:187 genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:917 genfiles/compiled_jsx/en/javascript/class-creator-package/screens/add-school-screen.jsx.js:115 genfiles/compiled_jsx/en/javascript/class-creator-package/screens/subject-selector-screen.jsx.js:122 genfiles/compiled_jsx/en/javascript/class-package/settings/edit-class-name.jsx.js:136 genfiles/compiled_jsx/en/javascript/profile-nav-package/username-picker.jsx.js:125 genfiles/compiled_jsx/en/javascript/profile-nav-package/username-picker.jsx.js:202 genfiles/compiled_jsx/en/javascript/profile-nav-package/username-picker.jsx.js:227 genfiles/compiled_jsx/en/javascript/profile-nav-package/username-picker.jsx.js:244 genfiles/compiled_jsx/en/javascript/profile-nav-package/username-picker.jsx.js:317 genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:419 genfiles/compiled_jsx/en/javascript/profile-settings-package/profile-settings.jsx.js:141 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-header.jsx.js:79 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-save-spinoff-buttons.jsx.js:226 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-save-spinoff-buttons.jsx.js:290 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-save-spinoff-buttons.jsx.js:383 javascript/scratchpads-package/scratchpad-ui-dev.js:54 javascript/scratchpads-package/scratchpad-ui-project.js:112
+msgid "Save"
+msgstr ""
+
+# label telling the user to input a start-date.
+#: genfiles/compiled_jsx/en/javascript/assignments-package/student-assignments/student-assignments-table.jsx.js:93 genfiles/compiled_jsx/en/javascript/content-library-package/components/practice-content-item.jsx.js:63 genfiles/compiled_jsx/en/javascript/content-library-package/components/sat-banner.jsx.js:83 genfiles/compiled_jsx/en/javascript/content-library-package/modules/classes-dashboard.jsx.js:186 genfiles/compiled_jsx/en/javascript/content-library-package/modules/practice-module.jsx.js:369 genfiles/compiled_jsx/en/javascript/content-library-package/modules/practice-shelf.jsx.js:182 genfiles/compiled_jsx/en/javascript/dashboard-package/booster-challenge-view.jsx.js:90 genfiles/compiled_jsx/en/javascript/dashboard-package/mastery-challenge-view.jsx.js:108 genfiles/compiled_jsx/en/javascript/dashboard-package/recent-topic-callout.jsx.js:292 genfiles/compiled_jsx/en/javascript/dashboard-package/task-entry.jsx.js:43 genfiles/compiled_jsx/en/javascript/search-package/mission-callouts.jsx.js:107 javascript/test-prep-package/task-page/lib/task-flows/mini-section-task-flow.js:269 javascript/test-prep-package/task-page/lib/task-flows/skill-task-flow.js:66 templates/emails/mastery_task.html:109 templates/emails/new_assignment_notification_email.html:63 third_party/javascript-khansrc/bootstrap-daterangepicker/datepicker.js:64
+msgid "Start"
+msgstr ""
+
+# Call to action for a curated module on <a href="http://translate.khanacademy.org/humanities/ap-us-history">http://translate.khanacademy.org/humanities/ap-us-history</a>.
+# Call to action for a curated module on <a href="http://translate.khanacademy.org/math/ap-calculus-ab">http://translate.khanacademy.org/math/ap-calculus-ab</a>.
+# Call to action for a curated module on <a href="http://translate.khanacademy.org/math/ap-calculus-bc">http://translate.khanacademy.org/math/ap-calculus-bc</a>.
+# Call to action for a curated module on <a href="http://translate.khanacademy.org/math/ap-statistics">http://translate.khanacademy.org/math/ap-statistics</a>.
+# Call to action for a curated module on <a href="http://translate.khanacademy.org/science/ap-physics-1">http://translate.khanacademy.org/science/ap-physics-1</a>.
+# Call to action for a curated module on <a href="http://translate.khanacademy.org/science/ap-physics-2">http://translate.khanacademy.org/science/ap-physics-2</a>.
+# Call to action for a curated module on (x0e2f5a2c) on the bg stage.
+# Call to action for a curated module on (x0e2f5a2c) on the es stage.
+# Call to action for a curated module on (x0e2f5a2c) on the pl stage.
+# Call to action for a curated module on (x1ec7b9b0) on the accents stage.
+# Call to action for a curated module on (x1ec7b9b0) on the es stage.
+# Call to action for a curated module on (x1ec7b9b0) on the fr stage.
+# Call to action for a curated module on (x1ec7b9b0) on the ja stage.
+# Call to action for a curated module on (x1ec7b9b0) on the pt stage.
+# Call to action for a curated module on (x2dd7feea) on the accents stage.
+# Call to action for a curated module on (x2dd7feea) on the es stage.
+# Call to action for a curated module on (x2dd7feea) on the fr stage.
+# Call to action for a curated module on (x2dd7feea) on the ja stage.
+# Call to action for a curated module on (x2dd7feea) on the pt stage.
+# Call to action for a curated module on (x640e90f7) on the bg stage.
+# Call to action for a curated module on (x640e90f7) on the es stage.
+# Call to action for a curated module on (x640e90f7) on the pl stage.
+# Call to action for a curated module on (xb87a304a) on the bg stage.
+# Call to action for a curated module on (xfb5d8e68) on the bg stage.
+# Call to action for a curated module on (xfb5d8e68) on the es stage.
+# Call to action for a curated module on (xfb5d8e68) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/add-sat-screen.jsx.js:56 genfiles/compiled_jsx/en/javascript/class-creator-package/screens/import-students-error-screen.jsx.js:118 genfiles/compiled_jsx/en/javascript/content-library-package/components/mission-callout-start-wrapper.jsx.js:183 genfiles/compiled_jsx/en/javascript/content-library-package/modules/large-image-content-carousel.jsx.js:356 genfiles/compiled_jsx/en/javascript/profile-package/widget-privacy-view.jsx.js:122 intl/datastore:1 templates/emails/welcome_email.html:492
+msgid "Learn more"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/progress/progress-group.jsx.js:76 genfiles/compiled_jsx/en/javascript/content-library-package/components/topic-progress-sidebar.jsx.js:444 genfiles/compiled_jsx/en/javascript/profile-nav-package/new-profile-nav.jsx.js:100 javascript/profile-nav-package/profile-router.js:363
+msgid "Progress"
+msgstr ""
+
+# Comment: Label for a progress level of Unstarted
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/coach-report-exercises-package/report.jsx.js:1761 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/recommendation-tab.jsx.js:29 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:452 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:471 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:609 genfiles/compiled_jsx/en/javascript/exercises-legacy-package/current-card-view.jsx.js:482 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:111 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:136 intl/datastore:1 javascript/coach-report-progress-by-student-package/exercise-problems-graph.js:224 javascript/exercises-package/exercise-utils.js:11 javascript/shared-package/exercise-progress-constants.js:25 javascript/tasks-package/exercise-level-to-label.js:14
+msgid "Needs Practice"
+msgstr ""
+
+# Comment: Label for a progress level of Practiced
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/coach-report-exercises-package/report.jsx.js:1762 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/recommendation-tab.jsx.js:30 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:453 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:472 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:608 genfiles/compiled_jsx/en/javascript/exercise-task-card-package/exercise-end-of-task-card-do-n.jsx.js:237 genfiles/compiled_jsx/en/javascript/exercise-task-card-package/exercise-end-of-task-card-do-n.jsx.js:270 genfiles/compiled_jsx/en/javascript/exercises-legacy-package/current-card-view.jsx.js:483 genfiles/compiled_jsx/en/javascript/recommendations-package/exercise-picker.jsx.js:42 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:112 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:141 intl/datastore:1 javascript/coach-report-progress-by-student-package/exercise-problems-graph.js:225 javascript/exercises-package/exercise-utils.js:12 javascript/shared-package/exercise-progress-constants.js:26 javascript/tasks-package/exercise-level-to-label.js:15
+msgid "Practiced"
+msgstr ""
+
+# Comment: Label for a progress level of Mastery1
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/coach-report-exercises-package/report.jsx.js:1763 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/recommendation-tab.jsx.js:26 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:607 genfiles/compiled_jsx/en/javascript/exercises-legacy-package/current-card-view.jsx.js:484 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:113 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:146 intl/datastore:1 javascript/coach-report-progress-by-student-package/exercise-problems-graph.js:226 javascript/exercises-package/exercise-utils.js:13 javascript/shared-package/exercise-progress-constants.js:27 javascript/tasks-package/exercise-level-to-label.js:16
+msgid "Level One"
+msgstr ""
+
+# Comment: Label for a progress level of Mastery2
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/coach-report-exercises-package/report.jsx.js:1764 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/recommendation-tab.jsx.js:27 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:606 genfiles/compiled_jsx/en/javascript/exercises-legacy-package/current-card-view.jsx.js:485 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:114 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:151 intl/datastore:1 javascript/coach-report-progress-by-student-package/exercise-problems-graph.js:227 javascript/exercises-package/exercise-utils.js:14 javascript/shared-package/exercise-progress-constants.js:28 javascript/tasks-package/exercise-level-to-label.js:17
+msgid "Level Two"
+msgstr ""
+
+# Comment: Label for a progress level of Mastery3
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/coach-report-exercises-package/report.jsx.js:1765 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/recommendation-tab.jsx.js:28 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:456 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:475 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:605 genfiles/compiled_jsx/en/javascript/exercises-legacy-package/current-card-view.jsx.js:486 genfiles/compiled_jsx/en/javascript/recommendations-package/exercise-picker.jsx.js:30 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:115 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:156 intl/datastore:1 javascript/coach-report-progress-by-student-package/exercise-problems-graph.js:228 javascript/content-library-package/utils/mastery-utils.js:24 javascript/exercises-package/exercise-utils.js:15 javascript/shared-package/exercise-progress-constants.js:29 javascript/tasks-package/exercise-level-to-label.js:18
+msgid "Mastered"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-programs-package/report.jsx.js:90 genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:489
+msgid "No projects found."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/detail-body.jsx.js:73 javascript/profile-package/profile.handlebars:14
+msgid "It's our fault."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:458 javascript/coach-report-progress-by-student-package/activity-graph.js:18
+msgid "Video Minutes"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:459 javascript/coach-report-progress-by-student-package/activity-graph.js:27
+msgid "Skill Minutes"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:460 genfiles/compiled_jsx/en/javascript/exercise-task-card-package/mastery-end-of-task-card.jsx.js:194 javascript/profile-package/badge-container.handlebars:10
+msgid "Badges Earned"
+msgstr ""
+
+# Comment: Part of a sentence describing an assignments due date, i.e: Due today
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/recent-topic-callout.jsx.js:222 genfiles/compiled_jsx/en/javascript/profile-package/streak-interval.jsx.js:20 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:93 intl/datastore:1 third_party/javascript-khansrc/bootstrap-daterangepicker/datepicker.js:74
+msgid "Today"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/oauth-approval.jsx.js:56 javascript/profile-package/coach.handlebars:21
+msgid "Accept"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/parent-package/activity-summary.jsx.js:251 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:97 third_party/javascript-khansrc/bootstrap-daterangepicker/datepicker.js:78
+msgid "Last 7 days"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/parent-package/activity-summary.jsx.js:254 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:98 third_party/javascript-khansrc/bootstrap-daterangepicker/datepicker.js:79
+msgid "Last 30 days"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-nav-package/user-card-view.jsx.js:105
+msgid "Sign up to claim your profile"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-nav-package/user-card-view.jsx.js:114
+msgid "Pick a username"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-nav-package/user-card-view.jsx.js:127
+msgid "Add your bio"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-nav-package/user-card-view.jsx.js:136
+msgid "Add your location"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-nav-package/username-picker.jsx.js:235
+msgid "Checking..."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-nav-package/username-picker.jsx.js:252
+msgid "Can't leave empty."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:23
+#, python-format
+msgid "You don't have any %(title)s projects!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:28
+msgid "You don't have any projects!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:36
+#, python-format
+msgid "Start learning %(title)s now!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:46
+msgid "One way that you can create things is by learning to program."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:50
+msgid "Learn how to program with: Computer Science curriculum"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:56
+msgid "Already know how to program?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:61
+msgid "Browse through existing programs"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:64
+msgid "Start a program from scratch"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:69
+msgid "More resources:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:74 genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:348
+msgid "Learn programming"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:77
+msgid "Browse programs"
+msgstr ""
+
+# Title for a curated module on <a href="http://translate.khanacademy.org/computing/computer-programming">http://translate.khanacademy.org/computing/computer-programming</a>.
+# Title for a curated module on (xffde7c31) on the bn stage.
+# Title for a curated module on (xffde7c31) on the pl stage.
+# Title for a curated module on (xffde7c31) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:80 genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:353 intl/datastore:1
+msgid "Create a new program"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:88
+#, python-format
+msgid "They don't have any %(title)s projects!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:93
+msgid "They don't have any projects!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:98
+msgid "Encourage them to learn how to program with:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/no-projects-message.jsx.js:101
+msgid "Computer Science curriculum"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widget-mixin.jsx.js:98
+msgid "View all"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:180
+msgid "Recent video, exercise, and badge activity will show up here."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:184 javascript/profile-package/recent-activity-list.handlebars:10
+msgid "Recent <a href=\"/library\">video</a>, <a href=\"/exercisedashboard\">exercise</a>, and <a href=\"/badges\">badge</a> activity will show up here."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:193
+msgid "You don't have any activity yet."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:255
+msgid "This user doesn't have any discussion activity yet."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:259
+msgid "You don't have any discussion activity yet."
+msgstr ""
+
+# Exercise at (x55dc48da) on the accents stage.
+# Exercise at (x55dc48da) on the pt stage.
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x6931a556aff2dd5b) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-statistics">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-statistics</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-14-statistics</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/on-sixth-grade-math/on-data-management-probability/on-statistics">http://translate.khanacademy.org/math/on-sixth-grade-math/on-data-management-probability/on-statistics</a>
+# Title of topic (x1e380311) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:310 intl/datastore:1 javascript/profile-package/profile-tab-discussion.handlebars:62
+msgid "Statistics"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:334
+msgid "This user doesn't have any projects yet."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:338
+msgid "You don't have any projects yet."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:358
+msgid "browse programs made by other users"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:383
+msgid "Customize projects"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:428
+msgid "Choose your showcase projects"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:572
+msgid "The beginning"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:579
+msgid "Date joined"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:590
+msgid "Videos completed"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:606 genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-exam.jsx.js:173
+msgid "Energy points earned"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:619
+msgid "User Statistics"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:789
+msgid "Everyone can see your profile, but you choose what others can see."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:794
+msgid "Use the privacy dropdowns below to choose what you want to share and who you want to share it with. You pick what you'd like to keep hidden -- and what you'd like to proudly show off."
+msgstr ""
+
+# Comment: Part of a sentence describing an assignments due date, i.e: Due yesterday
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/profile-package/streak-interval.jsx.js:22 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:94 intl/datastore:1 third_party/javascript-khansrc/bootstrap-daterangepicker/datepicker.js:75
+msgid "Yesterday"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/streak-interval.jsx.js:65
+msgid "None!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/streak-widget.jsx.js:63
+msgid "Time to get to work!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/streak-widget.jsx.js:66
+msgid "Get crackin' ⟶"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/streak-widget.jsx.js:73
+msgid "Not done yet…"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/streak-widget.jsx.js:80 genfiles/compiled_jsx/en/javascript/profile-package/streak-widget.jsx.js:88
+msgid "Today's status"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/streak-widget.jsx.js:93
+msgid "Come back tomorrow!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/streak-widget.jsx.js:94
+msgid "Give 'em a high five!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/streak-widget.jsx.js:283
+msgid "Last streak"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/streak-widget.jsx.js:285
+msgid "Current streak"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-package/streak-widget.jsx.js:306
+msgid "Longest streak"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-reports-package/profile-reports.jsx.js:93
+#, python-format
+msgid "We ran into a problem loading this report. Try again in a few minutes. If this continues to happen please %(verb)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/profile-reports-package/profile-reports.jsx.js:102 genfiles/compiled_jsx/en/javascript/reports-package/coach-reports-page.jsx.js:38
+msgid "let us know"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:95 third_party/javascript-khansrc/bootstrap-daterangepicker/datepicker.js:76
+msgid "Last 2 days"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:96 third_party/javascript-khansrc/bootstrap-daterangepicker/datepicker.js:77
+msgid "Last 3 days"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:99 third_party/javascript-khansrc/bootstrap-daterangepicker/datepicker.js:80
+msgid "All time"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/dynamic-project-list.jsx.js:21 javascript/discussion-package/discussion-list.js:124 javascript/profile-package/profile-discussion.js:607
+msgid "Top"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/dynamic-project-list.jsx.js:26 javascript/discussion-package/discussion-list.js:129 javascript/profile-package/profile-discussion.js:613
+msgid "Recent"
+msgstr ""
+
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: intl/datastore:1 javascript/profile-package/coaches.handlebars:179
+msgid "Your coaches"
+msgstr ""
+
+# Comment: Mission Dashboard Mastery Task title
+# Label for task on the profile->progress->a skill ->problem hover over info. A mastery task is one our system will recommend a user to achieve "mastery" in skills
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: intl/datastore:1 profiles/exercise_problems_graph.py:63
+msgid "Mastery task"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-pronoun/indefinite-pronouns-pronoun-vagueness-and-emphatic-pronouns/e/indefinite-pronouns">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-pronoun/indefinite-pronouns-pronoun-vagueness-and-emphatic-pronouns/e/indefinite-pronouns</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-pronoun/e/indefinite-pronouns">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-pronoun/e/indefinite-pronouns</a>.
+# Exercise at (x7f4e58b1) on the accents stage.
+# Exercise at (x7f4e58b1) on the bg stage.
+# Exercise at (x7f4e58b1) on the pl stage.
+# Exercise at (x7f4e58b1) on the pt stage.
+# Exercise at (x7f4e58b1) on the tr stage.
+# Exercise at (x7f4e58b1) on the zh-hans stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1 javascript/profile-package/profile-widget-model.js:12
+msgid "Everyone"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-1st-grade-math/cc-1st-place-value/cc-1st-two-digit-compare/e/comparing-two-digit-numbers-1">http://translate.khanacademy.org/math/cc-1st-grade-math/cc-1st-place-value/cc-1st-two-digit-compare/e/comparing-two-digit-numbers-1</a>.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Sunday"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/amnh/the-universe/stars/e/quiz-stars">http://translate.khanacademy.org/partner-content/amnh/the-universe/stars/e/quiz-stars</a>.
+# Exercise at (x52ed9553) on the pt stage.
+# Exercise at (x52ed9553) on the tr stage.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1 javascript/profile-package/profile-tabs.js:184
+msgid "Sun"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/acceleration-mcat/e/acceleration-questions">http://translate.khanacademy.org/test-prep/mcat/physical-processes/acceleration-mcat/e/acceleration-questions</a>.
+# Exercise at (x06fa1248) on the pt stage.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1 lib/time_util.py:97
+#, python-format
+msgid "1 second"
+msgid_plural "%(num)s seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/coach-report-progress-by-student-package/activity-graph.js:46
+msgid "Energy Points"
+msgstr ""
+
+#: javascript/coach-report-progress-by-student-package/activity-graph.js:128
+msgid "Energy Points Earned"
+msgstr ""
+
+#: javascript/coach-report-progress-by-student-package/exercise-problems-graph.js:34
+#, python-format
+msgid "<span style=\"font-size: 15px;\">Problem %(problemNum)s</span><b style=\"font-size: 15px;\"> - Correct</b>"
+msgstr ""
+
+#: javascript/coach-report-progress-by-student-package/exercise-problems-graph.js:39
+#, python-format
+msgid "<span style=\"font-size: 15px;\">Problem %(problemNum)s</span><b style=\"font-size: 15px;\"> - Incorrect</b>"
+msgstr ""
+
+#: javascript/coach-report-progress-by-student-package/exercise-problems-graph.js:43
+msgid "(Hint Used)"
+msgstr ""
+
+#: javascript/coach-report-progress-by-student-package/exercise-problems-graph.js:53
+#, python-format
+msgid "%(timeUsed)s used"
+msgstr ""
+
+#: javascript/coach-report-progress-by-student-package/exercise-problems-graph.js:99 javascript/exercises-legacy-package/history.js:134
+msgid "Hint used"
+msgstr ""
+
+#: javascript/coach-report-progress-by-student-package/exercise-problems-graph.js:156
+msgid "Time Used (seconds)"
+msgstr ""
+
+#: javascript/coach-report-progress-by-student-package/exercise-problems-graph.js:200
+#, python-format
+msgid "Last Ten: %(percentLastTenCorrect)s% correct<br/>Longest Streak: %(longestStreak)s<br/>"
+msgstr ""
+
+#: javascript/content-library-package/content-icon-utils.js:18 javascript/profile-package/profile-tabs.js:194 javascript/profile-package/profile-tabs.js:212
+msgid "Challenge"
+msgstr ""
+
+#: javascript/discussion-package/discussion-list.js:130
+msgid "Most Recent"
+msgstr ""
+
+#: javascript/profile-nav-package/profile-router.js:279 javascript/profile-package/discussion-tab-links.handlebars:34 javascript/profile-package/profile-discussion.js:483
+msgid "Tips & Thanks"
+msgstr ""
+
+#: javascript/profile-nav-package/profile-router.js:285 javascript/profile-package/discussion-tab-links.handlebars:14 javascript/profile-package/profile-discussion.js:485
+msgid "Project Help Requested"
+msgstr ""
+
+#: javascript/profile-nav-package/profile-router.js:291 javascript/profile-package/discussion-tab-links.handlebars:19 javascript/profile-package/profile-discussion.js:487
+msgid "Project Help Provided"
+msgstr ""
+
+#: javascript/profile-nav-package/username-picker.handlebars:3
+msgid "Edit basic info"
+msgstr ""
+
+#: javascript/profile-nav-package/username-picker.handlebars:7
+msgid "If you change your username, you cannot get your old one back for 120 days."
+msgstr ""
+
+#: javascript/profile-nav-package/username-picker.handlebars:13
+msgid "Real Name"
+msgstr ""
+
+#: javascript/profile-nav-package/username-picker.handlebars:18
+msgid "This is how your name will appear around Khan Academy, and how your friends and coaches will recognize you."
+msgstr ""
+
+#: javascript/profile-nav-package/username-picker.handlebars:29
+msgid "Your username will appear in your Khan Academy address."
+msgstr ""
+
+#: javascript/profile-package/badge-container.handlebars:21
+msgid "Possible Badges"
+msgstr ""
+
+#: javascript/profile-package/badge-display-case.handlebars:10
+msgid "Edit badge display case."
+msgstr ""
+
+#: javascript/profile-package/coach.handlebars:13
+msgid "(pending)"
+msgstr ""
+
+#: javascript/profile-package/coach.handlebars:22
+msgid "Ignore"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:3
+msgid "Coaches have access to all of your child's Khan Academy data."
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:5
+msgid "Coaches have access to all of your Khan Academy data."
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:10
+msgid "Your child's student id is {{identifier}}"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:12
+msgid "Your student id is {{identifier}}"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:24
+msgid ""
+"\n"
+"                        You control whether your child can accept invitations to be \"coached.\"\n"
+"                        Your child's coaches are able to view all of their activity.\n"
+"                        A child can add a coach by either entering the class code\n"
+"                        given to them by a classroom teacher, or by entering any\n"
+"                        Khan Academy user's email in the \"Add a coach\" field in their \"Coaches\" tab.\n"
+"                        This setting should be checked to allow your child\n"
+"                        to use Khan Academy in the classroom with a teacher.\n"
+"                        Your child's coaches are able to view all of their activity.\n"
+"                    "
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:36
+msgid ""
+"\n"
+"                        Enabling this setting also allows your child to add\n"
+"                        another parent or guardian in the \"Add another parent\n"
+"                        or guardian\" section in their \"Coaches\" tab.\n"
+"                        This parent or guardian will not have the ability\n"
+"                        to change your child's account settings but can view\n"
+"                        your child's activity on their parent dashboard.\n"
+"                    "
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:56
+msgid "Add a class for your child"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:58
+msgid "Join a class"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:63
+msgid "Enter a class code or the teacher's email address:"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:65
+msgid "Enter a class code or your teacher's email address:"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:69
+msgid "Code (EK3ST7QU) or email (teacher@example.com)"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:70
+msgid "Join the class"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:76
+msgid ""
+"Your teacher must create a Khan Academy account before you can add\n"
+"                    them. Click the button to invite them to create an account.\n"
+"                    "
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:79
+msgid "Invite your teacher"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:84
+msgid "For you to add another teacher, your parent first needs to check their email and create their parent account."
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:86
+msgid "For you to add another teacher, you need to <a href=\"/logout?continue=/profile/{{identifier}}/coaches\">log out and have your parent log in to this page</a> (the \"Coaches\" tab of your profile) and turn on \"Allow your child to add other coaches.\" Your parent may need to check their email and follow the instructions to create their parent account first."
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:95 javascript/profile-package/coaches.handlebars:100
+msgid "Add a coach"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:96
+msgid "Enter your coach's email address:"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:99
+msgid "Email (yourcoach@example.com)"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:106
+msgid ""
+"Your coach must create a Khan Academy account before you can add them.\n"
+"                            Click the button to invite them to create an account.\n"
+"                        "
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:109
+msgid "Invite your coach"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:120
+msgid "Add another parent or guardian"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:121
+msgid "This parent or guardian will not have the ability to change your account settings but can view your activity on their parent dashboard."
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:123
+msgid "Enter your parent or guardian's email address:"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:126
+msgid "Email (yourparent@example.com)"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:127
+msgid "Add a parent or guardian"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:133
+msgid ""
+"Your parent or guardian must create a Khan Academy account before you can add them.\n"
+"                                    Click the button to invite them to create an account.\n"
+"                                "
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:136
+msgid "Invite your parent or guardian"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:147
+msgid "Looking for your students or children?"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:149
+msgid "Open the “{{yourNickname}}” menu at the top right and click “<a class=\"no-underline\" href=\"/coach\">Your students</a>” or “<a class=\"no-underline\" href=\"/parent\">Your children</a>” to get started!"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:152
+msgid "Want to coach students or your children?"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:154
+msgid "Open the “{{yourNickname}}” menu at the top right and click “<a class=\"no-underline\" href=\"/coach\">Add students</a>” or “<a class=\"no-underline\" href=\"/parent\">Add children</a>” to get started!"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:164
+msgid "Looking to add a parent or guardian?"
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:166
+msgid "Open the “{{yourNickname}}” menu at the top right and click “<a class=\"no-underline\" href=\"/settings/account\">Settings</a>” to add your parent or guardian."
+msgstr ""
+
+#: javascript/profile-package/coaches.handlebars:177
+msgid "{{nickname}}'s coaches"
+msgstr ""
+
+#: javascript/profile-package/coaches.js:223
+msgid "You have successfully joined the class!"
+msgstr ""
+
+#: javascript/profile-package/coaches.js:267
+msgid "You have successfully added your parent!"
+msgstr ""
+
+#: javascript/profile-package/coaches.js:282
+#, python-format
+msgid "Could not add %(email)s as an additional parent. Your existing parent must turn on \"Allow your child to add other coaches\" on your profile."
+msgstr ""
+
+#: javascript/profile-package/coaches.js:288
+#, python-format
+msgid "Could not add %(email)s as your parent. Your parent must create a Khan Academy account before you can add them."
+msgstr ""
+
+#: javascript/profile-package/coaches.js:292
+#, python-format
+msgid "Could not add %(email)s as your parent."
+msgstr ""
+
+#: javascript/profile-package/coaches.js:328
+msgid "You have successfully added your coach!"
+msgstr ""
+
+#: javascript/profile-package/coaches.js:343
+#, python-format
+msgid "Could not add %(email)s as an additional coach. Your existing parent must turn on \"Allow your child to add other coaches\" on your profile."
+msgstr ""
+
+#: javascript/profile-package/coaches.js:349
+#, python-format
+msgid "Could not add %(email)s as your coach. Your coach must create a Khan Academy account before you can add them."
+msgstr ""
+
+#: javascript/profile-package/coaches.js:353
+#, python-format
+msgid "Could not add %(email)s as your coach."
+msgstr ""
+
+#: javascript/profile-package/coaches.js:596
+#, python-format
+msgid "%(email)s is already your coach."
+msgstr ""
+
+#: javascript/profile-package/coaches.js:763
+msgid "You are limited to having coaches from the same email  domain as you, but your coach is not.  Tell your coach to see khanacademy.org/r/restricted-domain for a workaround."
+msgstr ""
+
+#: javascript/profile-package/coaches.js:769
+msgid "We couldn't find that class or coach. Your coach must create a Khan Academy account before you can add them."
+msgstr ""
+
+#: javascript/profile-package/discussion-hellban.handlebars:4 javascript/profile-package/discussion-moderation.handlebars:28
+msgid "Hellban"
+msgstr ""
+
+#: javascript/profile-package/discussion-hellban.handlebars:10
+msgid "Are you sure you want to undo {{username}}'s hellban?"
+msgstr ""
+
+#: javascript/profile-package/discussion-hellban.handlebars:12
+msgid "If you press OK, {{username}}'s future posts will be publicly viewable on the site again."
+msgstr ""
+
+#: javascript/profile-package/discussion-hellban.handlebars:14
+msgid "Are you sure you want to hellban {{username}}?"
+msgstr ""
+
+#: javascript/profile-package/discussion-hellban.handlebars:16
+msgid ""
+"If you press OK, all of {{username}}'s past posts will be deleted, as well as any future ones. \n"
+"                However, {{username}} will not know that they have been hellbanned."
+msgstr ""
+
+#: javascript/profile-package/discussion-hellban.handlebars:19
+msgid "Reason:"
+msgstr ""
+
+#: javascript/profile-package/discussion-moderation.handlebars:3 javascript/profile-package/discussion-moderation.handlebars:5
+msgid "Send a personalized message to the user"
+msgstr ""
+
+#: javascript/profile-package/discussion-moderation.handlebars:3 javascript/profile-package/discussion-moderation.handlebars:5
+msgid "Send message"
+msgstr ""
+
+#: javascript/profile-package/discussion-moderation.handlebars:23
+msgid "Allow the user to post on site again"
+msgstr ""
+
+#: javascript/profile-package/discussion-moderation.handlebars:24
+msgid "Undo Hellban"
+msgstr ""
+
+#: javascript/profile-package/discussion-moderation.handlebars:27
+msgid "Delete all of the user's previous and future posts"
+msgstr ""
+
+#: javascript/profile-package/discussion-moderation.handlebars:35
+msgid ""
+"hellbanned,\n"
+"            <a href=\"#\" class=\"hellban-reason-{{urlsafeKey}}\">\n"
+"                <span class=\"timeago\" title=\"{{date}}\">\n"
+"                    {{date}}\n"
+"                </span>\n"
+"            </a>"
+msgstr ""
+
+#: javascript/profile-package/discussion-moderation.handlebars:42
+msgid ""
+"undid,\n"
+"            <span class=\"timeago\" title=\"{{date}}\">\n"
+"                {{date}}\n"
+"            </span>"
+msgstr ""
+
+#: javascript/profile-package/discussion-send-message.handlebars:4
+msgid "Send Message"
+msgstr ""
+
+#: javascript/profile-package/discussion-send-message.handlebars:7
+msgid "Hi, this is {{modName}}. We're happy to have you using and contributing to Khan Academy."
+msgstr ""
+
+#: javascript/profile-package/discussion-send-message.handlebars:7
+msgid "We're working hard to make sure that our video discussions are high quality, and we notice that you've made some off-topic posts."
+msgstr ""
+
+#: javascript/profile-package/discussion-send-message.handlebars:7
+msgid "Please visit the Discussion tab on your profile page:"
+msgstr ""
+
+#: javascript/profile-package/discussion-send-message.handlebars:7
+msgid "There, you can delete your off-topic posts."
+msgstr ""
+
+#: javascript/profile-package/discussion-send-message.handlebars:7
+msgid "Thanks for your help, and we look forward to great contributions from you!"
+msgstr ""
+
+#: javascript/profile-package/discussion-send-message.handlebars:10
+msgid "Send!"
+msgstr ""
+
+#: javascript/profile-package/discussion-statistics.handlebars:2
+msgid ""
+"1\n"
+"    <span class=\"discussion-light\">\n"
+"        question\n"
+"    </span>\n"
+"    "
+msgid_plural ""
+"{{questions}}\n"
+"    <span class=\"discussion-light\">\n"
+"        questions\n"
+"    </span>\n"
+"    "
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/profile-package/discussion-statistics.handlebars:13
+msgid ""
+"1\n"
+"    <span class=\"discussion-light\">\n"
+"        vote\n"
+"    </span>\n"
+"    "
+msgid_plural ""
+"{{votes}}\n"
+"    <span class=\"discussion-light\">\n"
+"        votes\n"
+"    </span>\n"
+"    "
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/profile-package/discussion-statistics.handlebars:24
+msgid ""
+"1\n"
+"    <span class=\"discussion-light\">\n"
+"        answer\n"
+"    </span>\n"
+"    "
+msgid_plural ""
+"{{answers}}\n"
+"    <span class=\"discussion-light\">\n"
+"        answers\n"
+"    </span>\n"
+"    "
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/profile-package/discussion-statistics.handlebars:35
+msgid ""
+"1\n"
+"    <span class=\"discussion-light\">\n"
+"        flag raised\n"
+"    </span>\n"
+"    "
+msgid_plural ""
+"{{flags}}\n"
+"    <span class=\"discussion-light\">\n"
+"        flags raised\n"
+"    </span>\n"
+"    "
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/profile-package/discussion-statistics.handlebars:47
+msgid ""
+"1\n"
+"    <span class=\"discussion-light\">\n"
+"        project help request\n"
+"    </span>\n"
+"    "
+msgid_plural ""
+"{{projectquestions}}\n"
+"    <span class=\"discussion-light\">\n"
+"        project help requests\n"
+"    </span>\n"
+"    "
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/profile-package/discussion-statistics.handlebars:61
+msgid ""
+"1\n"
+"    <span class=\"discussion-light\">\n"
+"        project help reply\n"
+"    </span>\n"
+"    "
+msgid_plural ""
+"{{projectanswers}}\n"
+"    <span class=\"discussion-light\">\n"
+"        project help replies\n"
+"    </span>\n"
+"    "
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/profile-package/discussion-statistics.handlebars:74
+msgid ""
+"1\n"
+"    <span class=\"discussion-light\">\n"
+"        comment\n"
+"    </span>\n"
+"    "
+msgid_plural ""
+"{{replies}}\n"
+"    <span class=\"discussion-light\">\n"
+"        comments\n"
+"    </span>\n"
+"    "
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/profile-package/discussion-statistics.handlebars:85
+msgid ""
+"1\n"
+"    <span class=\"discussion-light\">\n"
+"        tip or thanks\n"
+"    </span>\n"
+"    "
+msgid_plural ""
+"{{comments}}\n"
+"    <span class=\"discussion-light\">\n"
+"        tips and thanks\n"
+"    </span>\n"
+"    "
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/profile-package/discussion-tab-links.handlebars:4
+msgid "Summary"
+msgstr ""
+
+#: javascript/profile-package/empty-badge-picker.handlebars:2
+msgid "No badges...yet!"
+msgstr ""
+
+#: javascript/profile-package/empty-badge-picker.handlebars:3
+msgid "<a href=\"/\">Practice a skill</a> or <a href=\"/library\">watch a video</a> to earn your first badge."
+msgstr ""
+
+#: javascript/profile-package/error-tab-not-accessible.handlebars:2 javascript/profile-package/profile.handlebars:27 javascript/profile-package/profile.handlebars:32
+msgid "Sorry, this information is not visible to you."
+msgstr ""
+
+#: javascript/profile-package/error-tab-not-found.handlebars:2
+msgid "Oops, this page does not exist."
+msgstr ""
+
+#: javascript/profile-package/no-coaches.handlebars:1
+msgid "You have no coaches! Why not try adding one?"
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:45
+msgid "Earn badges by asking and answering questions, voting, and flagging inappropriate content."
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:47
+msgid "No badges earned yet."
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:51
+msgid "Ask questions underneath any video. If you're unsure about something, you should ask. You'll learn from the community and help others who have the same question."
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:55
+msgid "No questions asked yet."
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:59
+msgid "Help others by answering their questions underneath each video. Earn badges while teaching the entire Khan Academy community."
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:62
+msgid "No answers posted yet."
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:66 javascript/profile-package/profile-discussion.js:67
+msgid "No comments made yet."
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:71 javascript/profile-package/profile-discussion.js:72
+msgid "No tips or thanks made yet."
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:313
+msgid "[enter name]"
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:362
+msgid "Message sent!"
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:380
+msgid "the user"
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:438
+msgid "Operation incomplete"
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:608
+msgid "Sort by Most Voted"
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:614
+msgid "Sort by Newest"
+msgstr ""
+
+#: javascript/profile-package/profile-tab-answers.handlebars:5
+msgid "Shows your answers to other users' questions."
+msgstr ""
+
+#: javascript/profile-package/profile-tab-comments.handlebars:5
+msgid "Shows the tips and feedback you've posted."
+msgstr ""
+
+#: javascript/profile-package/profile-tab-discussion.handlebars:6
+msgid "Shows your participation in community discussions."
+msgstr ""
+
+#: javascript/profile-package/profile-tab-discussion.handlebars:44
+msgid "Moderation"
+msgstr ""
+
+#: javascript/profile-package/profile-tab-projectanswers.handlebars:5
+msgid "Shows the projects that you've evaluated."
+msgstr ""
+
+#: javascript/profile-package/profile-tab-projectquestions.handlebars:5
+msgid "Shows the help requests you've made."
+msgstr ""
+
+#: javascript/profile-package/profile-tab-questions.handlebars:5
+msgid "Shows the questions you've asked."
+msgstr ""
+
+#: javascript/profile-package/profile-tab-replies.handlebars:5
+msgid "Shows comments you've posted."
+msgstr ""
+
+#: javascript/profile-package/profile-tabs.js:47
+#, python-format
+msgid "%(num)s year"
+msgid_plural "%(num)s years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/profile-package/profile-tabs.js:49
+#, python-format
+msgid "%(num)s month"
+msgid_plural "%(num)s months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/profile-package/profile-tabs.js:51
+#, python-format
+msgid "%(num)s week"
+msgid_plural "%(num)s weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/profile-package/profile-tabs.js:58
+#, python-format
+msgid "%(day_part)s and %(num)s hour"
+msgid_plural "%(day_part)s and %(num)s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/profile-package/profile-tabs.js:68
+#, python-format
+msgid "%(hour_part)s and %(num)s minute"
+msgid_plural "%(hour_part)s and %(num)s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/profile-package/profile-tabs.js:169
+msgid "Meteorite"
+msgstr ""
+
+#: javascript/profile-package/profile-tabs.js:174
+msgid "Moon"
+msgstr ""
+
+#: javascript/profile-package/profile-tabs.js:189
+msgid "Black Hole"
+msgstr ""
+
+#: javascript/profile-package/profile-tabs.js:213 rewards/badges/categories.py:206
+msgid "Challenge Patches"
+msgstr ""
+
+#: javascript/profile-package/profile-tabs.js:216
+#, python-format
+msgid "%(badge_type)s Badges"
+msgstr ""
+
+#: javascript/profile-package/profile-widget-model.js:10
+msgid "Only Me"
+msgstr ""
+
+#: javascript/profile-package/profile.handlebars:6
+msgid "You have no activity in the selected time period."
+msgstr ""
+
+#: javascript/profile-package/profile.handlebars:7
+msgid "Once you <a href=\"/\">try a skill</a> or <a href=\"/library\">watch a video</a>, real data will show up here."
+msgstr ""
+
+#: javascript/profile-package/profile.handlebars:9
+msgid "This user has no activity in the selected time period."
+msgstr ""
+
+#: javascript/profile-package/profile.handlebars:10
+msgid "Once they <a href=\"/\">try a skill</a> or <a href=\"/library\">watch a video</a>, real data will show up here."
+msgstr ""
+
+#: javascript/profile-package/profile.handlebars:15
+msgid "Try again later, and please <a href=\"/reportissue?type=Defect\">let us know</a> if it continues."
+msgstr ""
+
+#: javascript/profile-package/profile.handlebars:18
+msgid "<a href=\"{{toLoginRedirectHref \"/profile\"}}\">Log in</a> to add a coach!"
+msgstr ""
+
+#: javascript/profile-package/profile.handlebars:28
+msgid "To view real data, you must be a coach."
+msgstr ""
+
+#: javascript/profile-package/recent-activity-badge.handlebars:6
+msgid "Earned <a href=\"{{badge.relativeUrl}}\" data-category=\"{{badge.badgeCategory}}\" class=\"badge-link category-{{badge.badgeCategory}}\">{{badge.translatedDescription}}</a>"
+msgstr ""
+
+#: javascript/profile-package/recent-activity-badge.handlebars:6
+msgid "for {{ userBadge.translatedTargetContextName }}"
+msgstr ""
+
+#: javascript/profile-package/recent-activity-challenge.handlebars:6
+msgid "Successfully completed"
+msgstr ""
+
+#: javascript/profile-package/recent-activity-challenge.handlebars:7
+msgid "Worked on"
+msgstr ""
+
+#: javascript/profile-package/recent-activity-progress-change.handlebars:6
+msgid "Leveled up to {{level_slug}} in {{translatedExerciseDisplayName}}"
+msgstr ""
+
+#: javascript/profile-package/recent-activity-video.handlebars:6
+msgid "Watched <span class=\"video-minutes\">{{secondsToTime secondsWatched}}</span> of <a href=\"{{relativeUrl}}\">{{translatedVideoTitle}}</a>"
+msgstr ""
+
+#: javascript/profile-package/user-badge.handlebars:13
+msgid ""
+"This badge has been <span class=\"badge-context-retired\">retired</span>!\n"
+"        You get to keep it forever, but nobody else can earn it."
+msgstr ""
+
+#: javascript/profile-package/user-badge.handlebars:18
+msgid "Last achieved <abbr class=\"timeago\" title=\"{{lastEarnedDate}}\">{{lastEarnedDate}}</abbr> in <strong>{{visibleContextName}}</strong><span class=\"badge-context-hidden-link\"> <a href=\"javascript:void 0\">and also in <span class=\"ellipsis\">...</span></a></span>"
+msgstr ""
+
+#: javascript/profile-package/user-badge.handlebars:25
+msgid "Last achieved <abbr class=\"timeago\" title=\"{{lastEarnedDate}}\">{{lastEarnedDate}}</abbr> in <strong>{{visibleContextName}}</strong>"
+msgstr ""
+
+#: javascript/profile-package/user-badge.handlebars:28
+msgid "Last achieved <abbr class=\"timeago\" title=\"{{lastEarnedDate}}\">{{lastEarnedDate}}</abbr>"
+msgstr ""
+
+#: lib/time_util.py:71
+#, python-format
+msgid "1 year"
+msgid_plural "%(num)s years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/time_util.py:73
+#, python-format
+msgid "1 month"
+msgid_plural "%(num)s months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/time_util.py:75
+#, python-format
+msgid "1 week"
+msgid_plural "%(num)s weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/time_util.py:77
+#, python-format
+msgid "1 day"
+msgid_plural "%(num)s days"
+msgstr[0] ""
+msgstr[1] ""
+
+# day_part is '1 day', '2 days', etc.
+#: lib/time_util.py:80
+#, python-format
+msgid "%(day_part)s and 1 hour"
+msgid_plural "%(day_part)s and %(num)s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/time_util.py:85
+#, python-format
+msgid "1 hour"
+msgid_plural "%(num)s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+# hour_part is '1 hour', '2 hours', etc.
+#: lib/time_util.py:89
+#, python-format
+msgid "%(hour_part)s and 1 minute"
+msgid_plural "%(hour_part)s and %(num)s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/time_util.py:94 lib/time_util.py:101
+#, python-format
+msgid "1 minute"
+msgid_plural "%(num)s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: profiles/activity_graph.py:89
+#, python-format
+msgid "<em>...and %(num_entries)s more</em>"
+msgstr ""
+
+#: profiles/class_progress_by_student.py:495
+msgid "Retired or Unavailable Skill"
+msgstr ""
+
+# Label for task on the profile->progress->a skill ->problem hover over info. A practice task is associated with exactly one exercise.
+#: profiles/exercise_problems_graph.py:58
+msgid "Practice task"
+msgstr ""
+
+# Label for task on the profile->progress->a skill ->problem hover over info. A booster task allows users to level up many skills in a topic in one go!
+#: profiles/exercise_problems_graph.py:68
+msgid "Booster task"
+msgstr ""
+
+#: profiles/exercise_problems_graph.py:205
+msgid "Problem #"
+msgstr ""
+
+#: profiles/exercise_problems_graph.py:207
+#, python-format
+msgid " (Last %(num)d problems)"
+msgstr ""
+
+#: profiles/focus_graph.py:104
+#, python-format
+msgid "<em>%(video_title)s</em><br> - ~%(time_spent)s<br/>"
+msgstr ""
+
+#: profiles/focus_graph.py:108
+#, python-format
+msgid "<em>...and %(num_videos)s more</em>"
+msgstr ""
+
+#: profiles/models.py:115
+msgid "My coaches and I can see this widget"
+msgstr ""
+
+#: profiles/models.py:117
+msgid "Everyone can see this widget"
+msgstr ""
+
+#: progress/profile_widgets.py:51
+msgid "Recent Activity"
+msgstr ""
+
+#: progress/profile_widgets.py:110
+msgid "Streak"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+#: rewards/avatars/util_avatars.py:249
+msgid "Super Sal"
+msgstr ""
+
+#: rewards/profile_widgets.py:82
+msgid "Badge Counts"
+msgstr ""
+
+#: scratchpads/profile_widgets.py:69
+msgid "Only coaches can see your projects."
+msgstr ""
+
+#: scratchpads/profile_widgets.py:71
+msgid "Everyone can see your projects."
+msgstr ""
+
+#: scratchpads/profile_widgets.py:78
+msgid "All projects are automatically public so other students can learn from your creations. They can ask questions about your projects, spin off their own versions, and more."
+msgstr ""

@@ -1,0 +1,1216 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-04 10:33+0000\n"
+"PO-Revision-Date: 2017-11-04 10:33+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: genfiles/compiled_jsx/en/javascript/class-package/syllabus/content-item-row.jsx.js:78
+#, python-format
+msgid "%(min)s min"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/coach-module.jsx.js:24
+msgid "Educators, learn more"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/coach-module.jsx.js:31
+msgid "Parents, learn more"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/coach-module.jsx.js:45
+msgid "For educators"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/coach-module.jsx.js:48
+msgid "Our SAT coach tools help you support your students as they prepare for the SAT or PSAT/NMSQT®."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/coach-module.jsx.js:54
+msgid "You’ll review your students’ practice activity and help them stick to their practice schedules. Also, we detect the skills your class needs the most help with and provide targeted SAT lessons you can incorporate into your classroom."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/coach-module.jsx.js:72
+msgid "For parents"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/coach-module.jsx.js:75
+msgid "Parents, Official SAT Practice on Khan Academy is effective, personalized to your child, and 100% free. Have them check it out today!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/demo-module.jsx.js:38
+msgid "For the first time ever, the creators of the SAT have given Khan Academy exclusive access and advice to build a personalized practice program for anyone, anywhere."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/demo-module.jsx.js:45
+msgid "These tools are free and available now for every student to take ownership of their learning and their future."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/efficacy-module.jsx.js:40
+msgid "Raising confidence and scores"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/efficacy-module.jsx.js:48
+msgid "20 hours of practice on Khan Academy is associated with an average 115-point score increase from the PSAT/NMSQT to the SAT, nearly double the average gain without KA"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/efficacy-module.jsx.js:56
+msgid "In 2017, Khan Academy and the College Board, the maker of the SAT, analyzed gains between the PSAT/NMSQT and the SAT and found a positive relationship between use of Official SAT Practice and score improvements on the SAT. Score gains are consistent across gender, family income, race, ethnicity and parental education level."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/summary-module.jsx.js:26
+msgid "Personalized practice, anytime, anywhere — for FREE."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/summary-module.jsx.js:45
+#, python-format
+msgid "%(num)s official full-length practice tests, plus study and test-taking tips"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/summary-module.jsx.js:64
+msgid "We'll import your PSAT/NMSQT results and pinpoint your areas for practice"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/summary-module.jsx.js:83
+msgid "Thousands of practice questions, video lessons, and hints"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/sat-landing-package/summary-module.jsx.js:100
+msgid "Get constant feedback and progress so you know where you stand"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/curved-progress-bubbles.jsx.js:153 genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/maybe-render-checkin.jsx.js:154
+msgid "Continue practice"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/curved-progress-bubbles.jsx.js:155
+msgid "Review completed practice"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/curved-progress-bubbles.jsx.js:156
+msgid "Future practice"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/duration-picker.jsx.js:49 genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/practice-schedule.jsx.js:164
+#, python-format
+msgid "%(num)s hr"
+msgid_plural "%(num)s hrs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/duration-picker.jsx.js:56
+#, python-format
+msgid "%(num)s min"
+msgid_plural "%(num)s mins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/duration-picker.jsx.js:74
+msgid "Select duration"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/graphs/score-progress-graph.jsx.js:58
+#, python-format
+msgid "%(exam)s %(date)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/graphs/score-progress-graph.jsx.js:61
+#, python-format
+msgid "Practice test #%(num)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/graphs/score-progress-graph.jsx.js:141
+#, python-format
+msgid "Subgoal: %(goal)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/graphs/score-progress-graph.jsx.js:237
+#, python-format
+msgid "Final goal score: %(goal)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/graphs/score-progress-graph.jsx.js:278
+#, python-format
+msgid "For %(name)s, you scored %(score)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/graphs/score-progress-graph.jsx.js:287
+#, python-format
+msgid "Your final goal score for %(name)s is %(score)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/graphs/score-progress-graph.jsx.js:292
+#, python-format
+msgid "Your goal score for %(name)s is %(score)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/graphs/score-progress-graph.jsx.js:388
+#, python-format
+msgid "Hear %(name)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/graphs/score-progress-graph.jsx.js:393
+msgid "(hear graph)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/maybe-native-date-picker-display.jsx.js:105
+msgid "Choose a date..."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/modals/error-modal.jsx.js:58
+msgid "This page is out of sync with the server. Do you have this task open in multiple tabs? Please work within a single tab on a single device to ensure your work is saved."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/modals/error-modal.jsx.js:68
+msgid "Get in sync"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/modals/error-modal.jsx.js:113
+msgid "There was a problem saving your settings. Please refresh the page and try again."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/test-prep-header.jsx.js:34
+#, python-format
+msgid "Stage %(stageNum)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/time-picker.jsx.js:66
+msgid "Select a time"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/intro-page/components/intro-page.jsx.js:24
+msgid "Learn more about the test or unlock your personalized practice plan by taking a diagnostic."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/intro-page/components/intro-page.jsx.js:32
+msgid "Take a diagnostic"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/intro-page/components/intro-page.jsx.js:35
+msgid "Unlock your personalized practice plan"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/intro-page/components/intro-page.jsx.js:45
+msgid "Take diagnostic"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:147
+#, python-format
+msgid "You are on track to hit your goal of %(goal)s on the next practice test. You've been rocking it, so you can skip ahead to your %(next)s early!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:153
+msgid "You'll be able to practice all the same skills in the next stage. But we will update your recommendations to target the areas where you need the most work!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:159
+msgid "Once you finish the practice test, we'll update your recommendations to target the areas where you you need the most work. You got this!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:168
+#, python-format
+msgid "To be on track to hit your goal of %(goal)s on the next practice test, you needed to pass %(num)s practice tasks."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:173
+msgid "You did, so now you can move ahead to your next practice stage!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:188
+msgid "Based on your score, we've adjusted your recommendations to help you meet your goal score for your next practice test."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:244
+msgid "Hmm, it looks like you are having a little trouble."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:254
+#, python-format
+msgid "If you keep up your current pace of practicing and improving, you'll be on track towards your goal score of %(goal)s on the next practice test!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:270
+#, python-format
+msgid "%(num)s practice test behind"
+msgid_plural "%(num)s practice tests behind"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:275
+#, python-format
+msgid "%(num)s stage behind"
+msgid_plural "%(num)s stages behind"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:286
+msgid "Practice more today and try to make up what you missed!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:290
+msgid "Jump ahead to a full Practice Test and recalibrate your practice recommendations"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:297
+#, python-format
+msgid "You're %(missedText)s where you had originally planned to be by this time."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:303
+msgid "To get back on track, you can:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:306
+msgid "Adjust your practice schedule or goal score to get back on track"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:323
+msgid "You finished this stage early!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:324
+msgid "You finished this stage!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:327
+msgid "Your recommendations and practice plan have been updated!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:331
+msgid "Your schedule might need adjustment"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:333
+msgid "Keep up the great work!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:341
+msgid "You are on track."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:345
+msgid "You are off track and need to adjust."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:349 genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/checkin-modal.jsx.js:355
+msgid "You are off track, but can catch up!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/confirm-reset-test-modal.jsx.js:54 genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-calendar.jsx.js:41
+msgid "Practice test"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/maybe-render-checkin.jsx.js:118
+msgid "Practice and catch up"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/maybe-render-checkin.jsx.js:135
+msgid "Jump ahead to a full practice test"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/maybe-render-checkin.jsx.js:152
+msgid "Keep current plan"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/maybe-render-checkin.jsx.js:164
+msgid "Adjust practice schedule or goal"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/maybe-render-checkin.jsx.js:177
+msgid "Set new exam date"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/past-exam-date-modal.jsx.js:43
+#, python-format
+msgid "Your test date was scheduled for %(dateStr)s. Adjust your schedule if you've changed your test date or you would like to prepare for another test."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/past-exam-date-modal.jsx.js:51
+msgid "Congratulations on making it through your test."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/past-exam-date-modal.jsx.js:54
+msgid "Your test date has passed"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/root-dashboard.jsx.js:385
+msgid "Practice dashboard"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/level-progress.jsx.js:70
+msgid "Your level"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/level-progress.jsx.js:117
+msgid "Stage"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/level-progress.jsx.js:133
+msgid "Approximate level in each section"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/score-progress.jsx.js:37
+msgid "Current score progression"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-focus.jsx.js:58
+msgid "Areas to focus on"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-focus.jsx.js:64
+#, python-format
+msgid "All %(examName)s practice content is available to you at every stage, but our recommendation engine will dynamically personalize the ordering. The following areas will be at the top of your list at the start of this stage:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-summary.jsx.js:39
+#, python-format
+msgid "Challenged yourself and tried %(numOfTasks)s tasks at a higher difficulty level"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-summary.jsx.js:46
+#, python-format
+msgid "Improved by %(improvementPercentage)s% on %(areaTitle)s questions"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-summary.jsx.js:56
+#, python-format
+msgid "Successfully passed %(numPassed)s tasks"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-summary.jsx.js:62
+msgid "Finished the stage early"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-summary.jsx.js:66
+#, python-format
+msgid "Practiced %(numDays)s in a row"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-summary.jsx.js:74
+#, python-format
+msgid "Hit your practice schedule on %(numDays)s days"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-summary.jsx.js:128
+#, python-format
+msgid "Achievements in %(stageLabel)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-transition.jsx.js:94
+msgid "Checkpoint Practice Test"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-transition.jsx.js:99
+msgid "Your readiness level for the next practice test: "
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-transition.jsx.js:141
+msgid "Readiness for your next practice test: "
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-transition.jsx.js:153
+#, python-format
+msgid "Stage %(stageNumber)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-transition.jsx.js:167
+msgid "Resume Stage"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-transition.jsx.js:183 genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/stage-transition/stage-transition.jsx.js:194
+#, python-format
+msgid "Stage %(stageIndex)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/start-timed-section-modal.jsx.js:38
+#, python-format
+msgid "Practice recommendations are most accurate when you simulate real test conditions as much as possible.%(n)s%(n)s If you have to pause or stop between sections, we’ll save your progress and you can resume where you left off."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/start-timed-section-modal.jsx.js:60
+msgid "We recommend taking the test on a desktop device. However, a mobile device works too."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/timed-section-landing-page.jsx.js:81
+msgid "This section has been paused. "
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/timed-section-landing-page.jsx.js:272
+#, python-format
+msgid "You have %(num)s section left in this practice test"
+msgid_plural "You have %(num)s sections left in this practice test"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/timed-section-landing-page.jsx.js:274
+msgid "Your test has been paused. "
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/timed-section-landing-page.jsx.js:275
+#, python-format
+msgid "%(sectionsLeft)s. Hop back in!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/tms-intro-modal.jsx.js:37
+#, python-format
+msgid "Timed Mini-Sections let you practice answering questions under timed conditions and focus on one %(examName)s section at a time.%(n)s%(n)sThere aren’t hints or videos – this is just so you can practice answering questions in similar conditions to the real %(examName)s!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/tms-intro-modal.jsx.js:53
+msgid "Welcome to your first Timed Mini-Section!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/tms-intro-modal.jsx.js:54
+msgid "New challenge"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/checkpoint-progress.jsx.js:185
+msgid "Take timed mini-section (up next)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/checkpoint-progress.jsx.js:193
+msgid "Review completed timed mini-section"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/checkpoint-progress.jsx.js:196
+msgid "Take timed mini-section"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/checkpoint-progress.jsx.js:266
+#, python-format
+msgid "Review progress for stage %(stage)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/checkpoint-progress.jsx.js:267
+#, python-format
+msgid "Begin stage %(stage)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/checkpoint-progress.jsx.js:268
+#, python-format
+msgid "Review stage %(stage)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/checkpoint-progress.jsx.js:297
+#, python-format
+msgid "Stage %(stage)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/checkpoint-progress.jsx.js:334
+msgid "Add another practice stage"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/expected-progress-indicator.jsx.js:21
+msgid "Where you planned to be"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/onboarding-plan.jsx.js:34
+msgid "Overview and diagnostics"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/practice-checkpoint.jsx.js:132
+#, python-format
+msgid "Past: %(deadline)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/practice-checkpoint.jsx.js:137
+msgid "Take your test today!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/practice-checkpoint.jsx.js:186 genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/practice-checkpoint.jsx.js:200
+#, python-format
+msgid "Review %(title)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/practice-checkpoint.jsx.js:191
+#, python-format
+msgid "Continue %(title)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/practice-checkpoint.jsx.js:192
+msgid "Continue test"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/practice-checkpoint.jsx.js:195
+#, python-format
+msgid "Take %(title)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/practice-checkpoint.jsx.js:196
+msgid "Take practice test"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/practice-checkpoint.jsx.js:207
+msgid "Subgoal"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/practice-plan.jsx.js:204
+msgid "Unknown future date"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/practice-plan.jsx.js:349
+#, python-format
+msgid "Practice Test #%(num)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/practice-plan.jsx.js:377
+msgid "Next practice tests"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/practice-plan.jsx.js:395
+msgid "Final goal score"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/practice-plan/components/schedule-node.jsx.js:26
+msgid "Schedule practice plan"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/question-layouts/components/ui/help-module-wrapper.jsx.js:68
+msgid "Tips, strategies, and explanations for this practice task"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/question-layouts/components/ui/help-module-wrapper.jsx.js:74
+msgid "Stuck? See explanation for this practice task"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/question-layouts/components/ui/help-module-wrapper.jsx.js:112
+msgid "Take hint anyway"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/question-layouts/components/ui/help-module-wrapper.jsx.js:113
+msgid "Read explanation anyway"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/question-layouts/components/ui/help-module-wrapper.jsx.js:134
+msgid "An explanation may help you with this task, but you won't get as many points as if you answer the questions correctly without help."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/question-layouts/components/ui/help-module.jsx.js:152
+msgid ", click to collapse"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/question-layouts/components/ui/help-module.jsx.js:153
+msgid ", click to expand"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/question-layouts/components/ui/help-module.jsx.js:281
+msgid "+ Take next hint"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/question-layouts/components/ui/help-module.jsx.js:282
+msgid "+ See the answer"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/question-layouts/components/ui/question-header.jsx.js:35
+msgid "Question skill"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/question-layouts/components/ui/question-header.jsx.js:56
+msgid "Your confidence level:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/question-layouts/components/ui/scroll-for-more-questions.jsx.js:30
+msgid "Scroll down to see more questions"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/add-email-modal.jsx.js:94
+msgid "New email address"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/add-email-modal.jsx.js:106
+#, python-format
+msgid "Enter your new email address and we'll send a confirmation email for you to open. By adding an email address you agree to our %(tos)s and %(privacy)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/add-email-modal.jsx.js:119
+msgid "Add a new email address"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:45 genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:54
+msgid "Not valid"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:47
+#, python-format
+msgid "Oops! The minimum score on the LSAT is %(min)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:56
+#, python-format
+msgid "Oops! The maximum score on the LSAT is %(max)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:68
+msgid "Set your personal goal score"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:70
+#, python-format
+msgid "Scores on the %(exam)s range from %(min)s to %(max)s. When you set your goal, we'll create your personalized practice plan with goals for each practice test."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:82
+msgid "Maybe aim higher?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:84
+msgid "You are already within reach of this goal. Try setting your sights higher?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:98
+msgid "push your test date back"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:104
+#, python-format
+msgid "add at least another %(hrs)s hours per week to your practice schedule"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:112
+msgid "Quite a reach"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:114
+#, python-format
+msgid "You'll need to practice a lot to have a chance of hitting this score! We recommend that you %(date)s, adjust your goal, or %(hrs)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:128
+msgid "Schedule more practice"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:130
+#, python-format
+msgid "Hitting this score will require lots of practice! We recommend that you %(num)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:143
+msgid "add another hour to your practice schedule"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:146
+msgid "A bit of a reach"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:148
+#, python-format
+msgid "This will require a lot of practice! You might want to %(add)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:160
+msgid "You got this"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/feasibility-tooltip.jsx.js:162
+msgid "We'll help you work towards this goal and practice according to your schedule."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/goal-score.jsx.js:223
+msgid "Increment your goal score"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/goal-score.jsx.js:245
+msgid "Decrement your goal score"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/goal-score.jsx.js:354
+msgid "Goal Score"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/goal-score.jsx.js:362
+msgid "Set a goal score for your final test so that we can adjust your practice plan to meet it!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/official-exam-date.jsx.js:113
+msgid "Don't know yet"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/official-exam-date.jsx.js:164
+msgid "Other date"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/official-exam-date.jsx.js:204
+msgid "We'll make a custom schedule based on your exam date!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/official-exam-date.jsx.js:209
+#, python-format
+msgid "If you've already registered to take the %(examName)s, select which day you're taking it below. If you'd like to register for a test,"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/official-exam-date.jsx.js:219
+#, python-format
+msgid "go to the official %(testMaker)s website."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/official-exam-date.jsx.js:225
+#, python-format
+msgid "What date is your real %(examName)s?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/practice-schedule.jsx.js:169
+#, python-format
+msgid "Since your test day is %(fromNow)s, we recommend practicing at least %(hrs)s per week."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/practice-schedule.jsx.js:179
+msgid "Before each practice test, set time to practice questions and build your skills. We'll identify your weakness and offer tips and strategies for you to improve your score."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/practice-schedule.jsx.js:188
+msgid "Days to practice on"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/practice-tests.jsx.js:101
+#, python-format
+msgid "Practice test # %(num)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/practice-tests.jsx.js:108
+#, python-format
+msgid "Completed %(dateStr)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/practice-tests.jsx.js:165
+msgid "+ Add practice test"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/practice-tests.jsx.js:171
+msgid "*You can change this later"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/practice-tests.jsx.js:174
+msgid "Preparing for a big test is like preparing for a marathon. We recommend taking full practice tests to prepare yourself for test day!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/practice-tests.jsx.js:184
+msgid "Practice test dates"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/reminders.jsx.js:94
+msgid "Add a new email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/reminders.jsx.js:109
+msgid "Yes, send email reminders for practice and upcoming tests"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/reminders.jsx.js:118
+msgid "Enter an email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/schedule-creator-landing-page.jsx.js:30
+msgid "Now that you have taken your diagnostic, set up your practice plan and goal scores so we can help you reach your goals!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/schedule-creator-landing-page.jsx.js:42
+msgid "Schedule and goals"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/schedule-creator-landing-page.jsx.js:45
+msgid "Set up practice plan and goals"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/schedule-creator-landing-page.jsx.js:55
+msgid "Set up schedule"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-calendar.jsx.js:94
+msgid "practice session"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-calendar.jsx.js:147 genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-calendar.jsx.js:161
+#, python-format
+msgid "%(exam)s practice session"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-calendar.jsx.js:151 genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-calendar.jsx.js:157
+#, python-format
+msgid "%(exam)s practice test"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-calendar.jsx.js:167
+#, python-format
+msgid "%(exam)s schedule created"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-calendar.jsx.js:170
+#, python-format
+msgid "Unexpected %(exam)s event"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-page.jsx.js:116
+#, python-format
+msgid "Set official %(examName)s date"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-page.jsx.js:148
+msgid "Set practice test dates"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-page.jsx.js:166
+msgid "Create practice schedule"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-page.jsx.js:197
+msgid "Set goal score"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-page.jsx.js:219
+msgid "Set personal reminders"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-page.jsx.js:242 genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-page.jsx.js:322
+msgid "Special accommodations"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-page.jsx.js:294
+msgid "Official LSAT date"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-page.jsx.js:299
+msgid "Practice tests"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-page.jsx.js:304
+msgid "Practice schedule"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-page.jsx.js:309
+msgid "Goal score"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/settings-page.jsx.js:314
+msgid "Reminders"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/special-accommodations.jsx.js:26
+#, python-format
+msgid "%(optionValue)sx duration"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/special-accommodations.jsx.js:60
+msgid "directions from the LSAC to request special accommodations"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/special-accommodations.jsx.js:67
+#, python-format
+msgid "If you have a learning disability or need special accommodation during your test, make sure you’ve followed %(link)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/special-accommodations.jsx.js:83
+msgid "Select extended time accommodations if you need them."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-list/components/task-card.jsx.js:334
+msgid "Choose Difficulty Level"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-list/components/task-list-header.jsx.js:30
+#, python-format
+msgid "Stage %(stage)s (Practice Test %(checkpoint)s)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-list/components/task-list-header.jsx.js:40
+#, python-format
+msgid "Energy points from %(name)s practice:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/correctness-filter.jsx.js:20
+msgid "Incorrect only"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/correctness-filter.jsx.js:23
+msgid "All answers"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-exam.jsx.js:85
+msgid "Non-scored"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-exam.jsx.js:122
+msgid "Total Score"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-exam.jsx.js:186
+msgid "You hit your goal for this practice test!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-exam.jsx.js:190
+msgid "Wow! You are rocking it!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-exam.jsx.js:192
+msgid "You are close to your goal!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-exam.jsx.js:194
+msgid "Keep practicing and see how you improve!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-task-body-summary.jsx.js:98
+msgid "Time spent"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-task-body-summary.jsx.js:100 genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-task-body-summary.jsx.js:106
+msgid "(not factored into score)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-task-body-summary.jsx.js:108
+#, python-format
+msgid "Suggested time without help: %(timeForTask)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-task-body-summary.jsx.js:171 genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-task-body-summary.jsx.js:192
+msgid "Timed Performance"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-task-body-summary.jsx.js:181
+msgid "Untimed Performance"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-task-review.jsx.js:118 genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-task-review.jsx.js:126 genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-task-review.jsx.js:138
+msgid "Review your answers"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-task-review.jsx.js:129
+msgid "Timed"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/end-of-task-review.jsx.js:132
+msgid "Untimed"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/point-breakdown.jsx.js:30
+msgid "Just completing this test is a feat. Bravo!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/point-breakdown.jsx.js:34
+msgid "Way to push yourself under time pressure!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/point-breakdown.jsx.js:55
+#, python-format
+msgid "Each question earns approximately %(num)s point"
+msgid_plural "Each question earns approximately %(num)s points"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/end-of-task-body/review-question-card.jsx.js:141
+msgid "Skill type"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/start-of-task-body/start-of-exam.jsx.js:83
+msgid "The Practice Test contains all sections except the essay. If you're timing according to real conditions, the schedule is as follows:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/correctness-popover.jsx.js:63
+msgid "You get credit if you attempt the problem without looking at hints first!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/correctness-popover.jsx.js:65
+msgid "Correct, with help!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/correctness-popover.jsx.js:71
+msgid "See answer explanation and related examples"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/correctness-popover.jsx.js:81
+msgid "read this question's full answer explanation"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/correctness-popover.jsx.js:83
+#, python-format
+msgid "Continue or %(link)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/end-section-early-modal.jsx.js:42
+#, python-format
+msgid "%(num)s question hasn't been answered!"
+msgid_plural "%(num)s questions haven't been answered!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/end-section-early-modal.jsx.js:52
+msgid "Great job."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/end-section-early-modal.jsx.js:59
+msgid "It looks like you have not finished this section. If you quit now, your recommendations may be negatively affected. This will make it harder for the system to help you acheive your goals."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/end-section-early-modal.jsx.js:65
+msgid "You still have some time to review the questions you haven’t submitted answers to yet."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/end-section-early-modal.jsx.js:71
+msgid " You have a chance to review and double-check answers if you'd like."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/end-section-early-modal.jsx.js:92
+msgid "Timed section"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/end-section-early-modal.jsx.js:97
+msgid "Yes, submit section unfinished"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/end-section-early-modal.jsx.js:98
+msgid "No, I'll do the questions I skipped"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/end-section-early-modal.jsx.js:101
+msgid "I'm done, submit my answers"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/end-section-early-modal.jsx.js:102
+msgid "Hold up, I'll review my answers"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/finish-early-link.jsx.js:32
+msgid "Submit section"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/finish-early-link.jsx.js:33
+msgid "Submit section early"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/pause-confirmation-modal.jsx.js:28
+msgid "You can  pause your timer and resume this task later, but remember that you can't pause on the real exam! It's important  to practice under realistic time conditions."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/section-end-modal.jsx.js:48
+msgid "Stop and see timed score"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/section-end-modal.jsx.js:56
+msgid "Next: Continue without timer"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/section-end-modal.jsx.js:119
+#, python-format
+msgid "We’ve recorded your score under timed conditions!%(n)s%(n)s Now, you can continue without a timer and spend as much time as you need to find your best answer for all the questions. %(n)s%(n)s When you’re done, we’ll analyze your timed and untimed performances."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/section-end-modal.jsx.js:140
+msgid "Timed practice complete"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/task-stopwatch.jsx.js:159
+msgid "Suggested time for task"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/task-stopwatch.jsx.js:161
+#, python-format
+msgid "%(suggestedTimeLabel)s: %(suggestedTime)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/task-stopwatch.jsx.js:206
+#, python-format
+msgid "Time elapsed: %(timeElapsed)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-layout/timer.jsx.js:132
+#, python-format
+msgid "Time until deadline: %(countDown)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-navigation/task-navigation-toggle-link.jsx.js:86
+msgid "If you need to skip around or go back to questions, you can navigate through the full list of questions here."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-navigation/task-navigation-toggle-link.jsx.js:95
+msgid "Jump to any question in this section"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-navigation/task-navigation-toggle-link.jsx.js:118
+#, python-format
+msgid "%(numSectionsAnswered)s of %(numSectionsTotal)s sections complete"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/test-prep-package/task-page/components/task-screen-renderer.jsx.js:278
+msgid "Answer explanation"
+msgstr ""
+
+#: javascript/test-prep-package/app-common/lib/util.js:32 javascript/test-prep-package/app-common/lib/util.js:33
+msgid "On track"
+msgstr ""
+
+#: javascript/test-prep-package/app-common/lib/util.js:34
+msgid "Off track"
+msgstr ""
+
+#: javascript/test-prep-package/task-common/lib/constants.js:14
+msgid "Confident"
+msgstr ""
+
+#: javascript/test-prep-package/task-common/lib/constants.js:20
+msgid "Pretty sure"
+msgstr ""
+
+#: javascript/test-prep-package/task-page/lib/questions.js:210
+#, python-format
+msgid "Question %(firstQuestionNumber)s"
+msgstr ""
+
+#: javascript/test-prep-package/task-page/lib/questions.js:217
+#, python-format
+msgid "Questions %(firstQuestionNumber)s–%(lastQuestionNumber)s"
+msgstr ""
+
+#: javascript/test-prep-package/task-page/lib/task-flows/mini-section-task-flow.js:165 javascript/test-prep-package/task-page/lib/task-flows/test-section-task-flow.js:351
+#, python-format
+msgid "Next: %(questionRange)s"
+msgstr ""
+
+#: javascript/test-prep-package/task-page/lib/task-flows/mini-section-task-flow.js:292
+msgid "Timed mini-section"
+msgstr ""
+
+#: javascript/test-prep-package/task-page/lib/task-flows/skill-task-flow.js:269
+msgid "Practice similar questions again"
+msgstr ""
+
+#: javascript/test-prep-package/task-page/lib/task-flows/test-section-task-flow.js:541
+msgid "Begin test"
+msgstr ""
+
+#: javascript/test-prep-package/task-page/lib/task-flows/timed-task-shared.js:33
+msgid "Submit early"
+msgstr ""
+
+#: javascript/test-prep-package/task-page/lib/timing-util.js:55
+#, python-format
+msgid "%(numberOfDays)s day : %(numberOfHours)s hour : %(numberOfMinutes)s min : %(numberOfSeconds)s sec"
+msgstr ""
+
+#: javascript/test-prep-package/task-page/lib/timing-util.js:62
+#, python-format
+msgid "%(numberOfDays)s day : %(numberOfHours)s hour : %(numberOfMinutes)s min"
+msgstr ""
+
+#: javascript/test-prep-package/task-page/lib/timing-util.js:71
+#, python-format
+msgid "%(numberOfHours)s hour : %(numberOfMinutes)s min : %(numberOfSeconds)s sec"
+msgstr ""
+
+#: javascript/test-prep-package/task-page/lib/timing-util.js:77
+#, python-format
+msgid "%(numberOfHours)s hour : %(numberOfMinutes)s min"
+msgstr ""
+
+#: javascript/test-prep-package/task-page/lib/timing-util.js:85
+#, python-format
+msgid "%(numberOfMinutes)s min : %(numberOfSeconds)s sec"
+msgstr ""
+
+#: javascript/test-prep-package/task-page/lib/timing-util.js:88
+#, python-format
+msgid "%(numberOfMinutes)s min"
+msgstr ""

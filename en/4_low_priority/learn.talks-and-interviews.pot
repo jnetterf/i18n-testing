@@ -1,0 +1,127 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:16+0000\n"
+"PO-Revision-Date: 2017-11-21 12:16+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# String from android-app.xml in Android app
+# Title of topic <a href="http://translate.khanacademy.org/talks-and-interviews">http://translate.khanacademy.org/talks-and-interviews</a>
+# Title of topic (xd1039e22) on the es stage
+# Title of topic (xd1039e22) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+# (format: xml)
+#: intl/datastore:1
+msgid "Talks and interviews"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/talks-and-interviews">http://translate.khanacademy.org/talks-and-interviews</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd1039e22) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd1039e22) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Khan Academy-related talks and interviews"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/talks-and-interviews">http://translate.khanacademy.org/talks-and-interviews</a>
+# Description of topic (xd1039e22) on the es stage
+# Description of topic (xd1039e22) on the pt stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Collection of interviews with and presentations by Salman Khan.  Also a few other mentions of Khan Academy at other talks.\n"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/talks-and-interviews/conversations-with-sal">http://translate.khanacademy.org/talks-and-interviews/conversations-with-sal</a>
+# Title of topic (x71564d11) on the es stage
+# Title of topic (x71564d11) on the pt stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Conversations with Sal: Talks and presentations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/talks-and-interviews/khan-academy-living-room-chats">http://translate.khanacademy.org/talks-and-interviews/khan-academy-living-room-chats</a>
+# Title of topic (x530d6edb) on the es stage
+# Title of topic (x530d6edb) on the pt stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Khan Academy chats"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/talks-and-interviews/khan-academy-living-room-chats">http://translate.khanacademy.org/talks-and-interviews/khan-academy-living-room-chats</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x530d6edb) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x530d6edb) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Khan Academy living room chats"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/talks-and-interviews/schools-using-khan-academy">http://translate.khanacademy.org/talks-and-interviews/schools-using-khan-academy</a>
+# Title of topic (x3eb2322f) on the pt stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Schools using Khan Academy"
+msgstr ""

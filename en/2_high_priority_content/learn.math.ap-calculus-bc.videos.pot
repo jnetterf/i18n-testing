@@ -1,0 +1,1864 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:42+0000\n"
+"PO-Revision-Date: 2017-12-01 14:42+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/deriving-formula-for-sum-of-finite-geometric-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/deriving-formula-for-sum-of-finite-geometric-series</a>
+# Description of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/v/deriving-formula-for-sum-of-finite-geometric-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/v/deriving-formula-for-sum-of-finite-geometric-series</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/geo-series-bc/v/deriving-formula-for-sum-of-finite-geometric-series">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/geo-series-bc/v/deriving-formula-for-sum-of-finite-geometric-series</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal derives the formula for the sum of finite geometric series, a(1-rⁿ)/(1-r)."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/example-finding-sum-of-finite-geometric-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/example-finding-sum-of-finite-geometric-series</a>
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/v/example-finding-sum-of-finite-geometric-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/v/example-finding-sum-of-finite-geometric-series</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/geo-series-bc/v/example-finding-sum-of-finite-geometric-series">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/geo-series-bc/v/example-finding-sum-of-finite-geometric-series</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Finite geometric series: sigma notation example"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/three-examples-of-evaluating-finite-geometric-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/three-examples-of-evaluating-finite-geometric-series</a>
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/v/three-examples-of-evaluating-finite-geometric-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/v/three-examples-of-evaluating-finite-geometric-series</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/geo-series-bc/v/three-examples-of-evaluating-finite-geometric-series">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/geo-series-bc/v/three-examples-of-evaluating-finite-geometric-series</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Finite geometric series examples"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-seq-and-series/v/evaluating-arithmetic-sum-example">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-seq-and-series/v/evaluating-arithmetic-sum-example</a>
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-seq-and-series/v/evaluating-arithmetic-sum-example">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-seq-and-series/v/evaluating-arithmetic-sum-example</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/series-tut-bc/v/evaluating-arithmetic-sum-example">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/series-tut-bc/v/evaluating-arithmetic-sum-example</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Arithmetic series: sum expression"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-seq-and-series/v/evaluating-finite-arithmetic-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-seq-and-series/v/evaluating-finite-arithmetic-series</a>
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-seq-and-series/v/evaluating-finite-arithmetic-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-seq-and-series/v/evaluating-finite-arithmetic-series</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/series-tut-bc/v/evaluating-finite-arithmetic-series">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/series-tut-bc/v/evaluating-finite-arithmetic-series</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Arithmetic series: sigma notation"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-seq-and-series/v/finding-sum-from-recursive-definition-of-sequence">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-seq-and-series/v/finding-sum-from-recursive-definition-of-sequence</a>
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-seq-and-series/v/finding-sum-from-recursive-definition-of-sequence">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-seq-and-series/v/finding-sum-from-recursive-definition-of-sequence</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/series-tut-bc/v/finding-sum-from-recursive-definition-of-sequence">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/series-tut-bc/v/finding-sum-from-recursive-definition-of-sequence</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Arithmetic series: recursive formula"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-accumulation-riemann-sums/ab-func-defined-by-integral/v/evaluating-function-defined-by-integral-switch">http://translate.khanacademy.org/math/ap-calculus-ab/ab-accumulation-riemann-sums/ab-func-defined-by-integral/v/evaluating-function-defined-by-integral-switch</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/fundamental-theorem-of-calculus-ab/functions-defined-by-integrals-ab/v/evaluating-function-defined-by-integral-switch">http://translate.khanacademy.org/math/ap-calculus-ab/fundamental-theorem-of-calculus-ab/functions-defined-by-integrals-ab/v/evaluating-function-defined-by-integral-switch</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Functions defined by integrals: switched interval"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-accumulation-riemann-sums/ab-func-defined-by-integral/v/evaluating-function-defined-by-integral-switch">http://translate.khanacademy.org/math/ap-calculus-ab/ab-accumulation-riemann-sums/ab-func-defined-by-integral/v/evaluating-function-defined-by-integral-switch</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/fundamental-theorem-of-calculus-ab/functions-defined-by-integrals-ab/v/evaluating-function-defined-by-integral-switch">http://translate.khanacademy.org/math/ap-calculus-ab/fundamental-theorem-of-calculus-ab/functions-defined-by-integrals-ab/v/evaluating-function-defined-by-integral-switch</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal evaluates a function defined by the integral of a graphed function. In order to evaluate he must switch the sides of the interval."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-find-definite-int/v/definite-integral-of-absolute-value">http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-find-definite-int/v/definite-integral-of-absolute-value</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/definite-integral-evaluation-ab/definite-integrals-of-piecewise-functions-ab/v/definite-integral-of-absolute-value">http://translate.khanacademy.org/math/ap-calculus-ab/definite-integral-evaluation-ab/definite-integrals-of-piecewise-functions-ab/v/definite-integral-of-absolute-value</a>
+# Title of video <a href="http://translate.khanacademy.org/math/integral-calculus/definite-integral-evaluation-ic/definite-integrals-of-piecewise-functions-ic/v/definite-integral-of-absolute-value">http://translate.khanacademy.org/math/integral-calculus/definite-integral-evaluation-ic/definite-integrals-of-piecewise-functions-ic/v/definite-integral-of-absolute-value</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Definite integral of absolute value function"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-find-definite-int/v/definite-integral-of-absolute-value">http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-find-definite-int/v/definite-integral-of-absolute-value</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/definite-integral-evaluation-ab/definite-integrals-of-piecewise-functions-ab/v/definite-integral-of-absolute-value">http://translate.khanacademy.org/math/ap-calculus-ab/definite-integral-evaluation-ab/definite-integrals-of-piecewise-functions-ab/v/definite-integral-of-absolute-value</a>
+# Description of video <a href="http://translate.khanacademy.org/math/integral-calculus/definite-integral-evaluation-ic/definite-integrals-of-piecewise-functions-ic/v/definite-integral-of-absolute-value">http://translate.khanacademy.org/math/integral-calculus/definite-integral-evaluation-ic/definite-integrals-of-piecewise-functions-ic/v/definite-integral-of-absolute-value</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal evaluates the definite integral of f(x)=|x+2| between -4 and 0."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-find-definite-int/v/definite-integrals-of-piecewise-functions">http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-find-definite-int/v/definite-integrals-of-piecewise-functions</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/definite-integral-evaluation-ab/definite-integrals-of-piecewise-functions-ab/v/definite-integrals-of-piecewise-functions">http://translate.khanacademy.org/math/ap-calculus-ab/definite-integral-evaluation-ab/definite-integrals-of-piecewise-functions-ab/v/definite-integrals-of-piecewise-functions</a>
+# Title of video <a href="http://translate.khanacademy.org/math/integral-calculus/definite-integral-evaluation-ic/definite-integrals-of-piecewise-functions-ic/v/definite-integrals-of-piecewise-functions">http://translate.khanacademy.org/math/integral-calculus/definite-integral-evaluation-ic/definite-integrals-of-piecewise-functions-ic/v/definite-integrals-of-piecewise-functions</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Definite integral of piecewise function"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-find-definite-int/v/definite-integrals-of-piecewise-functions">http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-find-definite-int/v/definite-integrals-of-piecewise-functions</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/definite-integral-evaluation-ab/definite-integrals-of-piecewise-functions-ab/v/definite-integrals-of-piecewise-functions">http://translate.khanacademy.org/math/ap-calculus-ab/definite-integral-evaluation-ab/definite-integrals-of-piecewise-functions-ab/v/definite-integrals-of-piecewise-functions</a>
+# Description of video <a href="http://translate.khanacademy.org/math/integral-calculus/definite-integral-evaluation-ic/definite-integrals-of-piecewise-functions-ic/v/definite-integrals-of-piecewise-functions">http://translate.khanacademy.org/math/integral-calculus/definite-integral-evaluation-ic/definite-integrals-of-piecewise-functions-ic/v/definite-integrals-of-piecewise-functions</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal evaluates definite integral of a piecewise function over an interval that goes through the two cases of the function."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-applications-derivatives/ab-motion-diff/v/rectilinear-motion-example-maximum-acceleration">http://translate.khanacademy.org/math/ap-calculus-ab/ab-applications-derivatives/ab-motion-diff/v/rectilinear-motion-example-maximum-acceleration</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/rectilinear-motion-diff-calc-ab/v/rectilinear-motion-example-maximum-acceleration">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/rectilinear-motion-diff-calc-ab/v/rectilinear-motion-example-maximum-acceleration</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Rectilinear motion example: maximum acceleration"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-applications-derivatives/ab-motion-diff/v/rectilinear-motion-example-maximum-acceleration">http://translate.khanacademy.org/math/ap-calculus-ab/ab-applications-derivatives/ab-motion-diff/v/rectilinear-motion-example-maximum-acceleration</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/rectilinear-motion-diff-calc-ab/v/rectilinear-motion-example-maximum-acceleration">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/rectilinear-motion-diff-calc-ab/v/rectilinear-motion-example-maximum-acceleration</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "The speed of a particle moving along the x-axis is given by v(t)=-t&sup3;+6t&sup2;+2t. Sal analyzes it to find the time when the particle&#39;s acceleration attains its maximum value."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-applications-derivatives/ab-motion-diff/v/when-is-a-particle-speeding-up">http://translate.khanacademy.org/math/ap-calculus-ab/ab-applications-derivatives/ab-motion-diff/v/when-is-a-particle-speeding-up</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/rectilinear-motion-diff-calc-ab/v/when-is-a-particle-speeding-up">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/rectilinear-motion-diff-calc-ab/v/when-is-a-particle-speeding-up</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Rectilinear motion example: speeding up"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-applications-derivatives/ab-motion-diff/v/when-is-a-particle-speeding-up">http://translate.khanacademy.org/math/ap-calculus-ab/ab-applications-derivatives/ab-motion-diff/v/when-is-a-particle-speeding-up</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/rectilinear-motion-diff-calc-ab/v/when-is-a-particle-speeding-up">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/rectilinear-motion-diff-calc-ab/v/when-is-a-particle-speeding-up</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "The position of a particle moving along the x-axis is given by s(t)=t&sup3;-6t&sup2;+9t. Sal analyzes it to find the times when the particle is &quot;speeding up.&quot;"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-diff-trig-func/v/trig-functions-differentiation-sec">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-diff-trig-func/v/trig-functions-differentiation-sec</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/differentiating-common-functions-ab/trigonometric-functions-differentiation-ab/v/trig-functions-differentiation-sec">http://translate.khanacademy.org/math/ap-calculus-ab/differentiating-common-functions-ab/trigonometric-functions-differentiation-ab/v/trig-functions-differentiation-sec</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal differentiates&nbsp;sec(3&pi;/2-x) and evaluates the derivative at x=&pi;/4."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-rational-func-diff/v/linear-approximation-example">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-rational-func-diff/v/linear-approximation-example</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/linear-approximation-ab/v/linear-approximation-example">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/linear-approximation-ab/v/linear-approximation-example</a>
+# Description of video <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/linear-approximation-dc/v/linear-approximation-example">http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/linear-approximation-dc/v/linear-approximation-example</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal finds a linear expression that approximates y=1/(x-1) around x=-1. This is done by finding the equation of the line tangent to the graph at x=-1, a process called &quot;linear approximation.&quot;"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-diff-inverse-func/v/derivatives-of-inverse-functions-implicit">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-diff-inverse-func/v/derivatives-of-inverse-functions-implicit</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/derivatives-of-inverse-functions-ab/v/derivatives-of-inverse-functions-implicit">http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/derivatives-of-inverse-functions-ab/v/derivatives-of-inverse-functions-implicit</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Derivatives of inverse functions: from equation"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-diff-inverse-func/v/derivatives-of-inverse-functions-implicit">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-diff-inverse-func/v/derivatives-of-inverse-functions-implicit</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/derivatives-of-inverse-functions-ab/v/derivatives-of-inverse-functions-implicit">http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/derivatives-of-inverse-functions-ab/v/derivatives-of-inverse-functions-implicit</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Given that f(x)=&frac12;x&sup3;+3x-4, Sal evaluates the derivative of the <em>inverse </em>of f at x=-14."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-diff-inverse-func/v/derivatives-of-inverse-functions-table">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-diff-inverse-func/v/derivatives-of-inverse-functions-table</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/derivatives-of-inverse-functions-ab/v/derivatives-of-inverse-functions-table">http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/derivatives-of-inverse-functions-ab/v/derivatives-of-inverse-functions-table</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Derivatives of inverse functions: from table"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-diff-inverse-func/v/derivatives-of-inverse-functions-table">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-diff-inverse-func/v/derivatives-of-inverse-functions-table</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/derivatives-of-inverse-functions-ab/v/derivatives-of-inverse-functions-table">http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/derivatives-of-inverse-functions-ab/v/derivatives-of-inverse-functions-table</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Given a table of values of g, its inverse h, and its derivative g&#39;, Sal evaluates the derivative of the&nbsp;inverse, h&#39;, at a given x-value."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-second-derivatives/v/second-derivatives">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-advanced/ab-second-derivatives/v/second-derivatives</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/higher-order-derivatives-ab/v/second-derivatives">http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/higher-order-derivatives-ab/v/second-derivatives</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal finds the second derivative of y=6/x&sup2;. Second derivative is the derivative of the derivative of y."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-abs-extrema/v/absolute-extrema-on-entire-domain">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-abs-extrema/v/absolute-extrema-on-entire-domain</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/absolute-minima-and-maxima-ab/v/absolute-extrema-on-entire-domain">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/absolute-minima-and-maxima-ab/v/absolute-extrema-on-entire-domain</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal analyzes the absolute minimum and maximum points of g(x)=x&sup2;ln(x) over its entire domain."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-inflection-points/v/analyzing-concavity-algebraically">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-inflection-points/v/analyzing-concavity-algebraically</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-ab/v/analyzing-concavity-algebraically">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-ab/v/analyzing-concavity-algebraically</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Analyzing concavity (algebraic)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-inflection-points/v/analyzing-concavity-algebraically">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-inflection-points/v/analyzing-concavity-algebraically</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-ab/v/analyzing-concavity-algebraically">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-ab/v/analyzing-concavity-algebraically</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal finds the intervals where g(x)=-x⁴+6x&sup2;-2x-3 is concave down/up by finding where its second derivative, g&#39;&#39;, is positive/negative."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-justification-with-second-derivative/v/second-derivative-test">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-justification-with-second-derivative/v/second-derivative-test</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-ab/v/second-derivative-test">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-ab/v/second-derivative-test</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal justifies the second derivative test, which is a way of determining relative minima &amp; maxima, and gives an example."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-diff-eq-specific-sol/v/particular-solution-to-differential-equation-example">http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-diff-eq-specific-sol/v/particular-solution-to-differential-equation-example</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/separable-eq-ab/v/particular-solution-to-differential-equation-example">http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/separable-eq-ab/v/particular-solution-to-differential-equation-example</a>
+# Description of video (xc7b88d99) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Solving a separable differential equation given initial conditions. In this video, the equation is dy/dx=2y&sup2; with y(1)=1."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-diff-eq-specific-sol/v/using-particular-solution-to-separable-differential-equation">http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-diff-eq-specific-sol/v/using-particular-solution-to-separable-differential-equation</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/separable-eq-ab/v/using-particular-solution-to-separable-differential-equation">http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/separable-eq-ab/v/using-particular-solution-to-separable-differential-equation</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: separable equation with an implicit solution"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-diff-eq-specific-sol/v/using-particular-solution-to-separable-differential-equation">http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-diff-eq-specific-sol/v/using-particular-solution-to-separable-differential-equation</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/separable-eq-ab/v/using-particular-solution-to-separable-differential-equation">http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/separable-eq-ab/v/using-particular-solution-to-separable-differential-equation</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sometimes the solution of a separable differential equation can&#39;t be written as an explicit function. This doesn&#39;t mean we can&#39;t use it!"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-exp-models/v/exponential-solution-to-differential-equation">http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-exp-models/v/exponential-solution-to-differential-equation</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/exponential-models-ab/v/exponential-solution-to-differential-equation">http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/exponential-models-ab/v/exponential-solution-to-differential-equation</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: exponential solution to differential equation"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-separable-eq/v/identifying-separable-equations">http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-separable-eq/v/identifying-separable-equations</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/separable-eq-ab/v/identifying-separable-equations">http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/separable-eq-ab/v/identifying-separable-equations</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: identifying separable equations"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-separable-eq/v/identifying-separable-equations">http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-separable-eq/v/identifying-separable-equations</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/separable-eq-ab/v/identifying-separable-equations">http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/separable-eq-ab/v/identifying-separable-equations</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Separable equations can be written in the form dy/dx=f(x)g(y). See how we analyze various differential equations to see if they are separable."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-separable-eq/v/separable-differential-equations-introduction">http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-separable-eq/v/separable-differential-equations-introduction</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/separable-eq-ab/v/separable-differential-equations-introduction">http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/separable-eq-ab/v/separable-differential-equations-introduction</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Separable equations introduction"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-separable-eq/v/separable-differential-equations-introduction">http://translate.khanacademy.org/math/ap-calculus-ab/ab-diff-equations/ab-separable-eq/v/separable-differential-equations-introduction</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/separable-eq-ab/v/separable-differential-equations-introduction">http://translate.khanacademy.org/math/ap-calculus-ab/diff-equations-ab/separable-eq-ab/v/separable-differential-equations-introduction</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "&quot;Separation of variables&quot; allows us to rewrite differential equations so we obtain an equality between two integrals we can evaluate. Separable equations are the class of differential equations that can be solved using this method."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/logarithmic-differentiation-ab/v/composite-exponential-function-differentiation">http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/logarithmic-differentiation-ab/v/composite-exponential-function-differentiation</a>
+# Title of video <a href="http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/logarithmic-differentiation-calc/v/composite-exponential-function-differentiation">http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/logarithmic-differentiation-calc/v/composite-exponential-function-differentiation</a>
+# Title of video <a href="http://translate.khanacademy.org/math/differential-calculus/advanced-diff-dc/logarithmic-differentiation-dc/v/composite-exponential-function-differentiation">http://translate.khanacademy.org/math/differential-calculus/advanced-diff-dc/logarithmic-differentiation-dc/v/composite-exponential-function-differentiation</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Composite exponential function differentiation example"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/logarithmic-differentiation-ab/v/composite-exponential-function-differentiation">http://translate.khanacademy.org/math/ap-calculus-ab/advanced-differentiation-ab/logarithmic-differentiation-ab/v/composite-exponential-function-differentiation</a>
+# Description of video <a href="http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/logarithmic-differentiation-calc/v/composite-exponential-function-differentiation">http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/logarithmic-differentiation-calc/v/composite-exponential-function-differentiation</a>
+# Description of video <a href="http://translate.khanacademy.org/math/differential-calculus/advanced-diff-dc/logarithmic-differentiation-dc/v/composite-exponential-function-differentiation">http://translate.khanacademy.org/math/differential-calculus/advanced-diff-dc/logarithmic-differentiation-dc/v/composite-exponential-function-differentiation</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal differentiates the composite exponential function [ln(x)]ˣ and evaluates the derivative at x=e. Composite exponential functions are functions where the variable is in both the base and the exponent."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/advanced-differentiation-bc/parametric-and-vector-valued-function-differentiation-bc/v/parametric-function-differentiation">http://translate.khanacademy.org/math/ap-calculus-bc/advanced-differentiation-bc/parametric-and-vector-valued-function-differentiation-bc/v/parametric-function-differentiation</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-diff-param-vec-func/v/parametric-function-differentiation">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-diff-param-vec-func/v/parametric-function-differentiation</a>
+# Description of video <a href="http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/parametric-and-vector-valued-function-differentiation-calc/v/parametric-function-differentiation">http://translate.khanacademy.org/math/calculus-home/taking-derivatives-calc/parametric-and-vector-valued-function-differentiation-calc/v/parametric-function-differentiation</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal finds the derivative of the function defined by the parametric equations x=sin(1+3t) and y=2t&sup3;, and evaluates it at t=-⅓."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-integration-by-parts/v/integration-by-parts-of-definite-integral">http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-integration-by-parts/v/integration-by-parts-of-definite-integral</a>
+# Description of video (x72ccc1ab3a4944c6) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: html)
+#: intl/datastore:1
+msgid "When finding a definite integral using integration by parts, we should first find the antiderivative (as we do with indefinite integrals), but then we should also evaluate the antiderivative at the boundaries and subtract."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-arc-length/v/parametric-arc-length-example">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-arc-length/v/parametric-arc-length-example</a>
+# Title of video (x1cd2aab57f889617) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: Parametric arc length"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-arc-length/v/parametric-arc-length-example">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-arc-length/v/parametric-arc-length-example</a>
+# Description of video (x1cd2aab57f889617) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: html)
+#: intl/datastore:1
+msgid "Finding the length of the parametric curve 𝘹=cos(𝑡), 𝘺=sin(𝑡) from 𝑡=0 to 𝑡=&pi;/2, using the formula for arc length of a parametric curve."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-arc-length/v/parametric-curve-arc-length">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-arc-length/v/parametric-curve-arc-length</a>
+# Title of video (xf846ca3307ce3b26) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Parametric curve arc length"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-arc-length/v/parametric-curve-arc-length">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-arc-length/v/parametric-curve-arc-length</a>
+# Description of video (xf846ca3307ce3b26) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: html)
+#: intl/datastore:1
+msgid "Conceptual introduction to the formula for arc length of a parametric curve."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-motion-integrals/v/planar-motion-with-integrals">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-motion-integrals/v/planar-motion-with-integrals</a>
+# Description of video (x2729df269f69de0e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: html)
+#: intl/datastore:1
+msgid "To analyze planar motion where the rate vector is given, we need to find the displacement in each direction separately. Then we will either use that to find the new position, or to find the magnitude of the displacement using the Pythagorean theorem."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/bc-planar-motion-diff/v/motion-along-a-curve-example-1">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/bc-planar-motion-diff/v/motion-along-a-curve-example-1</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/planar-motion-diff-calc-bc/v/motion-along-a-curve-example-1">http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/planar-motion-diff-calc-bc/v/motion-along-a-curve-example-1</a>
+# Title of video <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/planar-motion-diff-calc/v/motion-along-a-curve-example-1">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/planar-motion-diff-calc/v/motion-along-a-curve-example-1</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Motion along a curve: finding rate of change"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/bc-planar-motion-diff/v/motion-along-a-curve-example-1">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/bc-planar-motion-diff/v/motion-along-a-curve-example-1</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/planar-motion-diff-calc-bc/v/motion-along-a-curve-example-1">http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/planar-motion-diff-calc-bc/v/motion-along-a-curve-example-1</a>
+# Description of video <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/planar-motion-diff-calc/v/motion-along-a-curve-example-1">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/planar-motion-diff-calc/v/motion-along-a-curve-example-1</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Given that a particle moves along the implicit curve x&sup2;y&sup2;=16 and given its rate of change with respect to x at some point, Sal finds the particle&#39;s rate of change with respect to y using implicit differentiation."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/bc-planar-motion-diff/v/motion-along-a-curve-example-2">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/bc-planar-motion-diff/v/motion-along-a-curve-example-2</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/planar-motion-diff-calc-bc/v/motion-along-a-curve-example-2">http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/planar-motion-diff-calc-bc/v/motion-along-a-curve-example-2</a>
+# Title of video <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/planar-motion-diff-calc/v/motion-along-a-curve-example-2">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/planar-motion-diff-calc/v/motion-along-a-curve-example-2</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Motion along a curve: finding velocity magnitude"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/bc-planar-motion-diff/v/motion-along-a-curve-example-2">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/bc-planar-motion-diff/v/motion-along-a-curve-example-2</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/planar-motion-diff-calc-bc/v/motion-along-a-curve-example-2">http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/planar-motion-diff-calc-bc/v/motion-along-a-curve-example-2</a>
+# Description of video <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/planar-motion-diff-calc/v/motion-along-a-curve-example-2">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/planar-motion-diff-calc/v/motion-along-a-curve-example-2</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Given that a particle moves along the implicit curve xy=16 and given its rate of change with respect to y at some point, Sal finds the magnitude of the particle&#39;s velocity vector using implicit differentiation."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/bc-planar-motion-diff/v/planar-motion-example-acceleration-vector">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/bc-planar-motion-diff/v/planar-motion-example-acceleration-vector</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/planar-motion-diff-calc-bc/v/planar-motion-example-acceleration-vector">http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/planar-motion-diff-calc-bc/v/planar-motion-example-acceleration-vector</a>
+# Title of video <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/planar-motion-diff-calc/v/planar-motion-example-acceleration-vector">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/planar-motion-diff-calc/v/planar-motion-example-acceleration-vector</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Planar motion example: acceleration vector"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/bc-planar-motion-diff/v/planar-motion-example-acceleration-vector">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/bc-planar-motion-diff/v/planar-motion-example-acceleration-vector</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/planar-motion-diff-calc-bc/v/planar-motion-example-acceleration-vector">http://translate.khanacademy.org/math/ap-calculus-bc/derivative-applications-bc/planar-motion-diff-calc-bc/v/planar-motion-example-acceleration-vector</a>
+# Description of video <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/planar-motion-diff-calc/v/planar-motion-example-acceleration-vector">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/planar-motion-diff-calc/v/planar-motion-example-acceleration-vector</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "The position of a particle moving in the xy-plane is given by the position vector (-3t&sup3;+4t&sup2;,t&sup3;+2). Sal analyzes it to find the acceleration vector of the particle at time t=3."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-polar-functions-differentiation/v/derivatives-in-polar-coordinates">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-polar-functions-differentiation/v/derivatives-in-polar-coordinates</a>
+# Title of video (x6005fd8e4a8e9fcd) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Polar functions derivatives"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-polar-functions-differentiation/v/derivatives-in-polar-coordinates">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-polar-functions-differentiation/v/derivatives-in-polar-coordinates</a>
+# Description of video (x6005fd8e4a8e9fcd) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: html)
+#: intl/datastore:1
+msgid "Finding derivatives of 𝑟, 𝘹, and 𝘺 of a function given in polar coordinates."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-polar-functions-differentiation/v/differentiating-polar-functions-example">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-polar-functions-differentiation/v/differentiating-polar-functions-example</a>
+# Title of video (x58a369d140415dc6) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: differentiating polar functions"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-polar-functions-differentiation/v/differentiating-polar-functions-example">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-polar-functions-differentiation/v/differentiating-polar-functions-example</a>
+# Description of video (x58a369d140415dc6) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: html)
+#: intl/datastore:1
+msgid "An AP Calculus sample item where we find the rate of change of 𝘹 with respect to θ."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-eulers-method/v/example-eulers-method-exercise">http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-eulers-method/v/example-eulers-method-exercise</a>
+# Description of video (x7ac26ce4) on the bg stage
+# Description of video (x7ac26ce4) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Finding the initial condition based on the result of approximating with Euler&#39;s method."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-logistic-models/v/analyzing-logistic-differential-equations">http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-logistic-models/v/analyzing-logistic-differential-equations</a>
+# Title of video (xe60ace5dccb9437f) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: Logistic model word problem"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-logistic-models/v/analyzing-logistic-differential-equations">http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-logistic-models/v/analyzing-logistic-differential-equations</a>
+# Description of video (xe60ace5dccb9437f) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: html)
+#: intl/datastore:1
+msgid "Finding the carrying capacity of a population that grows logistically. Also finding the population&#39;s size when it&#39;s growing the fastest."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-logistic-models/v/logistic-differential-equation-intuition">http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-logistic-models/v/logistic-differential-equation-intuition</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/diff-equations-bc/logistic-diff-eq-bc/v/logistic-differential-equation-intuition">http://translate.khanacademy.org/math/ap-calculus-bc/diff-equations-bc/logistic-diff-eq-bc/v/logistic-differential-equation-intuition</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "The logistic differential equation dN/dt=rN(1-N/K) describes the situation where a population grows proportionally to its size, but stops growing when it reaches the size of K."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-logistic-models/v/logistic-function-application">http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-logistic-models/v/logistic-function-application</a>
+# Title of video (x0c018898) on the pt stage
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: logistic model equations"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-separable-eq/v/separable-diff-eq-with-taking-exp">http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-separable-eq/v/separable-diff-eq-with-taking-exp</a>
+# Title of video (xea102537cca6da2a) on the pt stage
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: separable differential equation (with taking exp of both sides)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-separable-eq/v/separable-diff-eq-with-taking-exp">http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-separable-eq/v/separable-diff-eq-with-taking-exp</a>
+# Description of video (xea102537cca6da2a) on the pt stage
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Solving the equation dy/dx=x⋅y. This involves an extra step of raising 𝑒 by both sides of the resulting x-y equation, in order to isolate y."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-separable-eq/v/separable-diff-eq-with-taking-log">http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-separable-eq/v/separable-diff-eq-with-taking-log</a>
+# Title of video (x7fb884886bd8e388) on the pt stage
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: separable differential equation (with taking log of both sides)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-separable-eq/v/separable-diff-eq-with-taking-log">http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-separable-eq/v/separable-diff-eq-with-taking-log</a>
+# Description of video (x7fb884886bd8e388) on the pt stage
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Solving the equation dy/dx=x²/𝑒ʸ. This involves an extra step of taking the log of both sides of the resulting x-y equation, in order to isolate y."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-estimating-inf-series/v/alternating-series-remainder">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-estimating-inf-series/v/alternating-series-remainder</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/estimating-infinite-series-bc/v/alternating-series-remainder">http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/estimating-infinite-series-bc/v/alternating-series-remainder</a>
+# Title of video <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/estimating-infinite-series-calc/v/alternating-series-remainder">http://translate.khanacademy.org/math/calculus-home/series-calc/estimating-infinite-series-calc/v/alternating-series-remainder</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: alternating series remainder"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-estimating-inf-series/v/alternating-series-remainder">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-estimating-inf-series/v/alternating-series-remainder</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/estimating-infinite-series-bc/v/alternating-series-remainder">http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/estimating-infinite-series-bc/v/alternating-series-remainder</a>
+# Description of video <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/estimating-infinite-series-calc/v/alternating-series-remainder">http://translate.khanacademy.org/math/calculus-home/series-calc/estimating-infinite-series-calc/v/alternating-series-remainder</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Using the alternating series remainder to approximating the sum of an alternating series to a given error bound."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-estimating-inf-series/v/estimating-infinite-sum-integrals">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-estimating-inf-series/v/estimating-infinite-sum-integrals</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/estimating-infinite-series-bc/v/estimating-infinite-sum-integrals">http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/estimating-infinite-series-bc/v/estimating-infinite-sum-integrals</a>
+# Title of video <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/estimating-infinite-series-calc/v/estimating-infinite-sum-integrals">http://translate.khanacademy.org/math/calculus-home/series-calc/estimating-infinite-series-calc/v/estimating-infinite-sum-integrals</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: Series estimation with integrals"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-estimating-inf-series/v/estimating-infinite-sum-integrals">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-estimating-inf-series/v/estimating-infinite-sum-integrals</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/estimating-infinite-series-bc/v/estimating-infinite-sum-integrals">http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/estimating-infinite-series-bc/v/estimating-infinite-sum-integrals</a>
+# Description of video <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/estimating-infinite-series-calc/v/estimating-infinite-sum-integrals">http://translate.khanacademy.org/math/calculus-home/series-calc/estimating-infinite-series-calc/v/estimating-infinite-sum-integrals</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "See how we can use improper integrals to approximate the infinite sum of 1/n&sup2;."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-estimating-inf-series/v/integrals-estimating-p-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-estimating-inf-series/v/integrals-estimating-p-series</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/estimating-infinite-series-bc/v/integrals-estimating-p-series">http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/estimating-infinite-series-bc/v/integrals-estimating-p-series</a>
+# Title of video <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/estimating-infinite-series-calc/v/integrals-estimating-p-series">http://translate.khanacademy.org/math/calculus-home/series-calc/estimating-infinite-series-calc/v/integrals-estimating-p-series</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Series estimation with integrals"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-estimating-inf-series/v/integrals-estimating-p-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-estimating-inf-series/v/integrals-estimating-p-series</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/estimating-infinite-series-bc/v/integrals-estimating-p-series">http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/estimating-infinite-series-bc/v/integrals-estimating-p-series</a>
+# Description of video <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/estimating-infinite-series-calc/v/integrals-estimating-p-series">http://translate.khanacademy.org/math/calculus-home/series-calc/estimating-infinite-series-calc/v/integrals-estimating-p-series</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Suppose we want to find the sum of a convergent series, and can&#39;t do it directly. We can take a partial sum, but how do we know how far we are from the actual sum? We can use improper integrals for that!"
+msgstr ""

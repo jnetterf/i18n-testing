@@ -1,0 +1,62 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:17+0000\n"
+"PO-Revision-Date: 2017-11-21 12:17+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# See text on <a href="http://www.khanacademy.org/about/blog">http://www.khanacademy.org/about/blog</a>
+# See text on <a href="http://www.khanacademy.org/discussion/mod/flaggedfeedback">http://www.khanacademy.org/discussion/mod/flaggedfeedback</a>
+#: javascript/profile-nav-package/profile-router.js:282 javascript/profile-package/discussion-tab-links.handlebars:29 javascript/profile-package/profile-discussion.js:481 templates/about/viewblog.html:20 templates/discussion/mod/flaggedfeedback.html:32
+msgid "Comments"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/blog">http://www.khanacademy.org/about/blog</a>
+#: templates/about/viewblog.html:25
+msgid "Newer Posts"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/blog">http://www.khanacademy.org/about/blog</a>
+#: templates/about/viewblog.html:29
+msgid "Older Posts"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/blog">http://www.khanacademy.org/about/blog</a>
+#: templates/about/viewblog.html:49
+msgid "Department blogs"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/blog">http://www.khanacademy.org/about/blog</a>
+#: templates/about/viewblog.html:51
+msgid "Coaching resources"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/blog">http://www.khanacademy.org/about/blog</a>
+#: templates/about/viewblog.html:52
+msgid "Engineering"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/blog">http://www.khanacademy.org/about/blog</a>
+#: templates/about/viewblog.html:58
+msgid "Follow us"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/blog">http://www.khanacademy.org/about/blog</a>
+#: templates/about/viewblog.html:61
+msgid "Subscribe to this blog"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/blog/post/40275721886/khan-academy-tutorials">http://www.khanacademy.org/about/blog/post/40275721886/khan-academy-tutorials</a>
+#: templates/about/viewblogpost.html:38
+msgid "Tagged:"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/blog/post/40275721886/khan-academy-tutorials">http://www.khanacademy.org/about/blog/post/40275721886/khan-academy-tutorials</a>
+#: templates/about/viewblogpost.html:58
+msgid "Please enable JavaScript to view the <a href=\"http://disqus.com/?ref_noscript=bjk5\">comments powered by Disqus.</a>"
+msgstr ""

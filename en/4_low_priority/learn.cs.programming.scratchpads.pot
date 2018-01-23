@@ -1,0 +1,1358 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:17+0000\n"
+"PO-Revision-Date: 2017-11-21 12:17+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/animation-basics/p/challenge-parting-clouds">http://translate.khanacademy.org/computing/computer-programming/programming/animation-basics/p/challenge-parting-clouds</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: genfiles/compiled_jsx/en/javascript/projectfeedback-package/projectfeedback-form.jsx.js:1518 intl/datastore:1
+msgid "Challenge: Parting Clouds"
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/animation-basics/p/challenge-exploding-sun">http://translate.khanacademy.org/computing/computer-programming/programming/animation-basics/p/challenge-exploding-sun</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenge: Exploding Sun"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/animation-basics/p/challenge-exploding-sun">http://translate.khanacademy.org/computing/computer-programming/programming/animation-basics/p/challenge-exploding-sun</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Make the sun get bigger and BIGGER!"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/animation-basics/p/challenge-parting-clouds">http://translate.khanacademy.org/computing/computer-programming/programming/animation-basics/p/challenge-parting-clouds</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Animate clouds moving away from a growing sun!"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/good-practices/p/planning-with-pseudo-code">http://translate.khanacademy.org/computing/computer-programming/programming/good-practices/p/planning-with-pseudo-code</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Pamela explains \"pseudo-code\", a way to plan out your program before you code it."
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/interactive-programs/p/challenge-tasty-tomato">http://translate.khanacademy.org/computing/computer-programming/programming/interactive-programs/p/challenge-tasty-tomato</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenge: Tasty Tomato"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/interactive-programs/p/challenge-tasty-tomato">http://translate.khanacademy.org/computing/computer-programming/programming/interactive-programs/p/challenge-tasty-tomato</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Hungry? Eat the tomato!"
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/interactive-programs/p/mouse-interaction">http://translate.khanacademy.org/computing/computer-programming/programming/interactive-programs/p/mouse-interaction</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Mouse Interaction"
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/booleans">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/booleans</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Booleans"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/booleans">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/booleans</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Jessica introduces the idea of \"booleans\", values that can either be true or false."
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/challenge-bouncy-ball">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/challenge-bouncy-ball</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenge: Bouncy Ball"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/challenge-flashy-flash-card">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/challenge-flashy-flash-card</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/flashy-flash-cards">http://translate.khanacademy.org/computing/p/flashy-flash-cards</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Make sure the question is showing *before* we press, and that you haven't changed the question."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/challenge-flashy-flash-card">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/challenge-flashy-flash-card</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/flashy-flash-cards">http://translate.khanacademy.org/computing/p/flashy-flash-cards</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Make sure you're passing a string to the text() commands."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/challenge-flashy-flash-card">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/challenge-flashy-flash-card</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/flashy-flash-cards">http://translate.khanacademy.org/computing/p/flashy-flash-cards</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Show the answer!"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/challenge-flashy-flash-card">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/challenge-flashy-flash-card</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/flashy-flash-cards">http://translate.khanacademy.org/computing/p/flashy-flash-cards</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Whoops! Looks like you changed some of the original code! Click the button below to start over."
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/challenge-your-first-button">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/challenge-your-first-button</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenge: Your First Button"
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/challenge-your-first-painting-app">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/challenge-your-first-painting-app</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenge: Your First Painting App"
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/if-statements">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/if-statements</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "If Statements"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/if-statements">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/if-statements</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Jessica introduces if statements, a way for your program to decide whether or not to execute a block of code."
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/ifelse-part-1">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/ifelse-part-1</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "If/Else - Part 1"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/ifelse-part-1">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/ifelse-part-1</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Jessica introduces if's soulmate: else."
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/ifelse-part-2">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/ifelse-part-2</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "If/Else - Part 2"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/ifelse-part-2">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/ifelse-part-2</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Jessica shows how to make your conditionals more powerful with \"if else\"."
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/logical-operators">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/logical-operators</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Logical Operators"
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/more-mouse-interaction">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/more-mouse-interaction</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "More Mouse Interaction"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/more-mouse-interaction">http://translate.khanacademy.org/computing/computer-programming/programming/logic-if-statements/p/more-mouse-interaction</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Pamela explains how to use mouseIsPressed with if statements to execute code only when the user is pressing their mouse."
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/p/project-build-a-house">http://translate.khanacademy.org/computing/computer-programming/programming/looping/p/project-build-a-house</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"<p>Think about your house, or your school building, or your work office. There's a lot of repeating elements - especially on the outside. In this project, you'll use loops to add repeating elements to this house:</p>\n"
+"<ol>\n"
+" <li>Draw a window, then use a for loop to draw a row of windows (or, use nested for loops to make multiple rows of windows).</li>\n"
+" <li>Draw a row of grass in front. And maybe some bushes or flowers?</li>\n"
+" <li>The house is a plain color now. Use loops to make it a brick house or a house with \"siding\" or a log cabin. Check the <a href=\"https://www.khanacademy.org/cs/imageimage-x-y/937672662\" target=\"_blank\">images library</a> for ways to make that more realistic.</li>\n"
+" <li>Use a conditional inside a for loop to make more interesting grass or walls, so that you use a different color every other execution of the loop (hint: use the <a href=\"https://www.khanacademy.org/cs/the-operator/6698198968041472\" target=\"_blank\">% operator</a>).</li>\n"
+"</ol>\n"
+"<p>Keep going! What else could you draw with loops?</p>"
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/challenge-mouse-tracker">http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/challenge-mouse-tracker</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenge: Mouse Tracker"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/challenge-mouse-tracker">http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/challenge-mouse-tracker</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Track the mouse position"
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/challenge-my-favorite-foods">http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/challenge-my-favorite-foods</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenge: My Favorite Foods"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/challenge-my-favorite-foods">http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/challenge-my-favorite-foods</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "List your favorites"
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/terrific-text-part-one">http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/terrific-text-part-one</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Terrific Text: Part One"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/terrific-text-part-one">http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/terrific-text-part-one</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Sophia shows how to display text on the canvas, plus change its size and color."
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/terrific-text-part-two">http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/terrific-text-part-two</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Terrific Text: Part Two"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/terrific-text-part-two">http://translate.khanacademy.org/computing/computer-programming/programming/text-basics/p/terrific-text-part-two</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Sophia introduces the idea of \"strings\", then shows how to store strings in variables and display them using the text commands."
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/challenge-bucktooth-bunny">http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/challenge-bucktooth-bunny</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenge: Bucktooth Bunny"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/challenge-bucktooth-bunny">http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/challenge-bucktooth-bunny</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Use the power of variables to give our bunny bigger eyes and teeth!"
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/challenge-funky-frog">http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/challenge-funky-frog</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenge: Funky Frog"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/challenge-funky-frog">http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/challenge-funky-frog</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Help our froggy see and eat by using variables to draw his eyes and mouth."
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/intro-to-variables</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Intro to Variables"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/intro-to-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/intro-to-variables</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Jessica explains how to use variables to hold on to a value to use later. Variables are an important part of programming, so pay close attention!"
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/more-on-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/more-on-variables</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "More on Variables"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/more-on-variables">http://translate.khanacademy.org/computing/computer-programming/programming/variables/p/more-on-variables</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Jessica explains more important things you should know about using variables."
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/writing-clean-code/p/clarifying-with-comments">http://translate.khanacademy.org/computing/computer-programming/programming/writing-clean-code/p/clarifying-with-comments</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Clarifying with Comments"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/writing-clean-code/p/clarifying-with-comments">http://translate.khanacademy.org/computing/computer-programming/programming/writing-clean-code/p/clarifying-with-comments</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Pamela encourages you to use comments to make your code clearer and easier to understand."
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/writing-clean-code/p/readable-code">http://translate.khanacademy.org/computing/computer-programming/programming/writing-clean-code/p/readable-code</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Readable Code"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/computer-programming/programming/writing-clean-code/p/readable-code">http://translate.khanacademy.org/computing/computer-programming/programming/writing-clean-code/p/readable-code</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Pamela shows the difference between unreadable code and readable code. Go for the latter!"
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/p/challenge-h-for-hopper">http://translate.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/p/challenge-h-for-hopper</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/p/challenge-h-for-hopper">http://translate.khanacademy.org/computing/p/challenge-h-for-hopper</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenge: H for Hopper"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/p/challenge-h-for-hopper">http://translate.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/p/challenge-h-for-hopper</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/p/challenge-h-for-hopper">http://translate.khanacademy.org/computing/p/challenge-h-for-hopper</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Hopper is our beaver that guides you through challenges. Make her happy by drawing an \"H\"!"
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/p/intro-to-drawing">http://translate.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/p/intro-to-drawing</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/p/intro-to-drawing">http://translate.khanacademy.org/computing/p/intro-to-drawing</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Intro to Drawing"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/p/intro-to-drawing">http://translate.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/p/intro-to-drawing</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/p/intro-to-drawing">http://translate.khanacademy.org/computing/p/intro-to-drawing</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Sophia explains how to use the rect() command to draw a rectangle, and shows how the canvas grid is laid out."
+msgstr ""
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/p/more-drawing">http://translate.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/p/more-drawing</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/p/more-drawing">http://translate.khanacademy.org/computing/p/more-drawing</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "More Drawing!"
+msgstr ""
+
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/p/more-drawing">http://translate.khanacademy.org/computing/hour-of-code/hour-of-code-tutorial/p/more-drawing</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# Description of CS scratchpad <a href="http://translate.khanacademy.org/computing/p/more-drawing">http://translate.khanacademy.org/computing/p/more-drawing</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Sophia explains how to draw more shapes, using ellipse() and line(), and shows how the order of commands affects the stacking of the shapes."
+msgstr ""

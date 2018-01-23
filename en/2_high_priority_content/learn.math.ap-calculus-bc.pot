@@ -1,0 +1,1745 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:16+0000\n"
+"PO-Revision-Date: 2017-11-21 12:16+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-ftc-opt-vids">http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-ftc-opt-vids</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivative-intro/bc-derivative-intro-opt-vids">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivative-intro/bc-derivative-intro-opt-vids</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivative-rules/bc-derivative-rules-opt-vids">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivative-rules/bc-derivative-rules-opt-vids</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-adv-derivatives-opt-vids">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-adv-derivatives-opt-vids</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-analyze-functions/bc-analyze-funcs-opt-vids">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-analyze-functions/bc-analyze-funcs-opt-vids</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-limits-continuity/bc-limits-opt-vids">http://translate.khanacademy.org/math/ap-calculus-bc/bc-limits-continuity/bc-limits-opt-vids</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-series-opt-vids">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-series-opt-vids</a>
+# Description of topic (x581ce89bbb1125a7) on the pt stage
+# Description of topic (x7426cf83dd635778) on the pt stage
+# Description of topic (xb7c764c45d642950) on the pt stage
+# Description of topic (xbde3c8654220d6a5) on the pt stage
+# Description of topic (xcb360d0e9bf7daca) on the pt stage
+# Description of topic (xcbd6b09fb72f937a) on the pt stage
+# Description of topic (xefe37fd5ddb338fe) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Some things are not explicitly required by the AP Calculus BC course, but many teachers cover them and we also find them useful. We've gathered those optional videos here for your convenience."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-ftc-opt-vids">http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-ftc-opt-vids</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xefe37fd5ddb338fe) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Optional videos | Antiderivatives and the fundamental theorem of calculus | AP Calculus BC | Khan Academy"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-improper-integrals">http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-improper-integrals</a>
+# Description of topic (x759516fac36f9988) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Improper integrals are like definite integrals, only unbounded from the left and/or right. And yes, some of them have finite values. An unbounded area with a finite size? That's calculus to you! (This content belongs in AP Calc BC only, and not in AP Calc AB.)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-integration-by-parts">http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-integration-by-parts</a>
+# Description of topic (xeff2d4b5b07ebdcf) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Integration by parts is the method of applying the product rule in reverse in order to find the integral of a product of functions. (This content belongs in AP Calc BC only, and not in AP Calc AB.)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-partial-fractions">http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-partial-fractions</a>
+# Description of topic (x042d45c2a1213378) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Partial fractions are a useful algebraic tool to find the integrals of some rational functions. (This content belongs in AP Calc BC only, and not in AP Calc AB.)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-arc-length">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-arc-length</a>
+# Description of topic (x2a870df800648e64) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Definite integrals can be used to find the length of a curve (this is often called \"arc length\"). Learn all about it here. (This content belongs in AP Calc BC only, and not in AP Calc AB.)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-polar-graphs-area">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-polar-graphs-area</a>
+# Title of topic (x4fef8f8463f9a642) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Area: polar curves"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-polar-graphs-area">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-definite-integrals/bc-polar-graphs-area</a>
+# Description of topic (x4fef8f8463f9a642) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "We're used to finding the area under curves in the Cartesian plane, but integration can be used to find area defined by polar curves too. (This content belongs in AP Calc BC only, and not in AP Calc AB.)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/bc-planar-motion-diff">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives/bc-planar-motion-diff</a>
+# Description of topic (x9eb7993f7da65082) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Solve problems about motion on a 2-dimensional plane using the power of differential calculus. For example, given the (x,y) position of a particle as a function of time (x(t),y(t)), find the particle's position when its acceleration is 0. (This content belongs in AP Calc BC only, and not in AP Calc AB.)"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivative-intro/bc-derivative-intro-opt-vids">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivative-intro/bc-derivative-intro-opt-vids</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x7426cf83dd635778) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Optional videos | Derivatives introduction | AP Calculus BC | Khan Academy"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivative-rules/bc-derivative-rules-opt-vids">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivative-rules/bc-derivative-rules-opt-vids</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb7c764c45d642950) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Optional videos | Derivative rules | AP Calculus BC | Khan Academy"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-adv-derivatives-opt-vids">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-adv-derivatives-opt-vids</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xbde3c8654220d6a5) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Optional videos | Advanced derivatives | AP Calculus BC | Khan Academy"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-diff-param-vec-func">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-diff-param-vec-func</a>
+# Description of topic (xd5cac2d0d526e689) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Parametric and vector-valued functions basically take one input and return two outputs. How do we differentiate such functions? Find out here. (This content belongs in AP Calc BC only, and not in AP Calc AB.)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-polar-functions-differentiation">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-polar-functions-differentiation</a>
+# Title of topic (x8b876523c59ce2f2) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Polar functions differentiation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-polar-functions-differentiation">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-polar-functions-differentiation</a>
+# Description of topic (x8b876523c59ce2f2) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "A polar curve is defined by a function 𝑟(θ) that gives the distance from the origin 𝑟 as a function of the angle relative to the 𝘹-axis, θ. Learn how to find the rate of change of the curve with respect to the 𝘹-coordinate, the 𝘺-coordinate, or simply find the slope of the line tangent to the curve. (This content belongs in AP Calc BC only, and not in AP Calc AB.)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced</a>
+# Title of topic (xb72f96bb87e344ec) on the hy stage
+# Title of topic (xb72f96bb87e344ec) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Advanced derivatives"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-analyze-functions/bc-analyze-funcs-opt-vids">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-analyze-functions/bc-analyze-funcs-opt-vids</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xcbd6b09fb72f937a) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Optional videos | Using derivatives to analyze functions | AP Calculus BC | Khan Academy"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-eulers-method">http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-eulers-method</a>
+# Description of topic (x9d1bfcecaa0a9bed) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Euler's method is a relatively simple numerical tool for approximating values for solutions of differential equations. It is based on the understanding that a function behaves similar to its tangent around the point where the tangent touches the function. (This content belongs in AP Calc BC only, and not in AP Calc AB.)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-logistic-models">http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-logistic-models</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/diff-equations-bc/logistic-diff-eq-bc">http://translate.khanacademy.org/math/ap-calculus-bc/diff-equations-bc/logistic-diff-eq-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-equations/first-order-differential-equations/logistic-differential-equation">http://translate.khanacademy.org/math/differential-equations/first-order-differential-equations/logistic-differential-equation</a>
+# Title of topic (x004600bc) on the ja stage
+# Title of topic (x004600bc) on the pl stage
+# Title of topic (x11375829) on the accents stage
+# Title of topic (x11375829) on the es stage
+# Title of topic (x11375829) on the fr stage
+# Title of topic (x11375829) on the ja stage
+# Title of topic (x86504c7934f5cc44) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Logistic models"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-logistic-models">http://translate.khanacademy.org/math/ap-calculus-bc/bc-diff-equations/bc-logistic-models</a>
+# Description of topic (x86504c7934f5cc44) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Can population grow exponentially forever? Malthus would say \"no\". Well, how do you model that mathematically? The logistic differential equation and logistic function are there to rescue us! (This content belongs in AP Calc BC only, and not in AP Calc AB.)"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-limits-continuity/bc-limits-opt-vids">http://translate.khanacademy.org/math/ap-calculus-bc/bc-limits-continuity/bc-limits-opt-vids</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xcb360d0e9bf7daca) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Optional videos | Limits & continuity | AP Calculus BC | Khan Academy"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-basic-conv-tests">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-basic-conv-tests</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/basic-convergence-tests-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/basic-convergence-tests-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/basic-convergence-tests-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/basic-convergence-tests-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc/basic-convergence-tests-ic">http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc/basic-convergence-tests-ic</a>
+# Title of topic (x1935a2b3fbd843c5) on the pt stage
+# Title of topic (xaa44b8955241a957) on the es stage
+# Title of topic (xaa44b8955241a957) on the pt stage
+# Title of topic (xd4035cab47231257) on the accents stage
+# Title of topic (xd4035cab47231257) on the es stage
+# Title of topic (xd4035cab47231257) on the fr stage
+# Title of topic (xd4035cab47231257) on the ja stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Basic convergence tests"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-basic-conv-tests">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-basic-conv-tests</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/basic-convergence-tests-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/basic-convergence-tests-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/basic-convergence-tests-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/basic-convergence-tests-calc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc/basic-convergence-tests-ic">http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc/basic-convergence-tests-ic</a>
+# Description of topic (x1935a2b3fbd843c5) on the pt stage
+# Description of topic (xaa44b8955241a957) on the es stage
+# Description of topic (xaa44b8955241a957) on the pt stage
+# Description of topic (xd4035cab47231257) on the accents stage
+# Description of topic (xd4035cab47231257) on the es stage
+# Description of topic (xd4035cab47231257) on the fr stage
+# Description of topic (xd4035cab47231257) on the ja stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "How can we tell whether a series converges or diverges? There is an impressive repository of tools that can help us with this question. In this tutorial, we will cover the basic tests: n-th term test, integral test, and p-series test. These tests can help us later on with the more elaborate convergence tests."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-comparison-tests">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-comparison-tests</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/convergence-divergence-tests-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/convergence-divergence-tests-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/convergence-divergence-tests-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/convergence-divergence-tests-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc/convergence-divergence-tests-ic">http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc/convergence-divergence-tests-ic</a>
+# Title of topic (x25e9c991) on the es stage
+# Title of topic (x25e9c991) on the pt stage
+# Title of topic (x31f2ad99) on the accents stage
+# Title of topic (x31f2ad99) on the es stage
+# Title of topic (x31f2ad99) on the fr stage
+# Title of topic (x31f2ad99) on the ja stage
+# Title of topic (x99d2d6ad68bd881e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Comparison tests"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-comparison-tests">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-comparison-tests</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/convergence-divergence-tests-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/convergence-divergence-tests-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/convergence-divergence-tests-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/convergence-divergence-tests-calc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc/convergence-divergence-tests-ic">http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc/convergence-divergence-tests-ic</a>
+# Description of topic (x25e9c991) on the es stage
+# Description of topic (x25e9c991) on the pt stage
+# Description of topic (x31f2ad99) on the accents stage
+# Description of topic (x31f2ad99) on the es stage
+# Description of topic (x31f2ad99) on the fr stage
+# Description of topic (x31f2ad99) on the ja stage
+# Description of topic (x99d2d6ad68bd881e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "If the sum of a series must be smaller than the sum of another series that converges, then that series must converge as well. Makes sense, no? This notion, and similar ones, are at the basis of the comparison convergence tests."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-estimating-inf-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-estimating-inf-series</a>
+# Description of topic (x1ec65999f8d03e62) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding the value a convergent infinite series converges to can be a very hard task, but we can always have an estimation. Learn how this is done and how we can tell how good our estimates are."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-finite-geo-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-finite-geo-series</a>
+# Description of topic (x5cd4a50b294cb016) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "A finite geometric series is the sum of the first few terms of a geometric sequence. It turns out there's a quick way of finding such a sum, without having to really sum all the terms one by one."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-finite-geo-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-finite-geo-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/geo-series-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/geo-series-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/finite-geometric-series-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/finite-geometric-series-calc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/series-ic/geo-series-ic">http://translate.khanacademy.org/math/integral-calculus/series-ic/geo-series-ic</a>
+# Description of topic (x135e3b0a8481f0fb) on the es stage
+# Description of topic (x135e3b0a8481f0fb) on the pt stage
+# Description of topic (x2d982116) on the accents stage
+# Description of topic (x2d982116) on the es stage
+# Description of topic (x2d982116) on the fr stage
+# Description of topic (x2d982116) on the ja stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "A finite geometric series is the sum of the first few terms of a geometric sequence. It turns out there's a quick way of finding such a sum, without having to really sum all the terms one-by-one."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-geo-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-geo-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/infinite-geo-series-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/infinite-geo-series-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/geo-series-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/geo-series-calc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/series-ic/infinite-geo-series-ic">http://translate.khanacademy.org/math/integral-calculus/series-ic/infinite-geo-series-ic</a>
+# Description of topic (x783b0beabf302552) on the pt stage
+# Description of topic (xaebb56815a1c0291) on the accents stage
+# Description of topic (xaebb56815a1c0291) on the es stage
+# Description of topic (xaebb56815a1c0291) on the fr stage
+# Description of topic (xaebb56815a1c0291) on the ja stage
+# Description of topic (xc57e91a7) on the es stage
+# Description of topic (xc57e91a7) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "This might seem unbelievable at first, but for a certain class of geometric sequences, we can take the sum of all the infinite terms in the sequence and end up with a finite number! This sum is called an infinite geometric series. Learn when and how it can be found."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/seq-conv-diverg-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/seq-conv-diverg-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/seq-conv-diverg-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/seq-conv-diverg-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/series-ic/seq-conv-diverg-ic">http://translate.khanacademy.org/math/integral-calculus/series-ic/seq-conv-diverg-ic</a>
+# Title of topic (x557213a7) on the es stage
+# Title of topic (x557213a7) on the pt stage
+# Title of topic (xbf143d6d) on the accents stage
+# Title of topic (xbf143d6d) on the es stage
+# Title of topic (xbf143d6d) on the fr stage
+# Title of topic (xbf143d6d) on the ja stage
+# Title of topic (xe5da019be9f89908) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Infinite sequences"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences</a>
+# Description of topic (xe5da019be9f89908) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "When a sequence follows a certain rule (like \"multiply by 1/2\"), we can extend it indefinitely so it essentially has an infinite number of terms. In some cases, those terms approach a certain value, not unlike they way limits at infinity work! For example, if we start with 1 and keep multiplying by 1/2, the sequence will converge to 0. Learn about determining whether a sequence converges and to what value."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-maclaurin-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-maclaurin-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/power-series-bc/maclaurin-series-bc">http://translate.khanacademy.org/math/ap-calculus-bc/power-series-bc/maclaurin-series-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/maclaurin-taylor-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/maclaurin-taylor-calc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/power-series-ic/maclaurin-series-ic">http://translate.khanacademy.org/math/integral-calculus/power-series-ic/maclaurin-series-ic</a>
+# Description of topic (x13fc0c62) on the es stage
+# Description of topic (x13fc0c62) on the pt stage
+# Description of topic (x2be020f16fa16e8f) on the pt stage
+# Description of topic (xa1245426e3945e28) on the accents stage
+# Description of topic (xa1245426e3945e28) on the es stage
+# Description of topic (xa1245426e3945e28) on the fr stage
+# Description of topic (xa1245426e3945e28) on the ja stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "A Maclaurin series is essentially a Maclaurin polynomial with infinite terms. It turns out that the Maclaurin series of sin(x), cos(x), and eˣ return the exact same values as the functions themselves, for any x-value. Wow! Introduce yourselves to these special series and discover one of the most fascinating areas of all of mathematics!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-partial-sums">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-partial-sums</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/partial-sums-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/partial-sums-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/partial-sums-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/partial-sums-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/series-ic/partial-sums-ic">http://translate.khanacademy.org/math/integral-calculus/series-ic/partial-sums-ic</a>
+# Title of topic (x0d583a0b20326cfe) on the pt stage
+# Title of topic (x2c6f11ed3881d439) on the accents stage
+# Title of topic (x2c6f11ed3881d439) on the es stage
+# Title of topic (x2c6f11ed3881d439) on the fr stage
+# Title of topic (x2c6f11ed3881d439) on the ja stage
+# Title of topic (xdd4a2a765162ae05) on the es stage
+# Title of topic (xdd4a2a765162ae05) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Partial sums"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-partial-sums">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-partial-sums</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/partial-sums-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/partial-sums-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/partial-sums-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/partial-sums-calc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/series-ic/partial-sums-ic">http://translate.khanacademy.org/math/integral-calculus/series-ic/partial-sums-ic</a>
+# Description of topic (x0d583a0b20326cfe) on the pt stage
+# Description of topic (x2c6f11ed3881d439) on the accents stage
+# Description of topic (x2c6f11ed3881d439) on the es stage
+# Description of topic (x2c6f11ed3881d439) on the fr stage
+# Description of topic (x2c6f11ed3881d439) on the ja stage
+# Description of topic (xdd4a2a765162ae05) on the es stage
+# Description of topic (xdd4a2a765162ae05) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Partial sums are another way to think of finite series. Why partial? Because they are a part of an infinite series! Thinking of the partial sums of an infinite series helps us analyze the infinite series itself."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-power-series-intro">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-power-series-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/power-series-bc/power-series-intro-bc">http://translate.khanacademy.org/math/ap-calculus-bc/power-series-bc/power-series-intro-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/power-series-intro-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/power-series-intro-calc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/power-series-ic/power-series-intro-ic">http://translate.khanacademy.org/math/integral-calculus/power-series-ic/power-series-intro-ic</a>
+# Description of topic (x47dfbc144fb56c63) on the pt stage
+# Description of topic (xce7aebc410bb1bc1) on the accents stage
+# Description of topic (xce7aebc410bb1bc1) on the es stage
+# Description of topic (xce7aebc410bb1bc1) on the fr stage
+# Description of topic (xce7aebc410bb1bc1) on the ja stage
+# Description of topic (xd91a2af13410298e) on the es stage
+# Description of topic (xd91a2af13410298e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Power series is a sum of terms of the general form aₙ(x-a)ⁿ. As you can see, it's actually a function whose sum depends on the x-value. It is a generalization of geometric series, and an extremely useful class of series. Learn more about it in this tutorial."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-power-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-power-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/power-series-bc/power-series-tut-bc">http://translate.khanacademy.org/math/ap-calculus-bc/power-series-bc/power-series-tut-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/power-series-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/power-series-calc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/power-series-ic/power-series-tut-ic">http://translate.khanacademy.org/math/integral-calculus/power-series-ic/power-series-tut-ic</a>
+# Description of topic (x22f0308b082d8651) on the pt stage
+# Description of topic (x5d903437) on the accents stage
+# Description of topic (x5d903437) on the es stage
+# Description of topic (x5d903437) on the fr stage
+# Description of topic (x5d903437) on the ja stage
+# Description of topic (x9151a7b1) on the es stage
+# Description of topic (x9151a7b1) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "We already saw how Taylor and Maclaurin series can be used to represent a variety of functions. In this tutorial, we will expand the scope of functions that we can represent with power series, by enriching our toolkit!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-ratio-alt-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-ratio-alt-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/ratio-and-alternating-series-tests-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/ratio-and-alternating-series-tests-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/ratio-and-alternating-series-tests-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/ratio-and-alternating-series-tests-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc/ratio-and-alternating-series-tests-ic">http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc/ratio-and-alternating-series-tests-ic</a>
+# Title of topic (x005fae712cae5e18) on the accents stage
+# Title of topic (x005fae712cae5e18) on the es stage
+# Title of topic (x005fae712cae5e18) on the fr stage
+# Title of topic (x005fae712cae5e18) on the ja stage
+# Title of topic (x2db8626101981ac9) on the pt stage
+# Title of topic (x4f94e53f4e12db71) on the es stage
+# Title of topic (x4f94e53f4e12db71) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Ratio & alternating series tests"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-ratio-alt-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-ratio-alt-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/ratio-and-alternating-series-tests-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc/ratio-and-alternating-series-tests-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/ratio-and-alternating-series-tests-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/ratio-and-alternating-series-tests-calc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc/ratio-and-alternating-series-tests-ic">http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc/ratio-and-alternating-series-tests-ic</a>
+# Description of topic (x005fae712cae5e18) on the accents stage
+# Description of topic (x005fae712cae5e18) on the es stage
+# Description of topic (x005fae712cae5e18) on the fr stage
+# Description of topic (x005fae712cae5e18) on the ja stage
+# Description of topic (x2db8626101981ac9) on the pt stage
+# Description of topic (x4f94e53f4e12db71) on the es stage
+# Description of topic (x4f94e53f4e12db71) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The ratio test is one of the most useful tests for series convergence. Alternating series are a special class of series that have their own, very useful test for convergence."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-series-opt-vids">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-series-opt-vids</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x581ce89bbb1125a7) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Optional videos | Series | AP Calculus BC | Khan Academy"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-taylor-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-taylor-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/power-series-bc/taylor-series-bc">http://translate.khanacademy.org/math/ap-calculus-bc/power-series-bc/taylor-series-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/taylor-series-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/taylor-series-calc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/power-series-ic/taylor-and-maclaurin-polynomials">http://translate.khanacademy.org/math/integral-calculus/power-series-ic/taylor-and-maclaurin-polynomials</a>
+# Description of topic (x3154f35897d9568e) on the pt stage
+# Description of topic (x7c965830) on the es stage
+# Description of topic (x7c965830) on the pt stage
+# Description of topic (xdf35fc2d) on the accents stage
+# Description of topic (xdf35fc2d) on the es stage
+# Description of topic (xdf35fc2d) on the fr stage
+# Description of topic (xdf35fc2d) on the ja stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Taylor polynomials are a very clever way of approximating any function with a polynomial. Maclaurin polynomials are a special class of Taylor polynomials. Learn how these polynomials work in this tutorial."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series</a>
+# Description of topic (x201344f75c07d4ee) on the hy stage
+# Description of topic (x201344f75c07d4ee) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Series are sums of multiple terms. Infinite series are sums of an infinite number of terms. Don't all infinite series grow to infinity? It turns out the answer is no. Some infinite series converge to a finite value. Learn how this is possible and how we can tell whether a series converges and to what value. We will also learn about Taylor and Maclaurin series, which are series that act as functions and converge to common functions like sin(x) or eˣ. (This content belongs in AP Calc BC only, and not in AP Calc AB.)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2008">http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2008</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc/solved-exams-bc-2008">http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc/solved-exams-bc-2008</a>
+# Title of topic (x432020a3) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "AP Calculus BC 2008"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2008">http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2008</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc/solved-exams-bc-2008">http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc/solved-exams-bc-2008</a>
+# Description of topic (x432020a3) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solved examples from AP Calculus BC 2008."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2011">http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2011</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc/solved-exams-bc-2011">http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc/solved-exams-bc-2011</a>
+# Title of topic (x98e7fcf7) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "AP Calculus BC 2011"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2011">http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2011</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc/solved-exams-bc-2011">http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc/solved-exams-bc-2011</a>
+# Description of topic (x98e7fcf7) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solved examples from AP Calculus BC 2011."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2015">http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2015</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc/solved-exams-bc-2015">http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc/solved-exams-bc-2015</a>
+# Title of topic (x4ae225ad) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "AP Calculus BC 2015"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2015">http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2015</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc/solved-exams-bc-2015">http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc/solved-exams-bc-2015</a>
+# Description of topic (x4ae225ad) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solved examples from AP Calculus BC 2015."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2017">http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2017</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "AP Calculus BC 2017"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2017">http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2017</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Solved examples from AP Calculus BC 2017."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams">http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "AP Calculus BC solved exams"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams">http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The Calculus BC AP exam is a superset of the AB exam. It covers everything in AB as well as some of the more advanced topics in integration, sequences and function approximation. This tutorial is great practice for anyone looking to test their calculus mettle!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/diff-equations-bc/eulers-method-bc">http://translate.khanacademy.org/math/ap-calculus-bc/diff-equations-bc/eulers-method-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/differential-equations/first-order-differential-equations/eulers-method-tutorial">http://translate.khanacademy.org/math/differential-equations/first-order-differential-equations/eulers-method-tutorial</a>
+# Description of topic (x9332df79) on the accents stage
+# Description of topic (x9332df79) on the es stage
+# Description of topic (x9332df79) on the fr stage
+# Description of topic (x9332df79) on the ja stage
+# Description of topic (xa2300063) on the ja stage
+# Description of topic (xa2300063) on the pl stage
+# Description of topic (xa2300063) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Euler's method is a relatively simple numerical tool for approximating values for solutions of differential equations. It is based on the understanding that a function behaves similar to its tangent around the point where the tangent touches the function."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/power-series-bc/challenge-exercises-series-bc">http://translate.khanacademy.org/math/ap-calculus-bc/power-series-bc/challenge-exercises-series-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/challenge-exercises-series-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/challenge-exercises-series-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/power-series-ic/challenge-exercises-series-ic">http://translate.khanacademy.org/math/integral-calculus/power-series-ic/challenge-exercises-series-ic</a>
+# Title of topic (x0b7475df4854ef42) on the accents stage
+# Title of topic (x0b7475df4854ef42) on the es stage
+# Title of topic (x0b7475df4854ef42) on the fr stage
+# Title of topic (x0b7475df4854ef42) on the ja stage
+# Title of topic (xbf1d500c8001419b) on the es stage
+# Title of topic (xbf1d500c8001419b) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenge series exercises"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/power-series-bc/challenge-exercises-series-bc">http://translate.khanacademy.org/math/ap-calculus-bc/power-series-bc/challenge-exercises-series-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/challenge-exercises-series-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/challenge-exercises-series-calc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/power-series-ic/challenge-exercises-series-ic">http://translate.khanacademy.org/math/integral-calculus/power-series-ic/challenge-exercises-series-ic</a>
+# Description of topic (x0b7475df4854ef42) on the accents stage
+# Description of topic (x0b7475df4854ef42) on the es stage
+# Description of topic (x0b7475df4854ef42) on the fr stage
+# Description of topic (x0b7475df4854ef42) on the ja stage
+# Description of topic (xbf1d500c8001419b) on the es stage
+# Description of topic (xbf1d500c8001419b) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Review you knowledge about series with some challenging exercises."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/power-series-bc">http://translate.khanacademy.org/math/ap-calculus-bc/power-series-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/power-series-ic">http://translate.khanacademy.org/math/integral-calculus/power-series-ic</a>
+# Description of topic (x25868d94) on the accents stage
+# Description of topic (x25868d94) on the es stage
+# Description of topic (x25868d94) on the fr stage
+# Description of topic (x25868d94) on the ja stage
+# Description of topic (x8a9c2f0d) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Power series are infinite series of the form Σaₙxⁿ (where n is a positive integer). Even though this family of series has a surprisingly simple behavior, it can be used to approximate very elaborate functions."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/sequences-tut-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/sequences-tut-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/series-ic/sequences-tut-ic">http://translate.khanacademy.org/math/integral-calculus/series-ic/sequences-tut-ic</a>
+# Description of topic (x4751bc92) on the accents stage
+# Description of topic (x4751bc92) on the es stage
+# Description of topic (x4751bc92) on the fr stage
+# Description of topic (x4751bc92) on the ja stage
+# Description of topic (x9299beb7) on the es stage
+# Description of topic (x9299beb7) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "In this tutorial, we'll review what sequences are, their associated notation, and formulas of sequences."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/series-tut-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/series-tut-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/series-calculus">http://translate.khanacademy.org/math/calculus-home/series-calc/series-calculus</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/series-ic/series-tut-ic">http://translate.khanacademy.org/math/integral-calculus/series-ic/series-tut-ic</a>
+# Title of topic (x3dfe872e) on the accents stage
+# Title of topic (x3dfe872e) on the es stage
+# Title of topic (x3dfe872e) on the fr stage
+# Title of topic (x3dfe872e) on the ja stage
+# Title of topic (xd081ca47) on the es stage
+# Title of topic (xd081ca47) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Series review"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/series-ic">http://translate.khanacademy.org/math/integral-calculus/series-ic</a>
+# Title of topic (x0604b570) on the hy stage
+# Title of topic (x9ffbc3b5) on the accents stage
+# Title of topic (x9ffbc3b5) on the es stage
+# Title of topic (x9ffbc3b5) on the fr stage
+# Title of topic (x9ffbc3b5) on the ja stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Sequences & series intro"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/series-ic">http://translate.khanacademy.org/math/integral-calculus/series-ic</a>
+# Description of topic (x0604b570) on the hy stage
+# Description of topic (x9ffbc3b5) on the accents stage
+# Description of topic (x9ffbc3b5) on the es stage
+# Description of topic (x9ffbc3b5) on the fr stage
+# Description of topic (x9ffbc3b5) on the ja stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Sequences are like chains of ordered terms. Series are sums of terms in sequences. These simple innovations uncover a world of fascinating functions and behavior."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc">http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc</a>
+# Title of topic (x86dc33b7b482e2a8) on the hy stage
+# Title of topic (xfd078264237b0d0f) on the accents stage
+# Title of topic (xfd078264237b0d0f) on the es stage
+# Title of topic (xfd078264237b0d0f) on the fr stage
+# Title of topic (xfd078264237b0d0f) on the ja stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Series convergence & estimation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-convergence-bc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc">http://translate.khanacademy.org/math/integral-calculus/convergence-tests-integral-calc</a>
+# Description of topic (x86dc33b7b482e2a8) on the hy stage
+# Description of topic (xfd078264237b0d0f) on the accents stage
+# Description of topic (xfd078264237b0d0f) on the es stage
+# Description of topic (xfd078264237b0d0f) on the fr stage
+# Description of topic (xfd078264237b0d0f) on the ja stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "How can we tell whether a series converges or diverges? How can we find the value a series converges to? There is an impressive repository of tools that can help us with these questions. Learn all about it here."
+msgstr ""

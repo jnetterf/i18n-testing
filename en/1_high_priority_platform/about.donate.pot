@@ -1,0 +1,554 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-28 11:40+0000\n"
+"PO-Revision-Date: 2017-11-28 11:40+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: genfiles/compiled_jsx/en/javascript/donate-even-more-package/donate-even-more-modal.jsx.js:65
+msgid "*If you start your monthly gift today, you will see charges for both your one-time gift and the first month of your recurring gift."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-even-more-package/donate-even-more-modal.jsx.js:81
+msgid "Thank you for your one-time donation!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-even-more-package/donate-even-more-modal.jsx.js:84
+msgid "Monthly gifts sustain us and enable us to continue inspiring learners to reach their full potential."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-even-more-package/donate-even-more-modal.jsx.js:90
+msgid "Would you like to give an additional* monthly gift?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-even-more-package/donate-even-more-modal.jsx.js:96
+msgid "Yes, start my monthly gift today!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-even-more-package/donate-even-more-modal.jsx.js:100
+msgid "Not today"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-even-more-package/double-charge-reminder.jsx.js:76
+msgid "A friendly reminder"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-even-more-package/double-charge-reminder.jsx.js:79
+msgid "When you start your monthly gift today, you will see charges for both your one-time gift and the first month of your recurring gift."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:192
+msgid "Khan Academy is a US tax-exempt 501(c)(3) non-profit organization (Tax ID Number: 26‑1544963). Your gift is tax-deductible as allowed by law."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:212
+#, python-format
+msgid "To learn more about our generous donors, please visit our %(supporters)s. Click here for our %(annualReport)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:226
+msgid "Frequently asked questions"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:230
+msgid "Can I send a check?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:232
+msgid "Yes, please send checks to the following address:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:251
+msgid "Checks should be made payable to Khan Academy, and you should enclose a letter with your name, address, phone number, email address, and donation amount—we want to know who you are so we can show our gratitude for your support!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:260
+msgid "Can I donate stock or make my donation by wire transfer? "
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:262
+#, python-format
+msgid "Yes, we accept donations of stock and donations by domestic and international wire transfer. Please email %(email)s for our wire and stock transfer information."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:272
+msgid "Are there other ways to donate online?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:303
+#, python-format
+msgid "Yes, we accept donations by %(bitcoin)s and %(square)s, and we also have a link to donate on our %(facebook)s page. Please also consider using %(amazon)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:315
+msgid "Do you accept employer matches?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:322
+#, python-format
+msgid "Yes, we do. You’ll find more information on employer matched gifts %(match)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:333
+msgid "Can I donate in a currency other than US dollars?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:335
+msgid "We only accept donations in US dollars. We cannot accept foreign cash or foreign checks. Since donations made using PayPal are automatically converted to US dollars, supporters outside the United States may want to donate using this method."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:344
+msgid "What is the Learners Fund?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:346
+#, python-format
+msgid "The Learners Fund is a new donor community that recognizes supporters who make unrestricted gifts of $1,000 to $99,999 in a calendar year. Interested in joining the Learners Fund? Email us at %(email)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:355
+msgid "How do I update the credit card information on file for my recurring donation?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:358 genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:395
+msgid "If you make your recurring gift through PayPal:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:363 genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:400
+msgid "You can make changes within your PayPal account. Since donations are initiated from your PayPal account, Khan Academy is unfortunately unable to change or edit settings on your behalf."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:371 genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:408
+msgid "If you make your recurring gift by credit card through our website:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:379
+#, python-format
+msgid "Please cancel your current gift by following the link at the bottom of your monthly receipts from %(noReply)s, and then visit our donations page to start a new recurring donation with your updated credit card information."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:392
+msgid "How do I change the amount of my recurring donation?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:416
+#, python-format
+msgid "Please cancel your current gift by following the link at the bottom of your monthly receipts from %(noReply)s, and then visit our donations page to start a new recurring donation with the new donation amount."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:429
+msgid "How do I cancel my recurring donation?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:433
+#, python-format
+msgid "To cancel your recurring donation, follow the cancellation link at the bottom of your monthly receipts from %(noReply)s. You may cancel your recurring donation at any time."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:445
+msgid "Is my donation tax deductible?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:447
+msgid "We are a registered 501(c)(3) non-profit in the United States, and all gifts to us are tax deductible to the fullest extent allowed by law. Our Tax ID number is 26-1544963."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:455
+msgid "Where is my donation receipt?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:459
+#, python-format
+msgid "If you made your gift on our site either by credit card or PayPal, please check your email. We send donation receipts—from %(noReply)s—to the email address you provided when making the donation. If you signed up to make  a recurring donation, you will be sent an individual receipt each month when your donation is processed."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:474
+msgid "I want to make sure my gift is making a difference. Where can I find information about how Khan Academy uses its funds?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:481
+#, python-format
+msgid "We like our supporters to be 100 percent in the loop about how Khan Academy uses donations. Take a look at our most recent %(report)s for the details about Khan Academy’s finances."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:496
+msgid "I'm a resident of Florida. How do I verify your charitable donation status and financial information?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:532
+#, python-format
+msgid "If you have any other donation related questions not answered here, please email %(email)s. If you have a question related to a recent donation, please include your first and last name and the email address used when making the donation."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:553
+#, python-format
+msgid "For all other inquiries not related to donations, such as help re-setting passwords, please visit the %(help)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-about.jsx.js:566
+msgid "Get in touch."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:620
+msgid "Piggy bank"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:662
+msgid "Monthly"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:666
+msgid "One time"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:671
+msgid "Select your support"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:810
+msgid "Your amount"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:870
+msgid "Never mind — this gift isn't in honor of another person"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:874 genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/confirm-reset-test-modal.jsx.js:64
+msgid "Never mind"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:881
+msgid "We will notify your honoree of your gift"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:887
+msgid "Honoree's name"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:900
+msgid "Honoree's email (optional)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:919
+msgid "▸ Click here to give in honor of another person"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:1030
+#, python-format
+msgid "By donating, you agree to our %(tos)s and %(privacy)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:1140
+#, python-format
+msgid "Complete your %(amount)s one-time gift"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:1144
+#, python-format
+msgid "Complete your %(amount)s monthly gift"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:1148
+#, python-format
+msgid "Complete your %(amount)s annual gift"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:1153
+msgid "Complete your gift"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:1182
+msgid "Change"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:1252
+#, python-format
+msgid "%(message)s We weren't able to process your donation."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:1259
+msgid "Sorry for the inconvenience, please try again once the issue is fixed. Thank you!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/donate-package/donate-form-container.jsx.js:1264
+msgid "The problem should have been temporary, so please try again. Thank you!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/donate-notification.jsx.js:115 javascript/donate-package/donate.js:122
+msgid "Use PayPal"
+msgstr ""
+
+# Comment: Title for button to share video
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+# See text on <a href="http://www.khanacademy.org/recommendation_feedback">http://www.khanacademy.org/recommendation_feedback</a>
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-buttons.jsx.js:273 genfiles/compiled_jsx/en/javascript/scratchpads-package/share-modal.jsx.js:114 intl/datastore:1 templates/donation_acknowledgement.html:44 templates/emails/recommendation_email_feedback.html:50 templates/find_matching_gift.html:54
+msgid "Share"
+msgstr ""
+
+#: javascript/donate-package/donate.js:30
+msgid "We'll get right to the point: we're asking you to help support Khan Academy. We're a nonprofit that relies on support from people like you. <b> If everyone reading this gives $10 monthly, Khan Academy can continue to thrive for years. </b> Please help keep Khan Academy free, for anyone, anywhere forever."
+msgstr ""
+
+#: javascript/donate-package/donate.js:108
+msgid "$3"
+msgstr ""
+
+#: javascript/donate-package/donate.js:110
+msgid "$20"
+msgstr ""
+
+#: javascript/donate-package/donate.js:111
+msgid "$50"
+msgstr ""
+
+#: javascript/donate-package/methods/paypal.js:109
+msgid "One-time donation to Khan Academy"
+msgstr ""
+
+#: javascript/donate-package/methods/paypal.js:116
+msgid "Recurring donation to Khan Academy"
+msgstr ""
+
+#: javascript/donate-package/methods/stripe.js:19
+#, python-format
+msgid "Give %(amount)s monthly"
+msgstr ""
+
+#: javascript/donate-package/methods/stripe.js:23
+#, python-format
+msgid "Give %(amount)s"
+msgstr ""
+
+#: javascript/donate-package/methods/stripe.js:50
+msgid "Donation"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+# See text on <a href="http://www.khanacademy.org/recommendation_feedback">http://www.khanacademy.org/recommendation_feedback</a>
+#: templates/donation_acknowledgement.html:5 templates/emails/recommendation_email_feedback.html:5
+msgid "Thank you"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+#: templates/donation_acknowledgement.html:28
+msgid "Hooray!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+#: templates/donation_acknowledgement.html:29
+msgid "Thank you for donating!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+#: templates/donation_acknowledgement.html:35
+msgid "Share why you support Khan Academy!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+#: templates/donation_acknowledgement.html:54
+msgid "Have your company match your donation"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+#: templates/donation_acknowledgement.html:57
+msgid "Find out if your company will match your donation to Khan Academy and double your impact — or more!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+#: templates/donation_acknowledgement.html:59
+msgid "Find out about a matching donation"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+#: templates/donation_acknowledgement.html:67
+msgid "Tell us what you think!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+#: templates/donation_acknowledgement.html:70
+msgid "We'd love to hear what you think about Khan Academy and what we can do to make it better"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+#: templates/donation_acknowledgement.html:72
+msgid "Take our short survey"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+#: templates/donation_acknowledgement.html:82
+msgid "Your donation supports our people and technology, enabling us to create great content and a great experience for students around the world! You will receive an email receipt for your donation, which is tax-deductible to the fullest extent allowed by law (Tax ID: 26-1544963)."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+#: templates/donation_acknowledgement.html:99 templates/find_matching_gift.html:90
+msgid "I just donated to Khan Academy. Join me in supporting a free, world-class education for anyone, anywhere! khanacademy.org/donate"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+#: templates/donation_acknowledgement.html:106 templates/find_matching_gift.html:97
+msgid "I just donated to @KhanAcademy. Join me in supporting a free, world-class education for anyone, anywhere! khanacademy.org/donate"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/paypal/autoreturn">http://www.khanacademy.org/paypal/autoreturn</a>
+# See text on <a href="http://www.khanacademy.org/recommendation_feedback">http://www.khanacademy.org/recommendation_feedback</a>
+#: templates/emails/recommendation_email_feedback.html:41
+msgid "Share why you love Khan Academy!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+#: templates/find_matching_gift.html:3 templates/find_matching_gift.html:6
+msgid "Matching Gifts"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+#: templates/find_matching_gift.html:18
+msgid "Let your company double your impact!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+#: templates/find_matching_gift.html:19
+msgid "Many companies have a matching gift program — you give an amount and they donate the same. Both donations go straight to Khan Academy."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+#: templates/find_matching_gift.html:25
+msgid "If you’re seeing this page, chances are you've already done this step! Thank you so much! If not, please make a donation and be sure to keep your receipt."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+#: templates/find_matching_gift.html:26
+msgid "Many corporate matching programs will give you up to one year after your donation to request a match."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+#: templates/find_matching_gift.html:28
+msgid "Match"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+#: templates/find_matching_gift.html:29
+msgid "Search for your company using the form on the right. Even if nothing comes up, your company may still have a matching program. You can contact your HR department to find out."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+#: templates/find_matching_gift.html:31
+msgid "There are two ways to submit the matching request:"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+#: templates/find_matching_gift.html:34
+msgid "Download your company's matching gift verification form using the provided link. Print it, fill it out and mail it to us:"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+#: templates/find_matching_gift.html:41
+msgid "Submit a request to your company’s intranet if you find a link to that in the search results."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+#: templates/find_matching_gift.html:44
+msgid "Questions? Email <a href='mailto:donate@khanacademy.org'>donate@khanacademy.org</a>. Oh, and thanks!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+#: templates/find_matching_gift.html:45
+msgid "Spread the word"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+#: templates/find_matching_gift.html:46
+msgid "It takes a vibrant community to deliver a free, world-class education for anyone, anywhere.  Tell your friends and family that their gifts to Khan Academy can be matched and inspire them to give, too."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+#: templates/find_matching_gift.html:70
+msgid "Employer or company name"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/match">http://www.khanacademy.org/donate/match</a>
+#: templates/find_matching_gift.html:70
+msgid "Type employer or company name here"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/cancel-paypal">http://www.khanacademy.org/donate/cancel-paypal</a>
+#: templates/recurring_donation_cancel.html:5
+msgid "Cancel Recurring Donation"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/cancel-paypal">http://www.khanacademy.org/donate/cancel-paypal</a>
+#: templates/recurring_donation_cancel.html:54
+msgid "We're sad to see you go!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/cancel-paypal">http://www.khanacademy.org/donate/cancel-paypal</a>
+#: templates/recurring_donation_cancel.html:62
+msgid "You have successfully canceled your recurring donation."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/cancel-paypal">http://www.khanacademy.org/donate/cancel-paypal</a>
+#: templates/recurring_donation_cancel.html:64
+msgid "This recurring donation has already been canceled."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/cancel-paypal">http://www.khanacademy.org/donate/cancel-paypal</a>
+#: templates/recurring_donation_cancel.html:66
+msgid "An error occured."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/cancel-paypal">http://www.khanacademy.org/donate/cancel-paypal</a>
+#: templates/recurring_donation_cancel.html:68
+msgid "Are you sure you want to cancel your recurring donation?"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/cancel-paypal">http://www.khanacademy.org/donate/cancel-paypal</a>
+#: templates/recurring_donation_cancel.html:80
+msgid "Yes, I'm sure."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/cancel-paypal">http://www.khanacademy.org/donate/cancel-paypal</a>
+#: templates/recurring_donation_cancel.html:82
+msgid "No, take me home!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/cancel-paypal">http://www.khanacademy.org/donate/cancel-paypal</a>
+#: templates/recurring_donation_cancel.html:92
+msgid "Your donation supports our people and technology, enabling us to create great content and a great experience for students around the world! You will receive an email receipt for your tax-deductible donation (Tax ID: 26-1544963). Donations are tax-deductible to the fullest extent allowed by law."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/cancel-paypal">http://www.khanacademy.org/donate/cancel-paypal</a>
+#: templates/recurring_donation_cancel.html:96
+msgid "Back to more learning!"
+msgstr ""

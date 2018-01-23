@@ -1,0 +1,18 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-03 19:44+0000\n"
+"PO-Revision-Date: 2017-11-03 19:44+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Article is at <a href="http://translate.khanacademy.org/math/math1/math1-sequences/math1-constructing-geometric-sequences/a/geometric-sequences-review">http://translate.khanacademy.org/math/math1/math1-sequences/math1-constructing-geometric-sequences/a/geometric-sequences-review</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Suppose we want to write an explicit formula for $54,18,6,...$ We already know the common difference is $\\maroonC{\\times\\dfrac{1}{3}}$ and the first term is $\\blueD{54}$. Therefore, this is an explicit formula for the sequence:"
+msgstr ""

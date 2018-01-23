@@ -1,0 +1,607 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-28 11:40+0000\n"
+"PO-Revision-Date: 2017-11-28 11:40+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/increasing-decreasing-intervals-and-extrema-review-ab/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/increasing-decreasing-intervals-and-extrema-review-ab/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/increasing-decreasing-intervals-and-extrema-review-calc/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/increasing-decreasing-intervals-and-extrema-review-calc/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/increasing-decreasing-intervals-and-extrema-review-dc/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/increasing-decreasing-intervals-and-extrema-review-dc/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Maybe"
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>
+# Pretty display name for exercise (xc55c5fc2) on the pl stage
+# Pretty display name for exercise (xc55c5fc2) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Compass challenge"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Both stroke directions will magnetize the needle."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Bringing the needle very close to a magnetic field can magnetize it"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Depends how long they are in contact"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Depends on needle only"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Depends on number of strokes"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Depends on speed of stroke"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Depends on stroke direction"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Depends on which side you touch"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "However, stroking the needle **does increase the magnetization** of the needle. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "If you stroke two needles in opposite directions they will **point in opposite directions** when suspended freely"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "It *is possible* to magnetize a needle *without stroking it*. You can simply put a ferromagnetic rock near the needle for a period of time. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Magnetite is a naturally occurring ferromagnetic rock that will work.\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/ac60ab6a30deb24dcf3cae61a1eba41c697a13bd.jpeg)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "No, it **always** rotates counterclockwise"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "No, it can rotate **both ways** depending on needle position"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "No, it can rotate **both ways** depending on where you are standing"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "No, strokes have no effect"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Notice how this compass **wobbles** back and fourth when nudged"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Only rocks which have a magnetic field (**ferromagnetic**) can induce a magnetic field in nearby objects. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is No"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is No."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is Yes"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The closer you bring the rock to the needle the greater the effect"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The direction of strokes will have an effect on which way the needle tip points"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The needle will always settle down in the **same direction**. If you change the angle of the needle it will turn back towards this position."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes, magnetic north never changes"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes, since it is pulled that way"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge">http://translate.khanacademy.org/science/physics/discoveries/magnetism/e/compass-challenge</a>.
+# Exercise at (xc55c5fc2) on the pl stage.
+# Exercise at (xc55c5fc2) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "You **can** magnetize a needle without making physical contact. You just need to bring the magnetic rock *close enough*"
+msgstr ""

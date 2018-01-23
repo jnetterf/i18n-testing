@@ -1,0 +1,18 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-30 11:19+0000\n"
+"PO-Revision-Date: 2017-11-30 11:19+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Description of video <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-3/v/derivatives-of-inverse-functions">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-3/v/derivatives-of-inverse-functions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Functions f and g are inverses if f(g(x))=x=g(f(x)). For every pair of such functions, the derivatives f' and g' have a special relationship. Learn about this relationship and see how it applies to 𝑒ˣ and ln(x) (which are inverse functions!)."
+msgstr ""

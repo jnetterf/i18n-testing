@@ -1,0 +1,925 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-29 11:24+0000\n"
+"PO-Revision-Date: 2017-11-29 11:24+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/us-history/colonial-america/early-english-settlement/e/french-and-dutch-colonization">http://translate.khanacademy.org/humanities/us-history/colonial-america/early-english-settlement/e/french-and-dutch-colonization</a>.
+# Exercise at (xa48a399da8b02e16) on the pt stage.
+# Title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-france">http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-france</a>
+# Title of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/france">http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/france</a>
+# Title of topic (x23e591e8) on the pl stage
+# Title of topic (xd8fe62cd) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: content_internal/curriculum_info.py:103 intl/datastore:1
+msgid "France"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/ancient-art-civilizations/ancient-near-east1">http://translate.khanacademy.org/humanities/ancient-art-civilizations/ancient-near-east1</a>
+# Title of topic <a href="http://translate.khanacademy.org/humanities/ap-art-history/ancient-mediterranean-ap/ancient-near-east-a">http://translate.khanacademy.org/humanities/ap-art-history/ancient-mediterranean-ap/ancient-near-east-a</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/british-museum/middle-east-bm/ancient-near-east-bm">http://translate.khanacademy.org/partner-content/british-museum/middle-east-bm/ancient-near-east-bm</a>
+# Title of topic (x41ecccda) on the pl stage
+# Title of topic (x41ecccda) on the tr stage
+# Title of topic (xba2bbee3) on the es stage
+# Title of topic (xd3501f68) on the es stage
+# Title of topic (xd3501f68) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Ancient Near East"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/ap-art-history/ancient-mediterranean-ap/greece-etruria-rome">http://translate.khanacademy.org/humanities/ap-art-history/ancient-mediterranean-ap/greece-etruria-rome</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/british-museum/europe1/bm-ancient-greece">http://translate.khanacademy.org/partner-content/british-museum/europe1/bm-ancient-greece</a>
+# Title of topic (x6e620fef) on the pl stage
+# Title of topic (x6e620fef) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Ancient Greece"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/humanities/ap-art-history/cultures-religions-ap-arthistory/a/a-brief-history-of-western-culture">http://translate.khanacademy.org/humanities/ap-art-history/cultures-religions-ap-arthistory/a/a-brief-history-of-western-culture</a>.
+# Article is at <a href="http://translate.khanacademy.org/humanities/art-history-basics/beginners-art-history/a/a-brief-history-of-western-culture">http://translate.khanacademy.org/humanities/art-history-basics/beginners-art-history/a/a-brief-history-of-western-culture</a>.
+# Article is at (1314267931) on the pl stage.
+# Description of topic <a href="http://translate.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-the-protestant-reformation">http://translate.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-the-protestant-reformation</a>
+# Description of topic <a href="http://translate.khanacademy.org/humanities/world-history/renaissance-and-reformation/protestant-reformation">http://translate.khanacademy.org/humanities/world-history/renaissance-and-reformation/protestant-reformation</a>
+# Description of topic (x976876a8) on the bg stage
+# Description of topic (x976876a8) on the pl stage
+# Description of topic (x976876a8) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "In 1517 a German theologian and monk, Martin Luther, challenged the authority of the Pope and sparked the Protestant Reformation. His ideas spread quickly, thanks in part to the printing press. By challenging the power of the Church, and asserting the authority of individual conscience (it was increasingly possible for people to read the bible in the language that they spoke), the Reformation laid the foundation for the value that modern culture places on the individual."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-exponential-functions/comparing-exponential-and-polynomial-functions/e/comparing-growth-rates-of-exponentials-and-polynomials">http://translate.khanacademy.org/math/algebra/introduction-to-exponential-functions/comparing-exponential-and-polynomial-functions/e/comparing-growth-rates-of-exponentials-and-polynomials</a>.
+# Title of topic <a href="http://translate.khanacademy.org/humanities/ap-art-history/south-east-se-asia/japan-art">http://translate.khanacademy.org/humanities/ap-art-history/south-east-se-asia/japan-art</a>
+# Title of topic <a href="http://translate.khanacademy.org/humanities/art-asia/art-japan">http://translate.khanacademy.org/humanities/art-asia/art-japan</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/asian-art-museum/aam-japan-topic">http://translate.khanacademy.org/partner-content/asian-art-museum/aam-japan-topic</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/asian-art-museum/aam-japan-topic/aam-japan">http://translate.khanacademy.org/partner-content/asian-art-museum/aam-japan-topic/aam-japan</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/british-museum/asia1/japan-bm">http://translate.khanacademy.org/partner-content/british-museum/asia1/japan-bm</a>
+# Title of topic (x26374739) on the pl stage
+# Title of topic (x26374739) on the tr stage
+# Title of topic (x2ed21d8c) on the es stage
+# Title of topic (x400c3ef3) on the tr stage
+# Title of topic (x402a6cea) on the tr stage
+# Title of topic (xbde52eb5) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Japan"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/protestant-reformation1">http://translate.khanacademy.org/humanities/renaissance-reformation/protestant-reformation1</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa2c8a483) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-the-protestant-reformation">http://translate.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-the-protestant-reformation</a>
+# Title of topic <a href="http://translate.khanacademy.org/humanities/world-history/renaissance-and-reformation/protestant-reformation">http://translate.khanacademy.org/humanities/world-history/renaissance-and-reformation/protestant-reformation</a>
+# Title of topic (x976876a8) on the bg stage
+# Title of topic (x976876a8) on the pl stage
+# Title of topic (x976876a8) on the tr stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/protestant-reformation1/a/the-protestant-reformation">http://translate.khanacademy.org/humanities/renaissance-reformation/protestant-reformation1/a/the-protestant-reformation</a>
+# Title of tutorial article (xf26aa3cd) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The Protestant Reformation"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/art-1010/abstract-exp-nyschool/abstract-expressionism">http://translate.khanacademy.org/humanities/art-1010/abstract-exp-nyschool/abstract-expressionism</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/moma/moma-abstract-expressionism">http://translate.khanacademy.org/partner-content/moma/moma-abstract-expressionism</a>
+# Title of topic (x09678f65) on the es stage
+# Title of topic (x09678f65) on the pl stage
+# Title of topic (x4c66ac5f) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Abstract Expressionism"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/art-1010/architecture-20c/e/international-style-architecture">http://translate.khanacademy.org/humanities/art-1010/architecture-20c/e/international-style-architecture</a>.
+# Exercise at (x3feb6523) on the pl stage.
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/moma">http://translate.khanacademy.org/partner-content/moma</a>
+# Title of topic (xeb48c24e) on the tr stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "The Museum of Modern Art"
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/humanities/art-1010/art-between-wars/latin-american-modernism1/e/latin-american-modernism">http://translate.khanacademy.org/humanities/art-1010/art-between-wars/latin-american-modernism1/e/latin-american-modernism</a>
+# Pretty display name for exercise (xde07d2a9) on the pl stage
+# Title of topic <a href="http://translate.khanacademy.org/humanities/art-1010/art-between-wars/latin-american-modernism1">http://translate.khanacademy.org/humanities/art-1010/art-between-wars/latin-american-modernism1</a>
+# Title of topic (x6aba341c) on the es stage
+# Title of topic (x6aba341c) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Latin American Modernism"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/art-1010/art-between-wars/neue-sachlichkeit">http://translate.khanacademy.org/humanities/art-1010/art-between-wars/neue-sachlichkeit</a>
+# Title of topic (x5ec8d2a8) on the es stage
+# Title of topic (x5ec8d2a8) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "German art between the wars"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/art-1010/art-between-wars/neue-sachlichkeit">http://translate.khanacademy.org/humanities/art-1010/art-between-wars/neue-sachlichkeit</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x5ec8d2a8) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x5ec8d2a8) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art History: Neue Sachlichkeit"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-1010/art-between-wars/neue-sachlichkeit">http://translate.khanacademy.org/humanities/art-1010/art-between-wars/neue-sachlichkeit</a>
+# Description of topic (x5ec8d2a8) on the es stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Germany was defeated and exhausted in 1918 at the end of WWI. The equally exhausted victors imposed harsh terms on Germany. It was forced to forfeit its overseas colonial possessions, to cede land to its neighbors, and to pay reparations. As demobilized troops returned, German cities filled with unemployed, often maimed veterans. The Socialists briefly seized power and by the early 1920s hyperinflation further destabilized the nation. Neue Sachlichkeit or the New Objectivity cast a cold sharp eye on Modern Germany’s hypocrisy, aggression, and destitution even as extremists on the political right consolidated power. The National Socialists or Nazi Party won the chancellorship in 1933 and quickly used art and architecture as a means build the myth of a pure German people shaped by the land and unsullied by modern industrial culture. This tutorial looks at the ways that competing political ideologies each used art for its own purposes."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/art-1010/early-abstraction/cubism">http://translate.khanacademy.org/humanities/art-1010/early-abstraction/cubism</a>
+# Title of topic (x98409839) on the es stage
+# Title of topic (x98409839) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Cubism and its impact"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/art-1010/early-abstraction/cubism">http://translate.khanacademy.org/humanities/art-1010/early-abstraction/cubism</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x98409839) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x98409839) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art History: Cubism"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/art-1010/early-abstraction/cubism">http://translate.khanacademy.org/humanities/art-1010/early-abstraction/cubism</a>
+# Description of topic (x98409839) on the es stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "The Spaniard Picasso changed the way we see the world. He could draw with academic perfection at a very young age but he gave it up in order to create a language of representation suited to the modern world. Together with the French artist George Braque, Picasso undertook an analysis of form and vision that would inspire radical new visual forms across Europe and in America. This tutorial explains the underlying principles of Cubism and the abstract experiments that followed including Italian Futurism, Russian Suprematism, and the Dutch movement, de Stijl."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/becoming-modern/symbolism/e/symbolism-art-nouveau">http://translate.khanacademy.org/humanities/becoming-modern/symbolism/e/symbolism-art-nouveau</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/pre-raphaelites/e/millais--ophelia-quiz">http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/pre-raphaelites/e/millais--ophelia-quiz</a>.
+# Exercise at (x044ea75f) on the pl stage.
+# Exercise at (x248facc9) on the pl stage.
+# Exercise at (x64a0d6c2b44fa645) on the es stage.
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/art-1010/early-abstraction/expressionism1">http://translate.khanacademy.org/humanities/art-1010/early-abstraction/expressionism1</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x30f94448) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x30f94448) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Expressionism"
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/humanities/art-americas/us-art-19c/romanticism-us/e/romanticism-in-the-united-states">http://translate.khanacademy.org/humanities/art-americas/us-art-19c/romanticism-us/e/romanticism-in-the-united-states</a>
+# Pretty display name for exercise (x7f3d1ed2) on the pl stage
+# Title of topic <a href="http://translate.khanacademy.org/humanities/art-americas/us-art-19c/romanticism-us">http://translate.khanacademy.org/humanities/art-americas/us-art-19c/romanticism-us</a>
+# Title of topic (x6ee42f87) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Romanticism in the United States"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/art-islam/arts-islamic-quiz/e/arts-of-the-islamic-world">http://translate.khanacademy.org/humanities/art-islam/arts-islamic-quiz/e/arts-of-the-islamic-world</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/early-medieval/e/fibulae-quiz">http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/early-medieval/e/fibulae-quiz</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/gothic1/e/berlinghieri-s-st--francis-altarpiece-quiz">http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/gothic1/e/berlinghieri-s-st--francis-altarpiece-quiz</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy/siena-late-gothic/e/duccio-s-rucellai-madonna-quiz">http://translate.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy/siena-late-gothic/e/duccio-s-rucellai-madonna-quiz</a>.
+# Exercise at (x8983c2ad) on the pl stage.
+# Exercise at (x9b74e705795d5360) on the es stage.
+# Exercise at (xa371ec9c) on the pl stage.
+# Exercise at (xcca649ed) on the es stage.
+# Exercise at (xcca649ed) on the pl stage.
+# Exercise at (xd6532eeb) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Byzantine"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/becoming-modern/symbolism/e/symbolism-art-nouveau">http://translate.khanacademy.org/humanities/becoming-modern/symbolism/e/symbolism-art-nouveau</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/pre-raphaelites/e/millais--ophelia-quiz">http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/pre-raphaelites/e/millais--ophelia-quiz</a>.
+# Exercise at (x044ea75f) on the pl stage.
+# Exercise at (x248facc9) on the pl stage.
+# Exercise at (x64a0d6c2b44fa645) on the es stage.
+# Exercise is at (x268d8ee5025bc5d8) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/impressionism/e/impressionism">http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/impressionism/e/impressionism</a>
+# Pretty display name for exercise (xee69130b) on the pl stage
+# Title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/impressionism">http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/impressionism</a>
+# Title of topic (x68aeab5d) on the es stage
+# Title of topic (x68aeab5d) on the pl stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Impressionism"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/impressionism">http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/impressionism</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x68aeab5d) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x68aeab5d) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art History: Impressionism"
+msgstr ""
+
+# Exercise is at (x268d8ee5025bc5d8) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/post-impressionism/e/post-impressionism">http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/post-impressionism/e/post-impressionism</a>
+# Pretty display name for exercise (xbb93707a) on the pl stage
+# Title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/post-impressionism">http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/post-impressionism</a>
+# Title of topic (x5f5e7272) on the es stage
+# Title of topic (x5f5e7272) on the pl stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Post-Impressionism"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/post-impressionism">http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/post-impressionism</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x5f5e7272) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x5f5e7272) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art History: Post-Impressionism"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/post-impressionism">http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/post-impressionism</a>
+# Description of topic (x5f5e7272) on the es stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "The work of van Gogh, Gauguin, Cézanne and Seurat together constitute Post-Impressionism and yet their work is so varied and unrelated, we might never otherwise think of these four artists as a group. Certainly van Gogh and Gauguin were friends and they briefly painted together, but each of these artists was concerned with solving particular issues that had to do with their own individual sensibility. Ironically, if anything ties these artists together it is this focus on subjectivity. This tutorial explores the sketchy multiperspectival views of Cézanne, Seurat’s systematized critiques of upper middle-class Paris, Gauguin’s fascination with the primitive and exotic, and van Gogh’s unerring ability to convey deeply human experiences."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-england/e/fuselli--the-nighmare-quiz">http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-england/e/fuselli--the-nighmare-quiz</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/becoming-modern/symbolism/e/symbolism-art-nouveau">http://translate.khanacademy.org/humanities/becoming-modern/symbolism/e/symbolism-art-nouveau</a>.
+# Exercise at (x248facc9) on the pl stage.
+# Exercise at (x4efbc2c6) on the pl stage.
+# Title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/realism">http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/realism</a>
+# Title of topic (xdfbfdcce) on the es stage
+# Title of topic (xdfbfdcce) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Realism"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/realism">http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/realism</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xdfbfdcce) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xdfbfdcce) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art History: Realism"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/realism">http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/realism</a>
+# Description of topic (xdfbfdcce) on the es stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "In the mid-Nineteenth Century, great art was still defined as art that took it’s subjects from religion, history or mythology and its style from ancient Greece and Rome. Hardly what we would consider modern and appropriate for an industrial, commercial, urban culture! Courbet agreed, and so did his friend, the writer Charles Baudelaire who called for an art that would depict, as he called it, the beauty of modern life. Courbet painted the reality of life in the countryside—not the idealized peasants that were the usual fare at the exhibits in Paris. The revolution of 1848, in which both the working class and the middle class played a significant role, set the stage for Realism. Later, Manet and then Degas painted modern life in Paris, a city which was undergoing rapid modernization in the period after 1855 (the Second Empire)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/second-empire">http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/second-empire</a>
+# Title of topic (x79e94e3a) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art and the French state"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/second-empire">http://translate.khanacademy.org/humanities/becoming-modern/avant-garde-france/second-empire</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x79e94e3a) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art History: Second Empire"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-england">http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-england</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "As the industrial revolution transformed the British countryside, replacing fields with factories, painters turned to landscape. Constable painted his native suffolk, where he spent his childhood, and imbued it with a sense of affection for rural life. Turner, on the other hand, created dramatic and sublime landscapes with a sense of the heroic or even the tragic. What both of these artists have in common is a desire to make landscape painting—understood as a low subject by the Academy which dictated official views on art—carry serious meaning."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-france">http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-france</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd8fe62cd) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of tutorial article <a href="http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-france/a/romanticism-in-france">http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-france/a/romanticism-in-france</a>
+# Title of tutorial article (x89cc8015) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Romanticism in France"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-france">http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-france</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Romanticism begins in France with the violent and exotic battle scenes of Gros and the famous shipwreck, the Raft of the Medusa, painted by Gericault. Soon after, two distinct trends emerge in French painting, one—represented by the artist Delacroix—was rebellious, and emphasized emotion, color and loose brushwork. The other—which can be seen in the art of Ingres—upheld tradition, and emphasized line and a highly finished surface.  Of course, things were more complicated—but those were battle lines!"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-germany">http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-germany</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xfe4c2595) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Romanticism in Germany"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-germany">http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-germany</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "This tutorial focuses exclusively on the art of Caspar David Friedrich, whose work best exemplifies Romanticism’s interest in the big questions of man’s mortality and place in the universe. The world had changed dramatically since the time of Michelangelo, Bernini and Rembrandt, and as a result, Friedrich approached these big questions without the Christian narratives that dominated the art of the past. And like his English counterparts during this period, he imbues nature and the landscape with symbolic and often spiritual meaning."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-spain">http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-spain</a>
+# Title of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/spain">http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/spain</a>
+# Title of topic (x51288d14) on the pl stage
+# Title of topic (xdfe479bc) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Spain"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-spain">http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-spain</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xdfe479bc) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Romanticism in Spain"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-spain">http://translate.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-spain</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "The great artist Francisco Goya is the focus of this tutorial. Goya began his career designing tapestries for the royal residences, and eventually became court painter to the King of Spain. But after Napoleon’s army occupied Spain and deposed the King, Goya documented the horrors he witnessed. His work following the occupation, including the Third of May 1808, remains some of the most powerful anti-war images ever created. His later years were spent largely in a house outside Madrid which he painted with haunting scenes. Saturn Devouring his sons belongs to this late series, known as the “Black Paintings.”"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/symbolism">http://translate.khanacademy.org/humanities/becoming-modern/symbolism</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa5f779e9) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art History: Symbolism"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/early-victorian/e/houses-of-parliament-quiz">http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/early-victorian/e/houses-of-parliament-quiz</a>.
+# Exercise at (x3b5ab74e) on the pl stage.
+# Exercise at (x64a0d6c2b44fa645) on the es stage.
+# Title of topic <a href="http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/gothic1">http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/gothic1</a>
+# Title of topic (xce8f6cb8) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Gothic"
+msgstr ""
+
+# Exercise is at (x64a0d6c2b44fa645) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/pre-raphaelites/e/pre-raphaelites">http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/pre-raphaelites/e/pre-raphaelites</a>
+# Pretty display name for exercise (xba36be1b) on the pl stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Pre-Raphaelites"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/pre-raphaelites">http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/pre-raphaelites</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "In 1848, a small group of young artists banded together and formed “The Pre-Raphaelite Brotherhood,” a name which sounds intentionally backward-looking and medieval. The Pre-Raphaelites looked back to art before the time of Raphael (before about 1500 that is)—before the art of the Renaissance was reduced to formulas followed for centuries by artists associated with the art academies of Europe. Their idea was that the art before Raphael was more sincere, more true to nature and how we see, and therefore less formulaic. These artists also embraced a wide range of subjects, including modern life, biblical and literary subjects, and even history. By looking backwards, the Pre-Raphaelites led British art into the modern era."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/victorian-late">http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/victorian-late</a>
+# Title of topic (x1bbb9ad1) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Late Victorian"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/victorian-late">http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/victorian-late</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x1bbb9ad1) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art History: Late Victorian"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/victorian-late">http://translate.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/victorian-late</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "British art saw a return to the classical after the 1860s, not just in terms of style, but also subject matter. Alma Tadema created sensual Victorian visions of the ancient Greeks and Romans, and Leighton too rendered classicizing figures and subjects. Both of these artists, together with Sargent, were influenced by the Aesthetic Movement, where the subject or narrative of a work of art was minimized in favor of a focus on issues of form (color harmonies, line, composition)."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/medieval-world/early-christian1/e/sarcophagus-of-junius-bassus-quiz">http://translate.khanacademy.org/humanities/medieval-world/early-christian1/e/sarcophagus-of-junius-bassus-quiz</a>.
+# Exercise at (xe33392bd) on the pl stage.
+# Title of topic <a href="http://translate.khanacademy.org/humanities/medieval-world/early-christian1">http://translate.khanacademy.org/humanities/medieval-world/early-christian1</a>
+# Title of topic (xebb9870d) on the es stage
+# Title of topic (xebb9870d) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Early Christian"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy/siena-late-gothic/e/duccio-s-rucellai-madonna-quiz">http://translate.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy/siena-late-gothic/e/duccio-s-rucellai-madonna-quiz</a>.
+# Exercise at (xd6532eeb) on the pl stage.
+# Title of topic <a href="http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/carolingian1">http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/carolingian1</a>
+# Title of topic (x6df69271) on the es stage
+# Title of topic (x6df69271) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Carolingian"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/early-medieval/e/sutton-hoo-ship-burial-quiz">http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/early-medieval/e/sutton-hoo-ship-burial-quiz</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/northern/durer/e/d-rer-s-self-portrait-quiz">http://translate.khanacademy.org/humanities/renaissance-reformation/northern/durer/e/d-rer-s-self-portrait-quiz</a>.
+# Exercise at (xc2e33ff3) on the pl stage.
+# Exercise at (xdc5299f0eae75c80) on the es stage.
+# Exercise at (xe535f13a) on the pl stage.
+# Title of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/baroque-england">http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/baroque-england</a>
+# Title of topic <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/northern/england">http://translate.khanacademy.org/humanities/renaissance-reformation/northern/england</a>
+# Title of topic (x198c001802a9b079) on the pl stage
+# Title of topic (x847403d7) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "England"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/gothic1">http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/gothic1</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "No, we’re not talking about the dark subculture we know as Goth! We’re talking about the style of art and architecture In Europe from the 1100s to the beginnings of the Renaissance at about 1400. Hopefully by the end of this tutorial when someone says Gothic, you’ll think of enormous stained-glass windows in churches whose vaulted ceilings reach toward heaven and not black clothing and dark eyeliner!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/ottonian1">http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/ottonian1</a>
+# Title of topic (xb399242d) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Ottonian"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/ottonian1">http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/ottonian1</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Otto I (who became emperor in 962) lends his name to the “Ottonian” period. He forged an important alliance with the Pope, which allowed him to be crowned the first official Holy Roman Emperor since 924."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy/siena-late-gothic/e/duccio-s-rucellai-madonna-quiz">http://translate.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy/siena-late-gothic/e/duccio-s-rucellai-madonna-quiz</a>.
+# Exercise at (xd6532eeb) on the pl stage.
+# Title of topic <a href="http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/romanesque1">http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/romanesque1</a>
+# Title of topic (x4ad16f1d) on the es stage
+# Title of topic (x4ad16f1d) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Romanesque"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/baroque-italy/e/caravaggio--calling-of-st--matthew-quiz">http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/baroque-italy/e/caravaggio--calling-of-st--matthew-quiz</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/neo-classicism/e/neoclassicism">http://translate.khanacademy.org/humanities/monarchy-enlightenment/neo-classicism/e/neoclassicism</a>.
+# Exercise at (x06588fc4) on the pl stage.
+# Exercise at (x45c3b18b) on the pl stage.
+# Exercise at (xacc1e105) on the bg stage.
+# Exercise at (xacc1e105) on the es stage.
+# Exercise at (xacc1e105) on the ja stage.
+# Exercise at (xacc1e105) on the pl stage.
+# Exercise at (xacc1e105) on the tr stage.
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/renaissance-venice/venice-early-ren">http://translate.khanacademy.org/humanities/renaissance-reformation/renaissance-venice/venice-early-ren</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x666e159c) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x666e159c) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Venice"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/flanders-1">http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/flanders-1</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xea43dd8d) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art History: Flanders"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/flanders-1">http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/flanders-1</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "This tutorial focuses on the art of Peter Paul Rubens, whose work was in high demand by nearly every King, Queen and aristocrat in Catholic Europe (good thing he had a huge workshop!). Rubens was a master of color, dramatic compositions, and movement. Although he was from Northern Europe, he traveled to Italy and absorbed the art of the Renaissance, of classical antiquity, and of Caravaggio. He painted nearly every type of subject—landscapes, portraits, mythology, and history paintings."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/france">http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/france</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x23e591e8) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art History: France"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/france">http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/france</a>
+# Description of topic (x23e591e8) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In France, the LeNain Brothers painted scenes of every-day life (genre paintings), often depicting peasants. There was a renewal of interest in their art in the mid-Nineteenth Century, when the art critic, Champfluery wrote that the brothers “considered men in tatters more interesting than courtiers in embroidered garments.” At the same time, Poussin created a very different style—one that was highly intellectual and looked back to Renaissance, and ancient Greek and Roman art."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/holland">http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/holland</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x0665628b) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art History: Holland"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/holland">http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/holland</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "In the Protestant Dutch Republic of the 17th century there was an enormous demand for art from a wide cross-section of the public. This was a very good thing, since the institution that had been the main patron for art—the Church—was no longer in the business of commissioning art due to the Protestant Reformation. Dutch artists sought out new subjects of interest to their new clientele, scenes of everyday life (genre paintings), landscapes and still-lifes. There was also an enormous market for portraits. One of the greatest artist of this period, Rembrandt, made his name as a portrait painter, but was also a printmaker, and his work also includes moving interpretations of biblical subjects (though from a Protestant perspective)."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/spain">http://translate.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/spain</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x51288d14) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art History: Spain"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/neo-classicism/e/neoclassicism">http://translate.khanacademy.org/humanities/monarchy-enlightenment/neo-classicism/e/neoclassicism</a>.
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/getty-museum/getty-decorative-arts/e/introduction-to-decorative-arts">http://translate.khanacademy.org/partner-content/getty-museum/getty-decorative-arts/e/introduction-to-decorative-arts</a>.
+# Exercise at (x45c3b18b) on the pl stage.
+# Exercise at (xeb453737) on the es stage.
+# Exercise at (xeb453737) on the tr stage.
+# Title of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/rococo">http://translate.khanacademy.org/humanities/monarchy-enlightenment/rococo</a>
+# Title of topic (xd08c262e) on the es stage
+# Title of topic (xd08c262e) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Rococo"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/neo-classicism">http://translate.khanacademy.org/humanities/monarchy-enlightenment/neo-classicism</a>
+# Title of topic (xf9813705) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Neo-Classicism"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/neo-classicism">http://translate.khanacademy.org/humanities/monarchy-enlightenment/neo-classicism</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf9813705) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art History: Neo-Classicism"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/monarchy-enlightenment/rococo">http://translate.khanacademy.org/humanities/monarchy-enlightenment/rococo</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd08c262e) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xd08c262e) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Art History: Rococo"
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/mannerism1/e/mannerism">http://translate.khanacademy.org/humanities/renaissance-reformation/mannerism1/e/mannerism</a>
+# Pretty display name for exercise (x57cfff12) on the pl stage
+# Standalone title of topic <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/mannerism1">http://translate.khanacademy.org/humanities/renaissance-reformation/mannerism1</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe9acac90) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe9acac90) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Mannerism"
+msgstr ""

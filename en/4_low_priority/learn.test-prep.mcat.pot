@@ -1,0 +1,2497 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2017-12-01 14:41+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# String from android-app.xml in Android app
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/wi-phi/wiphi-metaphysics-epistemology/wiphi-language">http://translate.khanacademy.org/partner-content/wi-phi/wiphi-metaphysics-epistemology/wiphi-language</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/language">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/language</a>
+# Title of topic (x7e5ebf91) on the pt stage
+# Title of topic (x8d4beb02) on the pl stage
+# Title of topic (x8d4beb02) on the tr stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/page-package/footer.jsx.js:338 intl/datastore:1
+msgid "Language"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/physiological-and-sociocultural-concepts-of-motivation-and-attitudes/e/motivations-and-attitudes-questions">http://translate.khanacademy.org/test-prep/mcat/behavior/physiological-and-sociocultural-concepts-of-motivation-and-attitudes/e/motivations-and-attitudes-questions</a>.
+# Exercise at (x66125c88) on the pt stage.
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/equilibrium">https://www.khanacademy.org/tag/equilibrium</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/equilibrium-mcat">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/equilibrium-mcat</a>
+# Title of topic (x75ab5d31) on the pt stage
+# Title of video <a href="http://translate.khanacademy.org/partner-content/crash-course1/crash-course-chemistry/v/chem28-equilibrium">http://translate.khanacademy.org/partner-content/crash-course1/crash-course-chemistry/v/chem28-equilibrium</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Equilibrium"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat">http://translate.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat</a>
+# Title of topic (xe2195c5e) on the pt stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/a/electrochemistry">http://translate.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/a/electrochemistry</a>
+# Title of tutorial article (x4c658724) on the pt stage
+# Title of video <a href="http://translate.khanacademy.org/partner-content/crash-course1/crash-course-chemistry/v/chem36-electrochemistry">http://translate.khanacademy.org/partner-content/crash-course1/crash-course-chemistry/v/chem36-electrochemistry</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Electrochemistry"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/ap-biology/ap-classical-genetics/ap-mendelian--genetics">http://translate.khanacademy.org/science/ap-biology/ap-classical-genetics/ap-mendelian--genetics</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/biology/classical-genetics/mendelian--genetics">http://translate.khanacademy.org/science/biology/classical-genetics/mendelian--genetics</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/high-school-biology/classical-genetics-high-school/mendelian--genetics-high-school">http://translate.khanacademy.org/science/high-school-biology/classical-genetics-high-school/mendelian--genetics-high-school</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/mendelian-genetics">http://translate.khanacademy.org/test-prep/mcat/biomolecules/mendelian-genetics</a>
+# Title of topic (x0b31a1b6de243b57) on the pl stage
+# Title of topic (x1455c62c) on the pt stage
+# Title of topic (xb9c434e0) on the accents stage
+# Title of topic (xb9c434e0) on the pl stage
+# Title of topic (xb9c434e0) on the tr stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Mendelian genetics"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/behavior-and-genetics/e/behavior-and-genetics-questions">http://translate.khanacademy.org/test-prep/mcat/behavior/behavior-and-genetics/e/behavior-and-genetics-questions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/the-role-of-alcohol-abuse-in-pancreatitis">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/the-role-of-alcohol-abuse-in-pancreatitis</a>.
+# Exercise at (xce0bab4f) on the pt stage.
+# Exercise at (xd815f1db) on the pt stage.
+# Exercise is at <a href="http://translate.khanacademy.org/science/biology/macromolecules/macromolecules-skill-checks/e/macromolecules-skill-assessment">http://translate.khanacademy.org/science/biology/macromolecules/macromolecules-skill-checks/e/macromolecules-skill-assessment</a>.
+# Exercise is at (x952c07ec) on the accents stage.
+# Exercise is at (x952c07ec) on the pl stage.
+# Exercise is at (x952c07ec) on the tr stage.
+# Title of topic <a href="http://translate.khanacademy.org/science/ap-biology/ap-macromolecules/ap-carbohydrates-and-sugars">http://translate.khanacademy.org/science/ap-biology/ap-macromolecules/ap-carbohydrates-and-sugars</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/biology/macromolecules/carbohydrates-and-sugars">http://translate.khanacademy.org/science/biology/macromolecules/carbohydrates-and-sugars</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/high-school-biology/macromolecules-high-school/carbohydrates-and-sugars-high-school">http://translate.khanacademy.org/science/high-school-biology/macromolecules-high-school/carbohydrates-and-sugars-high-school</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/carbohydrates">http://translate.khanacademy.org/test-prep/mcat/biomolecules/carbohydrates</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/carbohydrates-5d">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/carbohydrates-5d</a>
+# Title of topic (xa26d0a03168d02a8) on the pl stage
+# Title of topic (xc8b20ed4) on the pt stage
+# Title of topic (xd2b14135) on the pt stage
+# Title of topic (xea21d39f) on the accents stage
+# Title of topic (xea21d39f) on the pl stage
+# Title of topic (xea21d39f) on the tr stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/science/biology/macromolecules/carbohydrates-and-sugars/a/carbohydrates">http://translate.khanacademy.org/science/biology/macromolecules/carbohydrates-and-sugars/a/carbohydrates</a>
+# Title of tutorial article (x821b7449) on the accents stage
+# Title of tutorial article (x821b7449) on the pl stage
+# Title of tutorial article (x821b7449) on the tr stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Carbohydrates"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/ap-chemistry/buffers-titrations-solubility-equilibria-ap/solubility-equilibria-tutorial-ap">http://translate.khanacademy.org/science/ap-chemistry/buffers-titrations-solubility-equilibria-ap/solubility-equilibria-tutorial-ap</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/chemistry/acid-base-equilibrium/copy-of-solubility-equilibria-mcat">http://translate.khanacademy.org/science/chemistry/acid-base-equilibrium/copy-of-solubility-equilibria-mcat</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/solubility-equilibria-mcat">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/solubility-equilibria-mcat</a>
+# Title of topic (x5c5c393b) on the pl stage
+# Title of topic (x784a33e2) on the pt stage
+# Title of topic (x7e4d1539) on the hi stage
+# Title of topic (x7e4d1539) on the pl stage
+# Title of topic (x7e4d1539) on the pt stage
+# Title of topic (x7e4d1539) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Solubility equilibria"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/ap-physics-2/ap-geometric-optics/ap-reflection-refraction">http://translate.khanacademy.org/science/ap-physics-2/ap-geometric-optics/ap-reflection-refraction</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class-12th-physics-india/in-in-ray-optics-and-optical-instruments/in-in-reflection-and-refraction">http://translate.khanacademy.org/science/in-in-class-12th-physics-india/in-in-ray-optics-and-optical-instruments/in-in-reflection-and-refraction</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/physics/geometric-optics/reflection-refraction">http://translate.khanacademy.org/science/physics/geometric-optics/reflection-refraction</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/reflection-and-refraction">http://translate.khanacademy.org/test-prep/mcat/physical-processes/reflection-and-refraction</a>
+# Title of topic (x113a52df) on the pl stage
+# Title of topic (x113a52df) on the tr stage
+# Title of topic (x8bf258db) on the pt stage
+# Title of topic (xd784678421a80bc1) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Reflection and refraction"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/science/biology/energy-and-enzymes/skill-check-energy-and-enzymes/e/skill-check-energy-and-enzymes">http://translate.khanacademy.org/science/biology/energy-and-enzymes/skill-check-energy-and-enzymes/e/skill-check-energy-and-enzymes</a>.
+# Exercise is at (xd5ae85a9) on the accents stage.
+# Exercise is at (xd5ae85a9) on the pl stage.
+# Exercise is at (xd5ae85a9) on the tr stage.
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/enzymes">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/enzymes</a>
+# Title of topic (xf84fd1de) on the pt stage
+# Title of video <a href="http://translate.khanacademy.org/science/biology/energy-and-enzymes/introduction-to-enzymes/v/enzymes">http://translate.khanacademy.org/science/biology/energy-and-enzymes/introduction-to-enzymes/v/enzymes</a>
+# Title of video (x32f1ee82) on the accents stage
+# Title of video (x32f1ee82) on the pl stage
+# Title of video (x32f1ee82) on the tr stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Enzymes"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/cell-theory">http://translate.khanacademy.org/test-prep/mcat/cells/cell-theory</a>
+# Title of topic (x5b84caa0) on the pt stage
+# Title of video <a href="http://translate.khanacademy.org/science/biology/structure-of-a-cell/introduction-to-cells/v/cell-theory">http://translate.khanacademy.org/science/biology/structure-of-a-cell/introduction-to-cells/v/cell-theory</a>
+# Title of video (x7771d81a) on the accents stage
+# Title of video (x7771d81a) on the pl stage
+# Title of video (x7771d81a) on the tr stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Cell theory"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-phy-kinetic-theory/in-in-kinetic-molecular-theory-of-gas">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-phy-kinetic-theory/in-in-kinetic-molecular-theory-of-gas</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/kinetic-molecular-theory-of-gas">http://translate.khanacademy.org/test-prep/mcat/physical-processes/kinetic-molecular-theory-of-gas</a>
+# Title of topic (x440e5da9) on the pt stage
+# Title of video <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-phy-kinetic-theory/in-in-kinetic-molecular-theory-of-gas/v/kinetic-molecular-theory-of-gases">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-phy-kinetic-theory/in-in-kinetic-molecular-theory-of-gas/v/kinetic-molecular-theory-of-gases</a>
+# Title of video <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/kinetic-molecular-theory-of-gas/v/kinetic-molecular-theory-of-gases">http://translate.khanacademy.org/test-prep/mcat/physical-processes/kinetic-molecular-theory-of-gas/v/kinetic-molecular-theory-of-gases</a>
+# Title of video (xe949cc39) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Kinetic molecular theory of gases"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-phy-kinetic-theory/in-in-kinetic-molecular-theory-of-gas">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-phy-kinetic-theory/in-in-kinetic-molecular-theory-of-gas</a>
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/kinetic-molecular-theory-of-gas">http://translate.khanacademy.org/test-prep/mcat/physical-processes/kinetic-molecular-theory-of-gas</a>
+# Description of topic (x440e5da9) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4A: Though we may not be able to always visualize them, gases are comprised of atoms and molecules. We’ll explore the molecular behavior that determines the pressure and temperature of a gas. In addition, we will discuss the first law of thermodynamics and heat capacity."
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/science/physics/geometric-optics/skill-check--geometric-optics/e/skill-check--geometric-optics">http://translate.khanacademy.org/science/physics/geometric-optics/skill-check--geometric-optics/e/skill-check--geometric-optics</a>.
+# Exercise is at (x813914c8) on the pl stage.
+# Exercise is at (x813914c8) on the tr stage.
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/thin-lenses">http://translate.khanacademy.org/test-prep/mcat/physical-processes/thin-lenses</a>
+# Title of topic (x08e93c97) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Thin lenses"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/behavior-and-genetics">http://translate.khanacademy.org/test-prep/mcat/behavior/behavior-and-genetics</a>
+# Description of topic (x8f4cea25) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "7A: Nature vs. nurture - it’s a dilemma scientists have aimed to answer for years. Do our surroundings or genetics have a greater impact on the individuals we eventually become? You will learn about the way our genes and experiences shape the ways we respond to our environment as we discuss experiments such as twin and adoption studies in the context of development."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner">http://translate.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner</a>
+# Title of topic (x0b9ff823) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Biological basis of behavior: Nervous system"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner">http://translate.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x0b9ff823) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "biological basis of behavior: Nervous system"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner">http://translate.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner</a>
+# Description of topic (x0b9ff823) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "7A: The very fact that you are able to understand this sentence means that neurons in your brain (85 billion in total) are talking to each other. Neurons are the living substance of the nervous system, which extends beyond the brain to the spinal cord and peripherally, allows you to think and process, make decisions, stand up straight, maintain your heart rate, rest and digest. You will come to appreciate the structure and function of the nervous system as we delve into its anatomy and physiology, from the gray and white matter to the cerebellum to the neurons."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/human-development">http://translate.khanacademy.org/test-prep/mcat/behavior/human-development</a>
+# Title of topic (x8916086d) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Human development"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/learning-slug">http://translate.khanacademy.org/test-prep/mcat/behavior/learning-slug</a>
+# Description of topic (x9762510b) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "7C: This is the most “meta” of all modules, in which you will learn about learning! Your environment has a huge impact on your future behavior, and your behavior itself has consequences on the environment. You will come to appreciate the mechanisms of classical and operant conditioning (and how you can apply these concepts to training your dog!). We will apply these to contemporary issues like the issue of violence in the media. As you go through this module, you will gain an understanding of how your brain retains new information. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/normative-and-non-normative-behavior">http://translate.khanacademy.org/test-prep/mcat/behavior/normative-and-non-normative-behavior</a>
+# Description of topic (x0f83d238) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "7B:   Learn about how \"normal\" and \"deviant\" behavior is defined in today's society. This includes a discussion of the range of normal and abnormal behavior, common theories used to understand basic deviance, and discussion of some types of deviance that occur in groups."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/physiological-and-sociocultural-concepts-of-motivation-and-attitudes">http://translate.khanacademy.org/test-prep/mcat/behavior/physiological-and-sociocultural-concepts-of-motivation-and-attitudes</a>
+# Description of topic (xb6a6edd1) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "7A: What makes us do the things we do, or feel the way we feel in situations? Explore how the physiological and psycho-social theories, factors, and situations behind how motivation, attitudes, and behavior are inter-related. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/psychological-disorders">http://translate.khanacademy.org/test-prep/mcat/behavior/psychological-disorders</a>
+# Title of topic (xccaa4bfe) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Psychological disorders"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/psychological-disorders">http://translate.khanacademy.org/test-prep/mcat/behavior/psychological-disorders</a>
+# Description of topic (xccaa4bfe) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "When someone breaks their leg they get a cast to fix the damage and when someone gets a papercut, they use a bandaid. But what happens when someone’s mind needs to be healed? Although many mental disorders are difficult to diagnose, these videos explore the symptoms and biological explanations of a few mental disorders that are extensively researched."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/social-psychology">http://translate.khanacademy.org/test-prep/mcat/behavior/social-psychology</a>
+# Description of topic (x2064c443) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Birds of a feather flock together. How do we explain these and other observations in the way we interact with fellow human beings? We will dive into the fascinating and relevant world of social psychology as we discuss concepts which you may have noticed in real life. You will come to know the names of such phenomena as well as the specific factors that motivate people to behave the way they do in groups. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/theories-of-attitude-and-behavior-change">http://translate.khanacademy.org/test-prep/mcat/behavior/theories-of-attitude-and-behavior-change</a>
+# Title of topic (x6807763e) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Theories of attitude and behavior change"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/theories-of-attitude-and-behavior-change">http://translate.khanacademy.org/test-prep/mcat/behavior/theories-of-attitude-and-behavior-change</a>
+# Description of topic (x6807763e) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"7C: Although people can learn new behaviors and change their attitudes, psychological, environmental, and biological factors influence whether those changes will be short-term or long-term. Understanding how people learn new behaviors, change their attitudes, and the conditions that affect learning helps us understand behavior and our interactions with others.\n"
+"\n"
+"The content in this category covers learning and theories of attitude and behavior change. This includes the elaboration likelihood model, theories of information processing, and social cognitive theory."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/behavior/theories-personality">http://translate.khanacademy.org/test-prep/mcat/behavior/theories-personality</a>
+# Description of topic (x6228433e) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"7A: Curious about your personality? It’s a complex thing which is difficult to define in even a book. Nonetheless, throughout history, several notable psychologists and schools of thought have attempted to figure out how to organize and categorize human personalities. We will review these theories and see which one resonates the most with you! By Shreena Desai.\n"
+"Motivation and attitudes - What makes us dot he things we do, or feel the way we feel in various social situations? We will discuss how the physiological and psycho-social theories, factors, and situations behind motivation, attitudes, and behavior are interrelated. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut</a>
+# Title of topic (x2e37a410) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Biological sciences practice passage questions"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x2e37a410) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Biological sciences practice questions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut</a>
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice/physical-sciences-practice-tut">http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice/physical-sciences-practice-tut</a>
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/social-sciences-practice/social-science-practice-tut">http://translate.khanacademy.org/test-prep/mcat/social-sciences-practice/social-science-practice-tut</a>
+# Description of topic (x2e37a410) on the pt stage
+# Description of topic (x76558c11) on the pt stage
+# Description of topic (xf3630cde) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "These questions are available under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License (available at http://creativecommons.org/licenses/by-nc-sa/3.0/us/)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice</a>
+# Title of topic (x6ceb02de) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Biological and Biochemical Foundations of Living Systems Passages"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice</a>
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/critical-analysis-and-reasoning-skills-practice-questions/critical-analysis-and-reasoning-skills-tutorial">http://translate.khanacademy.org/test-prep/mcat/critical-analysis-and-reasoning-skills-practice-questions/critical-analysis-and-reasoning-skills-tutorial</a>
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice">http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice</a>
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/social-sciences-practice">http://translate.khanacademy.org/test-prep/mcat/social-sciences-practice</a>
+# Description of topic (x6ceb02de) on the pt stage
+# Description of topic (x7d667b5a) on the pt stage
+# Description of topic (xe32cf3b7) on the pt stage
+# Description of topic (xf75fcd0c) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Go ahead and practice some passage-based questions!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1">http://translate.khanacademy.org/test-prep/mcat/biomolecules/amino-acids-and-proteins1</a>
+# Description of topic (x47a34eeb) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1A: We will come to an understanding of the central dogma of molecular biology: DNA makes RNA, and RNA makes protein. You will learn about how we classify the different amino acids and how they come together to form the building blocks of complex proteins.\n"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/carbohydrate-metabolism">http://translate.khanacademy.org/test-prep/mcat/biomolecules/carbohydrate-metabolism</a>
+# Description of topic (x2701e1e7) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1D: The glucose in the bread of the ham and cheese sandwich you just had for lunch goes on a productive journey within your cells after it is absorbed - the glucose in the bread is involved in several interlinked pathways. Your body has a decision to make - it can either break down the glucose for energy or store it for later. We will delve into the metabolic pathways of glucose - glycolysis, gluconeogenesis, and the pentose phosphate shunt."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/carbohydrates">http://translate.khanacademy.org/test-prep/mcat/biomolecules/carbohydrates</a>
+# Description of topic (xd2b14135) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1D: Sugars are more than a prelude to a trip to the dentist - they makes life itself possible. This tutorial will describe the structure of these vital biomolecules."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/chromosomal-inheritance">http://translate.khanacademy.org/test-prep/mcat/biomolecules/chromosomal-inheritance</a>
+# Title of topic (x7115ab3d) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Chromosomal inheritance"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/chromosomal-inheritance">http://translate.khanacademy.org/test-prep/mcat/biomolecules/chromosomal-inheritance</a>
+# Description of topic (x7115ab3d) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Between 1856 and 1863, Gregor Mendel did a series of experiments with pea plants that established much of our fundamental understanding of heredity. In this section you will learn how traits are passed down from parents to their offspring and how genetic recombination can produce organisms with new gene combinations."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/dna-technology">http://translate.khanacademy.org/test-prep/mcat/biomolecules/dna-technology</a>
+# Title of topic (xcae3cc4c) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "DNA technology"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/dna-technology">http://translate.khanacademy.org/test-prep/mcat/biomolecules/dna-technology</a>
+# Description of topic (xcae3cc4c) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Thanks to advances in DNA technology, we can now clone genes, control gene expression, and sequence entire genomes. How is this possible? These videos will cover the techniques that revolutionized molecular biology and continue to be used almost daily in research labs around the world. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/dna">http://translate.khanacademy.org/test-prep/mcat/biomolecules/dna</a>
+# Description of topic (x51e920cd) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1B: DNA makes RNA, and RNA makes protein - in a nutshell, this is the central dogma of molecular biology. Let’s delve into that simple notion here so we can come to a better understand of the flow of genetic information."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/endocrine-system-fc1">http://translate.khanacademy.org/test-prep/mcat/biomolecules/endocrine-system-fc1</a>
+# Description of topic (xe230a065) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1D: Glands are special organs that secrete chemical messages called hormones, which seep into the blood - it’s like putting a tea bag in hot water. As the heart pumps, this blood carries these chemical messages throughout the body, allowing the hormones to interact with specific target cells and organs. Endocrine glands help us to maintain our appetites, grow up, metabolize molecules, concentrate urine,- and oh, so much more! We will examine how these variegated hormones play a role in homeostasis as the body responds to a changing environment."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/enzyme-kinetics">http://translate.khanacademy.org/test-prep/mcat/biomolecules/enzyme-kinetics</a>
+# Description of topic (x0951f061) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1A: You’ll come to understand how enzymes, biomolecular catalysts, speed up reactions in cells as well as interact with one another.  With just a little algebra, we’ll come to a mathematical understanding of this fundamental process. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/enzyme-structure-and-function">http://translate.khanacademy.org/test-prep/mcat/biomolecules/enzyme-structure-and-function</a>
+# Description of topic (x7329c2c4) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1A: The multitude of reactions within our cells are sped up by enzymes. Without these biomolecules, these biochemical pathways would be as slow as a turtle. For instance, without enzymes, your body may never be able to break down and absorb the hamburger you just had for lunch. The hamburger would simply sit there, a lump in your stomach, until reactions slowly started to happen on their own - enzymes speed that up!\n"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/evolution-population-dynmaics">http://translate.khanacademy.org/test-prep/mcat/biomolecules/evolution-population-dynmaics</a>
+# Description of topic (xba69ad9f) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1C: Charles Darwin inaugurated the field of evolutionary biology 150 years ago with the publication of “On the Origin of Species.” You will learn about the driving forces of evolution beyond natural selection and the relationship between populations and their environments. The story of Darwin’s finches will make a lot more sense. \n"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/fat-and-protein-metabolism">http://translate.khanacademy.org/test-prep/mcat/biomolecules/fat-and-protein-metabolism</a>
+# Title of topic (x20d41ec0) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Fat and protein metabolism"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/fat-and-protein-metabolism">http://translate.khanacademy.org/test-prep/mcat/biomolecules/fat-and-protein-metabolism</a>
+# Description of topic (x20d41ec0) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1D: The ham and cheese sandwich you just enjoyed need to be processed by the cells of your body. In addition to the sweet glucose we happily consume, we also take in fat (great for storing energy compactly) and proteins (which can be metabolized to produce energy or used as building blocks for innumerable parts of your body). These tutorials will shed light on the key metabolic pathways governing the metabolism of fats and proteins. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/gene-control">http://translate.khanacademy.org/test-prep/mcat/biomolecules/gene-control</a>
+# Description of topic (x5a58e875) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1B: Cells have many intricate mechanisms which regulate expression of genetic material - from transcription of RNA to translation of protein. At every point in this process, enzymes in your body can step in to modulate how much or how little RNA, or protein is produced from the genome. Sometimes, these genetic controls go awry, and so cells grow without inhibition - this is often how tumors develop, a pathogenic process we will also explore.\n"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/genetic-mutations">http://translate.khanacademy.org/test-prep/mcat/biomolecules/genetic-mutations</a>
+# Title of topic (x5f5a3cc0) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Genetic mutations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/genetic-mutations">http://translate.khanacademy.org/test-prep/mcat/biomolecules/genetic-mutations</a>
+# Description of topic (x5f5a3cc0) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1C: Mutations are not always a bad thing - they give rise to much of the spice and flavor of life. But sometimes they are a result of environmental injury and can give rise to malignant disease processes like cancer. We will look at the causes and types of genetics mutations in this series as we also examine their effect on biological systems. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/hormonal-regulation">http://translate.khanacademy.org/test-prep/mcat/biomolecules/hormonal-regulation</a>
+# Title of topic (x86028831) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Hormonal regulation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/krebs-citric-acid-cycle-and-oxidative-phosphorylation">http://translate.khanacademy.org/test-prep/mcat/biomolecules/krebs-citric-acid-cycle-and-oxidative-phosphorylation</a>
+# Description of topic (xb0c4c545) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1D: You will learn about the latter steps in cellular respiration - the citric acid cycle and oxidative phosphorylation. It is through these elegant processes that your cells produce energy from sugars, fats, and proteins."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/mendelian-genetics">http://translate.khanacademy.org/test-prep/mcat/biomolecules/mendelian-genetics</a>
+# Description of topic (x1455c62c) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1C: Why do some people have blue eyes and others brown? What determines your blood type? You will be able to answer questions like these as you have some fun with Punnett squares and discover the mechanisms of inheritance (and what all this has to do with a 19th-century German monk)."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/overview-metabolism">http://translate.khanacademy.org/test-prep/mcat/biomolecules/overview-metabolism</a>
+# Description of topic (x861d6464) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1D: You are breathing, your heart is beating, and you are reading this sentence. All these processes would be impossible were it not for the chemical energy produce within our cells. In this tutorial, we will integrate the biology and chemistry of metabolism as we walk you through the electron transport chain and the production of ATP, the ultimate energy currency in our bodies.\n"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/biomolecules/principles-of-bioenergetics">http://translate.khanacademy.org/test-prep/mcat/biomolecules/principles-of-bioenergetics</a>
+# Description of topic (x89a1d0ed) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1D: When you light a candle, energy in the form of heat is dissipated into the surroundings. Without energy transfer, frogs wouldn’t jump, and cheetahs wouldn’t run.  We will discuss Gibbs free energy, enthalpy, and Le Chatelier’s principles, thermodynamic concepts governing energy transfer as we examine their relationship to metabolism. After this tutorial, you will understand what it really means to “burn calories” during exercise.\n"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/cell-cell-interactions">http://translate.khanacademy.org/test-prep/mcat/cells/cell-cell-interactions</a>
+# Title of topic (xa7045bac) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Cell-cell interactions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/cell-cell-interactions">http://translate.khanacademy.org/test-prep/mcat/cells/cell-cell-interactions</a>
+# Description of topic (xa7045bac) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "2A: The human body is composed of about 100 trillion cells (this is not counting your bacterial buddies, who actually outnumber your cells 10 to 1!) Your cells must speak to each other to coordinate this massive symphony of life. In this tutorial, you will learn about the molecular basis of cellular signaling that makes this vast network speedy and efficient.\n"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/cell-membrane-overview">http://translate.khanacademy.org/test-prep/mcat/cells/cell-membrane-overview</a>
+# Description of topic (x04e8e3bd) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "2A:  Not all shall pass! Yards have fences, and cells have membranes. You don’t want just anybody waltzing into your backyard. Similarly, a healthy cell doesn’t just let in any random molecule - this is the concept of selective permeability. Some molecules (e.g. steroids) more easily cross the barrier whereas others (e.g. charged ions) have a more difficult time getting inside the cell without a little help from transporters in the membrane.  "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/cell-theory">http://translate.khanacademy.org/test-prep/mcat/cells/cell-theory</a>
+# Description of topic (x5b84caa0) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let’s go on a journey that starts with Robert Hooke and Anton van Leeuwenhoek hunched over their microscopes looking at cork and bacteria, respectively. These videos will guide you through the  events that led us to the knowledge we have today about cells. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/cellular-development">http://translate.khanacademy.org/test-prep/mcat/cells/cellular-development</a>
+# Title of topic (x83f4d1ff) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Cellular development"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/cellular-development">http://translate.khanacademy.org/test-prep/mcat/cells/cellular-development</a>
+# Description of topic (x83f4d1ff) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "What is the difference between a heart cell and a liver cell? Not only do they look different, but they obviously have different roles in our bodies. Yet, both of these cells have the same 23 chromosomes in their nuclei, so shouldn’t they be similar? These videos explain why a heart cell becomes a heart cell and not a liver cell."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/cellular-division">http://translate.khanacademy.org/test-prep/mcat/cells/cellular-division</a>
+# Title of topic (x702e0754) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Cellular division"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/cells/prokaryotes-bacteria/e/prokaryotes-questions">http://translate.khanacademy.org/test-prep/mcat/cells/prokaryotes-bacteria/e/prokaryotes-questions</a>.
+# Exercise at (xfe393894) on the pt stage.
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/cytoskeleton">http://translate.khanacademy.org/test-prep/mcat/cells/cytoskeleton</a>
+# Title of topic (xd8376254) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Cytoskeleton"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/cytoskeleton">http://translate.khanacademy.org/test-prep/mcat/cells/cytoskeleton</a>
+# Description of topic (xd8376254) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The cytoskeleton provides an internal framework for the cell, much like our skeleton helps support our body. In these videos, you will learn about the different filaments that comprise the cytoskeleton, and how these filaments provide structural support, create roadways for intracellular transport, and generate cellular motion. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/embryology">http://translate.khanacademy.org/test-prep/mcat/cells/embryology</a>
+# Title of topic (xd7fe5b87) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Embryology"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/embryology">http://translate.khanacademy.org/test-prep/mcat/cells/embryology</a>
+# Description of topic (xd7fe5b87) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Do you remember when you were just a sperm and an egg, or when you were just made up of 32 cells, or when you were a blastocyst attaching to your mom’s uterus? These videos  should help jog your memory about the nine months before you came into this world as an human being."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/eukaryotic-cells">http://translate.khanacademy.org/test-prep/mcat/cells/eukaryotic-cells</a>
+# Title of topic (x62b72c8e) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Eukaryotic cells"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/eukaryotic-cells">http://translate.khanacademy.org/test-prep/mcat/cells/eukaryotic-cells</a>
+# Description of topic (x62b72c8e) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Unlike prokaryotes, eukaryotic cells have a nucleus and other membrane-bound organelles that allow the cell to compartmentalize different functions. These videos will provide an overview of eukaryotic cells and will take you through the structures and functions of the various organelles found within the plasma membrane."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/prokaryotes-bacteria">http://translate.khanacademy.org/test-prep/mcat/cells/prokaryotes-bacteria</a>
+# Title of topic (xe41fbb27) on the es stage
+# Title of topic (xe41fbb27) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Prokaryotes/bacteria"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/prokaryotes-bacteria">http://translate.khanacademy.org/test-prep/mcat/cells/prokaryotes-bacteria</a>
+# Description of topic (xe41fbb27) on the es stage
+# Description of topic (xe41fbb27) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "When you think about prokaryotes, disease-causing bacteria might come to mind. However, most prokaryotes are not harmful. Prokaryotes live symbiotically with many plants and animals and are key players in the global ecosystem. They are incredibly diverse and are found in the most extreme of environments. These videos will take you through a general overview of these amazing organisms."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/transport-across-a-cell-membrane">http://translate.khanacademy.org/test-prep/mcat/cells/transport-across-a-cell-membrane</a>
+# Title of topic (x46ad3f31) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Transport across a cell membrane"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/transport-across-a-cell-membrane">http://translate.khanacademy.org/test-prep/mcat/cells/transport-across-a-cell-membrane</a>
+# Description of topic (x46ad3f31) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "2A: Each cell in your body has a “membrane potential.” Think of it like rolling a ball to the top of a hill - once the ball is at the top, it is smooth sailing down. Similarly, this electric membrane potential allows ions to flow down a gradient of electrical energy (the inside of the cell is negative relative to the outside). We will discuss this concept as well as other mechanisms for movement of ions, water, and other molecules across cellular membranes.\n"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/cells/viruses">http://translate.khanacademy.org/test-prep/mcat/cells/viruses</a>
+# Description of topic (xdc83b9bc) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Viruses can cause sickness and disease, however they are not living entities. If they are not alive, then what are they? In this section, you will learn about the different types of viruses and how they survive, replicate, and spread inside a host organism. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/acid-base-equilibria">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/acid-base-equilibria</a>
+# Title of topic (x26df79bc) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Acid/base equilibria"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/acid-base-equilibria">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/acid-base-equilibria</a>
+# Description of topic (x26df79bc) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Chill out! Characterizing solutions of acids and bases is easy when you use the simple ICE table technique.  You will also learn how buffers regulate pH so well,  a process essential to homeostasis."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/alcohols-and-phenols">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/alcohols-and-phenols</a>
+# Description of topic (xdad74afa) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "5D: If you’ve ever walked through the wards of a hospital, you’ve probably noticed dozens of alcohol-based hand sanitizer dispensers, which quickly clean the hands of healthcare workers between seeing patients. Alcohols serve many other functions. You will gain a strong understanding of the nomenclature, properties and reactions of alcohols and phenols, along with the criteria for determining aromaticity in heterocyles. By the way, if you’re wondering where the term “aromaticity” comes from, many of the earliest aromatic compounds, like benzene and toluene, were noted to have pleasant odors, and the name for this structural class has stuck ever since."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/aldehydes-and-ketones">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/aldehydes-and-ketones</a>
+# Description of topic (x5e550e62) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "5D:  Have you ever dissected a preserved cadaver in anatomy class? That stench you remember is the smell of formaldehyde used to preserve it. Formaldehyde is an aldehyde a class of molecules we will discuss along with its cousin the ketone. We will discuss their formation as well as how they interact in various chemical reactions as we walk through some real-world examples."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/alpha-carbon-chemistry">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/alpha-carbon-chemistry</a>
+# Description of topic (x465cac1e) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "5D:  Aldol condensations are one of the most important, frequently seen reactions in biochemistry. In fact, the very first reaction of the Krebs (TCA) cycle is an aldol condensation in which acetyl CoA condenses with oxaloacetate, forming citrate. You will learn the mechanism of these reactions formed as we extend this concept to predict the products of aldol condensations."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/amino-acids-peptides-proteins-5d">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/amino-acids-peptides-proteins-5d</a>
+# Title of topic (x67ac445e) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Amino acids, peptides, proteins"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/bioenergetics">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/bioenergetics</a>
+# Title of topic (xae604e90) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Bioenergetics"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/carbohydrates-5d">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/carbohydrates-5d</a>
+# Description of topic (xc8b20ed4) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Table sugar and corn syrup have the same chemical formula, so why do they taste different? The answer is in their stereochemistry. Learn how to assign chirality, interpret Fischer projections, and differentiate between different mono- and poly-saccharides in the following videos."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/carboxylic-acid-derivatives">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/carboxylic-acid-derivatives</a>
+# Description of topic (xabccc6f5) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "5D: As the name would suggest, carboxylic acid derivatives are quite similar to carboxylic acids in their structure and function. If you’ve ever used soap to wash your hand, you have experienced firsthand (pun intended!) the lavatory effects of an ester, one of the many classes of carboxylic acid derivatives. In this tutorial, we will discuss the important nomenclature, properties, and reactions of carboxylic acids. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/carboxylic-acids">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/carboxylic-acids</a>
+# Description of topic (x1d2fe656) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "5D: Have you ever used vinegar to make succulent barbecue wings? Then carboxylic acids are your friends. Vinegar, also known as acetic acid, is one of the simplest carboxylic acids. You will discover the important nomenclature, properties, and reactions of carboxylic acids in this tutorial."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/covalent-bonds">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/covalent-bonds</a>
+# Description of topic (x76b0c72a) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "5B: Eating popcorn alone at a movie theater can be quite lonely - but sharing with someone special can feel...well, special! Sharing is caring is caring with atoms too! In a covalent bond, two atoms share electron pairs in their orbitals. We will discuss the mechanism of this bonding as well as the idea of electron orbital hybridization in this tutorial."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/dot-structures">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/dot-structures</a>
+# Description of topic (x268aef38) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "5B: We can’t always see molecules, but we can always simplify and draw depictions of them with simply pen and paper. It is the language of chemistry that we want you to get acquainted with. You will learn to draw Lewis dot structures and resonance structures, assign formal charges, and analyze the geometry of molecules and ions. \n"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/enzymes">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/enzymes</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf84fd1de) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "enzymes"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/enzymes">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/enzymes</a>
+# Description of topic (xf84fd1de) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "5D - The multitude of reactions within our cells are sped up by enzymes. Without these biomolecules, these biochemical pathways would be as slow as a turtle. For instance, without enzymes, your body may never be able to break down and absorb the hamburger you just had for lunch. The hamburger would simply sit there, a lump in your stomach, until reactions slowly started to happen on their own - enzymes speed that up!\n"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/equilibrium-mcat">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/equilibrium-mcat</a>
+# Description of topic (x75ab5d31) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The bane of the pharmaceutical industry is that reactions don’t go from 100% reactants to 100% products. They end in equilibrium with each other. Learn how to calculate equilibrium constants and push reactions further towards products by watching these videos!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/kinetics">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/kinetics</a>
+# Description of topic (x19c7575f) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Chemical reactions are like an assembly line. The right parts have to come together at the right time in order to make the right product. How fast this can occur depends on the slowest step of the process. These videos show how and why different reactions occur at different speeds, and how catalysts - like enzymes in the body - can make reactions happen faster."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates</a>
+# Title of topic (xaf13de49) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Nucleic acids, lipids, and carbohydrates"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/nucleic-acids-lipids-and-carbohydrates</a>
+# Description of topic (xaf13de49) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The following videos outline the functions lipids and carbohydrates. Lipids are important in energy storage, signaling, and cellular structure. Carbohydrates are also important for energy storage, so we’ll talk about those too."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/proteins">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/proteins</a>
+# Description of topic (x0dec96ad) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "5D: DNA makes RNA, and RNA makes proteins,, which are one of the most important biomolecules of our bodies. They are comprised of even smaller amino acids, which are held together by peptide bonds to form proteins. You will discover the structure and functions of proteins at the cellular level in this tutorial."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/separations-purifications">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/separations-purifications</a>
+# Description of topic (x8bda57c7) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "5C: Did you know that digitalis, one of the oldest medicines used to increase cardiac contractility, is derived from the foxglove plant? When you are in the Amazon rainforest searching for a cure for cancer  in a new exotic plant, your potential miracle drug of interest is not originally pure - it must be separated from the other contaminating components. Through these tutorials you will learn how to separate and purify chemical compounds using organic chemistry lab techniques such as extraction, distillation, chromatography, and gel electrophoresis."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/solubility-equilibria-mcat">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/solubility-equilibria-mcat</a>
+# Description of topic (x784a33e2) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "When fresh water runs over a rock a little bit of the rock dissolves. When this mineral rich water dries a little, the rock can be redeposited. Reactants and products are always in equilibrium with each other. Learn how to calculate equilibrium constants and by watching these videos!\n"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/stereochemistry">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/stereochemistry</a>
+# Description of topic (xaa41a151) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "5B: Even molecules with the same chemical formula can have different shapes even though they may be comprised of the same atoms. For instance, with one sheet of paper, you can make origami swans of so many different shapes - similarly molecules can come in different conformations. We will walk through the concepts of structural and conformational isomers as well as stereoisomers and diastereomers"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/thermochemistry">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/thermochemistry</a>
+# Title of topic (xb5b88621) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Thermochemistry"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/thermochemistry">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/thermochemistry</a>
+# Description of topic (xb5b88621) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Wouldn’t it be terrifying if our clothes, food, and houses spontaneously combusted? Molecular bonds store tremendous amounts of energy, but generally are very stable. In order to release the energy, you have to add more first - like applying a match to a firework. These videos will overview standard enthalpy, entropy, and how to find out if a reaction is spontaneous."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/thermodynamics-mcat">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/thermodynamics-mcat</a>
+# Description of topic (x5f6527ed) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "When a gas gets heated it expands, and this expansion can be used to do work like moving a piston in an combustion engine. These videos cover related topics such as isothermal, isometric, and diabatic processes as well as the laws of thermodynamics."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/titrations-and-solubility-equilibria">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/titrations-and-solubility-equilibria</a>
+# Title of topic (x486a923c) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Titrations "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/titrations-and-solubility-equilibria">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/titrations-and-solubility-equilibria</a>
+# Description of topic (x486a923c) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Skrillex loved titrating solutions because he got to drop the base. Titrations are a technique that allow us to determine the concentration of an unknown by adding a known element to it until a specific change occurs.  For instance, finding the acidity of a solution by adding standard base until the solution turns pink. Learn more about titrations and indicators by watching these examples."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/critical-analysis-and-reasoning-skills-practice-questions/critical-analysis-and-reasoning-skills-tutorial">http://translate.khanacademy.org/test-prep/mcat/critical-analysis-and-reasoning-skills-practice-questions/critical-analysis-and-reasoning-skills-tutorial</a>
+# Title of topic (x7d667b5a) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Critical analysis and reasoning skills (CARS) practice questions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/critical-analysis-and-reasoning-skills-practice-questions">http://translate.khanacademy.org/test-prep/mcat/critical-analysis-and-reasoning-skills-practice-questions</a>
+# Title of topic (x5e1059d5) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Critical analysis and reasoning skills practice questions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/attributing-behavior-to-persons-or-situations">http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/attributing-behavior-to-persons-or-situations</a>
+# Title of topic (x466ad1a4) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Attributing behavior to persons or situations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/biological-explanations-of-social-behavior-in-animals">http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/biological-explanations-of-social-behavior-in-animals</a>
+# Title of topic (x922182c6) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Biological explanations of social behavior in animals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/biological-explanations-of-social-behavior-in-animals">http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/biological-explanations-of-social-behavior-in-animals</a>
+# Description of topic (x922182c6) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Nature vs. nurture: are animal behaviors taught or genetically passed down from generation to generation? Here we explore how social behaviors, like genuinely caring about the well being of those in your community, are more “nature” than “nurture.”"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/discrimination">http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/discrimination</a>
+# Description of topic (x7ad05112) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Why is it that some traits like skin color, religion, or cultural values have more meaning than others like eye color or personality? Here we explore how discrimination begins as a stereotype and can escalate into behaviors that can negatively influence whole communities of people."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/perception-prejudice-and-bias">http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/perception-prejudice-and-bias</a>
+# Title of topic (xc39e5106) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Perception, prejudice, and bias"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/perception-prejudice-and-bias">http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/perception-prejudice-and-bias</a>
+# Description of topic (xc39e5106) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Have you ever judged someone based on their appearance? Maybe they were tall and good looking and you assumed they were successful and intelligent. Here we will explore how and why we see the world the way we do as well as the implications of those perceptions."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/self-identity">http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/self-identity</a>
+# Description of topic (xf7873dc1) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "8A: Who exactly are we? How do we develop our morals and patterns of learning? What influences our behaviors in social situations? Physicians must have a keen understanding of their patients’ definitions of themselves in order to treat holistically. Over the past few centuries, several notable psychologists - from Freud to Erikson to Vygotsky - have attempted to answer these grand question. In this module you will explore some of their ideas surrounding the concept of self-identity as we delve into the different phases of our life as we transform from infants to teenagers to full-fledged adults."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/self-presentation-and-interacting-with-others/e/social-interactions-questions-2">http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/self-presentation-and-interacting-with-others/e/social-interactions-questions-2</a>.
+# Exercise at (xf1fb33f2) on the pt stage.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Socialization"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/self-presentation-and-interacting-with-others">http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/self-presentation-and-interacting-with-others</a>
+# Title of topic (xbb7cdab4) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Self-presentation and interacting with others"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/self-presentation-and-interacting-with-others">http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/self-presentation-and-interacting-with-others</a>
+# Description of topic (xbb7cdab4) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "8C: "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/social-behavior">http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/social-behavior</a>
+# Title of topic (x5be56a4c) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Social behavior"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/social-behavior">http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/social-behavior</a>
+# Description of topic (x5be56a4c) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "8C: Who are we attracted to and why? Why do some people behave aggressively and others altruistically? These are questions we can begin to answer through an understanding of social behavior. This tutorial will help you answer these questions as well as give you insight into the basics of attachment and the relationships we have with our parents and those around us as we explore some of the aspects that govern our interactions with other human beings."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/social-interactions">http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/social-interactions</a>
+# Title of topic (xd87d02d9) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Social interactions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/social-interactions">http://translate.khanacademy.org/test-prep/mcat/individuals-and-society/social-interactions</a>
+# Description of topic (xd87d02d9) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here we will learn why people look at you funny when you do the worm in the middle of the hallway at school. Just kidding -- but you will learn about the biological influences and social theories which explain why we interact with others and the world around us the way we do. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/biological-basis-of-behavior-the-nervous-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/biological-basis-of-behavior-the-nervous-system</a>
+# Title of topic (x0c3e8dc7) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Biological basis of behavior: The nervous system"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/biological-basis-of-behavior-the-nervous-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/biological-basis-of-behavior-the-nervous-system</a>
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nervous-system-phy">http://translate.khanacademy.org/test-prep/nclex-rn/nervous-system-phy</a>
+# Description of topic (x0c3e8dc7) on the pt stage
+# Description of topic (x768a2fe5) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3A: The very fact that you are able to understand this sentence means that neurons in your brain (85 billion in total) are talking to each other. Neurons are the living substance of the nervous system, which extends beyond the brain to the spinal cord and peripherally, allows you to think and process, make decisions, stand up straight, maintain your heart rate, rest and digest. You will come to appreciate the structure and function of the nervous system as we delve into its anatomy and physiology, from the gray and white matter to the cerebellum to the neurons."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/biosignaling">http://translate.khanacademy.org/test-prep/mcat/organ-systems/biosignaling</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nervous-system-phy/rn-biosignaling">http://translate.khanacademy.org/test-prep/nclex-rn/nervous-system-phy/rn-biosignaling</a>
+# Title of topic (x4bc53d4c) on the pt stage
+# Title of topic (xac59b7be) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Biosignaling"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/biosignaling">http://translate.khanacademy.org/test-prep/mcat/organ-systems/biosignaling</a>
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nervous-system-phy/rn-biosignaling">http://translate.khanacademy.org/test-prep/nclex-rn/nervous-system-phy/rn-biosignaling</a>
+# Description of topic (x4bc53d4c) on the pt stage
+# Description of topic (xac59b7be) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3A: The human body is composed of about 100 trillion cells (this is not counting your bacterial buddies, who actually outnumber your cells 10 to 1!) Your cells must speak to each other to coordinate this massive symphony of life. In this tutorial, you will learn about the molecular basis of cellular signaling that makes this vast network speedy and efficient."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/endocrine-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/endocrine-system</a>
+# Description of topic (x45af1f03) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3A: Glands are special organs that secrete chemical messages called hormones, which seep into the blood - it’s like putting a tea bag in hot water. As the heart pumps, this blood carries these chemical messages throughout the body, allowing the hormones to interact with specific target cells and organs. Endocrine glands help us to maintain our appetites, grow up, metabolize molecules, concentrate urine,- and oh, so much more! We will examine how these variegated hormones play a role in homeostasis as the body responds to a changing environment."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/hematologic-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/hematologic-system</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x874c4adb) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "hematologic system"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/hematologic-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/hematologic-system</a>
+# Description of topic (x874c4adb) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3B: Roughly 5 L of blood fill your arteries, veins, capillaries, and venules. What’s it good for you ask? It carries oxygen to help your cells carry out respiration in addition to a number of other substances like lipids and hormones throughout the body. In cases of blood loss, such as trauma situations, the physician must be wary of the different blood types. We will explore the intricacies of the hematologic system here. \n"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/rn-integumentary-system-physiology">http://translate.khanacademy.org/test-prep/nclex-rn/rn-integumentary-system-physiology</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x793ec0cd) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/integumentary-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/integumentary-system</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/rn-integumentary-system-physiology/rn-integumentary-system">http://translate.khanacademy.org/test-prep/nclex-rn/rn-integumentary-system-physiology/rn-integumentary-system</a>
+# Title of topic (x3fd53289) on the pt stage
+# Title of topic (xbfecb499) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Integumentary system"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/integumentary-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/integumentary-system</a>
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/rn-integumentary-system-physiology">http://translate.khanacademy.org/test-prep/nclex-rn/rn-integumentary-system-physiology</a>
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/rn-integumentary-system-physiology/rn-integumentary-system">http://translate.khanacademy.org/test-prep/nclex-rn/rn-integumentary-system-physiology/rn-integumentary-system</a>
+# Description of topic (x3fd53289) on the pt stage
+# Description of topic (x793ec0cd) on the pt stage
+# Description of topic (xbfecb499) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3B: There is really more than meets the eye with skin. Yes, it does make us look nicer than a bag of bones, muscles, and organs. But it also serves other important purposes which range from guarding the body against infection to sensation to allowing for metabolism of vitamin D. We will explore the structure and function of skin from the macroscopic to the microscopic level in this tutorial."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/lymphatic-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/lymphatic-system</a>
+# Description of topic (xe2dc4d2f) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3B: Your heart pumps roughly 20 L of blood throughout the day to your tissues. The plasma component of blood (not containing blood cells) leaks out through capillaries (the tiniest of blood vessels) and is mostly reabsorbed. However, about 3L of the plasma is left behind in fluid surrounding tissues, and it is the job of the hard-working lymphatic system to bring back this fluid to the circulatory system. The lymphatic system moves fluid in one direction, but without the force of a pump like the heart. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/mcat-reproductive-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/mcat-reproductive-system</a>
+# Description of topic (x98456b18) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Starting with sexual reproduction and then the development of a baby, we’re going to take a journey that starts with our own microscopic beginning, and ends with a fully formed baby entering the world."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/muscular-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/muscular-system</a>
+# Description of topic (xf089c70c) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3B: Muscles never sleep (literally). If you have ever taken a breath, you have benefited from the work of the diaphragm, which contracts to create an area  of low pressure within your thoracic cavity, allowing air in. How exactly are some weightlifters able to support 717 lbs without breaking anything more than a little sweat? Fun fact: the largest muscle in your body is the gluteus maximus (that’s your butt) while the smallest skeletal muscle is the stapedius (it stabilizes  the smallest bone, the stapes, which is in your middle ear). By Raja Narayan."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/neural-cells">http://translate.khanacademy.org/test-prep/mcat/organ-systems/neural-cells</a>
+# Description of topic (x31422879) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3A: Neurons transmit information to one another through electrochemical signals. They make up the motor nerves that allow you to type an essay, the sensory nerves that let you feel a fluffy dog, and  your brain, allowing to remember the content of this module. They have a number of helper cells, ranging from astrocytes, to microglia, to ependymal cells as well. You will come to appreciate the structure and function of neurons and the comrade cells which help to maintain the optimal function of the nervous system. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/neural-synapses">http://translate.khanacademy.org/test-prep/mcat/organ-systems/neural-synapses</a>
+# Description of topic (xd4dd3ca0) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3A: Synapses are the means by which neurons, just like other cells of the body, communicate with each other as well as other cells, like muscles and glands. They are the equivalent of neural telephone lines allowing for the transmission of a neurotransmitter, that is, the message. Thus, you are able to tell a dog from a cat. and a ball from a rock.  Without all this cross-talk, you might look at an object without truly seeing or hear a sound without actually listening. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/neuron-membrane-potentials">http://translate.khanacademy.org/test-prep/mcat/organ-systems/neuron-membrane-potentials</a>
+# Description of topic (x7c95d8f9) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3A: As you visually process this webpage, countless action potentials are taking place across the neurons in the occipital lobe of your brain. An action potential is an extremely quick change in the membrane potential of the neuron that can propagate toward other neurons. It’s like one neuron is telling another neuron “Hey, wake up! We have work to do!” You will soon gain an appreciation for the mechanism of the action potential, which allows for communication between neurons of all flavors in your body- from those responsible for the maintenance of  memory to those functioning in sensation."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/renal-regulation-of-blood-pressure">http://translate.khanacademy.org/test-prep/mcat/organ-systems/renal-regulation-of-blood-pressure</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/rn-renal-system/rn-renal-regulation-of-blood">http://translate.khanacademy.org/test-prep/nclex-rn/rn-renal-system/rn-renal-regulation-of-blood</a>
+# Title of topic (x3adf8b8b) on the pt stage
+# Title of topic (x6310d284) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Renal regulation of blood pressure"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/renal-regulation-of-blood-pressure">http://translate.khanacademy.org/test-prep/mcat/organ-systems/renal-regulation-of-blood-pressure</a>
+# Description of topic (x3adf8b8b) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3B:  In addition to fluid and electrolyte balance, the kidneys play an essential role in regulating blood pressure. When the nephron, the functional unit of the kidney, senses that it is not receiving much blood flow, it knows something is up. So begins a cascade which allows the nephron to reabsorb more fluid from the urine, in attempt to fill up the perceived dip in blood volume. Here you will learn the mechanism of ADH and the renin-angiotensin-aldosterone system in sustaining this homeostasis. "
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-circulatory-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-circulatory-system</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xdc49b351) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "circulatory system"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-circulatory-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-circulatory-system</a>
+# Description of topic (xdc49b351) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3B: With every beat, the heart pumps blood throughout the body through an intricate system of blood vessels to provide oxygenation to tissues - from about 4 weeks after conception until the day you die. Over your lifetime, it will pump about 175 million liters of blood (that’s only the amount of water that falls over the Niagara in a few minutes). This little pump in the middle of your chest is only the size of a clenched fist (if you’re an adult), and yet it does so much."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-gastrointestinal-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-gastrointestinal-system</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/rn-gastrointestinal-system/rn-the-gastrointestinal-system">http://translate.khanacademy.org/test-prep/nclex-rn/rn-gastrointestinal-system/rn-the-gastrointestinal-system</a>
+# Title of topic (x53969ce0) on the pt stage
+# Title of topic (x91e58a11) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Gastrointestinal system"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-gastrointestinal-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-gastrointestinal-system</a>
+# Description of topic (x91e58a11) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3B: You begin with mechanical digestion in your mouth, where starches are also broken down. The bolus of food travels down your esophagus into the stomach, where it sits and churns, further allowing for breakdown of biomolecules like fat and protein.The contents of the stomach then enter the small intestine, which is where the bulk of digestion and absorption of nutrients occurs through the work of shear mechanical (peristalsis) and chemical (digestive enzymes) force. Then our food commutes through the large intestine (AKA the colon), where most of the fluid absorption in the GI tract occurs. Phew! Eating sure is a lot of work! By Raja Narayan."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-immune-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-immune-system</a>
+# Description of topic (xaf8f6e5c) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3B:  Chances are , you’ve had a fever or a cough at least once in your life (unless you live in a bubble, in which case you should probably go out more!) Have you ever wondered why your body reacts this way? Your body has a deadly arsenal of weapons against microbial invaders, ranging from bacteria and viruses to protozoans and fungi. We have specialized cells that destroy foreign bodies through mechanisms such as consumption, expulsion, and degradation. You will become acquainted with the interplay of the numerous soldiers in your body’s army and how they keep you healthy!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-renal-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-renal-system</a>
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/nclex-rn/rn-renal-system/rn-the-renal-system">http://translate.khanacademy.org/test-prep/nclex-rn/rn-renal-system/rn-the-renal-system</a>
+# Description of topic (x6fa55de4) on the pt stage
+# Description of topic (xeb651f76) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3B: If you want to learn more about the renal system, then urine the right place! (Pun aside, the kidneys are about more than just making urine). Every thirty minutes, your kidneys filter the entire blood supply in your body. Imagine a dirty pool filled with algae. Placing a filter in this pool will cause the algae to be flushed out, and after a time you’ll have a clean, crisp blue pool to enjoy. Just like the filter for a pool, our kidneys filter the blood and remove toxic wastes. These paired organs are key to maintaining electrolyte and water homeostasis in your body."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-respiratory-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-respiratory-system</a>
+# Description of topic (x387a1e80) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3B: If you place your hand on your ribs and take a deep breath, you’ll notice that your chest expands and your back straightens. As this occurs, air is rushing through your windpipe and branches off to either your left or right lung. After about 20-30 more branch points, oxygen in the air ends up in the alveoli where it diffuses into the surrounding liquid, slipping into the blood. This rapid microscopic gas exchange allows oxygen to be taken up during inhalation as carbon dioxide leaves during exhalation."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-skeletal-system">http://translate.khanacademy.org/test-prep/mcat/organ-systems/the-skeletal-system</a>
+# Description of topic (x9bca6ee7) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3B: Were it not for your skeleton, you and I would be a mere sack of flesh. You will come to appreciate that the bones, together with muscles, are a scaffolding for your body. We will also explore their endocrine function, especially with regards to calcium and phosphate homeostasis. Fun fact: the bone most broken is the clavicle (AKA collar bone)."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/acceleration-mcat">http://translate.khanacademy.org/test-prep/mcat/physical-processes/acceleration-mcat</a>
+# Description of topic (x0916c6ff) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4A: Let’s imagine blood flowing through the aorta, one of the great vessels in our body. At peak velocity, blood may flow at 92 cm/sec (during contraction) or perhaps 60 cm/sec during relaxation. Going from 60 cm/sec to 92 cm/sec in 1 second is a lot different from going from 60 cm/sec to 92 cm/sec in 10 seconds. That difference is acceleration, that is, how quickly the car changes its velocity over time. (When you hear automobile enthusiasts compare the “0 to 60” capabilities of the latest sportscar, they are referring to the acceleration)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus">http://translate.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus</a>
+# Title of topic (xd852b1aa) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Atomic nucleus"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus">http://translate.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus</a>
+# Description of topic (xd852b1aa) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4E: An introduction to the nucleus including isotopes, mass defects, and radioactive decay."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/capacitors">http://translate.khanacademy.org/test-prep/mcat/physical-processes/capacitors</a>
+# Description of topic (xdf0451b2) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4C: Capacitors are simply components which store electrostatic energy in a field. They are similar to batteries - however, capacitors only store new electricity rather than producing it through a chemical reaction like a battery does. You will walk through a mathematical description of how capacitors function and how they work within electrical circuits."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/copy-of-balancing-chemical-equations">http://translate.khanacademy.org/test-prep/mcat/physical-processes/copy-of-balancing-chemical-equations</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x70f8189d) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Balancing chemical equations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/current-and-resistance">http://translate.khanacademy.org/test-prep/mcat/physical-processes/current-and-resistance</a>
+# Title of topic (x1864db5a) on the pt stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/current-and-resistance/a/do-electrons-move-rapidly-through-direct-current-circuits">http://translate.khanacademy.org/test-prep/mcat/physical-processes/current-and-resistance/a/do-electrons-move-rapidly-through-direct-current-circuits</a>
+# Title of tutorial article (x4c38c73a) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Current and resistance"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/current-and-resistance">http://translate.khanacademy.org/test-prep/mcat/physical-processes/current-and-resistance</a>
+# Description of topic (x1864db5a) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Always follow the path of least resistance. In these videos you will learn how to interpret circuit diagrams and the rules that govern the flow of electrons -  or current -  through wires and resistors."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure">http://translate.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure</a>
+# Title of topic (x90eecc63) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Electronic structure"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure">http://translate.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure</a>
+# Description of topic (x90eecc63) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "1s, 2s, red s, blue s. Electrons spin around a the nucleus of an atom in various spherical and teardrop shaped orbitals. The following section will show how the periodic table is built around these orbitals, and how the electronic structure of atoms dictates how they interact with light and other atoms. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/electrostatics-1">http://translate.khanacademy.org/test-prep/mcat/physical-processes/electrostatics-1</a>
+# Description of topic (x957b7de1) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4C: Ouch! have you ever heard of people being struck by lightning? Have you ever seen a defibrillator used to shock a patient back from the jaws of death? These amazing phenomena are possible due to the action of electric charges. Like masses, electric charges can have an associated force and a potential energy within a field. In these tutorials, you will discover how electric charges interact with one another and will arrive at an understanding of the concepts of electric force, fields, and potential."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/fluids-at-rest">http://translate.khanacademy.org/test-prep/mcat/physical-processes/fluids-at-rest</a>
+# Description of topic (xaeacb8a5) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4B: Fluids can be fun even when they’re not moving. A still pond has more going on with it than meets the eye - why exactly do you even float when you decide to jump in on a scalding summer day? It’s because you displace a volume of water that provides a buoyant force upward, counteracting the downward pull of gravity. You will find out why the great Archimedes ran through the streets of Syracuse shouting \"eureka\" millennia ago in Ancient Greece as we also delve into the concepts of pressure, specific gravity, buoyancy, and Bernoulli's principle. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion">http://translate.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion</a>
+# Title of topic (xfe8764aa) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Fluids in motion"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion">http://translate.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion</a>
+# Description of topic (xfe8764aa) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4B: In these videos you'll learn more about fluids. Bernoulli's equation will describe the behavior of fluids in motion. The Venturi effect, turbulence, surface tension and viscosity will be discussed as well as the difference between arteries and veins."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/force-of-tension">http://translate.khanacademy.org/test-prep/mcat/physical-processes/force-of-tension</a>
+# Description of topic (x317a2931) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4A: Let’s picture an adventurous rock-climber hanging at the edge of a cliff. Gravity is providing a downward force. The only reason he does not fall down to the valley below is due to the force of tension upward, provided by the muscles of his arm. You will work through some interesting real-world problems involving tensile forces in these tutorials. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/forces-on-inclined-planes">http://translate.khanacademy.org/test-prep/mcat/physical-processes/forces-on-inclined-planes</a>
+# Description of topic (x82c54a33) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4A: If you've ever moved from one town to another, you are likely familiar with inclined planes.  When you push up that 50 pound box into the long flatbed truck , there are several forces at play: the weight of the box, the frictional force between the box and the ramp, and the force of your push. We will explain how these forces interact so next time the move won't be so back-breaking. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/gas-phase">http://translate.khanacademy.org/test-prep/mcat/physical-processes/gas-phase</a>
+# Description of topic (xb234fb52) on the es stage
+# Description of topic (xb234fb52) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4B: Imagine taking a balloon and heating it up by putting it in a sauna. What would happen? Gases, though you may not be able to see them, are perpetually in motion. You will encounter them if you ever frequent an operating room, as the anesthesiologist holds in his arsenal several gases with doze-inducing properties. We will walk through the history and application of the ideal gas law to real-world problems as you also come to appreciate the meaning of partial pressures and STP in these tutorials."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy">http://translate.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy</a>
+# Title of topic (xfc936e99) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Infrared and Ultraviolet/Visible spectroscopy"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy">http://translate.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy</a>
+# Description of topic (xfc936e99) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "They aren't the same as what you see in CSI:Miami, but molecules do have fingerprints. No two molecules have the same absorption spectra. We can use this fact to determine the composition of a material, its concentration, and measure it’s kinetics. Learn how to use this fantastic tool now!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat">http://translate.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat</a>
+# Description of topic (xe2195c5e) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Recall from chemistry that electrons are transferred between atoms during redox reactions. When redox reactions occur on a conductive surface, the moving electrons can be collected as a current, with the voltage being dependent on the species used in reaction. Find out how batteries are made and the chemistry that makes them function by watching these videos."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions">http://translate.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions</a>
+# Description of topic (x5e63d150) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4D:  Believe it or not, light has both wave-like and particle-like properties, as evidenced by the concepts of polarization, interference, and the photon model. In this modern age of medicine, we have seen a rise in the clinical use of the laser (which actually stands for “light amplification by stimulated emission of radiation”). As we discuss theories outlined by geniuses like Max Planck several decades ago, you’ll discover how light rays interfere in double slit, single slit, and diffraction gratings. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/magnetism-mcat">http://translate.khanacademy.org/test-prep/mcat/physical-processes/magnetism-mcat</a>
+# Title of topic (xc9783a95) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Magnetism"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/magnetism-mcat">http://translate.khanacademy.org/test-prep/mcat/physical-processes/magnetism-mcat</a>
+# Description of topic (xc9783a95) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Magnets - how do they work?  Guaranteed way to win a nobel prize: find a magnetic monopole. If you don’t know what that is, these videos would be a good place to start. Notable achievements of magnets - they put current in our homes, the protect us from dangerous cosmic rays, and they make particles at CERN go really really fast so we can learn more about science!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/newtons-laws-and-equilibrium">http://translate.khanacademy.org/test-prep/mcat/physical-processes/newtons-laws-and-equilibrium</a>
+# Description of topic (x664ba0fe) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4A:  Apples would not fall without a force to propel them downward. These three laws described by the famous Englishman centuries ago still inform our understanding of the physical world today. When you push a patient’s bed down the halls of the hospital, you are providing a force in a direction. If we know the magnitude of the force we provide as well as the mass of the patient and the hospital bed,  we can calculate the acceleration of the patient and his bed using Newton’s Second law (F=ma)."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/normal-forces">http://translate.khanacademy.org/test-prep/mcat/physical-processes/normal-forces</a>
+# Description of topic (x74a26772) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4A: How do forces work inside an elevator or when you slide a box across the floor? Normal forces are forces which act perpendicularly to surfaces. When you see a patient in a hospital bed, the reason he does not fall through the bed is because the ground provides the patient with a normal force that directly opposes the force of the Earth’s gravity on your the body (this is why you aren’t sinking to the Earth’s core right now). We will walk through real-world physical examples like these to shed light on normal forces. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/periodic-table-of-elements">http://translate.khanacademy.org/test-prep/mcat/physical-processes/periodic-table-of-elements</a>
+# Description of topic (x01eb1ed2) on the es stage
+# Description of topic (x01eb1ed2) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4E: A little more than a century ago, the chemist Dmitri Mendeleev published an early form of the periodic table, which organizes the known elements of our world by ionization energy and electron affinity. His method of classifying the elements was so useful that we still use it even today. We will learn to apply this elegant table to an understanding of atoms and molecules in this tutorial.  Hydrogen, helium, lithium, beryllium, boron, carbon…"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance">http://translate.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance</a>
+# Title of topic (xba230f94) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Proton nuclear magnetic resonance"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance">http://translate.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance</a>
+# Description of topic (xba230f94) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let’s shift gears and take a peak at 1H-NMR. When you bring a magnet close to iron filings, the filings align with the applied field. The hydrogen atoms of molecules behave similarly under a strong magnetic field, but bounce back and radiate when the field is removed. in this section you will learn how to interpret the spectra created by proton NMR."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/redox-reactions">http://translate.khanacademy.org/test-prep/mcat/physical-processes/redox-reactions</a>
+# Description of topic (x96517682) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4E: You’re the resident on call in the wards of the hospital and have been receiving calls all day long. When you finally plug in your phone for charging, a redox  reaction takes place to refuel its battery. At one terminal of the battery, a reaction is producing free electrons, while the other end absorbs these electrons. We will delve into the mechanics of this elegant process - part of the reason we are able to live in an increasingly wireless world - in this tutorial. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/reflection-and-refraction">http://translate.khanacademy.org/test-prep/mcat/physical-processes/reflection-and-refraction</a>
+# Description of topic (x8bf258db) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4D: Reflection and refraction of light rays allow us to take in the visual world around us. Perhaps you have seen surgeons outfitted with magnifying glasses in order for them to grasp the tiniest vessels of the body. And if you’ve ever looked in a mirror to comb your hair in the morning, you’ve benefited from the power of a reflective mirror. You may have also noticed that things look different when seen underwater.  We will explore how light rays bend as they penetrate surfaces like water or reflect as they meet surfaces like that of a mirror.\n"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/sound">http://translate.khanacademy.org/test-prep/mcat/physical-processes/sound</a>
+# Description of topic (xcea78dac) on the es stage
+# Description of topic (xcea78dac) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4D:Some sounds are loud (high amplitude) like someone yelling, while others are soft (low amplitude) like a whisper. Some sounds are low pitched (low frequency) like a fog-horn, while others are high-pitched (high frequency) like a pager. You may have even noticed that the pitch of an ambulance rises as it rushes towards you and drops as it moves away. This is the Doppler effect in action. Here you will learn about the basics of sound properties such as wavelength, frequency, and amplitude. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/speed-and-velocity">http://translate.khanacademy.org/test-prep/mcat/physical-processes/speed-and-velocity</a>
+# Description of topic (x97c12dca) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4A: With every beat, your heart pumps blood throughout the vessels of your body. Let’s look at the radial artery, one of the vessels in your arm. How fast is the blood going at a particular point in time, and in what direction? The speed is an absolute number without direction - 1.8 kilometers per hour in this case. Velocity expands on the speed, which is an absolute value, by adding direction - for instance, 1.8 kilometers per hour downward. It’s that easy! you already grasping the concept of speed and velocity, terms used to describe the rate of change in our distance over time. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/spherical-mirrors">http://translate.khanacademy.org/test-prep/mcat/physical-processes/spherical-mirrors</a>
+# Description of topic (x81f31254) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4D: Have you ever been to a house of mirrors at a carnival, or maybe seen one in the movies? Curved mirrors are fun, and so is a description of their physics. It’s actually possible to roughly predict what an image produced by a mirror will look like using just pen and paper. You will discover the difference between real and virtual images as we draw ray tracing diagrams to show how images are formed by spherical mirrors. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/stoichiometry">http://translate.khanacademy.org/test-prep/mcat/physical-processes/stoichiometry</a>
+# Description of topic (x5027b2fc) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4E: A cake recipe calls for 2 eggs and 4 cups of flour, but you have 3 eggs, and 3 cups of flour. In this example, flour is our limiting reagent, that is, its small amount preventing you from completing the reaction of making the cake since we do not have enough (while we have more than enough eggs to make the cake). We’ll extend this simple example to chemical reactions with atoms and molecules. You'll learn to balance chemical reactions, a concept that will be applied to several other problems in chemistry."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/thin-lenses">http://translate.khanacademy.org/test-prep/mcat/physical-processes/thin-lenses</a>
+# Description of topic (x08e93c97) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4D: Without lenses, we would not be able to examine the layers of the skin or to observe the habits of the pink flamingo from a distance.  If you have ever used a microscope, binoculars, or a magnifying glass, you have benefited from the workings of a thin lens, which refracts rays of light as it passes through the medium. In these tutorials, you’ll learn how to use ray tracings and the thin lens formula to predict the sizes and orientation of images created by thin lenses. We will apply these concepts to a discussion of the human eye."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/vectors-and-scalars">http://translate.khanacademy.org/test-prep/mcat/physical-processes/vectors-and-scalars</a>
+# Description of topic (x9e20005d) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4A:  It’s gym day. Today you are going to run, swim, and lift weights. In physics terms, we can describe these actions in terms of vectors and scalars. For instance, if you throw a discus across a field with a 20-pound force westward, that is an example of a vector: an entity with both magnitude and direction. However, when you show off about how many laps you can swim in an hour, you are referring to speed, a scalar, which does not specify direction. An understanding of vectors and scalar will provide a foundation to many of the other basic concepts in physics."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat">http://translate.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat</a>
+# Description of topic (x408cab36) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "4A: Work doesn’t always have to break your back. In physics, it has a different meaning. When a force is applied to an object and results in displacement, work has been done. When an apple falls from a tree, gravity has done work on the object as it descends earthward. And as work is done by gravity on the object, its gravitational potential energy is converted into kinetic energy (which is also why it hurts as it lands on your head, hopefully resulting in a brilliant Newtonian idea). Let’s get moving!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice/physical-sciences-practice-tut">http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice/physical-sciences-practice-tut</a>
+# Title of topic (xf3630cde) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Chemical and physical sciences practice passage questions"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice/physical-sciences-practice-tut">http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice/physical-sciences-practice-tut</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf3630cde) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Physical sciences practice questions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice">http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice</a>
+# Title of topic (xe32cf3b7) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Chemical and Physical Foundations of Biological Systems Passages"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/attention-language">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/attention-language</a>
+# Title of topic (xd1b1603d) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Attention"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/attention-language">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/attention-language</a>
+# Description of topic (xd1b1603d) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "6B:  Have you ever tried to multi-task while frantically aiming to finish a large project? The phone goes off, you get a text message, all while you try to finish an essay or read a book. In an increasingly busy world, our attention is frequently distracted by so many inputs. Here you will explore the concept of selective and divided attention, as well as the role of language in cognition and development in our lives. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/cognition">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/cognition</a>
+# Description of topic (x85ef4750) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "6B: What is the difference between the thought processes of a five-year-old and a freshly-minted graduate with a Ph.D. in astrophysics? That would be cognition, the entirety of mental abilities relating to knowledge and memory. You will come to an understanding of cognitive development and intelligence, as well as how our minds solve problems, make decisions, and represent knowledge."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/drug-dependence">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/drug-dependence</a>
+# Title of topic (x5b98306b) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Drug dependence"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/drug-dependence">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/drug-dependence</a>
+# Description of topic (x5b98306b) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "6B: A drug is any chemical substance with a biological effect on an organism. Unfortunately, some people have addictions to drugs - 18.1% of all US adults smoke cigarettes, which have disastrous consequences on our health. You will come to appreciate the effects of drugs on our human physiology as we explore the mechanisms of psychoactive drugs such as depressants, opiates, stimulants, and hallucinogens."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/emotion">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/emotion</a>
+# Description of topic (xdde94d6d) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "6C: You may tear up when you hear a friend’s story of heartbreak or burst out in laughter during the airing of your favorite sitcom. Were it not for the neural processing of emotion within your brain as you take in these sensory inputs, you would not feel sadness on hearing of the tragedy or glee while viewing the comedy. Here you will learn about the physiological, behavioral, and cognitive components of emotion as well as how the different areas of our areas of our brain play a role in emotion. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/language">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/language</a>
+# Description of topic (x7e5ebf91) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "6C: Were it not for the intricate structure of the English language, these letters on the webpage would be absolutely meaningless. As we grow up, we effortlessly pick up the syntax of our mother tongue, babbling as toddlers and maturing to write essays as teenagers. You will explore theories on the development of language and cognition and how our system of language may be disrupted by pathological neurological events like strokes. \n"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/memory">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/memory</a>
+# Description of topic (x85fa5325) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "6B: Ever since you were in grade school, memory has been one of your best friends. I’m not talking about the RAM on your computer. Memory has helped you pass exams, remember the names of your friends, and made sure you know where you put your car keys. Hopefully you will remember how . We will examine the role of synapses in the physiology of neural networks such as these.  You will also come to understand the structure of human memory; processes involved in normal encoding, retrieval, forgetting, and aging; and diseases affecting memory."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/sensory-perception">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/sensory-perception</a>
+# Description of topic (xa6576ec7) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "6A: Each day, we encounter various sights, sounds, smells, and tastes. Without an integrative centers, these many inputs would mean nothing to us. We will learn about how we perceive our various senses, including the theories, laws, and organizational principles that underly our ability to make sense of the world around us."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/sight">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/sight</a>
+# Description of topic (x5ba0c972) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "6A: Red, orange, yellow, green, blue. These words would have no meaning to you were it not for your properly functioning visual sensation. You are able to read this webpage because there are multitudinous synapses between the neurons in your eye, which detect light, and the neurons in the occipital lobe of your brain, which process this same image. We will break down how our eyes and brain are able to process the splendid world around us as photons bombard us from all around.\n"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/sleep-and-consciousness">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/sleep-and-consciousness</a>
+# Description of topic (x041789f8) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "6B: One third of our lives is consumed by the mysterious process called “sleep.” There is a lot we don’t know about sleep, but we will discuss what we do understand in this module. You will find why napping for a twenty minutes in the afternoon may not be such a bad idea as you explore states of consciousness, circadian rhythms, sleep stages, and sleep disorders. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/somatosensation">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/somatosensation</a>
+# Description of topic (xdfac923f) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "6A: When you hold a glass of water, your brain perceives senses many bits of information about the glass - its temperature, its size, and its location in space. We perceive the environment through our bodily senses, including our sensation of pain, temperature, pressure, balance, and movement. In this module you will discover how our body gathers this information and processes it so that we can make sense of the colorfu lworld around us."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/sound-audition">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/sound-audition</a>
+# Description of topic (xc71665a5) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "6A:  Listen carefully - that’s the sound of fingers on a keyboard. Why does it sound different from the sound of nails on a chalkboard? And why might your grandfather have difficulty hearing that faint noise whereas you have difficulty zoning it out? In this module, you will learn about how we hear, including the structure of the outer, middle, and inner ear, as well as the basics of auditory processing and cochlear implants.\n"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/stress">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/stress</a>
+# Title of topic (xf1d7f711) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Stress"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/stress">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/stress</a>
+# Description of topic (xf1d7f711) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "6C: Perhaps when you think about stress, you may think of that nerve-wracking sensation you may feel in your stomach before the final exam for organic chemistry you studied all month for or your shivering response to a chilly winter night. But stress can also be the microtraumas inflicted on yourself during exercise. Stress can be a good thing that forces our antifragile bodies to adapt to a changing external environment. Stress is the natural process by which we evaluate and respond to the challenges and threats of our environment. Jump into this playlist to learn about stressors, stress reactions, the effects of stress, and strategies to manage this wild process. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/taste-gustation-and-smell-olfaction">http://translate.khanacademy.org/test-prep/mcat/processing-the-environment/taste-gustation-and-smell-olfaction</a>
+# Description of topic (x83330a88) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "6A: Have you ever had difficulty tasting your favorite food when you had a stuffy nose? That’s because the senses of olfaction (smell) and gustation (taste) are intertwined. We will learn about the anatomy and physiology of these sensory systems as we explore their underlying molecular basis."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/social-inequality">http://translate.khanacademy.org/test-prep/mcat/social-inequality</a>
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/social-inequality/social-class">http://translate.khanacademy.org/test-prep/mcat/social-inequality/social-class</a>
+# Title of topic (x50fe6e3a) on the pt stage
+# Title of topic (xcf805794) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Social inequality"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/social-inequality/social-class">http://translate.khanacademy.org/test-prep/mcat/social-inequality/social-class</a>
+# Description of topic (x50fe6e3a) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "10A:  The key here is to focus on a broad understanding of social class, including theories on how it's organized, how people move between classes, and what leads to poverty."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/social-inequality">http://translate.khanacademy.org/test-prep/mcat/social-inequality</a>
+# Description of topic (xcf805794) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Foundational concept 10: Social stratification and access to resources influence well-being."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/social-sciences-practice/social-science-practice-tut">http://translate.khanacademy.org/test-prep/mcat/social-sciences-practice/social-science-practice-tut</a>
+# Title of topic (x76558c11) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Social sciences practice passage questions"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/social-sciences-practice/social-science-practice-tut">http://translate.khanacademy.org/test-prep/mcat/social-sciences-practice/social-science-practice-tut</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x76558c11) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Social sciences practice questions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/social-sciences-practice">http://translate.khanacademy.org/test-prep/mcat/social-sciences-practice</a>
+# Title of topic (xf75fcd0c) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Psychological, Social, and Biological Foundations of Behaviors Passages"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/society-and-culture/culture">http://translate.khanacademy.org/test-prep/mcat/society-and-culture/culture</a>
+# Title of topic (x60c7e12f) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Culture"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/society-and-culture/culture">http://translate.khanacademy.org/test-prep/mcat/society-and-culture/culture</a>
+# Description of topic (x60c7e12f) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Why is it that in America it is acceptable to eat a quarter pound hamburger and guzzle down a large soft drink yet it is weird to eat a grasshopper? The answer is because of our culture. Culture varies across the world and provides rules for a society of people to live by. Here we explore what culture is and how it shapes our human experience."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/society-and-culture/demographics">http://translate.khanacademy.org/test-prep/mcat/society-and-culture/demographics</a>
+# Title of topic (x0a1bfc96) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Demographics"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/test-prep/mcat/society-and-culture/demographics">http://translate.khanacademy.org/test-prep/mcat/society-and-culture/demographics</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x0a1bfc96) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "demographics"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/society-and-culture/demographics">http://translate.khanacademy.org/test-prep/mcat/society-and-culture/demographics</a>
+# Description of topic (x0a1bfc96) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "9B: There are many different ways of looking at a population. You can separate the population into different groups to view statistics. For instance, one may want to compare the efficacy of a drug in treating diabetics with congestive heart failure compared to diabetics without heart failure - these each form two separate populations of patients.  In this module, you will come to see how different populations interact and change over time. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/test-prep/mcat/society-and-culture/social-structures">http://translate.khanacademy.org/test-prep/mcat/society-and-culture/social-structures</a>
+# Description of topic (x42de2b74) on the es stage
+# Description of topic (x42de2b74) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "9A: Any group of people involved in interpersonal relationship is a society. How do we humans all live together in such highly populated cities? How does a society change? You will learn about some famous sociological theories which aim to address these important questions, from conflict theory and feminist theory to social constructionism."
+msgstr ""

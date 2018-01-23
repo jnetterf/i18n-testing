@@ -1,0 +1,4311 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2017-12-01 14:41+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100/cc-2nd-more-fewer-100/e/addition-and-subtraction-word-problems-within-100--level-3">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-100/cc-2nd-more-fewer-100/e/addition-and-subtraction-word-problems-within-100--level-3</a>.
+# Exercise at (x996e32c0) on the hy stage.
+# Exercise at (x996e32c0) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Gio found $16$ apples that had fallen from the apple trees in her yard.  There were still $21$ apples in the trees.  \n"
+"\n"
+"**How many apples were in the trees before the apples fell?**  \n"
+"\n"
+"[[☃ input-number 1]] apples\n"
+"\n"
+"\n"
+"\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"$\\qquad$$\\begin{align}\\\\\n"
+"\\purpleD{118}+\\blueD{560}=&(\\purpleD{100}+\\purpleD{18}) + \\blueD{560}\\\\\n"
+"=&\\,\\,\\purpleD{100}+ (\\purpleD{18}+\\blueD{560})\\\\\n"
+"=&\\,\\,\\purpleD{100}+\\greenD{578}\\\\\n"
+"\\end{align}$\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"$\\qquad$$\\begin{align}\\\\\n"
+"\\purpleD{247}+\\blueD{794}=&(\\purpleD{241}+\\purpleD{6}) + \\blueD{794}\\\\\n"
+"=&\\,\\,\\purpleD{241}+ (\\purpleD{6}+\\blueD{794})\\\\\n"
+"=&\\,\\,\\greenD{241}+{800}\\\\\n"
+"\\end{align}$\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"$\\qquad$$\\begin{align}\\\\\n"
+"\\purpleD{33}+\\blueD{26}=&(\\purpleD{30}+\\purpleD{3}) + \\blueD{26}\\\\\n"
+"=&\\,\\,\\purpleD{30}+ (\\purpleD3+\\blueD{26})\\\\\n"
+"=&\\,\\,\\greenD{30}+{29}\\\\\n"
+"\\end{align}$\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"$\\qquad$$\\begin{align}\\\\\n"
+"\\purpleD{45}+\\blueD{33}=&\\,\\,\\purpleD{45}+(\\blueD{3} + \\blueD{30})\\\\\n"
+"=&(\\purpleD{45}+ \\blueD3)+\\blueD{30}\\\\\n"
+"=&\\,\\,\\greenD{48}+\\blueD{30}\\\\\n"
+"\\end{align}$\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"$\\qquad$$\\begin{align}\\\\\n"
+"\\purpleD{507}+\\blueD{372}=&(\\purpleD{500}+\\purpleD{7}) + \\blueD{372}\\\\\n"
+"=&\\,\\,\\purpleD{500}+ (\\purpleD7+\\blueD{372})\\\\\n"
+"=&\\,\\,\\purpleD{500}+\\greenD{379}\\\\\n"
+"\\end{align}$\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"$\\qquad$$\\begin{align}\\\\\n"
+"\\purpleD{57}+\\blueD{16}=&\\,\\,\\purpleD{57}+(\\blueD{3} + \\blueD{13})\\\\\n"
+"=&(\\purpleD{57}+ \\blueD3)+\\blueD{13}\\\\\n"
+"=&\\,\\,{60}+\\greenD{13}\\\\\n"
+"\\end{align}$\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"$\\qquad$$\\begin{align}\\\\\n"
+"\\purpleD{641}+\\blueD{330}=&\\,\\,\\purpleD{641}+(\\blueD{30} + \\blueD{300})\\\\\n"
+"=&(\\purpleD{641}+ \\blueD{30})+\\blueD{300}\\\\\n"
+"=&\\,\\,\\greenD{671}+\\blueD{300}\\\\\n"
+"\\end{align}$\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"$\\qquad$$\\begin{align}\\\\\n"
+"\\purpleD{684}+\\blueD{270}=&(\\purpleD{654}+\\purpleD{30}) + \\blueD{270}\\\\\n"
+"=&\\,\\,\\purpleD{654}+ (\\purpleD{30}+\\blueD{270})\\\\\n"
+"=&\\,\\,\\purpleD{654}+\\greenD{300}\\\\\n"
+"\\end{align}$\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"$\\qquad$$\\begin{align}\\\\\n"
+"\\purpleD{88}+\\blueD{36}=&\\,\\,\\purpleD{88}+(\\blueD{2} + \\blueD{34})\\\\\n"
+"=&(\\purpleD{88}+ \\blueD2)+\\blueD{34}\\\\\n"
+"=&\\,\\,\\greenD{90}+\\blueD{34}\\\\\n"
+"\\end{align}$\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"**Fill in the blank.**\n"
+"\n"
+"$118+560~$ is the same as $~100 +$ [[☃ numeric-input 1]]   \n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"**Fill in the blank.**\n"
+"\n"
+"$22+63~$ is the same as $~20+$ [[☃ numeric-input 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"**Fill in the blank.**\n"
+"\n"
+"$247+794~$ is the same as  [[☃ numeric-input 1]]  $+\\,800$  \n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"**Fill in the blank.**\n"
+"\n"
+"$33+26~$ is the same as  [[☃ numeric-input 1]] $+\\,29$  \n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"**Fill in the blank.**\n"
+"\n"
+"$45 + 33~$ is the same as  [[☃ numeric-input 1]] $+\\,30$  \n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"**Fill in the blank.**\n"
+"\n"
+"$507+372~$ is the same as $~500 +$ [[☃ numeric-input 1]]   \n"
+"  "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"**Fill in the blank.**\n"
+"\n"
+"$57+16~$ is the same as $~60 +$ [[☃ numeric-input 1]]   \n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"**Fill in the blank.**\n"
+"\n"
+"$641+330~$ is the same as  [[☃ numeric-input 1]]  $+\\,300$  \n"
+" "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"**Fill in the blank.**\n"
+"\n"
+"$684+270~$ is the same as $~654+$ [[☃ numeric-input 1]]   \n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"**Fill in the blank.**\n"
+"\n"
+"$88+36~$ is the same as  [[☃ numeric-input 1]] $+\\,34$  "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"> $\\begin{align}\\\\\n"
+"\\purpleD{22}+\\blueD{63}=&(\\purpleD{20}+\\purpleD{2}) + \\blueD{63}\\\\\n"
+"=&\\,\\,\\purpleD{20}+ (\\purpleD2+\\blueD{63})\\\\\n"
+"=&\\,\\,\\purpleD{20}+\\greenD{65}\\\\\n"
+"\\end{align}$\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is $241$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is $300$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is $379$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is $578$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is $65$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is $671$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is $90$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can move ${18}$ from ${118}$ to ${560}$.\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can move ${2 \\text{ ones}}$ from ${22}$ to ${63}$.\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can move ${2 \\text{ ones}}$ from ${36}$ to ${88}$.\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can move ${3 \\text{ ones}}$ from ${16}$ to ${57}$.\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can move ${3 \\text{ ones}}$ from ${33}$ to ${26}$.\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can move ${3 \\text{ ones}}$ from ${33}$ to ${45}$.\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can move ${3 \\text{ tens}}$ from ${684}$ to ${270}$.\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can move ${3\\text{ tens}}$ from ${330}$ to ${641}$.\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can move ${6\\text{ ones}}$ from ${247}$ to ${794}$.\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-add-subtract-1000/cc-2nd-strategies-for-adding-two-and-three-digit-numbers/e/making-100-and-1000</a>.
+# Exercise at (xa543efd6) on the hy stage.
+# Exercise at (xa543efd6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can move ${7 \\text{ ones}}$ from ${507}$ to ${372}$.\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "No, this square is cut into $4$ pieces, not thirds."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The $2$ pieces of this circle are not equal in size, so they are not halves."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The $2$ pieces of this rectangle are not equal in size, so they are not halves."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The $3$ pieces of this circle are not equal in size, so they are not thirds."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The $3$ pieces of this rectangle are not equal in size, so they are not thirds."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The $3$ pieces of this square are not equal in size, so they are not thirds."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x2ba1c14c) on the pt stage.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# Exercise at (xae96417391824cfe) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The $4$ pieces of this circle are not equal in size, so they are not fourths."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The $4$ pieces of this rectangle are not equal in size, so they are not fourths."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The $4$ pieces of this square are not equal in size, so they are not fourths."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This circle is cut into $3$ pieces, not halves."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This circle is cut into $4$ pieces, not thirds."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# Exercise at (xae96417391824cfe) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This circle is cut into $6$ pieces, not fourths."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This circle is divided into $3$ pieces, not halves.  "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This rectangle is cut into $2$ pieces, not fourths."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This rectangle is cut into $3$ pieces, not fourths."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This rectangle is cut into $3$ pieces, not halves."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This rectangle is cut into $4$ pieces, not halves."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This rectangle is cut into $4$ pieces, not thirds."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This rectangle is cut into $6$ pieces, not fourths."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes! This circle is cut into $2$ pieces of equal size."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes! This circle is cut into $3$ pieces of equal size."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x2ba1c14c) on the pt stage.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# Exercise at (xae96417391824cfe) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes! This circle is cut into $4$ pieces of equal size."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes! This rectangle is cut into $2$ pieces of equal size."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes! This rectangle is cut into $3$ pieces of equal size."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes! This rectangle is cut into $4$ pieces of equal size."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes! This square is cut into $3$ pieces of equal size."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-geometry/cc-2nd-fractions-of-shapes/e/equal-parts-of-circles-and-rectangles</a>.
+# Exercise at (x65d28762) on the hy stage.
+# Exercise at (x65d28762) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes! This square is cut into $4$ pieces of equal size."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Marian read $\\pink{14}$ books.  \n"
+"\n"
+"$~$\n"
+"\n"
+"[[☃ image 1]]\n"
+"\n"
+"$~$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/01cd2969ca24a75ac4480fe03c9e43d9961860ac"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/04d702b24a5c697f78899edda96bd92d29ee17b0"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (x4b30c77a04c3c6c9) on the es stage.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/07a757e4e597fcf433a86d2299c16200e0db932e"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/0bdbd6470f9488927c29e3033ac74c815af1966f"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/12a83bedd3c70e1d13ec3eaa1cf0e07d7c981184"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/1bf674e0b37768e7d6b548d04f3f57abde2119b6"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/1d99f4efda69c05700eb39b3e358ec1f4a33b72d"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/1ff21d56a253720251a4278c4b3df7b247f687d0"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/2586642dda4f25d6a27a373109be0457a12d66bf"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/26d6c600833e1c4b3092e9dd2329bac9301abcbb"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/2846dea077ce16e4f2c6ec1b454e6ab5c839bd71"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (x4b30c77a04c3c6c9) on the es stage.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/2e3981d95b52ab401b25ba0ea1cc45431aba9717"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/31c60ef4e44fae508b587d69ac0684ba2462e2e6"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/31f610bb95e1a1039e46ba560cfc85ab83043bbe"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/562d8d4e978048543cc20d60e59ee51eb4d2df53"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/58094ccbf1ceb588f7cd39c8d94f3a8eab5e77df"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (x4b30c77a04c3c6c9) on the es stage.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/595c190666381405e8e963a9d205305a401af6c3"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/5c27d16ceddfdb3ebc0b399cf5607046487d7a37"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/702c117c3269ef41551c73f82d0ddb6f43da545b"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/725637b6b60dd1e5badd7115acbaa70e7da73dc4"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (x39e418e5d969c24a) on the es stage.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/766abbcd907e99e3378350478c5190f6ec3bab13"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/7944f54ce92ff940978453308cd3b4c3d836988d"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/79774bf196268a73ab9a02350d11c24676018289"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/7a95db2518bfa4af471b02d969d62456df26fa98"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/7b68f4fcf008e38b596a1910f0c01d017756a3ca"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/84125c4cb8628f89154ad9002211ac717fd77bf5"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/87fe3087e7ddc07ce89341646c4b239d0ea9a715"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/90cdebbb69820463c0b6d202183f80f070a4c112"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/951427d2073ef502f5a83e0f4551acda138a9b53"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/9f4f13dc5971926730ac670e6e24e408a9b6c6e8"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/a6a32767f84f15f2c16daf0d340fdb4061cf3d35"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/b118bac65d8f217cfaff12e74d987108387d7b4f"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/bf021b79062ea804f9dfcdbf7ca77e52df2aad26"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/c20d59a924e8f4748964ac9e2ad3bac17289b86d"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/cbd38f2b069885c045c255b824d7584e38852b94"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/d1162fe204427c392621b76fb2c0dc4bef36bcd4"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/d1e2a9e2129c2cb8ecbaa11f255364a00ecf11bd"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/d2007ca425417662fff2e998c4cc1d6e2b4fd423"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/d862664f3bfbcff1c05b2382c6bc41338ba42516"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/dace946002d5ac7708286029d91eebc5d4fbc83c"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/e2f0c73cbfeac6fafcf9505da0bc6948ceecc5b0"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (x39e418e5d969c24a) on the es stage.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/e389bddec29ec87d9c3813881319a2b9cd881623"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (x39e418e5d969c24a) on the es stage.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/e42bbabcb8a1497c70afc87628b51bfb4a3a32e5"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/e4d8373913abf017696d5f450bbfca07dda49970"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/e4efd1cab2c6c8556e346aacbb08b6f06d3128a6"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/ea1ee205d1ab5925f24038308cbca3bd834cd8e2"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/ecffb5bf292b05ba29ff85191e1a4a351fc5b4a8"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-bar-graphs/e/solving-problems-with-bar-graphs-2</a>.
+# Exercise at (xe9ac047a) on the hy stage.
+# Exercise at (xe9ac047a) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "web+graphie://ka-perseus-graphie.s3.amazonaws.com/f52eca5724cab47ad51bf9a0614dd21947bee605"
+msgstr ""
+
+# Exercise is at (x39e418e5d969c24a) on the es stage.
+# Exercise is at (x4b30c77a04c3c6c9) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>
+# Pretty display name for exercise (x6e2a3a85) on the de stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solve problems with line plots"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of different caterpillars are shown below.  \n"
+"\n"
+"**How many caterpillars' lengths are graphed?**  \n"
+"\n"
+"[[☃ input-number 1]] caterpillars  \n"
+"\n"
+"\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/a071b141e6426bd8addea462583d546b9c08464b.png)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Sarah measured the heights of different flowers in her garden. She plotted the number of flowers of each height.   \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/34785b3e553a8c6e3c9350ad577002eff5fe9dc7)\n"
+"\n"
+"\n"
+"**How many flowers are $23$ centimeters?**\n"
+"  \n"
+"[[☃ input-number 1]] flowers\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Sarah measured the heights of different flowers in her garden. She plotted the number of flowers of each height.   \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/34785b3e553a8c6e3c9350ad577002eff5fe9dc7)\n"
+"\n"
+"**How many flowers are taller than $21$ centimeters?**\n"
+"  \n"
+"[[☃ input-number 1]] flowers\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The heights of Sabrina's dolls are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/34785b3e553a8c6e3c9350ad577002eff5fe9dc7)\n"
+"\n"
+"\n"
+"**How many dolls are $24$ centimeters?**  \n"
+"\n"
+"[[☃ input-number 1]] dolls\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The heights of Sabrina's dolls are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/34785b3e553a8c6e3c9350ad577002eff5fe9dc7)\n"
+"\n"
+"**How many dolls are taller than $22$ centimeters?**  \n"
+"\n"
+"[[☃ input-number 1]] dolls\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of alien arms are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/9287ae0f8bc6302ffeeef09cf48aa0fd26678488)\n"
+"\n"
+"**How many alien arms are $98$ centimeters long?**\n"
+"  \n"
+"[[☃ input-number 1]] alien arms\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of alien arms are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/9287ae0f8bc6302ffeeef09cf48aa0fd26678488)\n"
+"\n"
+"**How many alien arms are longer than $96$ centimeters?**  \n"
+"\n"
+"[[☃ input-number 1]] alien arms\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of cereal boxes are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/34785b3e553a8c6e3c9350ad577002eff5fe9dc7)\n"
+"\n"
+"\n"
+"**How many cereal boxes are shorter than $21$ centimeters?**  \n"
+"\n"
+"[[☃ input-number 1]] cereal boxes\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of cereal boxes are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/34785b3e553a8c6e3c9350ad577002eff5fe9dc7)\n"
+"\n"
+"**How many cereal box lengths are graphed?**  \n"
+"\n"
+"[[☃ input-number 1]] cereal boxes\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of different caterpillars are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/783c86d2212fbf8bcf51704507be61a723ceb19c)\n"
+"\n"
+"**How many caterpillars are shorter than $7$ centimeters?**  \n"
+"\n"
+"[[☃ input-number 1]] caterpillars  \n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of different caterpillars are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/783c86d2212fbf8bcf51704507be61a723ceb19c)\n"
+"\n"
+"**How many caterpillars' lengths are graphed?**  \n"
+"\n"
+"[[☃ input-number 1]] caterpillars  \n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of different reptiles are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/99499558caf66576bcce3bf0f94df328b9e63826)\n"
+"\n"
+"**How many reptiles are longer than $36$ centimeters?**  \n"
+"\n"
+"[[☃ input-number 1]] reptiles\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of different reptiles are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/99499558caf66576bcce3bf0f94df328b9e63826)\n"
+"\n"
+"**How many reptiles' lengths are graphed?**  \n"
+"\n"
+"[[☃ input-number 1]] reptiles' lengths\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of jump ropes are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/c3422e0293acbadfa8211faf6285aef125dab088)\n"
+"\n"
+"**How many jump ropes are $7$ meters long?**  \n"
+"\n"
+"[[☃ input-number 1]] jump ropes\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# (KA_SOURCE_TREE: de)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of jump ropes are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/c3422e0293acbadfa8211faf6285aef125dab088)\n"
+"\n"
+"**How many jump ropes are shorter than $5$ meters?**  \n"
+"\n"
+"[[☃ input-number 1]] jump ropes\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of kite strings are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/99499558caf66576bcce3bf0f94df328b9e63826)\n"
+"\n"
+"**How many kite strings are $35$ centimeters long?**  \n"
+"\n"
+"[[☃ input-number 1]] kite strings\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of kite strings are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/99499558caf66576bcce3bf0f94df328b9e63826)\n"
+"\n"
+"**How many kite strings are longer than $38$ centimeters?**  \n"
+"\n"
+"[[☃ input-number 1]] kite strings\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of pencils are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/783c86d2212fbf8bcf51704507be61a723ceb19c)\n"
+"\n"
+"**How many pencils are shorter than $8$ centimeters?**  \n"
+"\n"
+"[[☃ input-number 1]] pencils \n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of pencils are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/783c86d2212fbf8bcf51704507be61a723ceb19c)\n"
+"\n"
+"**How many pencils' lengths are graphed?**  \n"
+"\n"
+"[[☃ input-number 1]] pencils' lengths \n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# (KA_SOURCE_TREE: de)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of ribbons are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/c3422e0293acbadfa8211faf6285aef125dab088)\n"
+"\n"
+"**How many ribbons are shorter than $3$ meters?** \n"
+" \n"
+"[[☃ input-number 1]] ribbons  "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of ribbons are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/c3422e0293acbadfa8211faf6285aef125dab088)\n"
+"\n"
+"**How many ribbons lengths are graphed?** \n"
+" \n"
+"[[☃ input-number 1]] ribbons  \n"
+"\n"
+"\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"There are $\\red2$ blue dots representing kite strings longer than $38$ centimeters.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/5bd113cec00f939c3238277e84161a2c35485020)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# (KA_SOURCE_TREE: de)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"There are $\\red2$ blue dots representing ribbons shorter than $3$ meters.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/2bd474bf0f7f0f4dd7bca4372fdbf4c3ee5d111a)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"There are $\\red3$ blue dots representing cereal boxes shorter than $21$ centimeters.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/084c8a85cd39241b0755d83b31571b0b21e05aa6)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"There are $\\red5$ blue dots representing dolls taller than $22$ centimeters.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/d4a9a008217db794f6e686c81b41d535d420f312)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"There are $\\red6$ blue dots representing alien arms longer than $96$ centimeters.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/5c4e1ee1dd9865c99a7e27a1fb1e2d80a5a920ce)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"There are $\\red6$ blue dots representing caterpillars shorter than $7$ centimeters.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/5a8f52f3ee3481934475af4e8328c09550eb0ab9)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# (KA_SOURCE_TREE: de)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"There are $\\red6$ blue dots representing jump ropes shorter than $5$ meters.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/0198224d13d9e99624c021f9c7a75f4151b16674)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"There are $\\red6$ blue dots representing reptiles longer than $36$ centimeters.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/aec326e4b00106bbe291ea8b16a548a90d95c319)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"There are $\\red8$ blue dots representing pencils shorter than $8$ centimeters.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/6e026dc1f2883e6c06c9bd4819c3efffe5124a5f)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"There are $\\red9$ blue dots representing flowers taller than $21$ centimeters.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/24ba0f7ade2b60e99c287164e7de76fe1e884844)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\red{2}$ ribbons are shorter than $3$ centimeters.  "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of jump ropes are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/62f8059ed67805e8f6f64ec677b1db4af44a7d56)\n"
+"\n"
+"**How many jump ropes are shorter than $5$ meters?**  \n"
+"\n"
+"[[☃ input-number 1]] jump ropes"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"The lengths of ribbons are shown below.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/c3422e0293acbadfa8211faf6285aef125dab088)\n"
+"\n"
+"**How many ribbons are shorter than $3$ centimeters?** \n"
+" \n"
+"[[☃ input-number 1]] ribbons  "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"There are $\\red2$ blue dots representing ribbons shorter than $3$ centimeters.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/2bd474bf0f7f0f4dd7bca4372fdbf4c3ee5d111a)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-line-plots/e/solving-problems-with-line-plots-1</a>.
+# Exercise at (x6e2a3a85) on the de stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"There are $\\red6$ blue dots representing jump ropes shorter than $5$ meters.  \n"
+"\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/311c708d2804a499be9b3cbd73dc72305edbeb00)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-picture-graphs/e/make-picture-graphs-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-picture-graphs/e/make-picture-graphs-1</a>.
+# Exercise at (x9dcc4ac7) on the hy stage.
+# Exercise at (x9dcc4ac7) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"**Create a picture graph to show how many wands each wizard owns.**\n"
+"\n"
+"Wizard | Wands\n"
+"- | :-: | -\n"
+"Harry | $4$ \n"
+"Ginny| $2$ \n"
+"Draco | $3$ \n"
+" \n"
+"\n"
+"![](https://ka-perseus-graphie.s3.amazonaws.com/ab335666889bec94221464e0b0cb2b21e86b4ac9.png)\n"
+"\n"
+"[[☃ plotter 1]]"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value/cc-2nd-hundreds/e/hundreds--tens--and-ones">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value/cc-2nd-hundreds/e/hundreds--tens--and-ones</a>
+# Description of exercise (xf3912ca9) on the hy stage
+# Description of exercise (xf3912ca9) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Practice thinking about place value of 3-digit numbers as hundreds, tens, and ones."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value/cc-2nd-hundreds/e/writing-numbers-to-1000">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-place-value/cc-2nd-hundreds/e/writing-numbers-to-1000</a>.
+# Exercise at (xe4bff650) on the hy stage.
+# Exercise at (xe4bff650) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\blue900 + \\green2 + \\green5 = \\blue{9}\\red{0}\\green{7}$ because you are adding $\\blue{9}00$ to $\\green{2}$ ones and $\\green{5}$ ones. "
+msgstr ""

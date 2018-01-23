@@ -1,0 +1,1682 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-22 16:08+0000\n"
+"PO-Revision-Date: 2017-11-22 16:08+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# English version in label at <a href="https://www.khanacademy.org/exercise/find-a-missing-value-given-the-mean">https://www.khanacademy.org/exercise/find-a-missing-value-given-the-mean</a>
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-noun/types-of-nouns/e/abstract-and-concrete-nouns">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-noun/types-of-nouns/e/abstract-and-concrete-nouns</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/grammar-nouns/e/abstract-and-concrete-nouns">http://translate.khanacademy.org/humanities/grammar/partsofspeech/grammar-nouns/e/abstract-and-concrete-nouns</a>.
+# Exercise at (x2dca3eec) on the es stage.
+# Exercise at (xa6b9ab71) on the accents stage.
+# Exercise at (xa6b9ab71) on the bg stage.
+# Exercise at (xa6b9ab71) on the pl stage.
+# Exercise at (xa6b9ab71) on the pt stage.
+# Exercise at (xa6b9ab71) on the tr stage.
+# Exercise at (xa6b9ab71) on the zh-hans stage.
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/find-a-missing-value-given-the-mean?lang=x3fa8afa0dfe2af7d#en-pt.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: genfiles/labels/en/0febf1b706ddfe68ca05f435ae57a0722606e090-data.json:10 intl/datastore:1 templates/about/about_our_interns.html:647 templates/about/about_the_team.html:1227
+msgid "Hannah"
+msgstr ""
+
+# English version in label at <a href="https://www.khanacademy.org/exercise/calculating-the-mean-absolute-deviation--mad-">https://www.khanacademy.org/exercise/calculating-the-mean-absolute-deviation--mad-</a>
+# English version in label at <a href="https://www.khanacademy.org/exercise/calculating-the-median-from-data-displays">https://www.khanacademy.org/exercise/calculating-the-median-from-data-displays</a>
+# English version in label at <a href="https://www.khanacademy.org/exercise/find-a-missing-value-given-the-mean">https://www.khanacademy.org/exercise/find-a-missing-value-given-the-mean</a>
+# English version in label at <a href="https://www.khanacademy.org/exercise/intro-to-simple-data">https://www.khanacademy.org/exercise/intro-to-simple-data</a>
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-pronoun/introduction-to-pronouns/e/meet-the-personal-pronoun">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-pronoun/introduction-to-pronouns/e/meet-the-personal-pronoun</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-pronoun/e/meet-the-personal-pronoun">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-pronoun/e/meet-the-personal-pronoun</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/linear-word-problems/comparing-linear-functions/e/comparing-features-of-functions-1">http://translate.khanacademy.org/math/algebra/linear-word-problems/comparing-linear-functions/e/comparing-features-of-functions-1</a>.
+# Exercise at (x4ff74793) on the accents stage.
+# Exercise at (x4ff74793) on the bg stage.
+# Exercise at (x4ff74793) on the pl stage.
+# Exercise at (x4ff74793) on the pt stage.
+# Exercise at (x4ff74793) on the tr stage.
+# Exercise at (x4ff74793) on the zh-hans stage.
+# Exercise at (x6ac96cbe) on the de stage.
+# Exercise at (x6ac96cbe) on the es stage.
+# Exercise at (x6ac96cbe) on the fr stage.
+# Exercise at (x6ac96cbe) on the pt stage.
+# Exercise at (x6ac96cbe) on the pt-pt stage.
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/calculating-the-mean-absolute-deviation--mad-?lang=x7e88d1f96e330c9f#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/calculating-the-median-from-data-displays?lang=xae42210241aff996#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/find-a-missing-value-given-the-mean?lang=xf74f80dca7477d8c#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/intro-to-simple-data?lang=x535844a71ed94a83#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/intro-to-simple-data?lang=x6e7bce3c71bc76ed#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/intro-to-simple-data?lang=xe71e9e475864ba9c#en-pt.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: genfiles/labels/en/23db3999d3b19261c36f28d46a429439e7e42e6e-data.json:11 genfiles/labels/en/5bea3171efa5968a3c43e5fc895415a0ae5e498f-data.json:11 genfiles/labels/en/648fbfcc9161698741f79e5ae4aa1f2aa1462a03-data.json:11 genfiles/labels/en/79a6a1ac245384422d2c5f92674a041a9604926f-data.json:11 genfiles/labels/en/80fb0028edde0dac8d7dd641986d629b2da433cd-data.json:11 genfiles/labels/en/dbfc23f6114b14ebf784f78d87a02681ea4029f9-data.json:11 genfiles/labels/en/f92a40902376cfa9e3e2bd65ee2aa6363e28104e-data.json:11 intl/datastore:1 templates/about/about_our_interns.html:1263 templates/about/about_the_team.html:1902
+msgid "Julia"
+msgstr ""
+
+# English version in label at <a href="https://www.khanacademy.org/article/a/picture-graphs-review">https://www.khanacademy.org/article/a/picture-graphs-review</a>
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-noun/grammar-nouns/e/identifying-nouns">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-noun/grammar-nouns/e/identifying-nouns</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/grammar-nouns/e/identifying-nouns">http://translate.khanacademy.org/humanities/grammar/partsofspeech/grammar-nouns/e/identifying-nouns</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-add-sub-rational-numbers/e/comparing-rational-numbers">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-add-sub-rational-numbers/e/comparing-rational-numbers</a>.
+# Exercise at (x494fb223) on the bg stage.
+# Exercise at (x494fb223) on the de stage.
+# Exercise at (x494fb223) on the es stage.
+# Exercise at (x494fb223) on the fr stage.
+# Exercise at (x494fb223) on the pt stage.
+# Exercise at (x8e7aac0b) on the accents stage.
+# Exercise at (x8e7aac0b) on the bg stage.
+# Exercise at (x8e7aac0b) on the pl stage.
+# Exercise at (x8e7aac0b) on the pt stage.
+# Exercise at (x8e7aac0b) on the tr stage.
+# Exercise at (x8e7aac0b) on the zh-hans stage.
+# Exercise at (x9bfa0b55) on the accents stage.
+# Exercise at (x9bfa0b55) on the pt stage.
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+# Translate label in article at <a href="https://www.khanacademy.org/translations/edit/redirect/a/picture-graphs-review?lang=en-pt">https://www.khanacademy.org/translations/edit/redirect/a/picture-graphs-review?lang=en-pt</a>.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: genfiles/labels/en/578f671f7385a8b847165eee0f4e2861d050225c-data.json:2 intl/datastore:1 templates/about/about_our_interns.html:1056 templates/about/about_the_team.html:194
+msgid "Justin"
+msgstr ""
+
+# English version in label at <a href="https://www.khanacademy.org/exercise/solving-problems-with-bar-graphs-2">https://www.khanacademy.org/exercise/solving-problems-with-bar-graphs-2</a>
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/solving-problems-with-bar-graphs-2?lang=x46a44cca2f06480c#en-pt.
+#: genfiles/labels/en/84125c4cb8628f89154ad9002211ac717fd77bf5-data.json:19 genfiles/labels/en/e4d8373913abf017696d5f450bbfca07dda49970-data.json:19 genfiles/labels/en/ea1ee205d1ab5925f24038308cbca3bd834cd8e2-data.json:19 templates/about/about_our_interns.html:1609 templates/about/about_the_team.html:1678
+msgid "Josh"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation/e/quiz--describing-graphs">http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation/e/quiz--describing-graphs</a>.
+# Exercise at (xc1ea5aa4) on the accents stage.
+# Exercise at (xc1ea5aa4) on the bg stage.
+# Exercise at (xc1ea5aa4) on the fr stage.
+# Exercise at (xc1ea5aa4) on the pl stage.
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1 templates/about/about_our_interns.html:175 templates/about/about_our_interns.html:1646 templates/about/about_the_team.html:364
+msgid "Emily"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation/e/quiz--describing-graphs">http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation/e/quiz--describing-graphs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-data/copy-of-cc-early-math-length-intro/e/indirect-measurement">http://translate.khanacademy.org/math/cc-1st-grade-math/cc-1st-measurement-data/copy-of-cc-early-math-length-intro/e/indirect-measurement</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-add-sub-rational-numbers/e/comparing-rational-numbers">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-add-sub-rational-numbers/e/comparing-rational-numbers</a>.
+# Exercise at (x494fb223) on the bg stage.
+# Exercise at (x494fb223) on the de stage.
+# Exercise at (x494fb223) on the es stage.
+# Exercise at (x494fb223) on the fr stage.
+# Exercise at (x494fb223) on the pt stage.
+# Exercise at (x74bdb50f) on the de stage.
+# Exercise at (x74bdb50f) on the es stage.
+# Exercise at (x74bdb50f) on the fr stage.
+# Exercise at (x74bdb50f) on the hy stage.
+# Exercise at (x74bdb50f) on the pt stage.
+# Exercise at (x74bdb50f) on the pt-pt stage.
+# Exercise at (x74bdb50f) on the zh-hans stage.
+# Exercise at (xc1ea5aa4) on the accents stage.
+# Exercise at (xc1ea5aa4) on the bg stage.
+# Exercise at (xc1ea5aa4) on the fr stage.
+# Exercise at (xc1ea5aa4) on the pl stage.
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1 templates/about/about_our_interns.html:1783 templates/about/about_the_team.html:2045 templates/about/about_the_team.html:2093
+msgid "Jeff"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-verb/introduction-to-verbs/e/identifying-verbs">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-verb/introduction-to-verbs/e/identifying-verbs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/grammar-verbs/e/identifying-verbs">http://translate.khanacademy.org/humanities/grammar/partsofspeech/grammar-verbs/e/identifying-verbs</a>.
+# Exercise at (x4f03e754) on the accents stage.
+# Exercise at (x4f03e754) on the bg stage.
+# Exercise at (x4f03e754) on the pl stage.
+# Exercise at (x4f03e754) on the pt stage.
+# Exercise at (x4f03e754) on the tr stage.
+# Exercise at (x4f03e754) on the zh-hans stage.
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1 templates/about/about_our_interns.html:1312 templates/about/about_the_team.html:969
+msgid "Jake"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/syntax-sentences-and-clauses/subjects-and-predicates/e/identifying-subject--direct-object--and-indirect-object">http://translate.khanacademy.org/humanities/grammar/syntax-sentences-and-clauses/subjects-and-predicates/e/identifying-subject--direct-object--and-indirect-object</a>.
+# Exercise at (x9ee96653) on the bg stage.
+# Exercise at (x9ee96653) on the pl stage.
+# Exercise at (x9ee96653) on the tr stage.
+# Exercise at (x9ee96653) on the zh-hans stage.
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1 templates/about/about_our_interns.html:1685 templates/about/about_the_team.html:1950
+msgid "Leah"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting/kindergarten-comparing-numbers/e/compare-groups-through-10">http://translate.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting/kindergarten-comparing-numbers/e/compare-groups-through-10</a>.
+# Exercise at (x19cd4695) on the de stage.
+# Exercise at (x19cd4695) on the es stage.
+# Exercise at (x19cd4695) on the fr stage.
+# Exercise at (x19cd4695) on the ja stage.
+# Exercise at (x19cd4695) on the zh-hans stage.
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1 templates/about/about_our_interns.html:1346 templates/about/about_the_team.html:274
+msgid "Annie"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+#: templates/about/about_our_interns.html:233 templates/about/about_our_interns.html:555 templates/about/about_our_interns.html:811 templates/about/about_our_interns.html:1296 templates/about/about_our_interns.html:1564 templates/about/about_the_team.html:666 templates/about/about_the_team.html:849 templates/about/about_the_team.html:1699 templates/about/about_the_team.html:1803
+msgid "David"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+#: templates/about/about_our_interns.html:329 templates/about/about_the_team.html:1281
+msgid "Diedra"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+#: templates/about/about_our_interns.html:485 templates/about/about_the_team.html:2189
+msgid "Ian"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+#: templates/about/about_our_interns.html:635 templates/about/about_the_team.html:1205
+msgid "Mopewa"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+#: templates/about/about_our_interns.html:797 templates/about/about_the_team.html:2080
+msgid "Vivek"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+#: templates/about/about_our_interns.html:935 templates/about/about_the_team.html:708
+msgid "Jared"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+#: templates/about/about_our_interns.html:1041 templates/about/about_the_team.html:290
+msgid "Colin"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+#: templates/about/about_our_interns.html:1424 templates/about/about_the_team.html:1821
+msgid "Joshua"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+#: templates/about/about_our_interns.html:1485 templates/about/about_the_team.html:210
+msgid "Tabitha"
+msgstr ""
+
+# English version in label at <a href="https://www.khanacademy.org/exercise/solving-problems-with-bar-graphs-2">https://www.khanacademy.org/exercise/solving-problems-with-bar-graphs-2</a>
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/solving-problems-with-bar-graphs-2?lang=xfc8bb043ae41e140#en-pt.
+#: genfiles/labels/en/01cd2969ca24a75ac4480fe03c9e43d9961860ac-data.json:23 genfiles/labels/en/b118bac65d8f217cfaff12e74d987108387d7b4f-data.json:23 genfiles/labels/en/e2f0c73cbfeac6fafcf9505da0bc6948ceecc5b0-data.json:23 templates/about/about_our_interns.html:1168
+msgid "Tommy"
+msgstr ""
+
+# English version in label at <a href="https://www.khanacademy.org/exercise/calculating-the-mean-absolute-deviation--mad-">https://www.khanacademy.org/exercise/calculating-the-mean-absolute-deviation--mad-</a>
+# English version in label at <a href="https://www.khanacademy.org/exercise/calculating-the-mean-from-various-data-displays">https://www.khanacademy.org/exercise/calculating-the-mean-from-various-data-displays</a>
+# English version in label at <a href="https://www.khanacademy.org/exercise/find-a-missing-value-given-the-mean">https://www.khanacademy.org/exercise/find-a-missing-value-given-the-mean</a>
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/calculating-the-mean-absolute-deviation--mad-?lang=xcaba554c142d11f3#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/calculating-the-mean-from-various-data-displays?lang=x8e16c9722553d43b#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/find-a-missing-value-given-the-mean?lang=x3fa8afa0dfe2af7d#en-pt.
+#: genfiles/labels/en/0500a29b18210f12c8875842e246057f97ac3b14-data.json:8 genfiles/labels/en/0febf1b706ddfe68ca05f435ae57a0722606e090-data.json:8 genfiles/labels/en/6ba6c1c4dba10e817279fd072178850e07a31d5c-data.json:8 templates/about/about_our_interns.html:1205
+msgid "Sophia"
+msgstr ""
+
+# English version in label at <a href="https://www.khanacademy.org/exercise/adding-negative-numbers-word-problems">https://www.khanacademy.org/exercise/adding-negative-numbers-word-problems</a>
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/adding-negative-numbers-word-problems?lang=x290bdc214e68f7ea#en-pt.
+#: genfiles/labels/en/2eaf1fbc36c91866e95a4d261e70e30b7bd78f99-data.json:12 templates/about/about_our_interns.html:41
+msgid "2011"
+msgstr ""
+
+# English version in label at <a href="https://www.khanacademy.org/exercise/adding-negative-numbers-word-problems">https://www.khanacademy.org/exercise/adding-negative-numbers-word-problems</a>
+# English version in label at <a href="https://www.khanacademy.org/exercise/comparing-distribution">https://www.khanacademy.org/exercise/comparing-distribution</a>
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/adding-negative-numbers-word-problems?lang=x290bdc214e68f7ea#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/comparing-distribution?lang=xd8823aa8fca64c24#en-pt.
+#: genfiles/labels/en/2eaf1fbc36c91866e95a4d261e70e30b7bd78f99-data.json:13 genfiles/labels/en/33c3073709f1fcd9ad9194f5568cd638fff05cfa-data.json:13 templates/about/about_our_interns.html:38
+msgid "2012"
+msgstr ""
+
+# English version in label at <a href="https://www.khanacademy.org/exercise/comparing-distribution">https://www.khanacademy.org/exercise/comparing-distribution</a>
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/comparing-distribution?lang=xd8823aa8fca64c24#en-pt.
+#: genfiles/labels/en/33c3073709f1fcd9ad9194f5568cd638fff05cfa-data.json:12 templates/about/about_our_interns.html:29
+msgid "2015"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/cc-third-grade-math/cc-third-grade-measurement/cc-third-grade-picture-graphs/a/read-pic-graphs">http://translate.khanacademy.org/math/cc-third-grade-math/cc-third-grade-measurement/cc-third-grade-picture-graphs/a/read-pic-graphs</a>.
+# Article is at (x264daf82) on the es stage.
+# Article is at (x264daf82) on the fr stage.
+# Article is at (x264daf82) on the ka stage.
+# English version in label at <a href="https://www.khanacademy.org/article/a/read-pic-graphs">https://www.khanacademy.org/article/a/read-pic-graphs</a>
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-add-sub-rational-numbers/e/comparing-rational-numbers">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-add-sub-rational-numbers/e/comparing-rational-numbers</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry/analytic-geometry-topic/geometry-problems-coordinate-pla/e/coordinate-plane-word-problems-with-polygons">http://translate.khanacademy.org/math/geometry/analytic-geometry-topic/geometry-problems-coordinate-pla/e/coordinate-plane-word-problems-with-polygons</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry/hs-geo-analytic-geometry/hs-geo-dist-problems/e/coordinate-plane-word-problems-with-polygons">http://translate.khanacademy.org/math/geometry/hs-geo-analytic-geometry/hs-geo-dist-problems/e/coordinate-plane-word-problems-with-polygons</a>.
+# Exercise at (x494fb223) on the bg stage.
+# Exercise at (x494fb223) on the de stage.
+# Exercise at (x494fb223) on the es stage.
+# Exercise at (x494fb223) on the fr stage.
+# Exercise at (x494fb223) on the pt stage.
+# Exercise at (xf88e76bd) on the es stage.
+# Exercise at (xf88e76bd) on the fr stage.
+# Exercise at (xf88e76bd) on the ka stage.
+# Exercise at (xf88e76bd) on the pt stage.
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# Translate label in article at <a href="https://www.khanacademy.org/translations/edit/redirect/a/read-pic-graphs?lang=en-pt">https://www.khanacademy.org/translations/edit/redirect/a/read-pic-graphs?lang=en-pt</a>.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: genfiles/labels/en/5701fdf1306cb548e469ad4c5fca6d5ce249699e-data.json:3 intl/datastore:1 templates/about/about_our_interns.html:1672
+msgid "Mark"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-pronoun/indefinite-pronouns-pronoun-vagueness-and-emphatic-pronouns/e/pronoun-vagueness">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-pronoun/indefinite-pronouns-pronoun-vagueness-and-emphatic-pronouns/e/pronoun-vagueness</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-pronoun/e/pronoun-vagueness">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-pronoun/e/pronoun-vagueness</a>.
+# Exercise at (x4bfcd738) on the accents stage.
+# Exercise at (x4bfcd738) on the bg stage.
+# Exercise at (x4bfcd738) on the pl stage.
+# Exercise at (x4bfcd738) on the pt stage.
+# Exercise at (x4bfcd738) on the tr stage.
+# Exercise at (x4bfcd738) on the zh-hans stage.
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1 templates/about/about_our_interns.html:586
+msgid "Sherman"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy/siena-late-gothic/e/siena-in-the-1300s">http://translate.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy/siena-late-gothic/e/siena-in-the-1300s</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-picture-graphs/e/make-picture-graphs-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-picture-graphs/e/make-picture-graphs-1</a>.
+# Exercise at (x9dcc4ac7) on the bg stage.
+# Exercise at (x9dcc4ac7) on the de stage.
+# Exercise at (x9dcc4ac7) on the es stage.
+# Exercise at (x9dcc4ac7) on the fr stage.
+# Exercise at (x9dcc4ac7) on the hy stage.
+# Exercise at (x9dcc4ac7) on the ja stage.
+# Exercise at (x9dcc4ac7) on the pt stage.
+# Exercise at (x9dcc4ac7) on the pt-pt stage.
+# Exercise at (x9dcc4ac7) on the zh-hans stage.
+# Exercise at (xde56ea50) on the accents stage.
+# Exercise at (xde56ea50) on the bg stage.
+# Exercise at (xde56ea50) on the pl stage.
+# Exercise at (xde56ea50) on the pt stage.
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1 templates/about/about_our_interns.html:1714
+msgid "Mary"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-mult-frac-word-probs/e/multiplying-fractions-by-fractions-word-problems">http://translate.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-mult-frac-word-probs/e/multiplying-fractions-by-fractions-word-problems</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/arithmetic/fractions/multiplying-fractions-word-probl/e/multiplying-fractions-by-fractions-word-problems">http://translate.khanacademy.org/math/arithmetic/fractions/multiplying-fractions-word-probl/e/multiplying-fractions-by-fractions-word-problems</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-picture-graphs/e/make-picture-graphs-1">http://translate.khanacademy.org/math/cc-2nd-grade-math/cc-2nd-measurement-data/cc-2nd-picture-graphs/e/make-picture-graphs-1</a>.
+# Exercise at (x057eb3ae) on the de stage.
+# Exercise at (x057eb3ae) on the es stage.
+# Exercise at (x057eb3ae) on the fr stage.
+# Exercise at (x057eb3ae) on the hy stage.
+# Exercise at (x057eb3ae) on the ja stage.
+# Exercise at (x057eb3ae) on the pt stage.
+# Exercise at (x057eb3ae) on the pt-pt stage.
+# Exercise at (x057eb3ae) on the zh-hans stage.
+# Exercise at (x9dcc4ac7) on the bg stage.
+# Exercise at (x9dcc4ac7) on the de stage.
+# Exercise at (x9dcc4ac7) on the es stage.
+# Exercise at (x9dcc4ac7) on the fr stage.
+# Exercise at (x9dcc4ac7) on the hy stage.
+# Exercise at (x9dcc4ac7) on the ja stage.
+# Exercise at (x9dcc4ac7) on the pt stage.
+# Exercise at (x9dcc4ac7) on the pt-pt stage.
+# Exercise at (x9dcc4ac7) on the zh-hans stage.
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1 templates/about/about_our_interns.html:1523
+msgid "Omar"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting/kindergarten-comparing-numbers/e/compare-groups-through-10">http://translate.khanacademy.org/math/cc-kindergarten-math/cc-kindergarten-counting/kindergarten-comparing-numbers/e/compare-groups-through-10</a>.
+# Exercise at (x19cd4695) on the de stage.
+# Exercise at (x19cd4695) on the es stage.
+# Exercise at (x19cd4695) on the fr stage.
+# Exercise at (x19cd4695) on the ja stage.
+# Exercise at (x19cd4695) on the zh-hans stage.
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1 templates/about/about_our_interns.html:659 templates/about/about_our_interns.html:1241
+msgid "Sam"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/cc-third-grade-math/cc-third-grade-measurement/cc-third-grade-data/a/create-bar-graphs">http://translate.khanacademy.org/math/cc-third-grade-math/cc-third-grade-measurement/cc-third-grade-data/a/create-bar-graphs</a>.
+# Article is at (x14dbd634) on the bg stage.
+# Article is at (x14dbd634) on the ka stage.
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1 templates/about/about_our_interns.html:922
+msgid "Charlie"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:2
+msgid "About Our Interns"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:6
+msgid "Meet Our Interns."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:20
+msgid "ALL"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:23
+msgid "2017"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:26
+msgid "2016"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:32
+msgid "2014"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:35
+msgid "2013"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:47
+msgid "Search for an intern..."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:57
+msgid "Ioana"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:58 templates/about/about_our_interns.html:75 templates/about/about_our_interns.html:92 templates/about/about_our_interns.html:105 templates/about/about_our_interns.html:122 templates/about/about_our_interns.html:147 templates/about/about_our_interns.html:163 templates/about/about_our_interns.html:176 templates/about/about_our_interns.html:188 templates/about/about_our_interns.html:200 templates/about/about_our_interns.html:234 templates/about/about_our_interns.html:250 templates/about/about_our_interns.html:267
+msgid "Software Engineering Intern"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:60
+msgid "Ioana is studying Combinatorics and Optimization at the University of Waterloo. She loves developing for social good, online shopping, and poutine."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:77
+msgid "Sarah, a rising senior at Northwestern, loves sea creatures and functional programming. In her spare time, she enjoys playing Oregon Trail for Windows XP."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:91
+msgid "Audrey"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:94
+msgid "Audrey is a rising junior at MIT studying Computer Science. She loves to dance, play pool, and jam with her more musically talented friends."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:107
+msgid "Sophie studies linguistics and computer science at MIT. Her goal is to use computer science to improve education and natural language understanding. She loves puzzles, crosswords, languages, books, paper folding, and public transit systems."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:121
+msgid "Anesu"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:124
+msgid "Anesu is a Computer Science student at Duke University. In his spare time he enjoys watching and playing basketball, watching TV shows, and reading books"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:133
+msgid "Yejia"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:134 templates/about/about_our_interns.html:314 templates/about/about_our_interns.html:330 templates/about/about_our_interns.html:362 templates/about/about_our_interns.html:414 templates/about/about_our_interns.html:441 templates/about/about_our_interns.html:486 templates/about/about_our_interns.html:517 templates/about/about_our_interns.html:543 templates/about/about_our_interns.html:556 templates/about/about_our_interns.html:570 templates/about/about_our_interns.html:587 templates/about/about_our_interns.html:606 templates/about/about_our_interns.html:648 templates/about/about_our_interns.html:660 templates/about/about_our_interns.html:676 templates/about/about_our_interns.html:689 templates/about/about_our_interns.html:715 templates/about/about_our_interns.html:732 templates/about/about_our_interns.html:758 templates/about/about_our_interns.html:798 templates/about/about_our_interns.html:886 templates/about/about_our_interns.html:906 templates/about/about_our_interns.html:923 templates/about/about_our_interns.html:936 templates/about/about_our_interns.html:957 templates/about/about_our_interns.html:974 templates/about/about_our_interns.html:1008 templates/about/about_our_interns.html:1025 templates/about/about_our_interns.html:1057 templates/about/about_our_interns.html:1087 templates/about/about_our_interns.html:1169 templates/about/about_our_interns.html:1188 templates/about/about_our_interns.html:1206 templates/about/about_our_interns.html:1222 templates/about/about_our_interns.html:1242 templates/about/about_our_interns.html:1264 templates/about/about_our_interns.html:1279 templates/about/about_our_interns.html:1297 templates/about/about_our_interns.html:1313 templates/about/about_our_interns.html:1332 templates/about/about_our_interns.html:1347 templates/about/about_our_interns.html:1364 templates/about/about_our_interns.html:1387 templates/about/about_our_interns.html:1405 templates/about/about_our_interns.html:1446 templates/about/about_our_interns.html:1465 templates/about/about_our_interns.html:1508 templates/about/about_our_interns.html:1524 templates/about/about_our_interns.html:1544 templates/about/about_our_interns.html:1565 templates/about/about_our_interns.html:1588 templates/about/about_our_interns.html:1610 templates/about/about_our_interns.html:1626 templates/about/about_our_interns.html:1647 templates/about/about_our_interns.html:1660 templates/about/about_our_interns.html:1673 templates/about/about_our_interns.html:1686 templates/about/about_our_interns.html:1699 templates/about/about_our_interns.html:1728 templates/about/about_our_interns.html:1749 templates/about/about_our_interns.html:1767 templates/about/about_our_interns.html:1784
+msgid "Software Engineer Intern"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:136
+msgid "Yejia studies (and teaches) Computer Science at UC Berkeley. She has an interest in education and social equality, and outside of school, enjoys cooking, working out, and watching waaaay too many vlogs."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:146 templates/about/about_our_interns.html:1007
+msgid "Kasra"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:149
+msgid "Kasra is a computer science student at the University of Pennsylvania interning on the backend team at Khan Academy. He grew up in Toronto and is a big fan of math, pomegranates, and hip hop. He loves using Khan Academy to learn about things like human physiology and finance."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:162
+msgid "Veena"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:165
+msgid "Veena is studying Mathematics and Education Studies at Yale University. She is interested in data science and the ways that it can be used to improve education.  Outside of class, she enjoys painting, playing table tennis, reading, and going for walks."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:178
+msgid "Emily is a rising senior at Stanford studying computer science. She loves exploring new places, taking pictures, singing, hiking, and adding more and more books to her never-ending reading list."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:187
+msgid "Gustavo"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:190
+msgid "Gustavo grew up in Brazil, where he found his passion for playing the guitar, listening to rap, and working for education. He's currently studying Computer Science at Stanford."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:199
+msgid "Samantha"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:202
+msgid "Samantha is an alumni of the Recurse Center. She enjoys programming, getting lost, and reading up on old hardware."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:217
+msgid "Joy"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:218 templates/about/about_our_interns.html:301 templates/about/about_our_interns.html:504
+msgid "Content Intern"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:220
+msgid "Meet Joy. Joy graduated from University of Pennsylvania and Tsinghua University, studying developmental psychology. She is passionate about education and personalized learning. She enjoys painting, acting, designing and table tennis. She is also a big fan of board games."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:236
+msgid "David is an information Engineering student at the University of Cambridge. He is excited to be working with so many people enthusiastic to change the future of education. Outside of work, he enjoys playing tennis, reading, as well as the occasional card game."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:252
+msgid "Nick is a CS student at Cal Poly SLO. He can usually be found programming, playing the cello, or jamming out to Taylor Swift."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:266
+msgid "Shadaj"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:269
+msgid "Shadaj is a high school student in the Bay Area who loves coding. When he isn't doing that, he loves to play the sitar and challenge friends to races in Mario Kart."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:284
+msgid "Débora"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:285 templates/about/about_our_interns.html:702
+msgid "International Market Development Intern"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:287
+msgid ""
+"Débora is supporting Khan Academy's growth in her home region, Latin America.\n"
+"She came to the Bay Area to do an MBA at UC Berkeley with the goal of learning business skills that she could apply to create social  impact at scale, and also to enjoy California's forward-thinking and outdoorsy lifestyle."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:291
+msgid "Debora"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:303
+msgid "Becca is a native Philadelphian studying History at Claremont McKenna College. When she's not over-annotating primary sources, Becca runs a branch of a nonprofit that provides hip-hop dance classes to youth without access to engaging after school activities. She also loves hiking, saag paneer, and The Beatles."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:316
+msgid "Ryan loves doing things with other people: programming, playing music, shooting photography, cooking, hiking, and more! He loves spreading his passions through education and is excited to be working on the infrastructure team at Khan Academy."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:345
+msgid "Abdul"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:346 templates/about/about_our_interns.html:394 templates/about/about_our_interns.html:636
+msgid "Mobile Development Intern"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:348
+msgid "Abdul studies CS at UC Berkeley. In high school, he enjoyed learning on Khan Academy much more than he did in school, so he would like every student with a smartphone to be able to bring Khan Academy to their classroom. "
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:364
+msgid "Alex is a Computer Science student at MIT working on a Master's degree focusing in machine learning. Outside of that, he enjoys DJing and producing electronic music."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:376 templates/about/about_our_interns.html:454 templates/about/about_our_interns.html:466 templates/about/about_our_interns.html:529 templates/about/about_our_interns.html:623 templates/about/about_our_interns.html:1042
+msgid "Data Science Intern"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:378
+msgid "Thomas is a PhD student at North Carolina State University where he researches ways to integrate artificial intelligence and data into educational technologies. He’s thrilled to be working with so many bright folks at Khan Academy who are dedicated to improving education for all."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:393
+msgid "George"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:396
+msgid ""
+"George believes that connecting progressive pedagogy enabled by technology with social movements for economic and educational justice can—and <em>will</em>—profoundly transform education for the better.\n"
+"                </p>\n"
+"                <p>\n"
+"                    George is a student of Cognitive Science and Education in the <a href=\"https://twitter.com/hashtag/Critedpol\">Critical Education Policy Studies</a> group at Swarthmore College."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:413
+msgid "Shiranka"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:416
+msgid "Shiranka is a Software Engineering student from the University of Waterloo.  He loves reading fantasy novels, especially those written by Brandon Sanderson, and his goal is to write code that is an absolute delight to work with."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:426
+msgid "Kejia"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:427 templates/about/about_our_interns.html:744 templates/about/about_our_interns.html:991
+msgid "Product Design Intern"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:429
+msgid "Kejia is working on designing the SAT experience this spring. When she’s not working, she’s typing on her blog while petting her cats at the same time. She graduated from University of Michigan and Fudan University and has helped design fridges and dashboards."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:440
+msgid "Evy"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:443
+msgid "Evy is a Computer Science student at the University of Waterloo. She loves developing technology for social good and talking about education and other social issues. When she's not coding or hanging out with friends in her awesome communities, she's probably singing or conducting choral music."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:453
+msgid "Karl"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:456
+msgid "Karl is a fourth year student from the University of New South Wales in Australia. He enjoys skiing, playing video games, scuba diving, travelling, referring to himself in the third person, and performing various other standard human activities that don't implicate him as an undercover alien from another planet."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:465
+msgid "Will"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:468
+msgid ""
+"Will is a data science intern from the University of Colorado, Boulder. He will be graduating\n"
+"                    in the fall with a major in Applied Math and a minor in Computer Science. When not working on his\n"
+"                    latest math problem, Will likes to wander around forests and experience the outdoors, with the\n"
+"                    occasional climb involved. Will is excited to be out in California for the summer and is still\n"
+"                    perplexed by the fantastic Californian trees."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:488
+msgid "Ian has found himself a slice of ed-tech heaven at Khan Academy. At MIT his research is in artificial echolocation for the blind, but you may also catch him on a run along the Charles river or engaged in some armchair urban planning. He's saving up for a trip to Antarctica to meet the emperor penguins."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:503
+msgid "Paige"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:506
+msgid "Paige is a rising junior at UC Berkeley majoring in linguistics. At Khan Academy she works as a content intern for Team Grammar, and she can't wait to see what great things will come out of her summer here at KA! Apart from school and work, she is busy exploring her newfound love of cats, watching Suits, and eating lots of cereal. Her favorite day of the week is Bread Day."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:516
+msgid "Meredith"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:519
+msgid "Meredith just graduated from Stanford but is going back to get a Master's degree. She is a born explorer, traveler, eater, and adrenaline junkie. She loves watching TV, and she is particularly fond of Doctor Who, Parks and Rec, Friday Night Lights, and Avatar: The Last Airbender."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:528
+msgid "Vishesh"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:531
+msgid "Vishesh loves learning and is interested in understanding and improving the systems around us! When he's not learning/building things, he can be found meditating, running outside, playing music (jazz, mostly), or giving free hugs to people."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:542
+msgid "Juliana"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:545
+msgid "Juliana rhymes with banana is incredibly excited to be interning on the web frontend team at Khan Academy! In her free time she loves playing boardgames, singing while playing her ukulele, and being outdoors. This fall she will be returning to Stanford to finish her master's degree in computer science."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:558
+msgid "David studies computer science at Stanford, after dabbling in psychology, philosophy, and linguistics."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:572
+msgid "William is a computer science major at Carnegie Mellon. He enjoys trying to learn as much math and computer science as is humanly possible, and digging tunnels with his dog at the beach."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:589
+msgid "Sherman is studying Computer Science at Stanford University and working on the Mobile! team this summer. He's broadly interested in applying technology to healthcare and education and plays basketball, piano, and multiple episodes of TV shows when he's not working on learning something new."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:605
+msgid "Chelsea"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:608
+msgid "Chelsea studies computer science as a master's student at MIT. She enjoys learning the world's writing systems, inventing new writing systems, exploring the Curry-Howard isomorphism, reading sci-fi short stories, learning, teaching, and working to make the world a better place."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:622
+msgid "Anastassia"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:625
+msgid "Anastassia is a rising senior at Carnegie Mellon, majoring in Computer Science and minoring in Language Technologies. She loves math, education and brains, so she is super excited to be joining Khan Academy!! In her free time, she enjoys hiking, getting lost in new cities and taking lots of pictures."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:638
+msgid "Mopewa is a rising senior with a double major in computer science and robotics at Carnegie Mellon University. She enjoys watching TV, drinking tea, knitting, reading, and other activities that don't require much movement."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:650
+msgid "Hannah is a rising senior studying computer science at Harvard College. She fell in love with Khan Academy while designing a CS curriculum for middle school students. Her favorite activities include biking and baking."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:662
+msgid "Sam is a student at UC Berkeley working on Khan Academy's article system. He does a lot of learning and teaching and hopes do to even more of it at Khan. Sam loves shared meals, adventure, and looking at bodies of water."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:675
+msgid "Alex Irpan"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:678
+msgid "Alex is a rising senior at UC Berkeley, doing a CS major and a kind-of math major, depending on if he ever finishes the major requirements or not. He works on the infrastructure team, plays card games, and reads web fiction."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:688
+msgid "Phillip"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:691
+msgid "Phillip is a computer engineering student at the University of Texas at Austin. He enjoys programming, math, and Star Trek. He also has interests in data science and artificial intelligence."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:704
+msgid "Monica is an aspiring dashboard wizard for the International Market Development team. When she's not at Khan Academy, maxing out Google Sheets' capabilities or mapping out K-12 curricula around the world, you can find her at Stanford, pursuing her MBA and Master of Education."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:714
+msgid "Neel"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:717
+msgid ""
+"Neel, a member of Harvard's Class of 2018, enjoys teaching computer science,\n"
+"                    watching baseball, cracking jokes, saying 'yo,' and trying to avoid falling off his skateboard."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:734
+msgid "Shannon studies Computer Science at Harvard College, and is interning on the web frontend team at Khan Academy. She loves dancing, traveling, and drawing animals, and has been excited about and dabbling in teaching and education for years!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:743
+msgid "Shyan"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:746
+msgid "Shyan is a recent graduate of UC Berkeley, where he studied Anthropology, Political Economy, and Environmental Design."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:757
+msgid "Shane"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:760
+msgid "Shane has started a tutoring business and done research in education psychology. Now he's working with Khan Academy to provide a life-changing education for anyone, anywhere, forever. When he's not learning, building things, or pondering, he's playing outside."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:771
+msgid "Developer - Computer Science"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:773
+msgid "Alex is a student at the University of Waterloo studying Mechatronics engineering. He is passionate about FIRST robotics and working on making education more efficient. He also shows a surprising propensity for body surfing."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:783
+msgid "Madeleine"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:784
+msgid "Video Content Producer"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:786
+msgid "Madeleine studies Film and International Relations at the University of Southern California and is interning for Khan Academy as a video content producer. When she's not in school, she enjoys jungle trekking, writing music, making dumb films with friends, and helping people learn new and exciting things!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:800
+msgid "Vivek believes in bringing a world-class education for anyone, anywhere; he's working on Khan Academy's iPad app so you can learn math even while sitting on your couch. When he's not reading, building things, or leading the various organization he's a part of, he studies Computer Science at Rutgers University."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:812
+msgid "Content Production Intern"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:814
+msgid "David is a senior at Princeton majoring in Everything, with excursions into computer science, creative writing, and ancient literature. When confined to bed by an illness in high school, David discovered e-learning and has since spent countless hours teaching and learning online. He can also be found shooting portraits, directing films, and thinking deep thoughts."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:828
+msgid "Jessie"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:829 templates/about/about_our_interns.html:843 templates/about/about_our_interns.html:867
+msgid "Software Developer Intern"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:831
+msgid "Jessie studies applied math and computer science at Stanford. She'd like to save the world - or at least help someone (anyone!) learn. She is working on the user experience team this summer, and also enjoys running, exploring, and wandering the great outdoors."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:842
+msgid "Jonathan"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:845
+msgid ""
+"Jonathan has just graduated from UC Berkeley majoring in\n"
+"                    Computer Science and Business Administration and interned\n"
+"                    on the internationalization team at Khan Academy, where he had the privilege\n"
+"                    of bringing education to people around the world. He\n"
+"                    devotes himself to his Christian community at\n"
+"                    Gracepoint Fellowship Church. He likes music, photography and\n"
+"                    talking about life. He dislikes talking about himself in third person.\n"
+"                    "
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:866
+msgid "Ilan"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:869
+msgid ""
+"You are Ilan, a rising senior from Stanford University\n"
+"                    majoring in Physics and coterming in Computer Science. You enjoy\n"
+"                    hiking, rocking out on the piano and guitar, playing Ultimate\n"
+"                    and ping pong, and sleeping. You can sing any Disney song on\n"
+"                    command and your spirit animal is a grizzly bear. You are an avid\n"
+"                    Giants fan, you love <i>Harry Potter</i>, and you know more than\n"
+"                    anyone should about The Who."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:888
+msgid ""
+"Ben studies math with a side of physics and computer\n"
+"                    science at MIT.  When he's not busy learning, teaching, or\n"
+"                    writing education-related software, he enjoys hiking, folding\n"
+"                    origami, and making smoothies."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:908
+msgid "Miles studies a computer science and stuff at MIT. When he isn't coding he likes to unicycle, fly drones, and code more. He hopes to one day be able to do all three at once. He is excited to help make the user experience of Khan Academy even more awesome!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:925
+msgid "Charlie is a computer science major at Princeton University with a passion for both learning and teaching. His research interests focus on machine learning, and he's previously interned at Microsoft and Facebook. This summer, he'll be working as part of the Content Tools team to improve Khan Academy's exercise experience."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:938
+msgid ""
+"Jared wants to change the world, so he joined Khan\n"
+"                    Academy to intern for the summer. He enjoys singing, hiking,\n"
+"                    making things, and deep conversation. He is helping improve\n"
+"                    the experience for teachers and parents on Khan Academy."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:959
+msgid "Kevin studies computer science at the University of Illinois and enjoys using technology to improve life in creative ways. He is excited to make Khan Academy's user experience more awesome as part of the Content Tools team this summer."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:976
+msgid "Meet Peter. Peter is a level 14 Neuromancer at UC Berkeley. He somewhat enjoys reading, writing, running, ice cream, robots, kittens, artificial intelligence, natural stupidity, economics, Freakonomics, swimming, biking, Hunter S. Thompson, oranges, coding, philosophy, fancy sodas, and long lists. Peter works on Data, where he regularly refers to himself in the third person."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:993
+msgid "Elizabeth studies computer science at Cal with a focus in design. She loves high fashion, ampersands, and sushi. This summer, she's working on designing exercises for the iPad app!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1010
+msgid "Kasra studies computer science at the University of Toronto. He is working on the Khan Academy iPad app this summer."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1027
+msgid "John likes making software and infecting others with his love for Computer Science. He is very excited to harness the powers of the coffee bean in order to make Khan Academy's search tool amazing."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1045
+msgid "Colin is a biologist turned analyst who loves using data to tackle challenging problems, loves singing, and loves eating beets."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1059
+msgid ""
+"Justin works on the Content Tools team to help content\n"
+"                creators write questions. He goes to the University of Waterloo and\n"
+"                likes writing Vimscript (for some reason)."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1070
+msgid "Theo"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1071
+msgid "Computer Science Intern"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1073
+msgid ""
+"Theo is a student from the University of Waterloo, where\n"
+"                he studies Combinatorics and Computer Science.  He's working to\n"
+"                improve subtitles and internationalization by hacking in Python at\n"
+"                Khan Academy.  He also enjoys functional programming, vim, and Khan\n"
+"                Academy's board game night."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1086
+msgid "Richard"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1090
+msgid ""
+"Richard likes the winters in California more than the winters at\n"
+"                    the University of Waterloo, where he is a third-year student\n"
+"                    (though converting to Fahrenheit is difficult). He hopes to make Khan\n"
+"                    Academy even bigger while on the growth team."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1109
+msgid "Tal"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1110 templates/about/about_our_interns.html:1130
+msgid "Teaching Fellow"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1112
+msgid "Tal is a lover of learning. How cliche. But seriously, one time, he underwent a surgical operation to have his feet webbed just to see if he could swim faster! But seriously, that's not true."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1115
+msgid "Tal taught high school math in Philadelphia before moving out west to beautiful California in order to obtain a Ph.D. in Civil Engineering. For the foreseeable future, he will divide his time evenly doing the following: research in a lab, playing outside, and helping teachers effectively implement Khan Academy in their classrooms."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1129
+msgid "Suney"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1132
+msgid "As a teaching fellow, Suney supports the Educational Partnerships team at Khan Academy.  Suney shares her Khan Academy experiences with teachers and helps to support them as they start their Khan Academy journeys."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1135
+msgid "Suney has been a teacher for 15 years. She is currently at Eastside College Preparatory School where she has fully implemented Khan Academy into her math curriculum."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1149
+msgid "Analytics Intern"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1152
+msgid "Ben wants to help bring education research online. He's a Chicagoan with a keen interest in learning, statistics, and sandwiches."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1172
+msgid "Tommy wishes to help increase the reach and impact of Khan Academy this fall. He is a native of Toronto who craves new experiences through learning, art, food, and adventure. He studies Software Engineering at the University of Waterloo and has previously interned at Twitter and VMware."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1187
+msgid "Leif"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1191
+msgid "Leif loves learning! He also enjoys overcast weather, Chicken McNuggets, and fireworks. He's working on the Computer Science team."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1209
+msgid "Sophia will be working on the CS team. She studies Computer Science at Stanford University and interned previously at Google and Palantir. She cares about using programming to make the world better -- she also enjoys sports and playing guitar."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1221
+msgid "Brie"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1225
+msgid "Brie's mission is to design and develop experiences that bring happiness to people's lives. Brie's work at Khan Academy fulfills this mission because it helps empower others to learn, among the greatest forms of happiness."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1245
+msgid ""
+"Sam will be working on the learning interface and will\n"
+"                    be a senior at Brown University in the Fall. In his free time\n"
+"                    he enjoys cooking, biking, and drinking good tea. He's excited\n"
+"                    to spend his first summer in San Francisco."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1267
+msgid "Julia loves building things - both virtual and physical - and going on adventures! In her spare time, she is most likely exploring the outdoors, playing soccer, or eating fruit. "
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1278
+msgid "Damon"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1282
+msgid "The pinnacle nerd, Damon enjoys coding and video games (League of Legends and, less frequently now, Super Smash Bros. Melee). In his other time, you might find him playing frisbee or screaming furiously at the LSU Tigers or New Orleans Saints through the TV. He is studying Computer Science at MIT and will be working on the Growth team."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1299
+msgid "David Bieber enjoys mathematics, puzzles, and tennis, and he's a big fan of online education. He likes using programming to simplify life and figure things out, and he generally enjoys making things like games and puns. He spends his time thinking about thought, how fortunate he's been to have had such amazing teachers his whole life, and how to tell a good story."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1315
+msgid ""
+"Jake likes to build things and dream up ideas about\n"
+"                          the future. Besides his passion for programming, he\n"
+"                          enjoys music, board games, and running. He is working\n"
+"                          on the Interactive Content team to help content creators\n"
+"                          make exercises."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1331
+msgid "Sitan"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1334
+msgid "Sitan is excited to work with the Analytics team this summer to design models for better understanding how people learn. He's a second-year math and compsci concentrator at Harvard College and enjoys piano, singing, and food."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1351
+msgid "When Annie isn't battling the forces of darkness with her D20s, she collects novelty socks. She is deeply passionate about puzzle solving and education and is eager to help make content management more user friendly this summer."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1366
+msgid ""
+"Matt loves making things. He just can't help it. He's\n"
+"                          spending the summer helping students identify what skills\n"
+"                          they should learn and better master those\n"
+"                          skills-vicariously, of course, through the system he's\n"
+"                          making."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1373
+msgid ""
+"He's a Computer Science major at Rice University and has\n"
+"                          a deep, abiding love for learning, discovery, and\n"
+"                          building tools that help real people solve real problems.\n"
+"                          In other words, he's right where he belongs."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1386
+msgid "Robert"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1389
+msgid "Robert is working on data analysis and visualization to make drawing insights a pleasure. He has passion for highly efficient and beautiful programs. He definitely spends too much time practicing ballroom dancing."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1392
+msgid "Previously he interned at an investment bank which he helped move to a web-oriented architecture. He is currently a student at Imperial College London."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1404
+msgid "Aatash"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1408
+msgid "Aatash really believes in the idea that schooling shouldn't interfere with your education. It's why he is so excited to be helping Khan Academy reinvent learning."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1411
+msgid "Aatash is an Electrical Engineering/Computer Science major at UC Berkeley. He's an avid basketball fan, and is always down for a 1-on-1 challenge. "
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1425
+msgid "Coach Reports Intern"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1428
+msgid "Joshua helps teachers trick students into learning."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1431
+msgid ""
+"Joshua is studying Software Engineering at the University of Waterloo\n"
+"                     and has previously interned at a major Canadian fruit company, where he made\n"
+"                     the web faster."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1448
+msgid ""
+"Eliana wants to make a teaching system so adaptive it can love you.\n"
+"                     They're a sci-fi reading nomad who write poetry in Python and\n"
+"                     climb hella mountains. Right now, they're a PhD student at UT\n"
+"                      Austin studying machine learning."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1468
+msgid ""
+"Michael has a passion for good food and board games. He was\n"
+"            previously an intern at Google and Facebook before being\n"
+"            recruited by University of Waterloo Software Engineering\n"
+"            classmate David."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1486 templates/about/about_our_interns.html:1715
+msgid "Graphic Design Intern"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1489
+msgid ""
+"Tabitha loves designing things so that they're accessible and\n"
+"                    fun to use. In her free time she loves learning about people,\n"
+"                    reading angsty literature, traveling, doodling, and eating\n"
+"                    cheesecake. She studies at RISD and Brown University and has\n"
+"                    previously interned at Apple and Konami."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1507
+msgid "Drew"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1510
+msgid "Drew is committed to developing tools that will help students share their knowledge with one another. He's worked on the software behind the KA community, email subscriptions, and translations."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1513
+msgid "Drew is also an avid learner himself as a rising senior at Gunn High School. Prior to joining Khan Academy, he built mobile apps as an intern at Sony Ericsson. He's also a runner and a cellist."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1527
+msgid "Omar makes useful things that work. He started working on exercises way back in high school; he's been hooked on the vision ever since."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1530
+msgid "In his free time, depending on when you ask, he might be a student at Stanford, a Thiel Fellow, or something completely different. He likes puns, Pok&eacute;mon games, history, and prime-numbered phones."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1546
+msgid ""
+"Sophie does her best to be everywhere at once and tries to fix\n"
+"                    problems wherever they pop up."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1550
+msgid ""
+"When she's not working on things for Khan Academy,\n"
+"                    Sophie studies at Carnegie Mellon, where she's\n"
+"                    double-majoring in computer science and math."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1568
+msgid "David is a human being currently living on Earth. He was born after the Big Bang and before the heat death of the universe."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1571
+msgid "David has also interned twice at Khan Academy and twice at Google."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1574
+msgid "David regrets that he was not also named \"Ben\"."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1587 templates/about/about_our_interns.html:1748
+msgid "Jamie"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1591
+msgid "Jamie works with John to build the infrastructure for the computer science curriculum."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1594
+msgid "Jamie was previously an intern at Facebook before being recruited by University of Waterloo Software Engineering classmate and programming contest teammate David."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1613
+msgid "Josh is helping to collect more data on how people use Khan Academy so we can see how changes we make to the site affect what users do on it. He's also helping to use the data we collect to improve users' experiences while visiting the site."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1616
+msgid "Josh is a Computer Science major (class of 2015) at Carnegie Mellon University."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1625
+msgid "Ankit"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1629
+msgid "Ankit loves to create new things. At Khan Academy, he is working on building up the community."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1632
+msgid "He is currently doing a Masters in Computer Science at Virginia Tech, specializing in human computer interaction. Previously, he has participated twice in the Google Summer of Code program."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1650
+msgid "Emily is a Computer Science and Math major in the University of Rochester class of 2015. When not found hunched over her computer installing a Linux distro or learning an obscure programming language, she also enjoys bike rides, cooking, and playing video games."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1659
+msgid "Arun"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1663
+msgid "Arun builds tools to make your exercise experience better. He is studying electrical engineering and computer science at MIT. He spent some time at Google, Intel and Procter &amp; Gamble, as well as two social enterprises in India. He loves music and plays many different instruments."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1676
+msgid "Carved from the marbled cliffs of Elysium by the roaring surf below, Mark prefers his sandwiches open-faced. He works on exercises."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1689
+msgid "Leah is a computer science major at MIT in the class of 2013. She's working on improving coach reports at Khan Academy. She's had internships at Google and Rapleaf and enjoys softball, ice hockey, rock climbing, board games, and traveling."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1702
+msgid "Jessica eats tons of candy and teaches compooter science at Khan Academy!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1705
+msgid "She is a senior at Brown University, where her favorite things are baking pies and making silly skits about programming."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1718
+msgid "Mary is the design intern at Khan Academy, and currently attends the Rhode Island School of Design (conveniently shortened to RISD; pronounced \"riz-dee\"), located in Providence, Rhode Island (which is 3% larger at low tide). In her free time, she likes to design custom lettering, make books, and pump iron."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1731
+msgid "Dylan is spending the summer on Khan Academy's App Engine team helping to make the site faster and more reliable for everyone."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1734
+msgid "He will graduate in 2013 with a B.S. in Computer Science from UCLA. Prior to Khan Academy he worked at the UCLA Center for Embedded Networked Sensing."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1752
+msgid "When he's not hacking on cool stuff at Khan Academy, working on his thesis in Cognitive Science at UCSD, or helping to create <a href=\"http://thiscourse.com\">thisCourse.com</a>, Jamie loves to travel. He has slept overnight in a temple in Taiwan, in a monastery in Austria, in a cave on the Acropolis in Athens, on a staircase, on top of a volcano, on the roof of a train station, in a garbage bin, in a playground in Hiroshima, and in numerous closets."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1766
+msgid "Julian"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1769
+msgid "Julian was a Fall 2011 intern who worked on exercises, Sandcastle, and Gandalf. He's had internships at Facebook and Arista Networks and really likes salsa dancing."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:1786
+msgid "Jeff spent the summer helping build Khan Academy's exercise framework and working with its community of open-source developers. Jeff obsesses over Zelda and Digimon, is one of the few left-handed color-blind redheads, and studied Computer Science and Math at Wesleyan University. Khan Academy lent him his first Mac, and he now works at Apple."
+msgstr ""

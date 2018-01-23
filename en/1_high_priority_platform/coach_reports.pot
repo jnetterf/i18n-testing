@@ -1,0 +1,728 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2017-12-01 14:41+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# A label for a button that will delete some input.
+# Comment: Label for a button that allows a user to delete selected items.
+# See text on <a href="http://www.khanacademy.org/coach/roster">http://www.khanacademy.org/coach/roster</a>
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/assignments-package/coach-assignments/actions-cell.jsx.js:98 genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-base.jsx.js:93 genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:1317 genfiles/compiled_jsx/en/javascript/clarifications-package/mod-controls.jsx.js:287 genfiles/compiled_jsx/en/javascript/coach-dashboard-package/students/pending-invitation-table.jsx.js:150 genfiles/compiled_jsx/en/javascript/coach-dashboard-package/students/pending-invitation-table.jsx.js:158 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-delete-button.jsx.js:86 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-delete-button.jsx.js:107 intl/datastore:1 javascript/discussion-package/author-controls.handlebars:13 javascript/discussion-package/mod-controls.handlebars:75 javascript/discussion-package/moderation.js:246 javascript/discussion-package/reply.handlebars:16 javascript/discussion-package/reply.handlebars:22 templates/scratchpads/drawing.html:71 templates/scratchpads/drawing.html:566 templates/settings.html:606 third_party/javascript-khansrc/perseus/build/editor-perseus.js:89847 third_party/javascript-khansrc/perseus/build/frame-perseus.js:43685 third_party/javascript-khansrc/perseus/build/perseus-slim.js:26998
+msgid "Delete"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/coach/roster">http://www.khanacademy.org/coach/roster</a>
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/students/pending-invitation-table.jsx.js:40 javascript/notifications-package/verify-email-notification.handlebars:22
+msgid "Resend email"
+msgstr ""
+
+# Comment: Title for button in alert confirming that the user wants to both remove a bookmark and remove its offline download in one step.
+# Comment: Title for button that removes a single bookmark from Bookmarks tab.
+# Comment: Title for button which removes one or multiple selected bookmarks from Bookmarks in bulk editing mode
+# See text on <a href="http://www.khanacademy.org/coach/roster">http://www.khanacademy.org/coach/roster</a>
+# See text on <a href="http://www.khanacademy.org/discussion/mod/bannedlist">http://www.khanacademy.org/discussion/mod/bannedlist</a>
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/recommendation-tab.jsx.js:113 genfiles/compiled_jsx/en/javascript/components/item-list-package/item-list.jsx.js:37 genfiles/compiled_jsx/en/javascript/dashboard-package/recent-topic-callout.jsx.js:199 genfiles/compiled_jsx/en/javascript/dashboard-package/remove-button.jsx.js:234 genfiles/compiled_jsx/en/javascript/dashboard-package/remove-button.jsx.js:236 intl/datastore:1 javascript/profile-package/coach.handlebars:18
+msgid "Remove"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/coach/roster">http://www.khanacademy.org/coach/roster</a>
+#: genfiles/compiled_jsx/en/javascript/parent-package/child-page-sidebar.jsx.js:181 genfiles/compiled_jsx/en/javascript/parent-package/child-preview.jsx.js:261 templates/emails/subscriptions/parent_report_email.html:148
+msgid "username"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/coach/roster">http://www.khanacademy.org/coach/roster</a>
+#: javascript/notifications-package/verify-email-notification.handlebars:23
+msgid "Change email"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/signup">http://www.khanacademy.org/signup</a>
+#: javascript/login-package/signup.js:232 templates/under13.html:41
+msgid "Parent's email"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:278 templates/completesignup.html:64 templates/settings.html:88
+msgid "Female"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/completesignup">http://www.khanacademy.org/completesignup</a>
+#: genfiles/compiled_jsx/en/javascript/login-package/add-child/user-creation-block.jsx.js:279 templates/completesignup.html:65 templates/settings.html:89
+msgid "Male"
+msgstr ""
+
+# Comment: Action label to cancel a failed network request during an exercise
+# Comment: Action label to cancel sending feedback
+# Comment: Action label to not use a hint for the first time after a popup asking for confirmation
+# Comment: Button title canceling an action
+# See text on <a href="http://www.khanacademy.org/settings/linkaccount">http://www.khanacademy.org/settings/linkaccount</a>
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/assignments-package/coach-assignments/archive-assignment-confirmation.jsx.js:97 genfiles/compiled_jsx/en/javascript/avatar-customizer-package/avatar-customizer.jsx.js:898 genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-base.jsx.js:89 genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:289 genfiles/compiled_jsx/en/javascript/coach-dashboard-package/students/student-actions.jsx.js:99 genfiles/compiled_jsx/en/javascript/coach-dashboard-package/students/student-actions.jsx.js:118 genfiles/compiled_jsx/en/javascript/coach-report-exercises-package/report.jsx.js:1298 genfiles/compiled_jsx/en/javascript/dashboard-package/recent-topic-callout.jsx.js:193 genfiles/compiled_jsx/en/javascript/donate-even-more-package/double-charge-reminder.jsx.js:63 genfiles/compiled_jsx/en/javascript/exercises-components-package/report-issue.jsx.js:144 genfiles/compiled_jsx/en/javascript/exercises-package/components/issue-form.jsx.js:365 genfiles/compiled_jsx/en/javascript/parent-package/email-changer.jsx.js:50 genfiles/compiled_jsx/en/javascript/profile-nav-package/username-picker.jsx.js:150 genfiles/compiled_jsx/en/javascript/profile-package/profile-widgets.jsx.js:414 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-delete-button.jsx.js:76 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-header.jsx.js:72 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-save-spinoff-buttons.jsx.js:219 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-save-spinoff-buttons.jsx.js:281 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-toolbar.jsx.js:128 genfiles/compiled_jsx/en/javascript/test-prep-package/app-common/components/modals/report-issue-modal.jsx.js:99 genfiles/compiled_jsx/en/javascript/test-prep-package/settings-page/components/add-email-modal.jsx.js:66 genfiles/compiled_jsx/en/javascript/video-package/end-of-video-card.jsx.js:257 genfiles/compiled_jsx/en/javascript/zero-rating-package/login-warning-modal.jsx.js:21 intl/datastore:1 javascript/discussion-package/form-controls.handlebars:11 javascript/exercises-legacy-package/problem-template.handlebars:140 javascript/phantom-package/change-email-dialog.handlebars:20 javascript/phantom-package/link-email-dialog.handlebars:21 javascript/scratchpads-package/scratchpad-ui-dev.js:50 templates/scratchpads/drawing.html:535 templates/settings-linkemail.html:45 templates/settings.html:605
+msgid "Cancel"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/e/individuals-variables-categorical-quantitative-data">http://translate.khanacademy.org/math/statistics-probability/analyzing-categorical-data/one-categorical-variable/e/individuals-variables-categorical-quantitative-data</a>.
+# Exercise at (xadc69750) on the pl stage.
+# Exercise at (xadc69750) on the pt-pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: bibliotron/handlers.py:1214 genfiles/compiled_jsx/en/javascript/coach-dashboard-package/dashboard.jsx.js:495 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:462 intl/datastore:1
+msgid "Classes"
+msgstr ""
+
+#: classtime.py:452
+#, python-format
+msgid "%(start_time)s - %(end_time)s on %(end_date)s"
+msgstr ""
+
+#: classtime.py:456
+msgid "Total time:"
+msgstr ""
+
+#: classtime.py:459
+#, python-format
+msgid "~%(approximate_number_of_minutes)s min."
+msgstr ""
+
+#: classtime.py:464
+msgid "Videos:"
+msgstr ""
+
+#: classtime.py:471
+msgid "Skills:"
+msgstr ""
+
+#: classtime.py:478
+msgid "Programming:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/assignment-result-toast.jsx.js:52
+#, python-format
+msgid "%(num)s items"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/assignment-result-toast.jsx.js:101
+#, python-format
+msgid "You saved %(title)s to %(successClassesText)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/assignment-result-toast.jsx.js:121
+#, python-format
+msgid "You assigned %(title)s to %(successClassesText)s. %(noStudentCopy)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/assignment-result-toast.jsx.js:174
+#, python-format
+msgid "Oops! Looks like deleting %(contentTitle)s failed. Please try again!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/assignment-result-toast.jsx.js:245
+msgid "Not all assignments were successfully created. Check your classes to see which assignments were created."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/class-selector.jsx.js:58
+msgid "Select class"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/date-time-dropdown.jsx.js:75
+msgid "Select date & time"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/new-assignment-modal.jsx.js:68
+#, python-format
+msgid "Assign %(itemCount)s items"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/new-assignment-modal.jsx.js:76
+#, python-format
+msgid "Assign (%(itemCount)s)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/new-assignment-modal.jsx.js:113
+msgid "All assignments will have the same due date."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/student-selector.jsx.js:90 genfiles/compiled_jsx/en/javascript/coach-report-exercise-package/exercise.jsx.js:330
+msgid "All students"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/table-cells.jsx.js:24
+msgid "Unit Test"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/class-creator-modal.jsx.js:192
+msgid "Create class"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/class-creator-modal.jsx.js:211
+msgid "First, give your class a name"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/class-creator-modal.jsx.js:212
+msgid "Now, add one or more subjects to your class"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/class-creator-modal.jsx.js:214
+msgid "This is how your students will see the class on their dashboard"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/class-creator-modal.jsx.js:216
+msgid "We'll personalize your experience based on this"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/class-creator-modal.jsx.js:377
+#, python-format
+msgid "Step %(stepNumber)s of %(totalSteps)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/add-students-screen.jsx.js:55 genfiles/compiled_jsx/en/javascript/class-creator-package/screens/invite-error-screen.jsx.js:155
+msgid "Invite students"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/add-students-screen.jsx.js:244
+msgid "Import from Google Classroom"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/add-students-screen.jsx.js:274 genfiles/compiled_jsx/en/javascript/class-creator-package/screens/subject-selector-screen.jsx.js:122 genfiles/compiled_jsx/en/javascript/google-classroom-package/components/gclassroom-share-modal.jsx.js:145 genfiles/compiled_jsx/en/javascript/reports-package/exercisefilter.jsx.js:189 templates/scratchpads/drawing.html:529
+msgid "Done"
+msgstr ""
+
+# Exercise at (x47d7c009) on the pt stage.
+# (KA_SOURCE_TREE: pt)
+# (format: perseus_text)
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/add-usernames-panel.jsx.js:112 intl/datastore:1
+msgid "restricted"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/add-usernames-panel.jsx.js:113
+msgid " until a parent account connects."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/classname-screen.jsx.js:149
+msgid "Enter class name"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/classname-screen.jsx.js:149 genfiles/compiled_jsx/en/javascript/class-package/settings/edit-class-name.jsx.js:98 genfiles/compiled_jsx/en/javascript/coach-dashboard-package/dashboard.jsx.js:156
+msgid "Class name"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/classname-screen.jsx.js:173
+msgid "import class name and students from Google Classroom"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/classname-screen.jsx.js:187
+msgid "go back"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/classname-screen.jsx.js:196
+msgid "Import class name and students from Google Classroom"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/classname-screen.jsx.js:216
+#, python-format
+msgid "or %(goBack)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/create-accounts-screen.jsx.js:155
+msgid "sample parent notice (in English and Spanish)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/create-accounts-screen.jsx.js:159
+msgid "Create accounts"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/google-course-picker.jsx.js:81
+msgid "Connect to Google Classroom!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/import-students-error-screen.jsx.js:87
+#, python-format
+msgid "We couldn't add this student because their parents have not allowed them to add additional coaches."
+msgid_plural "We couldn't add %(num)s students because their parents have not allowed them to add additional coaches."
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/invite-student-panel.jsx.js:28
+msgid "Students under 13 will need a parent to complete the signup process."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-creator-package/screens/invite-student-panel.jsx.js:34
+msgid "student1@example.com, student2@example.com"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/activity.jsx.js:21
+msgid "See what students spend time on"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/activity.jsx.js:22
+msgid "Hover over student columns for details."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/cc-third-grade-math/cc-third-grade-measurement/cc-third-grade-data/a/read-bar-graphs">http://translate.khanacademy.org/math/cc-third-grade-math/cc-third-grade-measurement/cc-third-grade-data/a/read-bar-graphs</a>.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: genfiles/compiled_jsx/en/javascript/class-package/activity.jsx.js:29 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/tab-bar.jsx.js:180 intl/datastore:1
+msgid "Activity"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/assignments/assignments-module.jsx.js:102
+msgid "See how students are doing on their assignments"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/assignments/assignments-module.jsx.js:104
+#, python-format
+msgid "%(learnHow)s other teachers are using Khan Academy in their classroom."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/learnstorm/learnstorm-tab.jsx.js:164
+msgid "Take a screenshot of your LearnStorm class progress trackers before they disappear on Oct. 30. In the meantime, apply for the LearnStorm School Grand Prize and win up to $5,000 in DonorsChoose.org funding."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/learnstorm/learnstorm-tab.jsx.js:192 genfiles/compiled_jsx/en/javascript/coach-dashboard-package/learnstorm/banner.jsx.js:325
+msgid "Apply for the School Grand Prize"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/learnstorm/learnstorm-tab.jsx.js:204
+msgid "Claim prize box"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/progress/progress-group.jsx.js:58
+msgid "View activity and mastery data for your students and classroom"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/progress/progress-group.jsx.js:60
+msgid "Explore the student view and skills view."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/discussion/mod/flaggedfeedback">http://www.khanacademy.org/discussion/mod/flaggedfeedback</a>
+#: genfiles/compiled_jsx/en/javascript/class-package/projects.jsx.js:37 genfiles/compiled_jsx/en/javascript/profile-nav-package/new-profile-nav.jsx.js:116 javascript/profile-nav-package/profile-router.js:311 scratchpads/profile_widgets.py:64 search/display_util.py:403 templates/discussion/mod/flaggedfeedback.html:38
+msgid "Projects"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/roster.jsx.js:28
+msgid "Let's add students to your classroom!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/roster.jsx.js:29
+msgid "Once you've rostered students, you can assign content and see student progress. You can always do this later if you don't have your roster yet."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/settings/google-classroom-sync.jsx.js:219
+msgid "Select a Google Classroom"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/settings/settings.jsx.js:151
+msgid "Update class information, download student data, and more"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/settings/settings.jsx.js:153
+msgid "You can make changes at any time."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/syllabus/multiple-assign-dialog.jsx.js:60
+msgid "Select content to assign"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/class-package/syllabus/multiple-assign-dialog.jsx.js:68
+#, python-format
+msgid "Assign selected (%(num)s)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/dashboard.jsx.js:144
+msgid "Claim Progress"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/dashboard.jsx.js:176
+msgid "Create a class"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/dashboard.jsx.js:179
+msgid "You can then explore the library, assign content, and see progress."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/dashboard.jsx.js:397
+msgid "getting started guide"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/dashboard.jsx.js:422
+msgid "Welcome! Create a class to get started"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/dashboard.jsx.js:423
+#, python-format
+msgid "Or read our %(gettingStartedGuide)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/dashboard.jsx.js:431
+msgid "You created a class!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/dashboard.jsx.js:432
+#, python-format
+msgid "Check out your class to explore content, add students, and make assignments or read our %(gettingStartedGuide)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/learnstorm/banner.jsx.js:199
+msgid "Claim your students' LearnStorm progress!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/learnstorm/banner.jsx.js:202
+#, python-format
+msgid "%(className)s has completed assignments that have not been claimed for LearnStorm."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/learnstorm/banner.jsx.js:211
+msgid "Claim your class's progress!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/learnstorm/banner.jsx.js:312
+msgid "Take a screenshot of your LearnStorm class progress trackers before they disappear on Oct. 30. In the meantime, finish strong by applying for the LearnStorm School Grand Prize and win up to $5,000 in DonorsChoose.org funding."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/navbar.jsx.js:92
+msgid "Progress does not include students' SAT practice activity."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/navbar.jsx.js:99
+msgid "See SAT activity >"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/students/add-students-link.jsx.js:104 genfiles/compiled_jsx/en/javascript/coach-dashboard-package/students/add-students-link.jsx.js:110 genfiles/compiled_jsx/en/javascript/coach-dashboard-package/students/add-students-link.jsx.js:112
+msgid "Add new students"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/students/pending-invitation-table.jsx.js:32
+msgid "Resending..."
+msgstr ""
+
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/students/student-actions.jsx.js:74 genfiles/compiled_jsx/en/javascript/components/item-list-package/input-item.jsx.js:129 intl/datastore:1
+msgid "Add"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/students/student-actions.jsx.js:120 genfiles/compiled_jsx/en/javascript/coach-dashboard-package/students/student-actions.jsx.js:124 genfiles/compiled_jsx/en/javascript/parent-package/remove-child-widget.jsx.js:56
+msgid "Stop coaching"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-dashboard-package/students/students-table.jsx.js:283
+msgid "Add students to assign content and see progress."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-exercises-package/report.jsx.js:909 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/recommendation-tab.jsx.js:47 genfiles/compiled_jsx/en/javascript/recommendations-package/exercise-picker.jsx.js:319
+msgid "2 in a row"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-exercises-package/report.jsx.js:1691 genfiles/compiled_jsx/en/javascript/coach-report-topic-package/report.jsx.js:375 genfiles/compiled_jsx/en/javascript/reports-package/coach-reports-empty-page.jsx.js:23
+msgid "Manage Students"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/activity-tab.jsx.js:55
+msgid "Total Minutes is the sum of skills minutes, video minutes and programming minutes. Skill minutes approximate time spent practicing in missions, exercises in the library, or skill checks. Video minutes approximate the amount of videos watched. Programming minutes approximate the time students are watching CS talk-throughs and working on programming challenges. For more information, review"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/activity-tab.jsx.js:67
+msgid "this article"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/recommendation-tab.jsx.js:463
+msgid "assign"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/recommendation-tab.jsx.js:467
+#, python-format
+msgid "You can now %(link)s content across subjects to students. (Recommendations will no longer be supported after November 30th, 2017.)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:47
+msgid ""
+"Sum of videos, skills, and programming\n"
+"                minutes in selected date range across all of Khan Academy"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:238
+msgid "username:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:251
+msgid "View this student's profile page"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:457
+msgid "Total Minutes"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-shared-package/report-page.jsx.js:112
+msgid "Topic Quiz"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/coach-report-shared-package/report-page.jsx.js:113
+msgid "Topic Unit Test"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/google-classroom-package/components/gclassroom-course-selector.jsx.js:80
+msgid "Fetching classes from Google..."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/google-classroom-package/components/gclassroom-course-selector.jsx.js:82
+msgid "No Google Classes found!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/google-classroom-package/components/gclassroom-course-selector.jsx.js:84
+msgid "Select a Class"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/reports-package/filterbar.jsx.js:142
+msgid "Bookmark"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/reports-package/filterbar.jsx.js:152
+msgid "Open the following search link. After it opens follow these instructions:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/reports-package/filterbar.jsx.js:219
+#, python-format
+msgid "Please install <a href=%(flashUrl)s>Flash</a> or get <a href=%(chromeUrl)s>Chrome</a> to download reports."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/reports-package/filterbar.jsx.js:317
+#, python-format
+msgid "%(num)s item"
+msgid_plural "%(num)s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/assignments-package/coach-assignments/assignment-csv.js:251
+#, python-format
+msgid "Due %(date)s"
+msgstr ""
+
+#: javascript/assignments-package/coach-assignments/assignment-csv.js:273
+#, python-format
+msgid "Downloaded %(date)s"
+msgstr ""
+
+#: javascript/assignments-package/coach-assignments/assignment-csv.js:276
+msgid "All assignments"
+msgstr ""
+
+#: javascript/class-creator-package/utils.js:18
+msgid "My subject isn't listed"
+msgstr ""
+
+#: javascript/coach-report-progress-by-student-package/activity-graph.js:36
+msgid "Programming Minutes"
+msgstr ""
+
+#: javascript/coach-report-progress-by-student-package/activity-graph.js:108
+msgid "~Total Minutes"
+msgstr ""
+
+#: javascript/coach-report-progress-by-student-package/focus-graph.js:150
+#, python-format
+msgid "%(num)s total problem"
+msgid_plural "%(num)s total problems"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/coach-report-progress-by-student-package/focus-graph.js:154
+#, python-format
+msgid "%(num)s correct problem without a hint"
+msgid_plural "%(num)s correct problems without a hint"
+msgstr[0] ""
+msgstr[1] ""
+
+#: javascript/reports-package/manifest.js:48
+msgid "Time active on Khan Academy per student."
+msgstr ""
+
+#: javascript/reports-package/manifest.js:59
+msgid "Projects created by students, sorted by date."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/coach/certificate">http://www.khanacademy.org/coach/certificate</a>
+#: templates/coaches/certificate.html:4
+msgid "Certificate of Completion"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/coach/certificate">http://www.khanacademy.org/coach/certificate</a>
+#: templates/coaches/certificate.html:106
+msgid "Certificate"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/coach/certificate">http://www.khanacademy.org/coach/certificate</a>
+#: templates/coaches/certificate.html:107
+msgid "of Completion"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/coach/certificate">http://www.khanacademy.org/coach/certificate</a>
+#: templates/coaches/certificate.html:110
+msgid "This certificate is awarded to"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/coach/certificate">http://www.khanacademy.org/coach/certificate</a>
+#: templates/coaches/certificate.html:114
+msgid "for the successful completion of"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/coach/certificate">http://www.khanacademy.org/coach/certificate</a>
+#: templates/coaches/certificate.html:122
+msgid "Signatures of Sal Khan and Pamela Fox"
+msgstr ""
+
+#: templates/settings.html:245
+msgid "Can add other coaches"
+msgstr ""
+
+#: templates/settings.html:526
+msgid "Child accounts"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/save-account-info">http://www.khanacademy.org/save-account-info</a>
+#: templates/student-accounts.html:17
+msgid "Unique Username"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/save-account-info">http://www.khanacademy.org/save-account-info</a>
+#: templates/student-accounts.html:19
+msgid "Parent Email"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/save-account-info">http://www.khanacademy.org/save-account-info</a>
+#: templates/student-accounts.html:20
+msgid "Coach Display Name"
+msgstr ""

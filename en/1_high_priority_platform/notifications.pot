@@ -1,0 +1,687 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:42+0000\n"
+"PO-Revision-Date: 2017-12-01 14:42+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Call to action for a curated module on <a href="http://translate.khanacademy.org/humanities/music">http://translate.khanacademy.org/humanities/music</a>.
+# Call to action for a curated module on <a href="http://translate.khanacademy.org/partner-content/49ers-steam">http://translate.khanacademy.org/partner-content/49ers-steam</a>.
+# Call to action for a curated module on <a href="http://translate.khanacademy.org/partner-content/all-star-orchestra">http://translate.khanacademy.org/partner-content/all-star-orchestra</a>.
+# Call to action for a curated module on <a href="http://translate.khanacademy.org/partner-content/amnh">http://translate.khanacademy.org/partner-content/amnh</a>.
+# Call to action for a curated module on <a href="http://translate.khanacademy.org/partner-content/mit-k12">http://translate.khanacademy.org/partner-content/mit-k12</a>.
+# Call to action for a curated module on (x1dd6613c) on the tr stage.
+# Call to action for a curated module on (x5dad6980) on the bg stage.
+# Call to action for a curated module on (x5dad6980) on the pl stage.
+# Call to action for a curated module on (x5dad6980) on the pt stage.
+# Call to action for a curated module on (x5dad6980) on the tr stage.
+# Call to action for a curated module on (x5ed1079b) on the pl stage.
+# Call to action for a curated module on (x5ed1079b) on the tr stage.
+# Call to action for a curated module on (x70da55a9) on the es stage.
+# Call to action for a curated module on (xf3c15d4e) on the es stage.
+# Call to action for a curated module on (xf3c15d4e) on the pt stage.
+# Call to action for a curated module on (xf3c15d4e) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: bibliotron/handlers.py:2561 coaches/checklist/parent_checklist.py:103 intl/datastore:1 javascript/notifications-package/accept-terms-of-service-notification.handlebars:25
+msgid "Start learning"
+msgstr ""
+
+#: accounts/notifications.py:32
+msgid "Your account will no longer be deleted. You previously tried to delete your account but then logged in again without waiting for the process to finish. If you still want to delete your account, you can do so from Settings."
+msgstr ""
+
+#: coaches/notifications/coach_request_notifications.py:131
+msgid "Multiple classes"
+msgstr ""
+
+#: coaches/notifications/coach_request_notifications.py:170
+msgid "Your first student has accepted your invitation! View student roster."
+msgstr ""
+
+#: coaches/notifications/coach_request_notifications.py:200
+msgid "Looks like you have a bunch of students! Check out our coach resources - it's full of ideas for integrating Khan Academy into a classroom."
+msgstr ""
+
+#: coaches/notifications/coach_request_notifications.py:233
+msgid "You are now connected to your child. Click to view their progress."
+msgstr ""
+
+#: coaches/under13.py:230
+msgid "less than 24 hours"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/the-discovery">http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/the-discovery</a>.
+# Article is at (x9114c20a) on the accents stage.
+# Article is at (x9114c20a) on the bg stage.
+# Article is at (x9114c20a) on the fr stage.
+# Article is at (x9114c20a) on the pl stage.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adverbs/e/meet-the-adverb">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adverbs/e/meet-the-adverb</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adverb">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adverb</a>.
+# Exercise at (xa7b8de32) on the accents stage.
+# Exercise at (xa7b8de32) on the bg stage.
+# Exercise at (xa7b8de32) on the pl stage.
+# Exercise at (xa7b8de32) on the pt stage.
+# Exercise at (xa7b8de32) on the tr stage.
+# Exercise at (xa7b8de32) on the zh-hans stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: genfiles/compiled_jsx/en/javascript/components/modal-package/fullscreen-modal.jsx.js:538 genfiles/compiled_jsx/en/javascript/exercises-legacy-package/exercise-problem-template.jsx.js:69 genfiles/compiled_jsx/en/javascript/exercises-package/components/feedback-popover.jsx.js:62 intl/datastore:1 javascript/exercises-legacy-package/problem-template.handlebars:3 javascript/notifications-package/api-version-mismatch-notification.handlebars:6 javascript/notifications-package/common-core-notification.handlebars:7 javascript/notifications-package/i18n-suggest-notification.handlebars:4 javascript/notifications-package/i18n-test-notification.handlebars:4 javascript/notifications-package/link-email-notification.handlebars:7 javascript/notifications-package/phantom-notification.handlebars:35
+msgid "close"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/dashboard-package/app-chrome.jsx.js:195 genfiles/compiled_jsx/en/javascript/dashboard-package/bibliotron-homepage.jsx.js:104 javascript/notifications-package/accept-terms-of-service-notification.handlebars:4 templates/emails/welcome_email.html:13 templates/emails/welcome_template.html:9
+msgid "Welcome to Khan Academy!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/donate-notification.jsx.js:110 javascript/donate-package/donate.js:117
+msgid "Use credit card"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/hourofcode-notification-view.jsx.js:143
+msgid "Computer Science Ed Week, Dec. 7-13, 2015"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/assignment-created-notification.jsx.js:47 genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/assignment-due-date-notification.jsx.js:53
+#, python-format
+msgid "Your coach %(coachName)s has created an assignment for you."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/assignment-created-notification.jsx.js:51
+#, python-format
+msgid "New assignment! %(contentTitle)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/assignment-due-date-notification.jsx.js:63
+#, python-format
+msgid "The due date for your assignment %(contentTitle)s has changed to %(dateMMDDYYYY)s at %(timeHHMM)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/avatar-notification.jsx.js:44
+#, python-format
+msgid "You've just unlocked your next set of avatars! %(categoryTitle)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/avatar-notification.jsx.js:48
+#, python-format
+msgid "You're close to unlocking your next set of avatars! %(categoryTitle)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/badge-notification.jsx.js:46
+#, python-format
+msgid "You earned %(description)s in %(targetContext)s:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/badge-notification.jsx.js:50
+#, python-format
+msgid "You earned %(description)s:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/class-mission-notification.jsx.js:43
+#, python-format
+msgid "Your coach %(coachNickname)s has enrolled you in %(missionName)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/coach-recommendation-notification.jsx.js:46
+#, python-format
+msgid "Your coach %(coachName)s recommended %(recommendationTitle)s for you."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/coach-request-accepted-notification.jsx.js:43
+#, python-format
+msgid "%(student)s has joined %(class)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/coach-request-accepted-notification.jsx.js:46
+#, python-format
+msgid "%(student)s has accepted your coach request!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/coach-request-notification.jsx.js:69
+#, python-format
+msgid "%(coachNickname)s wants to register as your parent. They will have permission to view your activity and make practice recommendations."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/coach-request-notification.jsx.js:74
+msgid "Accept as parent"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/coach-request-notification.jsx.js:81 templates/emails/coach_student_request_email.html:19
+msgid "Accept as coach"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/coach-request-notification.jsx.js:95
+msgid "Deny request"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/coach-request-notification.jsx.js:98
+#, python-format
+msgid "Done! %(coachNickname)s is now your parent."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/coach-request-notification.jsx.js:100
+#, python-format
+msgid "Done! %(coachNickname)s is now your coach."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/coach-request-notification.jsx.js:102
+msgid "Thanks. Coach request denied."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/coach-request-notification.jsx.js:103
+msgid "Error updating coaches."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/grouped-badge-notification.jsx.js:39
+#, python-format
+msgid "%(desc)s in %(context)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/grouped-badge-notification.jsx.js:55
+#, python-format
+msgid "You earned %(groupedBadgeDescription)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/mod-notification.jsx.js:47
+#, python-format
+msgid "%(aGuardian)s left you a message: \"%(message)s\""
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/mod-notification.jsx.js:61
+msgid "A guardian left you a message"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/new-avatar-notification.jsx.js:44
+msgid "A new avatar has been released!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/response-feedback-notification.jsx.js:62
+#, python-format
+msgid "%(authorNickname)s requested a project evaluation on %(focusTitle)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/response-feedback-notification.jsx.js:71
+#, python-format
+msgid "%(authorNickname)s evaluated your project %(focusTitle)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/response-feedback-notification.jsx.js:76
+msgid "The project passed evaluation!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/response-feedback-notification.jsx.js:77
+msgid "The project needs more work."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/response-feedback-notification.jsx.js:82
+#, python-format
+msgid "%(authorNickname)s asked a question on %(focusTitle)s:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/response-feedback-notification.jsx.js:93
+#, python-format
+msgid "%(authorNickname)s added a comment on %(focusTitle)s:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/response-feedback-notification.jsx.js:102
+#, python-format
+msgid "%(authorNickname)s answered your question on %(focusTitle)s:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/reward-notification.jsx.js:41
+#, python-format
+msgid "You've just unlocked %(displayName)s!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/scratchpad-feedback-notification.jsx.js:52
+#, python-format
+msgid "%(authorNickname)s posted feedback on %(scratchpadTitle)s:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/readable-notifications/scratchpad-feedback-notification.jsx.js:58
+#, python-format
+msgid "%(authorNickname)s asked a new question about %(scratchpadTitle)s:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/rio-2016-notification.jsx.js:30
+msgid "Knowledge Games Rio 2016 are happening now!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/rio-2016-notification.jsx.js:36
+msgid "Sign up to earn medals today"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/rio-2016-phantom-notification.jsx.js:46 javascript/tasks-package/exercise-task.js:300
+#, python-format
+msgid "%(num)s badge"
+msgid_plural "%(num)s badges"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/rio-2016-phantom-notification.jsx.js:52
+#, python-format
+msgid "%(num)s point"
+msgid_plural "%(num)s points"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/rio-2016-phantom-notification.jsx.js:57
+#, python-format
+msgid "You've done your first %(name)s problem!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/rio-2016-phantom-notification.jsx.js:60
+#, python-format
+msgid "You've done %(number)s problems in %(name)s!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/rio-2016-phantom-notification.jsx.js:66
+#, python-format
+msgid "You're now proficient in %(name)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/rio-2016-phantom-notification.jsx.js:69
+#, python-format
+msgid "Congrats on your first %(link)s!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/rio-2016-phantom-notification.jsx.js:72
+#, python-format
+msgid "So far you've earned %(link)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/rio-2016-phantom-notification.jsx.js:75
+#, python-format
+msgid "You've earned over %(link)s!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/rio-2016-phantom-notification.jsx.js:78
+#, python-format
+msgid "You've created %(count)s programs."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/rio-2016-phantom-notification.jsx.js:81
+msgid "You've nearly finished watching a video!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/rio-2016-phantom-notification.jsx.js:82
+msgid "You've finished a video!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/rio-2016-phantom-notification.jsx.js:116
+msgid "Save your progress and earn medals"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/site-outage-notification.jsx.js:27
+#, python-format
+msgid "We've identified issues affecting parts of Khan Academy, and are working to fix them. Please see %(link)s for more information."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/toast-notifications/assignment-completed-notification.jsx.js:37
+msgid "You completed your assignment!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/toast-notifications/assignment-completed-notification.jsx.js:44
+#, python-format
+msgid "You completed your assignment for %(studentListName)s and earned your class progress in LearnStorm!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/toast-notifications/assignment-completed-notification.jsx.js:48
+#, python-format
+msgid "You completed your assignment for %(studentListName)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/toast-notifications/class-created-notification.jsx.js:30
+#, python-format
+msgid "You imported a class %(studentListName)s that includes %(numStudents)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/toast-notifications/class-created-notification.jsx.js:35
+#, python-format
+msgid "You created a class %(studentListName)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/u13-reminder-modal.jsx.js:54
+msgid "Update your parent or guardian's email."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/u13-reminder-modal.jsx.js:59
+msgid "We sent a new email to your parent or guardian."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/u13-reminder-modal.jsx.js:64
+msgid "We sent another email to your parent or guardian."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/u13-reminder-modal.jsx.js:69
+msgid "Remind your parent or guardian to check their email."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/u13-reminder-modal.jsx.js:83
+#, python-format
+msgid "The original email we sent went to <strong>%(email)s</strong>."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/u13-reminder-modal.jsx.js:88
+msgid "Enter an updated email address for them and we'll send them a new email to approve your account."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/u13-reminder-modal.jsx.js:101
+#, python-format
+msgid "They need to click \"approve\" in the email sent to <strong>%(email)s</strong>."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/u13-reminder-modal.jsx.js:106
+#, python-format
+msgid "If they don’t, your account will be deactivated in %(days)s. You will lose all your badges and energy points."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/u13-reminder-modal.jsx.js:114
+msgid "You can "
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/u13-reminder-modal.jsx.js:119
+msgid "update their email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/u13-reminder-modal.jsx.js:121
+msgid " or "
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/u13-reminder-modal.jsx.js:126
+msgid "resend the approval email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/u13-reminder-notification.jsx.js:71
+#, python-format
+msgid "Your parent or guardian must approve your account or it will be deleted in %(days)s."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/notifications-package/u13-reminder-notification.jsx.js:82
+msgid "Learn why"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/glucose-6-phosphate-dehydrogenase-and-the-most-important-function-of-the-pentose-phosphate-pathway">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/glucose-6-phosphate-dehydrogenase-and-the-most-important-function-of-the-pentose-phosphate-pathway</a>.
+# Exercise at (xefa7754c) on the pt stage.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "neurons"
+msgstr ""
+
+#: javascript/notifications-package/accept-terms-of-service-notification.handlebars:8
+msgid "We're excited to have you studying with us. To help you learn as much as possible, we'll be following your progress and guiding you through what to learn next."
+msgstr ""
+
+#: javascript/notifications-package/accept-terms-of-service-notification.handlebars:16
+msgid "I (and my parent) agree to the <a href='/about/tos' target='_blank' tabindex='1'>Terms of Service</a> and <a href='/about/privacy-policy' target='_blank' tabindex='1'>Privacy Policy</a>."
+msgstr ""
+
+#: javascript/notifications-package/accept-terms-of-service-notification.handlebars:18
+msgid "I agree to the <a href='/about/tos' target='_blank' tabindex='1'>Terms of Service</a> and <a href='/about/privacy-policy' target='_blank' tabindex='1'>Privacy Policy</a>."
+msgstr ""
+
+#: javascript/notifications-package/accept-terms-of-service-notification.handlebars:24
+msgid "Logout"
+msgstr ""
+
+#: javascript/notifications-package/api-version-mismatch-notification.handlebars:4
+msgid "The version of this page that you are viewing is out of date, and some features may stop working. Please <a href=\"javascript: location.reload(true)\">refresh the page</a>."
+msgstr ""
+
+#: javascript/notifications-package/common-core-notification.handlebars:4
+msgid "An uncommon approach to the Common Core. "
+msgstr ""
+
+#: javascript/notifications-package/common-core-notification.handlebars:5
+msgid "Learn about our Common Core content"
+msgstr ""
+
+#: javascript/notifications-package/email-bounce-notification.handlebars:6
+msgid "We couldn't deliver your sign-up email to <span class=\"email-address\">{{ email }}"
+msgstr ""
+
+#: javascript/notifications-package/email-bounce-notification.handlebars:8
+msgid "Change address"
+msgstr ""
+
+#: javascript/notifications-package/i18n-suggest-notification.handlebars:3
+msgid "Khan Academy is now available in {{languageNameInRequestLanguage}} ({{localLanguageName}})! Interested?"
+msgstr ""
+
+#: javascript/notifications-package/i18n-test-notification.handlebars:3
+msgid "Welcome to the test site for the {{languageLocalName}} version of Khan Academy. We need your help to make it better!"
+msgstr ""
+
+#: javascript/notifications-package/i18n-test-notification.handlebars:3
+msgid "Learn how to help."
+msgstr ""
+
+#: javascript/notifications-package/link-email-notification.handlebars:5
+msgid "Add your email address"
+msgstr ""
+
+#: javascript/notifications-package/phantom-notification.handlebars:5
+msgid "You&rsquo;ve done your first {{translatedExerciseDisplayName}} problem!"
+msgstr ""
+
+#: javascript/notifications-package/phantom-notification.handlebars:8
+msgid "You&rsquo;ve done {{problem_number}} problems in {{translatedExerciseDisplayName}}!"
+msgstr ""
+
+#: javascript/notifications-package/phantom-notification.handlebars:11
+msgid "You&rsquo;re now proficient in {{translatedExerciseDisplayName}}."
+msgstr ""
+
+#: javascript/notifications-package/phantom-notification.handlebars:14
+msgid "Congrats on your first <a href='{{achievementsUrl}}'>badge</a>!"
+msgstr ""
+
+#: javascript/notifications-package/phantom-notification.handlebars:17
+msgid "You&rsquo;ve earned <a href='/profile'>{{badgesCount}} badges</a> so far."
+msgstr ""
+
+#: javascript/notifications-package/phantom-notification.handlebars:20
+msgid "You&rsquo;ve earned over <a href='/profile'>{{points}} points</a>!"
+msgstr ""
+
+#: javascript/notifications-package/phantom-notification.handlebars:23
+msgid "You&rsquo;ve created {{scratchpad_count}} programs."
+msgstr ""
+
+#: javascript/notifications-package/phantom-notification.handlebars:27
+msgid "You&rsquo;ve nearly finished watching a video!"
+msgstr ""
+
+#: javascript/notifications-package/phantom-notification.handlebars:31
+msgid "You&rsquo;ve finished a video!"
+msgstr ""
+
+#: javascript/notifications-package/phantom-notification.handlebars:33
+msgid "Sign up to save your progress"
+msgstr ""
+
+#: javascript/notifications-package/restricted-domain-age-check-notification-view.js:34
+msgid "We see you're signing in with a school account!"
+msgstr ""
+
+#: javascript/notifications-package/restricted-domain-age-check-notification-view.js:61
+msgid "Done! Keep learning."
+msgstr ""
+
+#: javascript/notifications-package/restricted-domain-age-check-notification.handlebars:2
+msgid ""
+"\n"
+"        Please let us know how old you are so we can give you the best experience.\n"
+"        <a target=\"_blank\" href=\"#\" id=\"age-question-learn-more\">Learn more about why we ask.</a>\n"
+"    "
+msgstr ""
+
+#: javascript/notifications-package/restricted-domain-age-check-notification.handlebars:8
+msgid ""
+"\n"
+"        We’re deeply committed to creating a safe and secure online environment for all of our learners, and we want learners of all ages to enjoy using our site.\n"
+"        We’re asking about your age because we take <a href='/resources/parents-mentors-1/privacy-and-security/a/a/how-does-khan-academy-protect-students-under-age-13'>extra care for our younger learners under the age of 13</a>, so please be honest!\n"
+"        We want to give you the best, safest experience for your age.\n"
+"        Happy learning!\n"
+"    "
+msgstr ""
+
+#: javascript/notifications-package/restricted-domain-age-check-notification.handlebars:18
+msgid "How old are you?"
+msgstr ""
+
+#: javascript/notifications-package/verify-email-notification.handlebars:7
+msgid ""
+"<a class=\"simple-button primary\" href=\"{{ mailServerUrl }}\">\n"
+"                    <i class=\"icon-envelope-alt\"></i>\n"
+"                    <span class=\"button-text\">Open your {{ mailServerName }}</span>\n"
+"                </a>\n"
+"                <span class=\"finish-sign-up\">\n"
+"                    to finish signing up with\n"
+"                </span>\n"
+"                <span class=\"email-address\">{{ email }}</span>."
+msgstr ""
+
+#: javascript/notifications-package/verify-email-notification.handlebars:16
+msgid ""
+"<span class=\"finish-sign-up\">\n"
+"                Open your email to finish signing up with\n"
+"            </span>\n"
+"            <span class=\"email-address\">{{ email }}</span>."
+msgstr ""
+
+#: javascript/notifications-package/zero-rated-notification.handlebars:8
+msgid "Welcome! You can now use Khan Academy without using any of your mobile data."
+msgstr ""
+
+#: javascript/notifications-package/zero-rated-notification.handlebars:9
+msgid "Learn more here."
+msgstr ""
+
+#: javascript/notifications-package/zero-rating-available-notification.handlebars:8
+msgid ""
+"Thanks to your mobile carrier, Khan Academy is now available free\n"
+"            of data charges. Start learning at\n"
+"            <a href=\"/zero/prefer-zero\">{{zeroRatedBaseUrl}}</a>."
+msgstr ""
+
+#: javascript/phantom-package/change-email-dialog.handlebars:22 javascript/phantom-package/notifications.js:282
+msgid "Change email address"
+msgstr ""
+
+#: javascript/phantom-package/notifications.js:102
+msgid "Email sent (check your junk folder)"
+msgstr ""
+
+#: javascript/phantom-package/notifications.js:108
+msgid "Sending..."
+msgstr ""
+
+#: javascript/phantom-package/notifications.js:287
+msgid "Changing..."
+msgstr ""
+
+#: javascript/profile-package/profile-discussion.js:260
+msgid "A guardian left you a message:"
+msgstr ""
+
+#: notifications/urgent_notifications.py:501
+msgid "Never lose access to your account."
+msgstr ""
+
+#: notifications/urgent_notifications.py:555
+msgid "You're already logged in! Log out first if you want to sign up with a new account."
+msgstr ""
+
+#: notifications/urgent_notifications.py:840
+msgid "Use Khan Academy to practice your math skills."
+msgstr ""
+
+#: notifications/urgent_notifications.py:842
+msgid "Unlock your Learning Dashboard"
+msgstr ""
+
+#: notifications/urgent_notifications.py:876
+msgid "Next step in your \"Getting started\" parent checklist:"
+msgstr ""
+
+#: notifications/urgent_notifications.py:878 notifications/urgent_notifications.py:998
+msgid "Start the next step"
+msgstr ""
+
+#: notifications/urgent_notifications.py:916
+msgid "Warning! You are impersonating another user. Be careful when taking actions!"
+msgstr ""
+
+#: notifications/urgent_notifications.py:996
+msgid "Next step in your \"Getting started\" coach checklist:"
+msgstr ""
+
+#: notifications/urgent_notifications.py:1271
+#, python-format
+msgid "We'll get right to the point: we're asking you to help support Khan Academy. We're a nonprofit that relies on support from people like you. <b> If everyone reading this gives $%(dollars)s monthly, Khan Academy can continue to thrive for years. </b> Please help keep Khan Academy free, for anyone, anywhere forever."
+msgstr ""
+
+#: notifications/urgent_notifications.py:1658
+msgid "Change your language settings"
+msgstr ""
+
+#: notifications/urgent_notifications.py:1667
+#, python-format
+msgid "I want to see the site in %(local_language_name)s"
+msgstr ""
+
+#: rewards/notifications/avatar_notifications.py:61
+msgid "New Avatars!"
+msgstr ""
+
+#: rewards/notifications/badge_notifications.py:132
+msgid "New badge!"
+msgstr ""
+
+#: scratchpads/notifications/cs_notifications.py:40
+msgid "Now that you've learned JS, you can help others learn. Start evaluating projects today! → →"
+msgstr ""
+
+#: scratchpads/notifications/cs_notifications.py:70
+msgid "Help one of your fellow students learn, evaluate a project today! → →"
+msgstr ""
+
+#: scratchpads/notifications/cs_notifications.py:125
+msgid "Now that your project has been evaluated, return the favor. Evaluate a peer today! → →"
+msgstr ""
+
+#: scratchpads/notifications/cs_notifications.py:165
+msgid "Your student completed a tutorial: "
+msgstr ""
+
+#: scratchpads/notifications/cs_notifications.py:167
+msgid "- print out your student's certificate!"
+msgstr ""

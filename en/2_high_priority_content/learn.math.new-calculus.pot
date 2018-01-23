@@ -1,0 +1,195 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:16+0000\n"
+"PO-Revision-Date: 2017-11-21 12:16+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc/concavity-calc">http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc/concavity-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn what concavity is and how it relates to a function's second derivative."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc/lhopitals-rule-calc">http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc/lhopitals-rule-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "L'Hôpital's rule provides us with an easy, almost magical way of finding indeterminate limits of quotients of functions using the functions' derivatives."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc/mean-value-theorem-calc">http://translate.khanacademy.org/math/new-calculus/derivative-applications-calc/mean-value-theorem-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "The mean value theorem describes a property of differentiable functions that relates the derivative (as instantaneous rate of change) with the function's average rate of change over an interval."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/integration-calc/definite-integral-as-the-limit-of-a-riemann-sum-calc">http://translate.khanacademy.org/math/new-calculus/integration-calc/definite-integral-as-the-limit-of-a-riemann-sum-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about the formal definition of definite integrals as the limits of Riemann sums."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/integration-calc/definite-integral-evaluation-calc">http://translate.khanacademy.org/math/new-calculus/integration-calc/definite-integral-evaluation-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "The fundamental theorem tells us how we can evaluate definite integrals. Now let's put this to use and evaluate some!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/integration-calc/definite-integral-properties-calc">http://translate.khanacademy.org/math/new-calculus/integration-calc/definite-integral-properties-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Definite integrals behave is specific ways with shared properties. Learn about these properties and use them in order to evaluate integrals."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/continuity-at-a-point-calc">http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/continuity-at-a-point-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Continuous functions are, in essence, functions whose graph can be drawn with a single brush stroke. Continuity is actually tightly related to limits. Learn all about it here."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/continuous-functions-calc">http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/continuous-functions-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn all about the conditions under which the common function types are continuous."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/intermediate-value-theorem-calc">http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/intermediate-value-theorem-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Intermediate value theorem describes a basic but important property of all continuous functions. Learn all about it here."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/limits-basics-review-calc">http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/limits-basics-review-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Review your understanding of limits with some challenge problems."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/limits-from-tables-calc">http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/limits-from-tables-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Find limits by creating a table of values and analyzing the apparent trend."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/limits-introduction-calc">http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/limits-introduction-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Gain an intuitive understanding of limits."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/squeeze-theorem-calc">http://translate.khanacademy.org/math/new-calculus/limits-and-continuity-calc/squeeze-theorem-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Squeeze theorem (or Sandwich theorem) may seem simple but it's pure genius. Learn how it helps us find tricky limits like sin(x)/x at x=0."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/basic-differentiation-rules-calc">http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/basic-differentiation-rules-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "If you ever tried to find derivatives using their formal definition, you probably know how tedious that may be. Fortunately, we have ways for finding derivatives much quicker, using differentiation rules! Make your first steps in this fascinating world by working with the more basic rules."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/chain-rule-calc">http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/chain-rule-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "The chain rule tells us how to find the derivative of a composite function. It may be slightly hard to grasp, but its importance cannot be overstated!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/derivatives-of-inverse-functions-calc">http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/derivatives-of-inverse-functions-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Implicit differentiation provides us with the relationship between the derivatives of inverse functions. Get comfortable working with this relationship."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/differentiability-calc">http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/differentiability-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "The derivative of a function isn't necessarily defined at every point. Learn about the conditions for the derivative to exist, and specifically about how continuity fits with this story."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/ex-and-lnx-derivatives-calc">http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/ex-and-lnx-derivatives-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about the derivatives of eˣ and ln(x)."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/formal-definition-of-derivative-calc">http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/formal-definition-of-derivative-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Make introduction with the formal algebraic definitions of the derivative."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/power-rule-calc">http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/power-rule-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "The power rule allows us to quickly find the derivative of any polynomial, and it doesn't even stop there! Make introduction with this simple but powerful rule."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/product-rule-calc">http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/product-rule-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "The product rule tells us how to find the derivative of a function which is a product of two other, more basic, functions."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/quotient-rule-calc">http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/quotient-rule-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "The product rule tells us how to find the derivative of a function which is a quotient of two other, more basic, functions."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/sine-and-cosine-derivatives-calc">http://translate.khanacademy.org/math/new-calculus/taking-derivatives-calc/sine-and-cosine-derivatives-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about the derivatives of sin(x) and cos(x)."
+msgstr ""

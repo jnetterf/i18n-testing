@@ -1,0 +1,548 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:42+0000\n"
+"PO-Revision-Date: 2017-12-01 14:42+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# English version in label at <a href="https://www.khanacademy.org/article/a/picture-graphs-review">https://www.khanacademy.org/article/a/picture-graphs-review</a>
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+# See text on <a href="http://www.khanacademy.org/about/the-team">http://www.khanacademy.org/about/the-team</a>
+# Translate label in article at <a href="https://www.khanacademy.org/translations/edit/redirect/a/picture-graphs-review?lang=en-pt">https://www.khanacademy.org/translations/edit/redirect/a/picture-graphs-review?lang=en-pt</a>.
+#: genfiles/labels/en/fc37e4bb877e247e2deeb66b9b56bb830cb8c525-data.json:2 templates/about/about_our_interns.html:956 templates/about/about_the_team.html:479 templates/about/about_the_team.html:516
+msgid "Kevin"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/our-interns">http://www.khanacademy.org/about/our-interns</a>
+#: templates/about/about_our_interns.html:569
+msgid "William"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/e/meet-the-article">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/e/meet-the-article</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-article">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-article</a>.
+# Exercise at (x232ee7aa) on the pl stage.
+# Exercise at (x232ee7aa) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: genfiles/compiled_jsx/en/javascript/components/modal-package/fullscreen-modal.jsx.js:628 intl/datastore:1
+msgid "next"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/periodic-table-package/periodic-table.jsx.js:84
+msgid "Periodic table of the elements"
+msgstr ""
+
+# calculator error message
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-save-spinoff-buttons.jsx.js:348 genfiles/khan-exercises/en/calculator.js:641
+msgid "Error"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/ancient-art-civilizations/aegean-art1/mycenaean/e/mask-of-agamemnon-quiz">http://translate.khanacademy.org/humanities/ancient-art-civilizations/aegean-art1/mycenaean/e/mask-of-agamemnon-quiz</a>.
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/big-history-project/expansion-interconnection/commerce-collective-learning/e/quiz--commerce---collective-learning">http://translate.khanacademy.org/partner-content/big-history-project/expansion-interconnection/commerce-collective-learning/e/quiz--commerce---collective-learning</a>.
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/getty-museum/getty-decorative-arts/e/stained-glass-quiz">http://translate.khanacademy.org/partner-content/getty-museum/getty-decorative-arts/e/stained-glass-quiz</a>.
+# Exercise at (x0e23de14) on the tr stage.
+# Exercise at (x27ec4d39) on the pl stage.
+# Exercise at (xdefe2f3a) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "gold"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/e/meet-the-adjective">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/e/meet-the-adjective</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adjective">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adjective</a>.
+# Exercise at (x30a7c19d) on the pl stage.
+# Exercise at (x30a7c19d) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "brown"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/e/meet-the-adjective">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/e/meet-the-adjective</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adjective">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adjective</a>.
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/pixar/color/color-space/e/hsl-space">http://translate.khanacademy.org/partner-content/pixar/color/color-space/e/hsl-space</a>.
+# Exercise at (x303f713d) on the ja stage.
+# Exercise at (x303f713d) on the pl stage.
+# Exercise at (x303f713d) on the tr stage.
+# Exercise at (x30a7c19d) on the pl stage.
+# Exercise at (x30a7c19d) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "yellow"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/e/meet-the-article">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adjectives-and-articles/e/meet-the-article</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adverbs/e/using-adverbs-and-adjectives">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adverbs/e/using-adverbs-and-adjectives</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-article">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-article</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/using-adverbs-and-adjectives">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/using-adverbs-and-adjectives</a>.
+# Exercise at (x232ee7aa) on the pl stage.
+# Exercise at (x232ee7aa) on the tr stage.
+# Exercise at (x9380e917) on the pl stage.
+# Exercise at (x9380e917) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "first"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adverbs/e/meet-the-adverb">http://translate.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/introduction-to-adverbs/e/meet-the-adverb</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adverb">http://translate.khanacademy.org/humanities/grammar/partsofspeech/the-modifier/e/meet-the-adverb</a>.
+# Exercise at (xa7b8de32) on the pl stage.
+# Exercise at (xa7b8de32) on the tr stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "history"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/usage-and-style/frequently-confused-words/e/frequently-confused-words--too-to-two">http://translate.khanacademy.org/humanities/grammar/usage-and-style/frequently-confused-words/e/frequently-confused-words--too-to-two</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/increasing-decreasing-intervals-and-extrema-review-ab/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/increasing-decreasing-intervals-and-extrema-review-ab/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/increasing-decreasing-intervals-and-extrema-review-calc/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/increasing-decreasing-intervals-and-extrema-review-calc/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/increasing-decreasing-intervals-and-extrema-review-dc/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/increasing-decreasing-intervals-and-extrema-review-dc/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/getty-museum/getty-sculpture/e/polychrome-sculpture-quiz">http://translate.khanacademy.org/partner-content/getty-museum/getty-sculpture/e/polychrome-sculpture-quiz</a>.
+# Exercise at (x04a330fb) on the tr stage.
+# Exercise at (x876083ad0115efee) on the pl stage.
+# Exercise at (x876083ad0115efee) on the tr stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "two"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/gothic1/e/cathedral-of-notre-dame-de-chartres-quiz">http://translate.khanacademy.org/humanities/medieval-world/latin-western-europe/gothic1/e/cathedral-of-notre-dame-de-chartres-quiz</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/central-italy1/e/piero-della-francesca-s-baptism-of-christ-quiz">http://translate.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/central-italy1/e/piero-della-francesca-s-baptism-of-christ-quiz</a>.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/mannerism1/e/pontormo-s-entombment-quiz">http://translate.khanacademy.org/humanities/renaissance-reformation/mannerism1/e/pontormo-s-entombment-quiz</a>.
+# Exercise at (x565b2aa9) on the accents stage.
+# Exercise at (x565b2aa9) on the bg stage.
+# Exercise at (x565b2aa9) on the pl stage.
+# Exercise at (x565b2aa9) on the pt stage.
+# Exercise at (x5c4002f7) on the accents stage.
+# Exercise at (x5c4002f7) on the bg stage.
+# Exercise at (x5c4002f7) on the es stage.
+# Exercise at (x5c4002f7) on the pl stage.
+# Exercise at (x5c4002f7) on the pt stage.
+# Exercise at (x9c742cef) on the accents stage.
+# Exercise at (x9c742cef) on the bg stage.
+# Exercise at (x9c742cef) on the pl stage.
+# Exercise at (x9c742cef) on the pt stage.
+# Math SEO keyword
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1 intl/manual.csv:49 missions/email_util.py:30
+msgid "geometry"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/leonardo-da-vinci/e/leonardo-s">http://translate.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/leonardo-da-vinci/e/leonardo-s</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/increasing-decreasing-intervals-and-extrema-review-ab/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/increasing-decreasing-intervals-and-extrema-review-ab/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/increasing-decreasing-intervals-and-extrema-review-calc/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/increasing-decreasing-intervals-and-extrema-review-calc/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/increasing-decreasing-intervals-and-extrema-review-dc/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/increasing-decreasing-intervals-and-extrema-review-dc/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at (x2240397b) on the pt stage.
+# Exercise at (x80247907) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "five"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/leonardo-da-vinci/e/leonardo-s">http://translate.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/leonardo-da-vinci/e/leonardo-s</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/increasing-decreasing-intervals-and-extrema-review-ab/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/increasing-decreasing-intervals-and-extrema-review-ab/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/increasing-decreasing-intervals-and-extrema-review-calc/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/increasing-decreasing-intervals-and-extrema-review-calc/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/increasing-decreasing-intervals-and-extrema-review-dc/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/increasing-decreasing-intervals-and-extrema-review-dc/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/getty-museum/getty-sculpture/e/polychrome-sculpture-quiz">http://translate.khanacademy.org/partner-content/getty-museum/getty-sculpture/e/polychrome-sculpture-quiz</a>.
+# Exercise at (x04a330fb) on the tr stage.
+# Exercise at (x2240397b) on the pt stage.
+# Exercise at (x80247907) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "four"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/leonardo-da-vinci/e/leonardo-s">http://translate.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/leonardo-da-vinci/e/leonardo-s</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/increasing-decreasing-intervals-and-extrema-review-ab/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/increasing-decreasing-intervals-and-extrema-review-ab/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/increasing-decreasing-intervals-and-extrema-review-calc/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/increasing-decreasing-intervals-and-extrema-review-calc/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/increasing-decreasing-intervals-and-extrema-review-dc/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/increasing-decreasing-intervals-and-extrema-review-dc/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at (x2240397b) on the pt stage.
+# Exercise at (x80247907) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "six"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/leonardo-da-vinci/e/leonardo-s">http://translate.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/leonardo-da-vinci/e/leonardo-s</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/increasing-decreasing-intervals-and-extrema-review-ab/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/increasing-decreasing-intervals-and-extrema-review-ab/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/increasing-decreasing-intervals-and-extrema-review-calc/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/increasing-decreasing-intervals-and-extrema-review-calc/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/increasing-decreasing-intervals-and-extrema-review-dc/e/increasing-decreasing-intervals-and-extrema-challenge">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/increasing-decreasing-intervals-and-extrema-review-dc/e/increasing-decreasing-intervals-and-extrema-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/getty-museum/getty-sculpture/e/polychrome-sculpture-quiz">http://translate.khanacademy.org/partner-content/getty-museum/getty-sculpture/e/polychrome-sculpture-quiz</a>.
+# Exercise at (x04a330fb) on the tr stage.
+# Exercise at (x2240397b) on the pt stage.
+# Exercise at (x80247907) on the pl stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "three"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra2/rational-expressions-equations-and-functions/adding-and-subtracting-rational-expressions/e/adding_and_subtracting_rational_expressions">http://translate.khanacademy.org/math/algebra2/rational-expressions-equations-and-functions/adding-and-subtracting-rational-expressions/e/adding_and_subtracting_rational_expressions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-place-value-rounding/cc-4th-comparing-multi-digit-numbers/e/compare-multi-digit-numbers-word-problems">http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-place-value-rounding/cc-4th-comparing-multi-digit-numbers/e/compare-multi-digit-numbers-word-problems</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-third-grade-math/cc-third-grade-measurement/cc-third-grade-picture-graphs/e/solving-problems-with-picture-graphs-2">http://translate.khanacademy.org/math/cc-third-grade-math/cc-third-grade-measurement/cc-third-grade-picture-graphs/e/solving-problems-with-picture-graphs-2</a>.
+# Exercise at (x3d19c3fa) on the bg stage.
+# Exercise at (x3d19c3fa) on the pt stage.
+# Exercise at (x6c74e5aa0f440477) on the lol stage.
+# Exercise at (xd387e694) on the bg stage.
+# Exercise at (xd387e694) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Daniel"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative</a>.
+# Exercise at (x2240397b) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "seven"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/amnh/human-evolutio/darwin-and-evolution-by-natural-selection/e/quiz-darwin-and-evolution-by-natural-selection">http://translate.khanacademy.org/partner-content/amnh/human-evolutio/darwin-and-evolution-by-natural-selection/e/quiz-darwin-and-evolution-by-natural-selection</a>.
+# Exercise at (xb5bf0b68) on the tr stage.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "billion"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/amnh/human-evolutio/darwin-and-evolution-by-natural-selection/e/quiz-darwin-and-evolution-by-natural-selection">http://translate.khanacademy.org/partner-content/amnh/human-evolutio/darwin-and-evolution-by-natural-selection/e/quiz-darwin-and-evolution-by-natural-selection</a>.
+# Exercise at (xb5bf0b68) on the tr stage.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "trillion"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/big-history-project/solar-system-and-earth/earth-and-form-solar-system/e/quiz--earth---the-formation-of-our-solar-system">http://translate.khanacademy.org/partner-content/big-history-project/solar-system-and-earth/earth-and-form-solar-system/e/quiz--earth---the-formation-of-our-solar-system</a>.
+# Exercise at (x4dc24b92) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "fifth"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/big-history-project/solar-system-and-earth/earth-and-form-solar-system/e/quiz--earth---the-formation-of-our-solar-system">http://translate.khanacademy.org/partner-content/big-history-project/solar-system-and-earth/earth-and-form-solar-system/e/quiz--earth---the-formation-of-our-solar-system</a>.
+# Exercise at (x4dc24b92) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "fourth"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/big-history-project/solar-system-and-earth/earth-and-form-solar-system/e/quiz--earth---the-formation-of-our-solar-system">http://translate.khanacademy.org/partner-content/big-history-project/solar-system-and-earth/earth-and-form-solar-system/e/quiz--earth---the-formation-of-our-solar-system</a>.
+# Exercise at (x4dc24b92) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "second"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/big-history-project/solar-system-and-earth/earth-and-form-solar-system/e/quiz--earth---the-formation-of-our-solar-system">http://translate.khanacademy.org/partner-content/big-history-project/solar-system-and-earth/earth-and-form-solar-system/e/quiz--earth---the-formation-of-our-solar-system</a>.
+# Exercise at (x4dc24b92) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "third"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/getty-museum/antiquities/getty-ancient-greek-vases/e/athenian-painted-vases-quiz">http://translate.khanacademy.org/partner-content/getty-museum/antiquities/getty-ancient-greek-vases/e/athenian-painted-vases-quiz</a>.
+# Exercise at (xcd503f1e) on the es stage.
+# Exercise at (xcd503f1e) on the tr stage.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "black"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/getty-museum/antiquities/getty-ancient-greek-vases/e/athenian-painted-vases-quiz">http://translate.khanacademy.org/partner-content/getty-museum/antiquities/getty-ancient-greek-vases/e/athenian-painted-vases-quiz</a>.
+# Exercise at (xcd503f1e) on the es stage.
+# Exercise at (xcd503f1e) on the tr stage.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "white"
+msgstr ""
+
+#: javascript/corelibs-legacy-package/handlebars-extras.js:137
+#, python-format
+msgid "%(item1)s and %(item2)s"
+msgstr ""
+
+#: javascript/corelibs-legacy-package/handlebars-extras.js:141
+#, python-format
+msgid "%(items_with_commas)s, and %(last_item)s"
+msgstr ""
+
+#: javascript/perseus-all-package/util/answer-types.js:531 third_party/javascript-khansrc/perseus/build/editor-perseus.js:13644 third_party/javascript-khansrc/perseus/build/frame-perseus.js:21894 third_party/javascript-khansrc/perseus/build/perseus-slim.js:9264
+msgid "Your answer is almost correct, but it is missing a <code>\\%</code> at the end."
+msgstr ""
+
+#: javascript/perseus-all-package/util/answer-types.js:540 third_party/javascript-khansrc/perseus/build/editor-perseus.js:13649 third_party/javascript-khansrc/perseus/build/frame-perseus.js:21897 third_party/javascript-khansrc/perseus/build/perseus-slim.js:9267
+msgid "Your answer is almost correct, but it needs to be simplified."
+msgstr ""
+
+#: javascript/perseus-all-package/util/answer-types.js:552 third_party/javascript-khansrc/perseus/build/editor-perseus.js:13655 third_party/javascript-khansrc/perseus/build/frame-perseus.js:21903 third_party/javascript-khansrc/perseus/build/perseus-slim.js:9273
+msgid "Your answer is close, but you may have approximated pi. Enter your answer as a multiple of pi, like <code>12\\ \\text{pi}</code> or <code>2/3\\ \\text{pi}</code>"
+msgstr ""
+
+#: missions/email_util.py:41
+msgid "math"
+msgstr ""

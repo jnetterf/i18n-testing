@@ -1,0 +1,2782 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:42+0000\n"
+"PO-Revision-Date: 2017-12-01 14:42+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: coaches/emails/u13_parent_approve_email.py:22 templates/emails/u13/u13_parent_approve_email.html:7
+msgid "Approve your child's Khan Academy account"
+msgstr ""
+
+#: coaches/emails/u13_parent_reminder_email.py:22
+msgid "Reminder: approve your child's Khan Academy account"
+msgstr ""
+
+# Comment: User-visible description of the video content type
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: content/meta_tags.py:196 genfiles/compiled_jsx/en/javascript/parent-package/activity-group.jsx.js:67 intl/datastore:1 templates/emails/subscriptions/parent_report_email.html:224 templates/emails/subscriptions/parent_report_email.txt:50
+msgid "video"
+msgid_plural "videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: emails/mastery_email.py:30
+msgid "Here comes a new mastery challenge!"
+msgstr ""
+
+#: emails/mastery_email.py:32
+msgid "Can you meet this next mastery challenge?"
+msgstr ""
+
+#: emails/mastery_email.py:35
+msgid "You're ready to master a new skill"
+msgstr ""
+
+#: emails/mastery_email.py:37
+msgid "A mastery challenge appears!"
+msgstr ""
+
+#: emails/mastery_email.py:39
+msgid "It's mastery time!"
+msgstr ""
+
+#: emails/mastery_email.py:41
+msgid "A new mastery challenge is waiting for you!"
+msgstr ""
+
+#: emails/mastery_email.py:43 emails/mastery_email.py:252
+msgid "Your next mastery challenge is waiting for you!"
+msgstr ""
+
+#: emails/mastery_email.py:248
+#, python-format
+msgid "Your next %(title)s mastery challenge is waiting for you!"
+msgstr ""
+
+#: emails/models.py:451
+msgid "Welcome to the class"
+msgstr ""
+
+#: emails/models.py:513
+msgid "We've missed you at Khan Academy!"
+msgstr ""
+
+#: emails/models.py:673
+msgid "If this is challenging, you have an opportunity to learn and become smarter!"
+msgstr ""
+
+#: emails/models.py:677
+msgid "Did you know that your brain gets better the more you use it?"
+msgstr ""
+
+#: emails/models.py:681
+msgid "Remember, thinking hard makes your brain grow stronger!"
+msgstr ""
+
+#: emails/models.py:682
+msgid "Your brain grows new connections every time you practice. Help your brain grow new connections!"
+msgstr ""
+
+#: emails/models.py:685
+msgid "Make your brain more powerful!"
+msgstr ""
+
+#: emails/models.py:686
+msgid "Give your brain a workout. The more you use it, the stronger it gets!"
+msgstr ""
+
+#: emails/models.py:747 emails/subscriptions.py:740
+#, python-format
+msgid "Due %(due_date)s"
+msgstr ""
+
+#: emails/models.py:753 javascript/assignments-package/coach-assignments/assignment-csv.js:254
+msgid "Assignment"
+msgstr ""
+
+#: emails/models.py:765
+#, python-format
+msgid "You've been assigned %(content_title)s!"
+msgstr ""
+
+#: emails/models.py:772
+msgid "You have a new assignment!"
+msgstr ""
+
+#: emails/models.py:887
+#, python-format
+msgid "Join %(coach)s's classes at Khan Academy!"
+msgstr ""
+
+#: emails/models.py:890
+#, python-format
+msgid "Join %(coach)s's class at Khan Academy!"
+msgstr ""
+
+#: emails/models.py:971 templates/emails/coach_preauthorized_student_email.html:5 templates/emails/coach_preauthorized_student_email.txt:1
+#, python-format
+msgid "Welcome to %(coach_name)s's class on Khan Academy!"
+msgstr ""
+
+#: emails/models.py:1032
+#, python-format
+msgid "%(coach)s has requested to be your coach"
+msgstr ""
+
+#: emails/models.py:1035 templates/emails/coach_student_request_email.html:11
+msgid "You have a new coach request!"
+msgstr ""
+
+#: emails/models.py:1109
+#, python-format
+msgid "%(parent)s has invited you to join Khan Academy!"
+msgstr ""
+
+#: emails/models.py:1112
+msgid "You've been invited to join Khan Academy!"
+msgstr ""
+
+#: emails/models.py:1234 templates/emails/parent_claim_spawned_student_email.html:6 templates/emails/parent_claim_spawned_student_email.txt:1
+msgid "You are now a parent on Khan Academy"
+msgstr ""
+
+#: emails/models.py:1347
+#, python-format
+msgid "%(student)s has requested you as a coach for Khan Academy"
+msgstr ""
+
+#: emails/models.py:1406
+msgid "Your child has added a new coach on Khan Academy!"
+msgstr ""
+
+#: emails/models.py:1475
+msgid "Your child has received a new coach request on Khan Academy!"
+msgstr ""
+
+#: emails/models.py:2104
+#, python-format
+msgid "New features for your almost-teenager, %(child)s!"
+msgstr ""
+
+#: emails/models.py:2190
+#, python-format
+msgid "New answer to your question on \"%(translated_page_title)s\""
+msgstr ""
+
+#: emails/models.py:2217
+msgid "Comment on this answer"
+msgstr ""
+
+#: emails/models.py:2219
+msgid "Vote or comment on this answer"
+msgstr ""
+
+#: emails/models.py:2390
+#, python-format
+msgid "Your project \"%(translated_page_title)s\" has been evaluated"
+msgstr ""
+
+#: emails/models.py:2407
+msgid "Continue working on your project"
+msgstr ""
+
+#: emails/models.py:2622
+msgid "Students added to your class"
+msgstr ""
+
+#: emails/onboarding/choose_avatar_email.py:28
+msgid "Choose a new avatar"
+msgstr ""
+
+#: emails/onboarding/content_library_email.py:36
+msgid "Every Subject"
+msgstr ""
+
+#: emails/onboarding/download_apps_email.py:47
+msgid "Get the Khan Academy app"
+msgstr ""
+
+#: emails/onboarding/growth_mindset_email.py:23
+msgid "Why I'll never tell my son he's smart"
+msgstr ""
+
+#: emails/onboarding/mastery_learning_email.py:23
+msgid "My latest TED talk"
+msgstr ""
+
+#: emails/onboarding/mission_introduction_email.py:37 genfiles/compiled_jsx/en/javascript/dashboard-package/task-entry.jsx.js:34
+msgid "Watch"
+msgstr ""
+
+#: emails/onboarding/mission_introduction_email.py:68
+#, python-format
+msgid "Start your %(mission_title)s mission"
+msgstr ""
+
+#: emails/onboarding/practice_email.py:35
+msgid "Time to practice"
+msgstr ""
+
+#: emails/onboarding/share_success_email.py:29
+msgid "Share your success!"
+msgstr ""
+
+#: emails/onboarding/try_mission_email.py:35
+#, python-format
+msgid "Take a quick %(mission_title)s quiz"
+msgstr ""
+
+#: emails/subscriptions.py:734
+#, python-format
+msgid "%(num_completed)s / %(total_students)s completed"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/about-package/data/leadership.jsx.js:147 templates/emails/donation_recurred_email.txt:14 templates/emails/donation_thanks_email.txt:17 templates/emails/donation_tribute_email.txt:15 templates/emails/onboarding/mastery_learning_email.html:36 templates/emails/onboarding/mastery_learning_email.txt:12
+msgid "Founder & CEO"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/coach/dashboard">http://www.khanacademy.org/coach/dashboard</a>
+#: genfiles/compiled_jsx/en/javascript/content-library-package/components/mappers-form-list.jsx.js:56 templates/emails/subscriptions/coach_report_email.html:217
+msgid "Your students"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/login-package/signup-action-intro-screen.jsx.js:96 genfiles/compiled_jsx/en/javascript/login-package/signup-action-intro-screen.jsx.js:105 templates/emails/invite_learnstorm_coach.html:25 templates/emails/parent_claim_spawned_student_email.html:34
+msgid "Create your parent account"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/parent-package/activity-group.jsx.js:62 templates/emails/subscriptions/parent_report_email.html:188 templates/emails/subscriptions/parent_report_email.html:200 templates/emails/subscriptions/parent_report_email.html:212 templates/emails/subscriptions/parent_report_email.txt:26 templates/emails/subscriptions/parent_report_email.txt:34 templates/emails/subscriptions/parent_report_email.txt:42
+msgid "skill"
+msgid_plural "skills"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/parent-package/activity-group.jsx.js:72 templates/emails/subscriptions/parent_report_email.html:236 templates/emails/subscriptions/parent_report_email.txt:58
+msgid "computer programming challenge"
+msgid_plural "computer programming challenges"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/parent-package/activity-group.jsx.js:181 templates/emails/subscriptions/parent_report_email.html:58
+msgid "★ View an example"
+msgstr ""
+
+# Comment: End of task card singular energy point
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/parent-package/child-page-sidebar.jsx.js:169 intl/datastore:1 templates/emails/subscriptions/parent_report_email.html:246 templates/emails/subscriptions/parent_report_email.html:248 templates/emails/subscriptions/parent_report_email.html:292 templates/emails/subscriptions/parent_report_email.txt:63 templates/emails/subscriptions/weekly_user_summary_email.html:140 templates/emails/subscriptions/weekly_user_summary_email.html:150
+msgid "energy point"
+msgid_plural "energy points"
+msgstr[0] ""
+msgstr[1] ""
+
+# Comment: Title for Recently activity in main screen
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: intl/datastore:1 templates/emails/subscriptions/weekly_user_summary_email.html:233
+msgid "Recent activity"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/arithmetic/fractions/multiplying-fractions-word-probl/e/multiplying-fractions-and-whole-numbers-word-problems">http://translate.khanacademy.org/math/arithmetic/fractions/multiplying-fractions-word-probl/e/multiplying-fractions-and-whole-numbers-word-problems</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/tcc-5th-mult-frac-and-whole-word-prob/e/multiplying-fractions-and-whole-numbers-word-problems">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/tcc-5th-mult-frac-and-whole-word-prob/e/multiplying-fractions-and-whole-numbers-word-problems</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/topic-quiz-tutorial-cc-5th-fractions-topic/e/topic-quiz-exercise-cc-5th-fractions-topic">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/topic-quiz-tutorial-cc-5th-fractions-topic/e/topic-quiz-exercise-cc-5th-fractions-topic</a>.
+# Exercise at (x8ab11134) on the de stage.
+# Exercise at (x8ab11134) on the es stage.
+# Exercise at (x8ab11134) on the fr stage.
+# Exercise at (x8ab11134) on the ka stage.
+# Exercise at (x8ab11134) on the pt stage.
+# Exercise at (x8ab11134) on the zh-hans stage.
+# Exercise at (xd03534a1538a5730) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1 templates/emails/subscriptions/weekly_user_summary_email.html:145
+msgid "Last week"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/depolarization-hyperpolarization-and-action-potentials">http://translate.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/depolarization-hyperpolarization-and-action-potentials</a>.
+# Article is at (x00c918ec) on the accents stage.
+# Article is at (x00c918ec) on the pl stage.
+# Article is at (x00c918ec) on the tr stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Best wishes,"
+msgstr ""
+
+#: templates/emails/aging_parent_email.html:6 templates/emails/aging_parent_email.txt:1
+#, python-format
+msgid "Congratulations on your almost-teenager, %(child_name)s!"
+msgstr ""
+
+#: templates/emails/aging_parent_email.html:11 templates/emails/aging_parent_email.txt:3
+msgid "Features for teenagers"
+msgstr ""
+
+#: templates/emails/aging_parent_email.html:13
+#, python-format
+msgid "Your child %(child_name)s will gain new permissions at Khan Academy when they turn 13 on %(bday)s, such as:"
+msgstr ""
+
+#: templates/emails/aging_parent_email.html:17
+msgid "Adding additional coaches who can see their video and skill progress"
+msgstr ""
+
+#: templates/emails/aging_parent_email.html:18
+msgid "Posting questions and answers in our discussion forums"
+msgstr ""
+
+#: templates/emails/aging_parent_email.html:19
+msgid "Linking their own email address to their account"
+msgstr ""
+
+#: templates/emails/aging_parent_email.html:20
+msgid "Setting their own name and password"
+msgstr ""
+
+#: templates/emails/aging_parent_email.html:21
+msgid "Creating a public profile and displaying their badges and points"
+msgstr ""
+
+#: templates/emails/aging_parent_email.html:22
+msgid "Posting public computer science programs for others to use"
+msgstr ""
+
+#: templates/emails/aging_parent_email.html:25 templates/emails/aging_parent_email.txt:13
+msgid "We're very happy to have them learning at Khan Academy. You will remain their coach and be able to follow their progress as they achieve even more!"
+msgstr ""
+
+#: templates/emails/aging_parent_email.html:29
+msgid "View your child's progress"
+msgstr ""
+
+#: templates/emails/aging_parent_email.html:32
+#, python-format
+msgid "If you have any questions or concerns, you can always email us at %(privacy_email)s, or %(faq_link)s on Khan Academy."
+msgstr ""
+
+#: templates/emails/aging_parent_email.html:33
+msgid "privacy@khanacademy.org"
+msgstr ""
+
+#: templates/emails/aging_parent_email.html:35
+msgid "read more about accounts"
+msgstr ""
+
+#: templates/emails/aging_parent_email.html:41 templates/emails/coach_preauthorized_student_email.html:24 templates/emails/invite_learnstorm_coach.html:42 templates/emails/invite_learnstorm_coach.txt:25 templates/emails/new_assignment_notification_email.html:81 templates/emails/new_assignment_notification_email.txt:20 templates/emails/next_content_email.html:277 templates/emails/next_content_email.txt:63 templates/emails/onboarding/choose_avatar_email.html:41 templates/emails/onboarding/choose_avatar_email.txt:10 templates/emails/parent_claim_spawned_student_email.html:46 templates/emails/parent_claim_spawned_student_email.txt:20 templates/emails/reengagement_email.html:98 templates/emails/reengagement_email.txt:17 templates/emails/subscriptions/coach_report_email.html:263 templates/emails/subscriptions/coach_report_email.txt:48
+msgid "The Khan Academy Team"
+msgstr ""
+
+#: templates/emails/aging_parent_email.txt:5
+#, python-format
+msgid "Your child %(child_name)s will gain new permissions at Khan Academy when they turn 13 on %(bday)s:"
+msgstr ""
+
+#: templates/emails/aging_parent_email.txt:7
+msgid "  . Posting questions and answers in our discussion forums"
+msgstr ""
+
+#: templates/emails/aging_parent_email.txt:8
+msgid "  . Linking their own email address to their account"
+msgstr ""
+
+#: templates/emails/aging_parent_email.txt:9
+msgid "  . Setting their own name and password"
+msgstr ""
+
+#: templates/emails/aging_parent_email.txt:10
+msgid "  . Creating a public profile and displaying their badges and points"
+msgstr ""
+
+#: templates/emails/aging_parent_email.txt:11
+msgid "  . Having their computer science programs available for others to use"
+msgstr ""
+
+#: templates/emails/aging_parent_email.txt:15
+#, python-format
+msgid "View your child's progress at: %(url)s"
+msgstr ""
+
+#: templates/emails/aging_parent_email.txt:17
+#, python-format
+msgid "If you have any questions or concerns, you can always email us at privacy@khanacademy.org, or read more about accounts at: %(url)s"
+msgstr ""
+
+#: templates/emails/aging_parent_email.txt:21 templates/emails/answer_notification_email.txt:19 templates/emails/child_added_coach_email.html:21 templates/emails/child_received_coach_request_email.html:21 templates/emails/coach_student_invite_email.html:45 templates/emails/coach_student_request_email.html:29 templates/emails/eval_notification_email.txt:21 templates/emails/mastery_task.txt:17 templates/emails/onboarding/content_library_email.html:86 templates/emails/onboarding/content_library_email.txt:16 templates/emails/onboarding/download_apps_email.html:105 templates/emails/onboarding/download_apps_email.txt:17 templates/emails/onboarding/try_mission_email.html:71 templates/emails/onboarding/try_mission_email.txt:22 templates/emails/parent_child_invite.html:30 templates/emails/subscriptions/parent_report_email.txt:72 templates/emails/subscriptions/weekly_user_summary_email.txt:72 templates/emails/u13/u13_parent_approve_email.html:73 templates/emails/u13/u13_parent_reminder_email.html:70
+msgid "Sal and the Khan Academy Team"
+msgstr ""
+
+#: templates/emails/answer_notification_email.html:89
+#, python-format
+msgid "On %(page_link)s, you asked:"
+msgstr ""
+
+#: templates/emails/answer_notification_email.html:117
+#, python-format
+msgid "%(responder_link)s answered:"
+msgstr ""
+
+#: templates/emails/answer_notification_email.html:163
+#, python-format
+msgid ""
+"If you don't want to receive emails like this,\n"
+"                %(mute_this_question)s or %(mute_all_questions)s. If this\n"
+"                answer is inappropriate, please %(visit_page_link)s."
+msgstr ""
+
+#: templates/emails/answer_notification_email.html:168
+msgid "turn off notifications for this question"
+msgstr ""
+
+#: templates/emails/answer_notification_email.html:172
+msgid "for all questions"
+msgstr ""
+
+#: templates/emails/answer_notification_email.html:176
+msgid "visit your question and \"flag\" the answer"
+msgstr ""
+
+#: templates/emails/answer_notification_email.html:184 templates/emails/base_template.html:152 templates/emails/eval_notification_email.html:150 templates/emails/next_content_email.html:287
+msgid "P.O. Box 1630, Mountain View, CA 94042"
+msgstr ""
+
+#: templates/emails/answer_notification_email.txt:1
+#, python-format
+msgid "On \"%(translated_page_title)s\", you asked:"
+msgstr ""
+
+#: templates/emails/answer_notification_email.txt:5
+#, python-format
+msgid "%(responder_name)s answered:"
+msgstr ""
+
+#: templates/emails/answer_notification_email.txt:12 templates/emails/eval_notification_email.txt:17
+#, python-format
+msgid "View %(responder_name)s's profile:"
+msgstr ""
+
+#: templates/emails/answer_notification_email.txt:15
+#, python-format
+msgid "Visit \"%(translated_page_title)s\":"
+msgstr ""
+
+#: templates/emails/answer_notification_email.txt:22
+msgid "If you don't want to receive emails like this, turn off notifications for this question:"
+msgstr ""
+
+#: templates/emails/answer_notification_email.txt:25
+msgid "Or turn off notifications for all questions:"
+msgstr ""
+
+#: templates/emails/answer_notification_email.txt:28
+msgid "If this answer is inappropriate, please visit your question and \"flag\" the answer:"
+msgstr ""
+
+#: templates/emails/answer_notification_email.txt:31 templates/emails/eval_notification_email.txt:30 templates/emails/mastery_task.txt:19 templates/emails/subscriptions/content_digest_email.txt:19 templates/emails/subscriptions/parent_report_email.txt:74 templates/emails/subscriptions/weekly_user_summary_email.txt:74
+msgid "P.S. You can unsubscribe from these emails at any time by following this link:"
+msgstr ""
+
+#: templates/emails/child_added_coach_email.html:7
+#, python-format
+msgid "%(child_nickname)s has added a new coach!"
+msgstr ""
+
+#: templates/emails/child_added_coach_email.html:12
+#, python-format
+msgid "Your child %(child_nickname)s has added %(coach_name)s as a coach."
+msgstr ""
+
+#: templates/emails/child_added_coach_email.html:15 templates/emails/child_received_coach_request_email.html:15
+#, python-format
+msgid "You can visit <a href='%(coaches_link)s'>your child's \"Coaches\" tab</a> to view and modify their list of coaches."
+msgstr ""
+
+#: templates/emails/child_added_coach_email.html:27 templates/emails/child_received_coach_request_email.html:27 templates/emails/coach_preauthorized_student_email.html:31 templates/emails/coach_student_invite_email.html:51 templates/emails/coach_student_request_email.html:35 templates/emails/invite_learnstorm_coach.html:52 templates/emails/link_verification_email.html:41 templates/emails/parent_child_invite.html:36 templates/emails/parent_claim_spawned_student_email.html:60 templates/emails/reminder_verification_email.html:43 templates/emails/verification_email.html:41
+msgid "You can also copy and paste the following link into your browser's address bar:"
+msgstr ""
+
+#: templates/emails/child_added_coach_email.html:31 templates/emails/child_received_coach_request_email.html:31 templates/emails/invite_learnstorm_coach.html:62 templates/emails/parent_child_invite.html:41 templates/emails/parent_claim_spawned_student_email.html:78
+#, python-format
+msgid "You may <a href='%(unsubscribe_url)s'>unsubscribe from these emails</a> at any time."
+msgstr ""
+
+#: templates/emails/child_added_coach_email.txt:1
+#, python-format
+msgid "Your child %(child_nickname)s has added %(coach_name)s as a new coach."
+msgstr ""
+
+#: templates/emails/child_added_coach_email.txt:3 templates/emails/child_received_coach_request_email.txt:3
+msgid "You can visit your child's \"Coaches\" tab below to view and modify their list of coaches."
+msgstr ""
+
+#: templates/emails/child_added_coach_email.txt:7 templates/emails/child_received_coach_request_email.txt:7 templates/emails/coach_student_invite_email.txt:10 templates/emails/coach_student_request_email.txt:6 templates/emails/invite_learnstorm_coach.txt:21 templates/emails/link_verification_email.txt:7 templates/emails/new_assignment_notification_email.txt:12 templates/emails/parent_child_invite.txt:7 templates/emails/parent_claim_spawned_student_email.txt:16 templates/emails/reminder_verification_email.txt:9 templates/emails/subscriptions/coach_report_email.txt:42 templates/emails/subscriptions/parent_report_email.txt:69 templates/emails/subscriptions/weekly_user_summary_email.txt:68 templates/emails/verification_email.txt:7 templates/parent-verification-email-text-only.txt:14 templates/password-reset-email.txt:7
+msgid "If clicking doesn't seem to work, you can copy and paste the link into your browser's address bar."
+msgstr ""
+
+#: templates/emails/child_added_coach_email.txt:9 templates/emails/child_received_coach_request_email.txt:9 templates/emails/coach_preauthorized_student_email.txt:9 templates/emails/coach_student_invite_email.txt:22 templates/emails/coach_student_request_email.txt:11 templates/emails/link_verification_email.txt:9 templates/emails/parent_child_invite.txt:9 templates/emails/reminder_verification_email.txt:11 templates/emails/u13/u13_parent_approve_email.txt:31 templates/emails/u13/u13_parent_reminder_email.txt:28 templates/emails/verification_email.txt:9 templates/parent-verification-email-text-only.txt:26
+msgid ""
+"Onward!\n"
+"Sal and the Khan Academy Team"
+msgstr ""
+
+#: templates/emails/child_added_coach_email.txt:14 templates/emails/child_received_coach_request_email.txt:14 templates/emails/coach_preauthorized_student_email.txt:14 templates/emails/coach_student_invite_email.txt:28 templates/emails/coach_student_request_email.txt:17 templates/emails/invite_learnstorm_coach.txt:33 templates/emails/parent_child_invite.txt:15 templates/emails/parent_claim_spawned_student_email.txt:31
+msgid "You may unsubscribe from these emails at any time:"
+msgstr ""
+
+#: templates/emails/child_received_coach_request_email.html:7
+#, python-format
+msgid "%(child_nickname)s has received a new coach request!"
+msgstr ""
+
+#: templates/emails/child_received_coach_request_email.html:12
+#, python-format
+msgid "Your child %(child_nickname)s has received a new coach request from %(coach_name)s."
+msgstr ""
+
+#: templates/emails/child_received_coach_request_email.txt:1
+#, python-format
+msgid "Your child %(child_nickname)s has received a coach request from %(coach_name)s."
+msgstr ""
+
+#: templates/emails/coach_preauthorized_student_email.html:10 templates/emails/coach_preauthorized_student_email.txt:3
+msgid "You’ve been added to a new class."
+msgstr ""
+
+#: templates/emails/coach_preauthorized_student_email.html:13
+#, python-format
+msgid "You are now being coached by <strong>%(coach_name)s</strong>. A coach has permission to view your activity and assign practice."
+msgstr ""
+
+#: templates/emails/coach_preauthorized_student_email.html:15
+msgid "View coach"
+msgstr ""
+
+#: templates/emails/coach_preauthorized_student_email.html:18
+#, python-format
+msgid "You can also remove %(coach_name)s as a coach from %(coaches_link)s."
+msgstr ""
+
+#: templates/emails/coach_preauthorized_student_email.html:35 templates/emails/coach_preauthorized_student_email.txt:12 templates/emails/coach_student_invite_email.html:55 templates/emails/coach_student_invite_email.txt:26 templates/emails/coach_student_request_email.html:39 templates/emails/coach_student_request_email.txt:15
+#, python-format
+msgid "This email was sent on behalf of %(coach_name)s."
+msgstr ""
+
+#: templates/emails/coach_preauthorized_student_email.html:36 templates/emails/coach_student_invite_email.html:56 templates/emails/coach_student_request_email.html:40 templates/emails/macro_tags.html:91 templates/emails/sat/sat_macro_tags.html:56
+msgid "unsubscribe from these emails"
+msgstr ""
+
+#: templates/emails/coach_preauthorized_student_email.html:36 templates/emails/coach_student_invite_email.html:56 templates/emails/coach_student_request_email.html:40
+#, python-format
+msgid "You may %(unsubscribe_link)s at any time."
+msgstr ""
+
+#: templates/emails/coach_preauthorized_student_email.txt:4
+#, python-format
+msgid "You are now being coached by %(coach_name)s. A coach has permission to view your activity and assign practice."
+msgstr ""
+
+#: templates/emails/coach_preauthorized_student_email.txt:6
+msgid "View or remove your coach here: "
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.html:7 templates/emails/coach_student_invite_email.txt:1
+#, python-format
+msgid "Join %(coach_name)s's classes at Khan Academy!"
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.html:9 templates/emails/coach_student_invite_email.txt:2 templates/emails/coach_student_request_email.html:6 templates/emails/coach_student_request_email.txt:1
+#, python-format
+msgid "Join %(coach_name)s's class at Khan Academy!"
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.html:15
+msgid "You've been invited to Khan Academy!"
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.html:19 templates/emails/parent_child_invite.html:13
+msgid "Click here to sign up:"
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.html:24
+#, python-format
+msgid "Join %(coach_name)s's classes"
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.html:26
+#, python-format
+msgid "Join %(coach_name)s's class"
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.html:32
+#, python-format
+msgid "If you already have a Khan Academy account, visit %(coaches_link)s and type in: <b>%(class_code)s</b>."
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.html:32 templates/emails/coach_student_invite_email.html:34
+msgid "khanacademy.org/coaches"
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.html:34
+#, python-format
+msgid "If you already have a Khan Academy account, visit %(coaches_link)s and type in the following class codes: <b>%(class_codes)s</b>."
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.html:36
+#, python-format
+msgid "If you already have a Khan Academy account, you can add <b>%(coach_email)s</b> as a coach from %(profile_link)s."
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.html:36
+msgid "your profile page"
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.html:38 templates/emails/coach_student_invite_email.txt:19
+#, python-format
+msgid "If you already have a Khan Academy account, have %(coach_name)s send the invite to that email."
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.txt:5
+#, python-format
+msgid "You've been invited to Khan Academy. Click the following link to sign up and join %(coach_name)s's classes:"
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.txt:6
+#, python-format
+msgid "You've been invited to Khan Academy. Click the following link to sign up and join %(coach_name)s's class:"
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.txt:13
+#, python-format
+msgid "If you already have a Khan Academy account, visit khanacademy.org/coaches and type in: %(class_code)s."
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.txt:15
+#, python-format
+msgid "If you already have a Khan Academy account, visit khanacademy.org/coaches and type in the following class codes: %(class_codes)s."
+msgstr ""
+
+#: templates/emails/coach_student_invite_email.txt:17
+#, python-format
+msgid "If you already have a Khan Academy account, you can add %(coach_email)s as a coach from your profile page."
+msgstr ""
+
+#: templates/emails/coach_student_request_email.html:15
+#, python-format
+msgid "%(coach_name)s has requested to be your coach. A coach has permission to view your activity and give you assignments."
+msgstr ""
+
+#: templates/emails/coach_student_request_email.html:23
+#, python-format
+msgid "You can also decline the request from %(coaches_link)s."
+msgstr ""
+
+#: templates/emails/coach_student_request_email.html:23
+msgid "your \"Coaches\" tab"
+msgstr ""
+
+#: templates/emails/coach_student_request_email.txt:3
+#, python-format
+msgid "%(coach_name)s has requested to be your coach. A coach has permission to view your activity and give you assignments. Click the following link to accept."
+msgstr ""
+
+#: templates/emails/coach_student_request_email.txt:8
+msgid "You can also decline this request from your profile page, located at:"
+msgstr ""
+
+#: templates/emails/donation_recurred_email.html:13 templates/emails/donation_recurred_email.txt:5
+msgid "Thank you for your ongoing donation to Khan Academy."
+msgstr ""
+
+#: templates/emails/donation_recurred_email.html:15 templates/emails/donation_recurred_email.txt:5
+#, python-format
+msgid "Your card ending in %(last_four)s was charged on %(date)s for your %(cycle_adjective)s donation of %(amount)s."
+msgstr ""
+
+#: templates/emails/donation_recurred_email.html:17 templates/emails/donation_recurred_email.txt:5
+#, python-format
+msgid "Your PayPal account was charged on %(date)s for your %(cycle_adjective)s donation of %(amount)s."
+msgstr ""
+
+#: templates/emails/donation_recurred_email.html:21 templates/emails/donation_thanks_email.html:18
+msgid "With your ongoing support, we’re able to offer thousands of free videos and exercises on topics ranging from basic math to college-level biology, as well as new subjects like grammar and world history. Generous supporters like you have helped us provide more than one billion lessons—and counting!—to learners around the globe."
+msgstr ""
+
+#: templates/emails/donation_recurred_email.html:24 templates/emails/donation_thanks_email.html:24
+msgid "We’re tremendously excited about the progress Khan Academy is making and the growth we know we’ll achieve in the years to come. Our vision for education is bold and expansive, and with your help, it’s attainable."
+msgstr ""
+
+#: templates/emails/donation_recurred_email.html:27 templates/emails/donation_recurred_email.txt:11 templates/emails/donation_thanks_email.html:27 templates/emails/donation_thanks_email.txt:14
+msgid "Thank you for believing in us,"
+msgstr ""
+
+#: templates/emails/donation_recurred_email.html:30 templates/emails/donation_recurred_email.txt:13 templates/emails/donation_thanks_email.html:30 templates/emails/donation_thanks_email.txt:16 templates/emails/donation_tribute_email.html:25 templates/emails/donation_tribute_email.txt:14 templates/emails/onboarding/growth_mindset_email.txt:10 templates/emails/onboarding/growth_mindset_email_plaintext.html:30 templates/emails/onboarding/share_success_email.html:52 templates/emails/onboarding/share_success_email.txt:16
+msgid "Sal Khan"
+msgstr ""
+
+#: templates/emails/donation_recurred_email.html:34 templates/emails/donation_thanks_email.html:34
+#, python-format
+msgid "Check to see if your employer will match your donation %(find_match)s."
+msgstr ""
+
+#: templates/emails/donation_recurred_email.html:38 templates/emails/donation_recurred_email.txt:18 templates/emails/donation_thanks_email.html:38 templates/emails/donation_thanks_email.txt:21
+msgid "Khan Academy, a 501(c)(3) not-for-profit organization, has not provided any goods or services to you in consideration for this voluntary contribution. The donation is tax deductible to the extent allowed by law. For federal tax purposes Khan Academy's FEIN # is: 26-1544963."
+msgstr ""
+
+#: templates/emails/donation_recurred_email.html:42
+#, python-format
+msgid "If you would like to cancel this recurring donation, %(cancel_link)s. You can also do so at any time by signing into your PayPal account."
+msgstr ""
+
+#: templates/emails/donation_recurred_email.html:43 templates/emails/donation_recurred_email.html:46 templates/emails/donation_thanks_email.html:44 templates/emails/donation_thanks_email.html:47
+msgid "click here"
+msgstr ""
+
+#: templates/emails/donation_recurred_email.html:45 templates/emails/donation_thanks_email.html:46
+#, python-format
+msgid "If you would like to cancel this recurring donation, %(cancel_link)s."
+msgstr ""
+
+#: templates/emails/donation_recurred_email.txt:7 templates/emails/donation_thanks_email.txt:8
+msgid "With your ongoing support, we're able to offer thousands of free videos and exercises on topics ranging from basic math to college-level biology, as well as new subjects like grammar and world history. Generous supporters like you have helped us provide more than one billion lessons -- and counting! -- to learners around the globe."
+msgstr ""
+
+#: templates/emails/donation_recurred_email.txt:9 templates/emails/donation_thanks_email.txt:12
+msgid "We're tremendously excited about the progress Khan Academy is making and the growth we know we'll achieve in the years to come. Our vision for education is bold and expansive, and with your help, it's attainable."
+msgstr ""
+
+#: templates/emails/donation_recurred_email.txt:16 templates/emails/donation_thanks_email.txt:19
+#, python-format
+msgid "Check to see if your employer will match your donation here: %(url)s"
+msgstr ""
+
+#: templates/emails/donation_recurred_email.txt:20
+#, python-format
+msgid ""
+"If you would like to cancel this recurring donation,\n"
+"click here: %(base_url)s?%(cancel_params)s. You can do so at any time by signing into your PayPal account."
+msgstr ""
+
+#: templates/emails/donation_recurred_email.txt:22 templates/emails/donation_thanks_email.txt:23
+#, python-format
+msgid "If you would like to cancel this recurring donation, click here: %(base_url)s?%(cancel_params)s."
+msgstr ""
+
+#: templates/emails/donation_thanks_email.html:20
+msgid "With your support, we’re able to offer thousands of free videos and exercises on topics ranging from basic math to college-level biology, as well as new subjects like grammar and world history. Generous supporters like you have helped us provide more than one billion lessons—and counting!—to learners around the globe."
+msgstr ""
+
+#: templates/emails/donation_thanks_email.html:43
+#, python-format
+msgid "If you would like to cancel this recurring donation, %(cancel_link)s. You can also cancel at any time by signing into your PayPal account."
+msgstr ""
+
+#: templates/emails/donation_thanks_email.txt:10
+msgid "With your support, we're able to offer thousands of free videos and exercises on topics ranging from basic math to college-level biology, as well as new subjects like grammar and world history. Generous supporters like you have helped us provide more than one billion lessons -- and counting! -- to learners around the globe."
+msgstr ""
+
+#: templates/emails/donation_thanks_email.txt:23
+#, python-format
+msgid "If you would like to cancel this recurring donation, click here: %(base_url)s?%(cancel_params)s. You can also cancel at any time by signing into your PayPal account."
+msgstr ""
+
+#: templates/emails/donation_tribute_email.html:16 templates/emails/donation_tribute_email.txt:8
+msgid "Support from our generous donors helps us continue to make progress on our mission of providing a free, world-class education for anyone, anywhere."
+msgstr ""
+
+#: templates/emails/donation_tribute_email.html:19
+msgid "We’re tremendously excited about the progress Khan Academy is making and the growth we know we’ll achieve in the years to come. Our vision for education is bold and expansive, and with the help of our donors, it’s attainable."
+msgstr ""
+
+#: templates/emails/donation_tribute_email.html:22
+msgid "Thank you for your role in making that possible."
+msgstr ""
+
+#: templates/emails/donation_tribute_email.txt:10
+msgid "We're tremendously excited about the progress Khan Academy is making and the growth we know we'll achieve in the years to come. Our vision for education is bold and expansive, and with the help of our donors, it's attainable."
+msgstr ""
+
+#: templates/emails/donation_tribute_email.txt:12
+msgid "Thank you for your role in making that possible,"
+msgstr ""
+
+#: templates/emails/eval_notification_email.html:54
+msgid "Your project needs more work"
+msgstr ""
+
+#: templates/emails/eval_notification_email.html:60
+#, python-format
+msgid "%(responder_link)s has evaluated your project %(page_link)s."
+msgstr ""
+
+#: templates/emails/eval_notification_email.html:79
+#, python-format
+msgid "From your evaluator, %(responder_link)s:"
+msgstr ""
+
+#: templates/emails/eval_notification_email.html:131
+#, python-format
+msgid ""
+"If you don't want to receive emails like this,\n"
+"                %(mute_all_notifications)s."
+msgstr ""
+
+#: templates/emails/eval_notification_email.html:135
+msgid "turn them off"
+msgstr ""
+
+#: templates/emails/eval_notification_email.html:139
+#, python-format
+msgid "If this evaluation is inappropriate, please %(visit_page_link)s."
+msgstr ""
+
+#: templates/emails/eval_notification_email.html:142
+msgid "visit your project and \"flag\" it"
+msgstr ""
+
+#: templates/emails/eval_notification_email.txt:1
+#, python-format
+msgid "Your project \"%(translated_page_title)s\" has been evaluated."
+msgstr ""
+
+#: templates/emails/eval_notification_email.txt:5
+#, python-format
+msgid "Here's what your reviewer, %(responder_name)s, thought:"
+msgstr ""
+
+#: templates/emails/eval_notification_email.txt:24
+msgid "If you don't want to receive emails like this, turn them off:"
+msgstr ""
+
+#: templates/emails/eval_notification_email.txt:27
+msgid "If this evaluation is inappropriate, please visit your project and \"flag\" it:"
+msgstr ""
+
+#: templates/emails/invite_learnstorm_coach.html:7 templates/emails/invite_learnstorm_coach.txt:1
+#, python-format
+msgid "%(student_name)s has requested you as a coach for LearnStorm and Khan Academy"
+msgstr ""
+
+#: templates/emails/invite_learnstorm_coach.html:14 templates/emails/invite_learnstorm_coach.txt:4
+msgid "Follow your child's progress through the LearnStorm math challenge and Khan Academy, a free, non-profit website!"
+msgstr ""
+
+#: templates/emails/invite_learnstorm_coach.html:16 templates/emails/invite_learnstorm_coach.txt:8
+msgid "Follow this student's progress through the LearnStorm math challenge and Khan Academy, a free, non-profit website!"
+msgstr ""
+
+#: templates/emails/invite_learnstorm_coach.html:20
+msgid "Choose a username and password for you, the coach:"
+msgstr ""
+
+#: templates/emails/invite_learnstorm_coach.html:27
+msgid "Create your coach account"
+msgstr ""
+
+#: templates/emails/invite_learnstorm_coach.html:33 templates/emails/invite_learnstorm_coach.txt:16 templates/emails/parent_claim_spawned_student_email.html:38 templates/emails/parent_claim_spawned_student_email.txt:14
+msgid "You will then be connected to your child's account."
+msgstr ""
+
+#: templates/emails/invite_learnstorm_coach.html:35 templates/emails/invite_learnstorm_coach.txt:18
+msgid "You will then be connected to the student's account."
+msgstr ""
+
+#: templates/emails/invite_learnstorm_coach.html:40 templates/emails/invite_learnstorm_coach.txt:23
+msgid "We're excited to have your student learning with us!"
+msgstr ""
+
+#: templates/emails/invite_learnstorm_coach.html:44 templates/emails/parent_claim_spawned_student_email.html:50
+msgid "Learn more about Khan Academy"
+msgstr ""
+
+#: templates/emails/invite_learnstorm_coach.html:45
+msgid "Learn more about LearnStorm"
+msgstr ""
+
+#: templates/emails/invite_learnstorm_coach.html:58
+#, python-format
+msgid "%(student_name)s chose '%(student_username)s' as their username and '%(student_birthdate)s' as their birthdate."
+msgstr ""
+
+#: templates/emails/invite_learnstorm_coach.txt:6
+msgid "Create your parent account by clicking the link below:"
+msgstr ""
+
+#: templates/emails/invite_learnstorm_coach.txt:10
+msgid "Create your coach account by clicking the link below:"
+msgstr ""
+
+#: templates/emails/invite_learnstorm_coach.txt:27 templates/emails/parent_claim_spawned_student_email.txt:23
+msgid "Click this link to learn more about Khan Academy:"
+msgstr ""
+
+#: templates/emails/invite_learnstorm_coach.txt:30
+msgid "Click this link to learn more about LearnStorm:"
+msgstr ""
+
+#: templates/emails/link_verification_email.html:9
+msgid "Finish linking this email address"
+msgstr ""
+
+#: templates/emails/link_verification_email.html:23
+msgid "You're almost there!"
+msgstr ""
+
+#: templates/emails/link_verification_email.html:25
+msgid "Click here to finish linking this email to your Khan Academy account:"
+msgstr ""
+
+#: templates/emails/link_verification_email.html:33 templates/emails/reminder_verification_email.html:35 templates/emails/verification_email.html:33
+msgid ""
+"Onward!\n"
+"    <br>\n"
+"    Sal and the Khan Academy Team"
+msgstr ""
+
+#: templates/emails/link_verification_email.html:45
+msgid "This is a message to verify your email, there is no need to unsubscribe. If you did not<br>request to link this email to your Khan Academy account, simply ignore this message."
+msgstr ""
+
+#: templates/emails/link_verification_email.txt:1
+msgid "Finish linking this email to your Khan Academy account!"
+msgstr ""
+
+#: templates/emails/link_verification_email.txt:3
+msgid "Click on the following link to finish linking your email address."
+msgstr ""
+
+#: templates/emails/link_verification_email.txt:13
+msgid "This is a message to verify your email; there is no need to unsubscribe. If you did not request to link this email to your Khan Academy account, simply ignore this message."
+msgstr ""
+
+#: templates/emails/macro_tags.html:87 templates/emails/sat/sat_macro_tags.html:52
+#, python-format
+msgid ""
+"This message was sent to %(to_address)s.\n"
+"    You may %(unsubscribe_link)s\n"
+"    at any time."
+msgstr ""
+
+# This is a clickable link to a KA youtube video.
+#: templates/emails/macro_tags.html:162 templates/emails/macro_tags.html:186
+msgid "Watch now!"
+msgstr ""
+
+#: templates/emails/macro_tags.html:214
+msgid "Continue reading"
+msgstr ""
+
+#: templates/emails/macro_tags.html:227
+msgid "Here's a sample problem:"
+msgstr ""
+
+#: templates/emails/macro_tags.html:243 templates/emails/macro_tags.html:275
+msgid "Try it now!"
+msgstr ""
+
+#: templates/emails/mastery_task.html:23
+#, python-format
+msgid "Level up your skills in %(mission)s"
+msgstr ""
+
+#: templates/emails/mastery_task.html:49
+msgid ""
+"You've unlocked a new mastery challenge.\n"
+"                  Level up your skills!"
+msgstr ""
+
+#: templates/emails/mastery_task.html:80
+msgid "MASTERY CHALLENGE"
+msgstr ""
+
+#: templates/emails/mastery_task.html:126
+#, python-format
+msgid "%(mission)s mission progress"
+msgstr ""
+
+#: templates/emails/mastery_task.html:131
+msgid "Mastered skills:"
+msgstr ""
+
+#: templates/emails/mastery_task.html:145
+msgid ""
+"Answer mastery challenge questions and\n"
+"      level up your skills to <strong>Mastered</strong>!"
+msgstr ""
+
+#: templates/emails/mastery_task.html:154 templates/emails/mastery_task.txt:10
+msgid "You also have mastery tasks ready for these missions:"
+msgstr ""
+
+#: templates/emails/mastery_task.html:174
+msgid "Start your mastery challenge"
+msgstr ""
+
+#: templates/emails/mastery_task.txt:3
+msgid "You've unlocked a new mastery challenge. Level up your skills today:"
+msgstr ""
+
+#: templates/emails/mastery_task.txt:7
+msgid "Answer mastery challenge questions to level up your skills to Mastered!"
+msgstr ""
+
+#: templates/emails/mission_introduction_email.html:270
+msgid "Your chosen mission is"
+msgstr ""
+
+#: templates/emails/mission_introduction_email.html:280 templates/emails/mission_introduction_email.html:289 templates/emails/welcome_email.html:168 templates/emails/welcome_email.html:178 templates/emails/welcome_email.html:412 templates/emails/welcome_email.html:421
+msgid "Continue learning now"
+msgstr ""
+
+#: templates/emails/mission_introduction_email.html:344
+#, python-format
+msgid "Missions are designed to take 20-40 hours to complete. If you practice twice a week for an hour at a time, you could master %(mission_title)s in just 3-5 months! If that sounds too slow or too fast, don't worry--we'll go faster through concepts you already know, and take extra time on the things you find challenging."
+msgstr ""
+
+#: templates/emails/mission_introduction_email.html:390
+msgid "Up next in your mission"
+msgstr ""
+
+#: templates/emails/mission_introduction_email.html:447
+#, python-format
+msgid "%(mission_title_standalone)s topics"
+msgstr ""
+
+#: templates/emails/mission_introduction_email.html:587
+msgid ""
+"You only have to know one thing:\n"
+"                                                   <br>\n"
+"                                                   You can learn anything."
+msgstr ""
+
+#: templates/emails/mission_introduction_email.html:600 templates/emails/mission_introduction_email.html:609 templates/emails/mission_introduction_email.txt:27 templates/emails/welcome_email.html:717 templates/emails/welcome_email.html:727 templates/emails/welcome_email.txt:34
+msgid "Learn something new"
+msgstr ""
+
+#: templates/emails/mission_introduction_email.html:633
+#, python-format
+msgid ""
+"If you've changed your mind and want to choose another mission, no worries:\n"
+"                                                    <br>\n"
+"                                                    <a  href=\"%(dashboard_link)s\" style=\"color:#ffffff!important;text-decoration:underline!important;\" >\n"
+"                                                      Choose another mission\n"
+"                                                    </a>\n"
+"                                                     or\n"
+"                                                    <a  href=\"%(library_link)s\" style=\"color:#ffffff!important;text-decoration:underline!important;\" >\n"
+"                                                      explore our full library of content\n"
+"                                                    </a>"
+msgstr ""
+
+#: templates/emails/mission_introduction_email.txt:1
+#, python-format
+msgid "Your chosen mission is: %(mission_title_standalone)s"
+msgstr ""
+
+#: templates/emails/mission_introduction_email.txt:3 templates/emails/welcome_email.txt:5
+msgid "Continue learning now at"
+msgstr ""
+
+#: templates/emails/mission_introduction_email.txt:9
+#, python-format
+msgid "Missions are designed to take 20-40 hours to complete. If you practice twice a week for an hour at a time, you could master %(mission_title)s in just 3-5 months! If that sounds too slow or too fast, don't worry - we'll go faster through concepts you already know, and take extra time on the things you find challenging."
+msgstr ""
+
+#: templates/emails/mission_introduction_email.txt:14
+msgid "Up next in your mission:"
+msgstr ""
+
+#: templates/emails/mission_introduction_email.txt:32 templates/emails/onboarding/growth_mindset_email.txt:13 templates/emails/practice_task.txt:35 templates/emails/sat/coach_sharing_request.txt:33 templates/emails/teacher_bulk_add_students.txt:24 templates/emails/welcome_email.txt:39
+#, python-format
+msgid "You may unsubscribe at any time by going to %(url)s"
+msgstr ""
+
+#: templates/emails/mission_introduction_email.txt:33 templates/emails/practice_task.txt:36 templates/emails/sat/coach_sharing_request.txt:34 templates/emails/teacher_bulk_add_students.txt:25 templates/emails/welcome_email.txt:40
+#, python-format
+msgid "Privacy policy: %(url)s"
+msgstr ""
+
+#: templates/emails/new_assignment_notification_email.html:6 templates/emails/new_assignment_notification_email.html:43 templates/emails/new_assignment_notification_email.txt:1 templates/emails/next_content_email.html:90 templates/emails/onboarding/choose_avatar_email.html:18 templates/emails/onboarding/choose_avatar_email.txt:1 templates/emails/onboarding/growth_mindset_email.txt:1 templates/emails/onboarding/growth_mindset_email_plaintext.html:15 templates/emails/onboarding/mastery_learning_email.html:10 templates/emails/onboarding/mastery_learning_email.html:17 templates/emails/onboarding/mastery_learning_email.txt:1 templates/emails/subscriptions/coach_report_email.html:121 templates/emails/subscriptions/coach_report_email.html:170 templates/emails/subscriptions/coach_report_email.txt:1 templates/parent-verification-email-text-only.txt:3 templates/password-reset-email.txt:1
+#, python-format
+msgid "Hi %(name)s,"
+msgstr ""
+
+#: templates/emails/new_assignment_notification_email.html:8
+#, python-format
+msgid "You have a new assignment from %(teacher_name)s for %(list_name)s."
+msgstr ""
+
+#: templates/emails/new_assignment_notification_email.html:12 templates/emails/new_assignment_notification_email.html:52 templates/emails/new_assignment_notification_email.txt:3
+msgid "You have a new assignment."
+msgstr ""
+
+#: templates/emails/new_assignment_notification_email.html:47 templates/emails/new_assignment_notification_email.txt:3
+#, python-format
+msgid "You have a new assignment from %(teacher_name)s for %(list_name)s. Check it out on Khan Academy:"
+msgstr ""
+
+#: templates/emails/new_assignment_notification_email.html:70 templates/emails/subscriptions/coach_report_email.html:195 templates/emails/subscriptions/coach_report_email.html:207
+msgid "View all assignments"
+msgstr ""
+
+#: templates/emails/new_assignment_notification_email.html:87
+#, python-format
+msgid "If you don’t want to receive new assignment emails, you can turn them off in your %(settings_link)s."
+msgstr ""
+
+#: templates/emails/new_assignment_notification_email.html:88 templates/emails/subscriptions/coach_report_email.html:257
+msgid "settings"
+msgstr ""
+
+#: templates/emails/new_assignment_notification_email.txt:9
+msgid "To start this assignment, visit:"
+msgstr ""
+
+#: templates/emails/new_assignment_notification_email.txt:14 templates/emails/subscriptions/coach_report_email.txt:18
+msgid "To view all assignments, visit:"
+msgstr ""
+
+#: templates/emails/new_assignment_notification_email.txt:23
+msgid "If you don’t want to receive new assignment emails, you can turn them off in your settings at:"
+msgstr ""
+
+#: templates/emails/next_content_email.html:93
+#, python-format
+msgid "Last time you were checking out our series on %(link)s."
+msgstr ""
+
+#: templates/emails/next_content_email.html:98
+msgid "Practice what you've learned:"
+msgstr ""
+
+#: templates/emails/next_content_email.html:100
+msgid "Watch the next video in that series:"
+msgstr ""
+
+#: templates/emails/next_content_email.html:120
+msgid "Practice:"
+msgstr ""
+
+#: templates/emails/next_content_email.html:162
+msgid "Start watching now"
+msgstr ""
+
+#: templates/emails/next_content_email.html:175
+msgid "Other lessons in"
+msgstr ""
+
+#: templates/emails/next_content_email.html:256
+msgid "Next Lesson"
+msgstr ""
+
+#: templates/emails/next_content_email.html:271
+msgid "We're happy to have you learning with us. Always remember: You can learn anything!"
+msgstr ""
+
+#: templates/emails/next_content_email.txt:4
+#, python-format
+msgid "Hey %(name)s,"
+msgstr ""
+
+#: templates/emails/next_content_email.txt:6
+#, python-format
+msgid "Last time, you were checking out \"%(last_content)s\""
+msgstr ""
+
+#: templates/emails/next_content_email.txt:9
+#, python-format
+msgid "%(link)s"
+msgstr ""
+
+#: templates/emails/next_content_email.txt:12
+msgid "Now practice what you’ve learned:"
+msgstr ""
+
+#: templates/emails/next_content_email.txt:15
+msgid "You might find the next lesson interesting too:"
+msgstr ""
+
+#: templates/emails/next_content_email.txt:18
+msgid "You might find the rest of the lesson interesting too:"
+msgstr ""
+
+#: templates/emails/next_content_email.txt:29
+#, python-format
+msgid "Practice: %(title)s (%(num_questions)d practice questions)"
+msgstr ""
+
+#: templates/emails/next_content_email.txt:41
+#, python-format
+msgid "Other lessons in \"%(last_content)s\":"
+msgstr ""
+
+#: templates/emails/next_content_email.txt:58
+msgid "We’re happy to have you learning with us. Always remember: You can learn anything!"
+msgstr ""
+
+#: templates/emails/onboarding/choose_avatar_email.html:11
+#, python-format
+msgid "Hi %(name)s!"
+msgstr ""
+
+#: templates/emails/onboarding/choose_avatar_email.html:11 templates/emails/onboarding/choose_avatar_email.html:21
+msgid "Right now, your avatar on Khan Academy is the default green leaf. Choose a <b>cool avatar that evolves as your brain grows!</b>"
+msgstr ""
+
+#: templates/emails/onboarding/choose_avatar_email.html:12 templates/emails/onboarding/choose_avatar_email.html:27
+msgid "You'll start as a <b>seed</b>:"
+msgstr ""
+
+#: templates/emails/onboarding/choose_avatar_email.html:13 templates/emails/onboarding/choose_avatar_email.html:35
+msgid "And then grow into one of the avatars above -- and <b>beyond</b>!"
+msgstr ""
+
+#: templates/emails/onboarding/choose_avatar_email.html:24
+msgid "Choose your avatar now"
+msgstr ""
+
+#: templates/emails/onboarding/choose_avatar_email.html:38 templates/emails/onboarding/choose_avatar_email.txt:9
+msgid "Show us your style!"
+msgstr ""
+
+#: templates/emails/onboarding/choose_avatar_email.html:46 templates/emails/onboarding/choose_avatar_email.txt:12 templates/emails/onboarding/content_library_email.html:91 templates/emails/onboarding/content_library_email.txt:19 templates/emails/onboarding/download_apps_email.html:110 templates/emails/onboarding/download_apps_email.txt:19 templates/emails/onboarding/try_mission_email.html:77 templates/emails/onboarding/try_mission_email.txt:24
+msgid "P.S."
+msgstr ""
+
+#: templates/emails/onboarding/choose_avatar_email.html:49 templates/emails/onboarding/choose_avatar_email.txt:12
+msgid "As you earn energy points and explore Khan Academy, you'll unlock even more options."
+msgstr ""
+
+#: templates/emails/onboarding/choose_avatar_email.html:50
+msgid "Choose your avatar now!"
+msgstr ""
+
+#: templates/emails/onboarding/choose_avatar_email.txt:3
+msgid "Right now, your avatar on Khan Academy is the default green leaf. Choose a cool avatar that evolves as your brain grows!"
+msgstr ""
+
+#: templates/emails/onboarding/choose_avatar_email.txt:5
+msgid "Choose your avatar now:"
+msgstr ""
+
+#: templates/emails/onboarding/choose_avatar_email.txt:7
+msgid "You'll start as a seed and then grow as you learn!"
+msgstr ""
+
+#: templates/emails/onboarding/content_library_email.html:13 templates/emails/onboarding/content_library_email.html:36 templates/emails/onboarding/content_library_email.txt:1 templates/emails/onboarding/download_apps_email.html:22 templates/emails/onboarding/download_apps_email.html:46 templates/emails/onboarding/download_apps_email.txt:1 templates/emails/onboarding/share_success_email.html:14 templates/emails/onboarding/share_success_email.txt:1 templates/emails/onboarding/try_mission_email.html:30 templates/emails/onboarding/try_mission_email.html:38 templates/emails/onboarding/try_mission_email.txt:1
+#, python-format
+msgid "Dear %(name)s,"
+msgstr ""
+
+#: templates/emails/onboarding/content_library_email.html:14 templates/emails/onboarding/content_library_email.html:40 templates/emails/onboarding/content_library_email.txt:3
+msgid "Let Khan Academy be your personal tutor! We have thousands of lessons that can help you learn anytime, anywhere, "
+msgstr ""
+
+#: templates/emails/onboarding/content_library_email.html:15 templates/emails/onboarding/content_library_email.html:43 templates/emails/onboarding/content_library_email.txt:3
+msgid "all for free."
+msgstr ""
+
+#: templates/emails/onboarding/content_library_email.html:80 templates/emails/onboarding/content_library_email.txt:13
+msgid "...and that's it for now -- but we're always adding more lessons and subjects."
+msgstr ""
+
+#: templates/emails/onboarding/content_library_email.html:94 templates/emails/onboarding/content_library_email.txt:19
+msgid "Remember: You can learn anything."
+msgstr ""
+
+#: templates/emails/onboarding/content_library_email.html:95
+msgid "Try something new today!"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.html:23 templates/emails/onboarding/download_apps_email.html:50
+msgid "Learn anytime, anywhere by getting the <b> free Khan Academy app for </b>"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.html:24 templates/emails/onboarding/download_apps_email.html:53 templates/emails/onboarding/download_apps_email.html:114
+msgid "Android"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.html:25 templates/emails/onboarding/download_apps_email.html:54 templates/emails/onboarding/download_apps_email.html:115
+msgid "iPhone"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.html:25 templates/emails/onboarding/download_apps_email.html:54 templates/emails/onboarding/download_apps_email.html:115
+msgid ", and"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.html:26 templates/emails/onboarding/download_apps_email.html:55 templates/emails/onboarding/download_apps_email.html:116
+msgid "iPad"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.html:55
+msgid ":"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.html:85
+msgid "Download for Android"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.html:88
+msgid "Download for iPhone/iPad"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.html:93
+msgid "When you use the app, <b> your learning automatically syncs</b> with khanacademy.org so your progress is always up-to-date."
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.html:98
+msgid "You can also <b> download videos to your phone </b> so you can keep learning even when you're not connected to the internet"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.html:113
+msgid "Try out our "
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.html:117
+msgid "apps - they're"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.html:121
+msgid "completely free!"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.txt:4
+msgid "Learn anytime, anywhere by getting the "
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.txt:4
+msgid "free Khan Academy app for "
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.txt:4
+msgid "Android, iPhone, and iPad:"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.txt:6
+msgid "Android:"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.txt:7
+msgid "iPhone:"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.txt:8
+msgid "iPad:"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.txt:10
+msgid "When you use the app, "
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.txt:10
+msgid "your learning automatically syncs "
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.txt:10
+msgid "with khanacademy.org so your progress is always up-to-date."
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.txt:13
+msgid "You can also "
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.txt:13
+msgid "download videos to your phone"
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.txt:13
+msgid "so you can keep learning even when you're not connected to the internet."
+msgstr ""
+
+#: templates/emails/onboarding/download_apps_email.txt:19
+msgid "Try out our Android, iPhone, and iPad apps - they're completely free!"
+msgstr ""
+
+#: templates/emails/onboarding/growth_mindset_email.txt:3 templates/emails/onboarding/growth_mindset_email_plaintext.html:18
+msgid "I’d like to introduce you to an important idea that you can apply to learning anything, from algebra to a new language or instrument. It’s called a growth mindset."
+msgstr ""
+
+#: templates/emails/onboarding/growth_mindset_email.txt:5 templates/emails/onboarding/growth_mindset_email_plaintext.html:21
+msgid "Research has shown that you can improve your ability to learn by changing how you think about learning. Learning isn’t about being “smart”; instead, it’s about practicing and persevering through challenges. I wanted to share this article I wrote with you and encourage you to explore building your own growth mindset:"
+msgstr ""
+
+#: templates/emails/onboarding/growth_mindset_email.txt:7
+msgid "Learn why I'll never tell my son he's smart:"
+msgstr ""
+
+#: templates/emails/onboarding/growth_mindset_email.txt:9 templates/emails/onboarding/growth_mindset_email_plaintext.html:27 templates/emails/onboarding/mastery_learning_email.html:29 templates/emails/onboarding/mastery_learning_email.txt:10 templates/emails/onboarding/share_success_email.html:51 templates/emails/onboarding/share_success_email.txt:15
+msgid "Onward,"
+msgstr ""
+
+#: templates/emails/onboarding/growth_mindset_email.txt:11 templates/emails/onboarding/growth_mindset_email_plaintext.html:33 templates/emails/onboarding/share_success_email.html:53 templates/emails/onboarding/share_success_email.txt:17
+msgid "Founder & Executive Director"
+msgstr ""
+
+#: templates/emails/onboarding/growth_mindset_email_plaintext.html:24
+msgid "Learn why I'll never tell my son he's smart."
+msgstr ""
+
+#: templates/emails/onboarding/growth_mindset_email_plaintext.html:36 templates/emails/onboarding/share_success_email.html:57
+#, python-format
+msgid "You can %(unsubscribe_link)s from our emails at any time."
+msgstr ""
+
+#: templates/emails/onboarding/growth_mindset_email_plaintext.html:36 templates/emails/onboarding/share_success_email.html:57
+msgid "unsubscribe"
+msgstr ""
+
+#: templates/emails/onboarding/mastery_learning_email.html:11 templates/emails/onboarding/mastery_learning_email.html:20 templates/emails/onboarding/mastery_learning_email.txt:3
+msgid "Would you build a house on an unfinished foundation? Of course not. So why do we often push students through their classes before they’ve grasped the foundational concepts?"
+msgstr ""
+
+#: templates/emails/onboarding/mastery_learning_email.html:12 templates/emails/onboarding/mastery_learning_email.html:23 templates/emails/onboarding/mastery_learning_email.txt:5
+msgid "In my latest TED talk, I discuss why we should emphasize mastery to help students realize their full potential."
+msgstr ""
+
+#: templates/emails/onboarding/mastery_learning_email.html:26 templates/emails/onboarding/mastery_learning_email.txt:7
+msgid "Watch my TED talk"
+msgstr ""
+
+#: templates/emails/onboarding/share_success_email.html:18
+#, python-format
+msgid "Since you joined ten days ago, <b>you’ve already earned %(points)s energy points</b>. Awesome!"
+msgstr ""
+
+#: templates/emails/onboarding/share_success_email.html:22
+msgid "We hope you’ve found Khan Academy helpful. Since we’re a completely free resource, <b>we rely heavily on our users to spread the word about Khan Academy</b> to those who want to learn math, science, history, and more. Most people still don't know about Khan Academy!"
+msgstr ""
+
+#: templates/emails/onboarding/share_success_email.html:26
+msgid "Can you <b>share Khan Academy with your friends</b> and join the thousands of others who have already done it this year?"
+msgstr ""
+
+#: templates/emails/onboarding/share_success_email.html:47 templates/emails/onboarding/share_success_email.txt:13
+msgid "You can also forward the email below."
+msgstr ""
+
+#: templates/emails/onboarding/share_success_email.html:61 templates/emails/onboarding/share_success_email.txt:20
+msgid "-------------------------------------------"
+msgstr ""
+
+#: templates/emails/onboarding/share_success_email.html:65 templates/emails/u13/u13_parent_approve_email.html:32 templates/emails/u13/u13_parent_approve_email.txt:3 templates/emails/u13/u13_parent_reminder_email.html:33 templates/emails/u13/u13_parent_reminder_email.txt:3
+msgid "Hi,"
+msgstr ""
+
+#: templates/emails/onboarding/share_success_email.html:69 templates/emails/onboarding/share_success_email.txt:22
+#, python-format
+msgid "I’ve been working hard on Khan Academy (I’ve earned %(points)s energy points already!) and I thought you’d be interested in their free practice questions and lessons:"
+msgstr ""
+
+#: templates/emails/onboarding/share_success_email.html:79 templates/emails/onboarding/share_success_email.txt:27
+msgid "It only takes a minute to sign up, and you can learn almost anything!"
+msgstr ""
+
+#: templates/emails/onboarding/share_success_email.html:83
+msgid "There's "
+msgstr ""
+
+#: templates/emails/onboarding/share_success_email.html:87
+msgid " and even more!"
+msgstr ""
+
+#: templates/emails/onboarding/share_success_email.html:91 templates/emails/onboarding/share_success_email.txt:29
+msgid "Have fun!"
+msgstr ""
+
+#: templates/emails/onboarding/share_success_email.txt:4
+#, python-format
+msgid "Since you joined ten days ago, you’ve already earned %(points)s energy points. Awesome!"
+msgstr ""
+
+#: templates/emails/onboarding/share_success_email.txt:6
+msgid "We hope you’ve found Khan Academy helpful. Since we’re a completely free resource, we rely heavily on our users to spread the word about Khan Academy to those who want to learn math, science, history, and more. Most people still don't know about Khan Academy!"
+msgstr ""
+
+#: templates/emails/onboarding/share_success_email.txt:8
+msgid "Can you share Khan Academy with your friends and join the thousands of others who have already done it this year?"
+msgstr ""
+
+#: templates/emails/onboarding/try_mission_email.html:17
+msgid "Free, personalized practice for"
+msgstr ""
+
+#: templates/emails/onboarding/try_mission_email.html:31 templates/emails/onboarding/try_mission_email.html:42
+msgid "Let Khan Academy be your personal trainer! Your free, personalized \"mission\" is the best way to"
+msgstr ""
+
+#: templates/emails/onboarding/try_mission_email.html:32 templates/emails/onboarding/try_mission_email.html:45
+#, python-format
+msgid "master the skills you need to ace %(mission_title)s:"
+msgstr ""
+
+#: templates/emails/onboarding/try_mission_email.html:33 templates/emails/onboarding/try_mission_email.html:54 templates/emails/onboarding/try_mission_email.txt:10
+msgid "Khan Academy tailors your mission to you. First, we focus you on filling any gaps that might be holding you back. Then once we’ve filled those gaps, we’ll help you race ahead and learn the skills coming up next."
+msgstr ""
+
+#: templates/emails/onboarding/try_mission_email.html:58
+msgid "You’ve likely already experienced how Khan Academy can be a great tutor. Now experience how"
+msgstr ""
+
+#: templates/emails/onboarding/try_mission_email.html:61
+msgid "Khan Academy can be a great trainer,"
+msgstr ""
+
+#: templates/emails/onboarding/try_mission_email.html:64
+msgid "helping you to improve throughout the year."
+msgstr ""
+
+#: templates/emails/onboarding/try_mission_email.html:68 templates/emails/onboarding/try_mission_email.txt:18
+msgid "It’s completely free. Try it out today!"
+msgstr ""
+
+#: templates/emails/onboarding/try_mission_email.html:80 templates/emails/onboarding/try_mission_email.txt:24
+#, python-format
+msgid "Becoming a %(mission_title)s ace starts with"
+msgstr ""
+
+#: templates/emails/onboarding/try_mission_email.html:81 templates/emails/onboarding/try_mission_email.txt:25
+msgid "a single step — take it!"
+msgstr ""
+
+#: templates/emails/onboarding/try_mission_email.txt:4
+#, python-format
+msgid "Let Khan Academy be your personal trainer! Your free, personalized \"mission\" is the best way to master the skills you need to ace %(mission_title)s."
+msgstr ""
+
+#: templates/emails/onboarding/try_mission_email.txt:14
+msgid "You’ve likely already experienced how Khan Academy can be a great tutor. Now experience how Khan Academy can be a great trainer, helping you to improve throughout the year."
+msgstr ""
+
+#: templates/emails/parent_child_invite.html:6 templates/emails/parent_child_invite.txt:1
+msgid "Join Khan Academy!"
+msgstr ""
+
+#: templates/emails/parent_child_invite.html:11
+#, python-format
+msgid "You've been invited to Khan Academy by your parent %(parent_name)s"
+msgstr ""
+
+#: templates/emails/parent_child_invite.html:17
+msgid "Join Khan Academy"
+msgstr ""
+
+#: templates/emails/parent_child_invite.html:22
+#, python-format
+msgid "If you already have a Khan Academy account, you can add <b>%(parent_id)s</b> as a parent from <a href='%(profile_link)s'>your profile page</a>."
+msgstr ""
+
+#: templates/emails/parent_child_invite.html:24
+#, python-format
+msgid "If you already have a Khan Academy account, have %(parent_name)s send the invite to that email."
+msgstr ""
+
+#: templates/emails/parent_child_invite.html:40 templates/emails/parent_child_invite.txt:13
+#, python-format
+msgid "This email was sent on behalf of %(parent_name)s."
+msgstr ""
+
+#: templates/emails/parent_child_invite.txt:3
+#, python-format
+msgid "You've been invited to join Khan Academy by your parent %(parent_name)s. Click the following link to sign up:"
+msgstr ""
+
+#: templates/emails/parent_claim_spawned_student_email.html:13 templates/emails/parent_claim_spawned_student_email.html:24
+msgid "Follow your child's progress on Khan Academy!"
+msgstr ""
+
+#: templates/emails/parent_claim_spawned_student_email.html:15 templates/emails/parent_claim_spawned_student_email.txt:5
+msgid "Your child has added you as a parent. Confirm this by visiting your parent's page. You can also follow their progress using our dashboard."
+msgstr ""
+
+#: templates/emails/parent_claim_spawned_student_email.html:19
+msgid "Follow your child's progress"
+msgstr ""
+
+#: templates/emails/parent_claim_spawned_student_email.html:26 templates/emails/parent_claim_spawned_student_email.txt:9
+msgid "Your child has added you as a parent on Khan Academy, a free website offering practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace."
+msgstr ""
+
+#: templates/emails/parent_claim_spawned_student_email.html:30 templates/emails/parent_claim_spawned_student_email.txt:10
+msgid "Click this link to create your parent account, choosing a username and password for you, the parent:"
+msgstr ""
+
+#: templates/emails/parent_claim_spawned_student_email.html:44 templates/emails/parent_claim_spawned_student_email.txt:18
+msgid "We're excited to have your child learning with us!"
+msgstr ""
+
+#: templates/emails/parent_claim_spawned_student_email.html:69
+#, python-format
+msgid "Your child may have invited teachers or others to help coach them as they learn through Khan Academy. As a parent, you can always <a href='%(child_settings_link)s'>review your child's account to see their coaches</a>."
+msgstr ""
+
+#: templates/emails/parent_claim_spawned_student_email.html:75
+msgid "Don't want your child to have a Khan Academy account?  <a href='mailto:privacy@khanacademy.org'>Reply to this message</a> and ask for your child's account to be deleted."
+msgstr ""
+
+#: templates/emails/parent_claim_spawned_student_email.txt:27
+#, python-format
+msgid "Your child may have invited teachers or others to help coach them as they learn through Khan Academy. As a parent, you can always review your child's account to see their coaches: %(child_settings_link)s"
+msgstr ""
+
+#: templates/emails/parent_claim_spawned_student_email.txt:29
+msgid "Don't want your child to have a Khan Academy account?  Reply to this message (privacy@khanacademy.org) and ask for your child's account to be deleted."
+msgstr ""
+
+#: templates/emails/practice_task.html:27
+#, python-format
+msgid ""
+"Practice a skill to make progress in your\n"
+"            %(mission_title)s mission!"
+msgstr ""
+
+#: templates/emails/practice_task.html:37 templates/emails/practice_task.txt:5
+msgid ""
+"Khan Academy can help you master skills.\n"
+"But before you can master something, you need to practice it!"
+msgstr ""
+
+#: templates/emails/practice_task.html:42 templates/emails/practice_task.txt:11
+msgid "The next skill you need to practice is:"
+msgstr ""
+
+#: templates/emails/practice_task.html:65
+#, python-format
+msgid ""
+"Don't know this skill yet? No worries, that's what practice is for!\n"
+"<a href='%(task_link)s' style='text-decoration: none; color: #4FBAD4'>\n"
+"    <strong>Try your best.</strong></a>\n"
+"If you get stuck, click the \"I'd like a hint\" button and we'll step you\n"
+"through how to work it out.\n"
+"<a href='%(task_link)s' style='text-decoration: none; color: #4FBAD4'>\n"
+"    <strong>Complete the task</strong></a>\n"
+"and you'll level up to Practiced in this skill."
+msgstr ""
+
+#: templates/emails/practice_task.html:76 templates/emails/practice_task.txt:23
+msgid "Happy learning!"
+msgstr ""
+
+#: templates/emails/practice_task.html:82
+msgid ""
+"P.S. After you've practiced this skill, we'll wait about a day before\n"
+"giving you a mastery challenge with a similar question. If you can prove you\n"
+"still know how to answer it, we'll level you up in the skill. Do this a couple\n"
+"more times to achieve Mastery."
+msgstr ""
+
+#: templates/emails/practice_task.html:92
+msgid "Start practicing now!"
+msgstr ""
+
+#: templates/emails/practice_task.txt:3
+#, python-format
+msgid "Practice a skill to make progress in your %(mission_title)s mission!"
+msgstr ""
+
+#: templates/emails/practice_task.txt:18
+msgid ""
+"Don't know this skill yet? No worries, that's what practice is for!\n"
+"Try your best. If you get stuck, click the \"I'd like a hint\" button\n"
+"and we'll step you through how to work it out. Complete the task and\n"
+"you'll level up to Practiced in this skill."
+msgstr ""
+
+#: templates/emails/practice_task.txt:28
+msgid ""
+"P.S. After you've practiced this skill, we'll wait about a\n"
+"day before giving you a mastery challenge with a similar question.\n"
+"If you can prove you still know how to answer it, we'll level you\n"
+"up in the skill. Do this a couple more times to achieve Mastery."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/recommendation_feedback">http://www.khanacademy.org/recommendation_feedback</a>
+#: templates/emails/recommendation_email_feedback.html:66
+msgid "Check out Khan Academy!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/recommendation_feedback">http://www.khanacademy.org/recommendation_feedback</a>
+#: templates/emails/recommendation_email_feedback.html:73
+msgid "Check out Khan Academy! www.khanacademy.org"
+msgstr ""
+
+#: templates/emails/reengagement_email.html:15
+msgid "We've missed you at"
+msgstr ""
+
+#: templates/emails/reengagement_email.html:17
+msgid "Khan Academy!"
+msgstr ""
+
+#: templates/emails/reengagement_email.html:25
+#, python-format
+msgid "Hey %(nickname)s,"
+msgstr ""
+
+#: templates/emails/reengagement_email.html:28
+msgid ""
+"It's been a while since we've seen you on Khan\n"
+"    Academy and you've been missing out on some neat stuff! Last time, you were checking out "
+msgstr ""
+
+#: templates/emails/reengagement_email.html:31
+msgid " We add fantastic new content every week— here are some other topics we think you'll enjoy!"
+msgstr ""
+
+#: templates/emails/reengagement_email.html:34
+msgid "Stuff we think you'll like..."
+msgstr ""
+
+#: templates/emails/reengagement_email.html:57
+msgid "Done this already"
+msgstr ""
+
+#: templates/emails/reengagement_email.html:60
+msgid "This is great!"
+msgstr ""
+
+#: templates/emails/reengagement_email.html:63
+msgid "Not for me"
+msgstr ""
+
+#: templates/emails/reengagement_email.html:86
+msgid ""
+"Feel free to give us feedback about these recommendations by clicking\n"
+"    the buttons below each suggestion!"
+msgstr ""
+
+#: templates/emails/reengagement_email.html:91
+msgid ""
+"We hope this email helps you find something exciting to learn on Khan\n"
+"    Academy. And don't forget "
+msgstr ""
+
+#: templates/emails/reengagement_email.html:92
+msgid "You Can Learn Anything."
+msgstr ""
+
+#: templates/emails/reengagement_email.txt:1
+#, python-format
+msgid ""
+"Hey %(nickname)s, it's been a while since we've seen you on Khan\n"
+"Academy and you've been missing out on some neat stuff! Last time you were\n"
+"with us, you were checking out %(last_content)s. We add fantastic new content\n"
+"every week— here are some other topics we think you'll enjoy"
+msgstr ""
+
+#: templates/emails/reengagement_email.txt:7
+msgid "Stuff we think you'll like"
+msgstr ""
+
+#: templates/emails/reengagement_email.txt:13
+msgid ""
+"We hope this email helps you find something exciting to learn on Khan\n"
+"Academy. And don't forget You Can Learn Anything!"
+msgstr ""
+
+#: templates/emails/reminder_verification_email.html:9 templates/emails/verification_email.html:9 templates/emails/verification_email.txt:1
+msgid "Finish signing up for Khan Academy!"
+msgstr ""
+
+#: templates/emails/reminder_verification_email.html:23 templates/emails/reminder_verification_email.txt:1
+msgid "You're almost there..."
+msgstr ""
+
+#: templates/emails/reminder_verification_email.html:25 templates/emails/reminder_verification_email.txt:3
+msgid "You started signing up for Khan Academy and can finish right now!"
+msgstr ""
+
+#: templates/emails/reminder_verification_email.html:28
+#, python-format
+msgid "Click here to claim the %(points)s points you've earned"
+msgstr ""
+
+#: templates/emails/reminder_verification_email.html:28
+msgid "Click here"
+msgstr ""
+
+#: templates/emails/reminder_verification_email.html:31 templates/emails/verification_email.html:29
+msgid "Finish signing up"
+msgstr ""
+
+#: templates/emails/reminder_verification_email.html:47
+msgid "This is a one-time message and there's no need to unsubscribe. If you did not sign up for<br>Khan Academy, simply ignore this message and the account will automatically be closed."
+msgstr ""
+
+#: templates/emails/reminder_verification_email.txt:5
+#, python-format
+msgid "Click on the following link to finish signing up and claim the %(points)s points you've earned!"
+msgstr ""
+
+#: templates/emails/reminder_verification_email.txt:5
+msgid "Click on the following link to finish signing up!"
+msgstr ""
+
+#: templates/emails/reminder_verification_email.txt:14
+msgid "This is a one-time reminder and there is no need to unsubscribe. If you did not sign up for Khan Academy, simply ignore this message and the account will automatically be closed."
+msgstr ""
+
+#: templates/emails/sat/coach_sharing_request.txt:1
+#, python-format
+msgid "Hi, %(name)s,"
+msgstr ""
+
+#: templates/emails/sat/coach_sharing_request.txt:3
+#, python-format
+msgid "Your coach %(coaches)s would like you to share your SAT practice activity with them."
+msgstr ""
+
+#: templates/emails/sat/coach_sharing_request.txt:5
+msgid "Share your SAT practice activity"
+msgstr ""
+
+#: templates/emails/sat/coach_sharing_request.txt:10
+msgid "They will see:"
+msgstr ""
+
+#: templates/emails/sat/coach_sharing_request.txt:12
+msgid "* Your practice test scores"
+msgstr ""
+
+#: templates/emails/sat/coach_sharing_request.txt:14
+msgid "* Your upcoming test date and your practice schedule"
+msgstr ""
+
+#: templates/emails/sat/coach_sharing_request.txt:16
+msgid "* The time you spend, the questions you answer, and your skill levels"
+msgstr ""
+
+#: templates/emails/sat/coach_sharing_request.txt:18
+msgid "* Whether your Khan Academy account is connected to College Board"
+msgstr ""
+
+#: templates/emails/sat/coach_sharing_request.txt:22
+msgid "They will NOT see:"
+msgstr ""
+
+#: templates/emails/sat/coach_sharing_request.txt:24
+msgid "* Your real SAT or PSAT/NMSQT® scores"
+msgstr ""
+
+#: templates/emails/sat/coach_sharing_request.txt:26
+msgid "You can turn off sharing with your coach at any time."
+msgstr ""
+
+#: templates/emails/sat/coach_sharing_request.txt:29
+msgid "The Official SAT Practice Team"
+msgstr ""
+
+#: templates/emails/sat/reengagement.html:70 templates/emails/sat/reengagement.txt:8
+#, python-format
+msgid "%(nickname)s,"
+msgstr ""
+
+#: templates/emails/sat/sat_macro_tags.html:62
+#, python-format
+msgid ""
+"This message was sent to %(to_address)s.\n"
+"    You may %(unsubscribe_link)s or %(delete_schedule_link)s\n"
+"    at any time."
+msgstr ""
+
+#: templates/emails/sat/sat_macro_tags.html:66
+msgid "unsubscribe from these reminder emails"
+msgstr ""
+
+#: templates/emails/sat/sat_macro_tags.html:67
+msgid "delete your practice schedule"
+msgstr ""
+
+#: templates/emails/sat/sat_macro_tags.html:73
+#, python-format
+msgid "%(unsubscribe_link)s"
+msgstr ""
+
+#: templates/emails/sat/sat_macro_tags.html:74
+msgid "Unsubscribe"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:38 templates/emails/subscriptions/coach_report_email.html:69 templates/emails/subscriptions/parent_report_email.html:46 templates/emails/subscriptions/parent_report_email.html:96 templates/emails/subscriptions/parent_report_email.txt:3 templates/emails/subscriptions/parent_report_email.txt:8 templates/emails/subscriptions/weekly_user_summary_email.html:25
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/emails/subscriptions/coach_report_email.html:49 templates/emails/subscriptions/weekly_user_summary_email.html:29
+msgid "points earned"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:76
+msgid "point"
+msgid_plural "points"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/emails/subscriptions/coach_report_email.html:96
+#, python-format
+msgid "Encourage %(student_name)s and<br>"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:97 templates/emails/subscriptions/coach_report_email.html:251
+msgid "view more student activity"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:102 templates/emails/subscriptions/coach_report_email.html:225
+msgid "View more student activity"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:104 templates/emails/subscriptions/weekly_user_summary_email.html:252
+#, python-format
+msgid "View all %(num_activities)d activities"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:123 templates/emails/subscriptions/coach_report_email.html:174 templates/emails/subscriptions/coach_report_email.txt:3
+#, python-format
+msgid "Here are the highlights from your students in %(list_name)s from %(report_start)s to %(now)s UTC on Khan Academy."
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:125 templates/emails/subscriptions/coach_report_email.html:176 templates/emails/subscriptions/coach_report_email.txt:5
+#, python-format
+msgid "Here are the highlights from your students from %(report_start)s to %(now)s UTC on Khan Academy."
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:147
+msgid "Weekly student highlights"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:187
+msgid "Your assignments"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:192 templates/emails/subscriptions/coach_report_email.txt:9 templates/emails/subscriptions/coach_report_email.txt:23
+msgid "Ordered by due date"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:222
+msgid "Ordered by total minutes spent this week"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:237
+#, python-format
+msgid ""
+"Wow, you have a lot of students! We couldn't fit them all in this email,\n"
+"      but you can %(report_link)s."
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:246
+msgid "You're receiving this email because you are coaching these students on Khan Academy."
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:250
+#, python-format
+msgid "For more detailed stats, %(report_link)s."
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:255
+#, python-format
+msgid "To %(manage_link)s to this weekly summary email, visit your %(settings_link)s."
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.html:256
+msgid "manage your subscription"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.txt:8
+msgid "Your Assignments"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.txt:22
+msgid "Your Students"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.txt:28
+msgid "Total Minutes on Khan Academy"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.txt:30
+msgid "Activities This Week"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.txt:31
+msgid "Recent Activities"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.txt:32
+msgid "Activity Name"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.txt:33
+msgid "Minutes Spent"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.txt:36
+msgid "Wow, You have a lot of students! We couldn't fit them all in this email."
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.txt:39
+msgid "You're receiving this email because you are coaching these students on Khan Academy. For more student activity, visit:"
+msgstr ""
+
+#: templates/emails/subscriptions/coach_report_email.txt:44
+msgid "To manage your subscription to this weekly summary email, visit your settings at:"
+msgstr ""
+
+#: templates/emails/subscriptions/content_digest_email.txt:3
+msgid "We've added a whole bunch of new Khan Academy content for you to check out. Here's a quick summary:"
+msgstr ""
+
+#: templates/emails/subscriptions/content_digest_email.txt:12
+msgid "...and there's actually even more, but we don't want this email to be too long. We'd love to know what you think. Leave your comments and questions under the videos, or help teach other Khan Academy students by answering theirs."
+msgstr ""
+
+#: templates/emails/subscriptions/content_digest_email.txt:14 templates/password-reset-email.txt:11
+msgid ""
+"Cheers,\n"
+"Sal and the Khan Academy Team"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:84
+msgid "Your child's progress this week"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:92
+#, python-format
+msgid ""
+"%(child_name)s worked on Khan Academy for <span style=\"font-weight:\n"
+"bold; color: #1cabcc; text-transform: uppercase\">%(num_minutes)s total\n"
+"%(minutes_text)s</span> this week."
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:114
+#, python-format
+msgid "<strong>We missed %(child_name)s this week.</strong> We're ready to get back to learning!"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:116
+#, python-format
+msgid "<strong>We haven't seen %(child_name)s in two weeks.</strong> We're ready to get back to learning!"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:120
+#, python-format
+msgid "Encourage %(child_name)s to visit Khan Academy <strong>today</strong>."
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:129 templates/emails/subscriptions/parent_report_email.html:348 templates/emails/subscriptions/parent_report_email.txt:66
+#, python-format
+msgid "View more student progress for %(child_name)s"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:172
+msgid "total minutes this week"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:186
+#, python-format
+msgid "%(child_name)s is <span style=\"font-weight: bold; color: #e32600; text-transform: uppercase\">struggling</span> with <a href=\"%(url)s\" style=\"color: #555\"><strong>%(total_skills)s skills</strong></a>, including:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:188
+#, python-format
+msgid "%(child_name)s is <span style=\"font-weight: bold; color: #e32600; text-transform: uppercase\">struggling</span> with <a href=\"%(url)s\" style=\"color: #555\"><strong>%(total_skills)s %(skills_text)s</strong></a>:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:198
+#, python-format
+msgid "%(child_name)s worked on but <span style=\"font-weight: bold; color: #888; text-transform: uppercase\">needs practice</span> with <a href=\"%(url)s\" style=\"color: #555\"><strong>%(total_skills)s skills</strong></a>, including:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:200
+#, python-format
+msgid "%(child_name)s worked on but <span style=\"font-weight: bold; color: #888; text-transform: uppercase\">needs practice</span> with <a href=\"%(url)s\" style=\"color: #555\"><strong>%(total_skills)s %(skills_text)s</strong></a>:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:210
+#, python-format
+msgid "%(child_name)s <span style=\"font-weight: bold; color: #1cabcc; text-transform: uppercase\">leveled up</span> in <a href=\"%(url)s\" style=\"color: #555\"><strong>%(total_skills)s skills</strong></a>, including:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:212
+#, python-format
+msgid "%(child_name)s <span style=\"font-weight: bold; color: #1cabcc; text-transform: uppercase\">leveled up</span> in <a href=\"%(url)s\" style=\"color: #555\"><strong>%(total_skills)s %(skills_text)s</strong></a>:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:222
+#, python-format
+msgid "%(child_name)s watched <a href=\"%(url)s\" style=\"color: #555\"><strong>%(num_videos)s videos</strong></a>, including:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:224
+#, python-format
+msgid "%(child_name)s watched <a href=\"%(url)s\" style=\"color: #555\"><strong>%(num_videos)s %(videos_text)s</strong></a>:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:234
+#, python-format
+msgid "%(child_name)s worked on <a href=\"%(url)s\" style=\"color: #555\"><strong>%(num_challenges)s computer programming challenges</strong></a>, including:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:236
+#, python-format
+msgid "%(child_name)s worked on <a href=\"%(url)s\" style=\"color: #555\"><strong>%(num_challenges)s %(challenges_text)s</strong></a>:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:246
+#, python-format
+msgid "%(child_name)s earned <span style=\"font-weight: bold; color: #00afe0; text-transform: uppercase\">+%(total_points)s %(points_text)s</span> and <a href=\"%(url)s\" style=\"color: #555\"><strong>%(total_badges)s badges</strong></a>, including:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:248
+#, python-format
+msgid "%(child_name)s earned <span style=\"font-weight: bold; color: #00afe0; text-transform: uppercase\">+%(total_points)s %(points_text)s</span> and <a href=\"%(url)s\" style=\"color: #555\"><strong>%(total_badges)s %(badges_text)s</strong></a>:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:269 templates/emails/subscriptions/parent_report_email.html:317
+#, python-format
+msgid "(x%(count)d)"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:292
+#, python-format
+msgid "%(child_name)s earned +<span style=\"font-weight: bold; color: #025b89; text-transform: uppercase\">%(total_points)s %(points_text)s</span> this week."
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:298
+#, python-format
+msgid "Encourage %(child_name)s to earn these <a href=\"%(url)s\" style=\"color: #555\"><strong>upcoming badges</strong></a>:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:344
+#, python-format
+msgid "Make sure %(child_name)s knows that <strong>the brain is like a muscle: the more you exercise it, the stronger it gets!</strong>"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.html:352
+msgid "Visit Khan Academy"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:8
+#, python-format
+msgid "%(child_name)s worked on Khan Academy for %(num_minutes)s total %(minutes_text)s this week."
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:9
+#, python-format
+msgid "Here's a quick look at %(child_name)s's activity this week on Khan Academy."
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:11
+#, python-format
+msgid "We missed %(child_name)s this week. We're ready to get back to learning!"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:12 templates/emails/subscriptions/parent_report_email.txt:15
+#, python-format
+msgid "Encourage %(child_name)s to visit Khan Academy today."
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:14
+#, python-format
+msgid "We haven't seen %(child_name)s in two weeks. We're ready to get back to learning!"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:19 templates/emails/subscriptions/weekly_user_summary_email.txt:9
+msgid "Recent Accomplishments"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:21 templates/emails/subscriptions/weekly_user_summary_email.txt:28
+msgid "Total minutes on Khan Academy"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:24
+#, python-format
+msgid "%(child_name)s is struggling with %(total_skills)s skills, including:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:26
+#, python-format
+msgid "%(child_name)s is struggling with %(total_skills)s %(skills_text)s:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:32
+#, python-format
+msgid "%(child_name)s worked on but needs practice with %(total_skills)s skills, including:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:34
+#, python-format
+msgid "%(child_name)s worked on but needs practice with %(total_skills)s %(skills_text)s:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:40
+#, python-format
+msgid "%(child_name)s leveled up in %(total_skills)s skills, including:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:42
+#, python-format
+msgid "%(child_name)s leveled up in %(total_skills)s %(skills_text)s:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:48
+#, python-format
+msgid "%(child_name)s watched %(total_skills)s videos, including:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:50
+#, python-format
+msgid "%(child_name)s watched %(total_skills)s %(skills_text)s:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:56
+#, python-format
+msgid "%(child_name)s worked on %(total_skills)s computer programming challenges, including:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:58
+#, python-format
+msgid "%(child_name)s worked on %(total_skills)s %(skills_text)s:"
+msgstr ""
+
+#: templates/emails/subscriptions/parent_report_email.txt:63
+#, python-format
+msgid "%(child_name)s earned +%(total_points)s %(points_text)s this week."
+msgstr ""
+
+#: templates/emails/subscriptions/subscription_template.html:56
+msgid ""
+"Cheers,<br>\n"
+"                        Sal and the Khan Academy Team"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/email_subscriptions/unsubscribe">http://www.khanacademy.org/email_subscriptions/unsubscribe</a>
+#: templates/emails/subscriptions/unsubscribed.html:12
+msgid "Successfully unsubscribed."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/email_subscriptions/unsubscribe">http://www.khanacademy.org/email_subscriptions/unsubscribe</a>
+#: templates/emails/subscriptions/unsubscribed.html:16
+msgid "Hope you'll <a href=\"/\">come back and learn more</a>!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/email_subscriptions/unsubscribe">http://www.khanacademy.org/email_subscriptions/unsubscribe</a>
+#: templates/emails/subscriptions/unsubscribed.html:17
+msgid "If you have any tips for us, <a href=\"https://khanacademy.zendesk.com\">we'd love your feedback</a>."
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:22
+msgid "problem"
+msgid_plural "problems"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:42
+#, python-format
+msgid "Screenshot of %(title)s"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:54
+msgid "Continue work and submit a request for review."
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:57
+msgid "New Review: Needs more work, almost there!"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:60
+msgid "Finished! Congratulations!"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:63
+msgid "Awaiting review."
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:74
+msgid "Your weekly summary"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:96 templates/emails/subscriptions/weekly_user_summary_email.txt:3
+msgid "We missed you this past week! Be sure to come back regularly and continue learning!"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:98 templates/emails/subscriptions/weekly_user_summary_email.txt:5
+msgid "Here's a look at what you achieved this week. Check it out, and keep learning!"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:107 templates/emails/subscriptions/weekly_user_summary_email.html:310
+msgid "Learn more today"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:126
+msgid "Two weeks ago"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:131
+msgid "Last Week"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:181
+msgid "You're close to earning"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:219
+msgid "Earn this badge now"
+msgid_plural "Earn these badges now"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:229
+msgid "Recent skills mastered"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:250
+msgid "View the full report"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:266 templates/emails/subscriptions/weekly_user_summary_email.txt:34
+msgid "Project Updates"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.html:298
+msgid "New avatars unlocked!!"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.txt:12
+msgid "Points two weeks ago"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.txt:13
+msgid "Points last week: 0"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.txt:20
+#, python-format
+msgid "%(badge_type)s (%(count)s) "
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.txt:26
+msgid "None this week."
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.txt:29
+msgid "Mastered exercises"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.txt:39
+msgid "Review feedback and try again:"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.txt:45
+msgid "Finish up and request feedback:"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.txt:51
+msgid "Recently completed:"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.txt:58
+msgid "New rewards available!"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.txt:60
+#, python-format
+msgid "Avatar class unlocked! %(translated_name)s"
+msgstr ""
+
+#: templates/emails/subscriptions/weekly_user_summary_email.txt:64
+msgid "Learn more today:"
+msgstr ""
+
+#: templates/emails/teacher_bulk_add_students.html:18
+msgid "Students Added To Your Class"
+msgstr ""
+
+#: templates/emails/teacher_bulk_add_students.html:25
+#, python-format
+msgid ""
+"For your reference, what follows is the list of students that you\n"
+"    have added to your \"%(student_list_name)s\" class. This list includes their passwords\n"
+"    in case a student forgets their password."
+msgstr ""
+
+#: templates/emails/teacher_bulk_add_students.html:32
+msgid ""
+"For your reference, what follows is the list of students that you\n"
+"    have added. This list includes their passwords\n"
+"    in case a student forgets their password."
+msgstr ""
+
+#: templates/emails/teacher_bulk_add_students.html:56
+#, python-format
+msgid ""
+"You can manage your classes at any time by going to your\n"
+"            <a href=\"%(coach_dashboard_url)s\">Coach Dashboard</a>."
+msgstr ""
+
+#: templates/emails/teacher_bulk_add_students.html:64
+#, python-format
+msgid "You may <a href='%(unsubscribe_url)s'>unsubscribe from Khan Academy emails</a> at any time."
+msgstr ""
+
+#: templates/emails/teacher_bulk_add_students.txt:1
+msgid "Students have been added to your class on Khan Academy"
+msgstr ""
+
+#: templates/emails/teacher_bulk_add_students.txt:4
+#, python-format
+msgid ""
+"For your reference, what follows is the list of students that you\n"
+"have added to your \"%(student_list_name)s\" class. This list includes their passwords\n"
+"in case a student forgets their password."
+msgstr ""
+
+#: templates/emails/teacher_bulk_add_students.txt:9
+msgid ""
+"For your reference, what follows is the list of students that you\n"
+"have added. This list includes their passwords in case a student forgets\n"
+"their password."
+msgstr ""
+
+#: templates/emails/teacher_bulk_add_students.txt:15
+#, python-format
+msgid "Username: %(username)s"
+msgstr ""
+
+#: templates/emails/teacher_bulk_add_students.txt:16
+#, python-format
+msgid "Password: %(password)s"
+msgstr ""
+
+#: templates/emails/teacher_bulk_add_students.txt:19
+#, python-format
+msgid ""
+"You can manage your classes at any time by going to your\n"
+"Coach Dashboard:\n"
+"%(coach_dashboard_url)s"
+msgstr ""
+
+#: templates/emails/u13/u13_parent_approve_email.html:11 templates/emails/u13/u13_parent_approve_email.txt:1
+msgid "Your child's Khan Academy account needs approval."
+msgstr ""
+
+#: templates/emails/u13/u13_parent_approve_email.html:36 templates/emails/u13/u13_parent_approve_email.txt:5
+msgid ""
+"Your child created a Khan Academy account and listed you as their parent\n"
+"or guardian. Because your child is under 13, you must approve their use of Khan\n"
+"Academy."
+msgstr ""
+
+#: templates/emails/u13/u13_parent_approve_email.html:43 templates/emails/u13/u13_parent_approve_email.txt:9
+#, python-format
+msgid ""
+"On Khan Academy, your child can access a wealth of educational content,\n"
+"all 100%% free. Please click the button below to grant approval or your child’s\n"
+"account will be deactivated in %(days)s."
+msgstr ""
+
+#: templates/emails/u13/u13_parent_approve_email.html:51 templates/emails/u13/u13_parent_reminder_email.html:43
+msgid "Allow my child to use Khan Academy"
+msgstr ""
+
+#: templates/emails/u13/u13_parent_approve_email.html:55
+#, python-format
+msgid ""
+"Please press the button above and give your approval, or your child’s\n"
+"account will be deactivated in %(days)s."
+msgstr ""
+
+#: templates/emails/u13/u13_parent_approve_email.html:61 templates/emails/u13/u13_parent_reminder_email.html:58
+#, python-format
+msgid ""
+"For more information on Khan Academy child accounts, please see our\n"
+"    <a href='%(faq_url)s'>FAQ</a>."
+msgstr ""
+
+#: templates/emails/u13/u13_parent_approve_email.html:66 templates/emails/u13/u13_parent_approve_email.txt:28 templates/emails/u13/u13_parent_reminder_email.html:63 templates/emails/u13/u13_parent_reminder_email.txt:25
+msgid ""
+"Our mission is to provide a free, world-class education to anyone,\n"
+"anywhere. Thank you for allowing your child to learn with us."
+msgstr ""
+
+#: templates/emails/u13/u13_parent_approve_email.html:77 templates/emails/u13/u13_parent_reminder_email.html:74
+msgid ""
+"<b>P.S.</b> If you believe you received this email in error, you can\n"
+"safely ignore it and we will remove your email from our system."
+msgstr ""
+
+#: templates/emails/u13/u13_parent_approve_email.txt:16 templates/emails/u13/u13_parent_reminder_email.txt:13
+msgid ""
+"If clicking doesn't seem to work, you can copy and paste the link into\n"
+"your browser's address bar."
+msgstr ""
+
+#: templates/emails/u13/u13_parent_approve_email.txt:19
+#, python-format
+msgid ""
+"Please click the link above and give your approval, or your child’s\n"
+"account will be deactivated in %(days)s."
+msgstr ""
+
+#: templates/emails/u13/u13_parent_approve_email.txt:23 templates/emails/u13/u13_parent_reminder_email.txt:20
+msgid ""
+"For more information on Khan Academy child accounts,\n"
+"please see our FAQ:"
+msgstr ""
+
+#: templates/emails/u13/u13_parent_reminder_email.html:7
+msgid "Action required: your child's Khan Academy account will be deleted tomorrow"
+msgstr ""
+
+#: templates/emails/u13/u13_parent_reminder_email.html:11
+msgid "Your child's account will be deleted tomorrow."
+msgstr ""
+
+#: templates/emails/u13/u13_parent_reminder_email.html:37 templates/emails/u13/u13_parent_reminder_email.txt:5
+msgid ""
+"Several days ago, your child created a Khan Academy account and listed you\n"
+"as their parent or guardian."
+msgstr ""
+
+#: templates/emails/u13/u13_parent_reminder_email.html:47
+msgid ""
+"<b>Please press the button above and give your approval, or your child’s\n"
+"    account will be deactivated <u>tomorrow</u>.</b>"
+msgstr ""
+
+#: templates/emails/u13/u13_parent_reminder_email.html:52 templates/emails/u13/u13_parent_reminder_email.txt:16
+msgid ""
+"If we deactivate your child’s account, any learning progress they have\n"
+"will be lost, and we will not be able to restore it. They will have to create a\n"
+"new account."
+msgstr ""
+
+#: templates/emails/u13/u13_parent_reminder_email.txt:1
+msgid "Your child's Khan Academy account will be deleted tomorrow."
+msgstr ""
+
+#: templates/emails/u13/u13_parent_reminder_email.txt:8
+msgid ""
+"Please click the link above and give your approval, or your child’s\n"
+"    account will be deactivated tomorrow."
+msgstr ""
+
+#: templates/emails/verification_email.html:23
+msgid "We're excited to have you!"
+msgstr ""
+
+#: templates/emails/verification_email.html:25
+msgid "Click here to finish creating your account:"
+msgstr ""
+
+#: templates/emails/verification_email.html:45
+msgid "This is a message to verify your email, there is no need to unsubscribe. If you did not sign up for<br>Khan Academy, simply ignore this message and the account will automatically be closed."
+msgstr ""
+
+#: templates/emails/verification_email.txt:3
+msgid "Click on the following link to finish signing up."
+msgstr ""
+
+#: templates/emails/verification_email.txt:13
+msgid "This is a message to verify your email, there is no need to unsubscribe. If you did not sign up for Khan Academy, simply ignore this message and the account will automatically be closed."
+msgstr ""
+
+#: templates/emails/welcome_email.html:158
+#, python-format
+msgid "Welcome, %(name)s!"
+msgstr ""
+
+#: templates/emails/welcome_email.html:161 templates/emails/welcome_email.txt:3
+msgid "We're excited to have you join our class of millions of learners from around the world."
+msgstr ""
+
+#: templates/emails/welcome_email.html:271
+msgid "Thousands of interactive practice exercises from kindergarten to calculus"
+msgstr ""
+
+#: templates/emails/welcome_email.html:318
+msgid "In-depth videos to watch at your own pace"
+msgstr ""
+
+#: templates/emails/welcome_email.html:367
+msgid "Track your progress to identify what you should practice next"
+msgstr ""
+
+#: templates/emails/welcome_email.html:487 templates/emails/welcome_email.txt:20
+msgid "Completely free, forever."
+msgstr ""
+
+#: templates/emails/welcome_email.html:490
+msgid "No ads, no subscriptions. We are a not-for-profit because we believe in a free, world-class education for anyone, anywhere."
+msgstr ""
+
+#: templates/emails/welcome_email.html:587
+msgid "Let your friends know you're on Khan Academy"
+msgstr ""
+
+#: templates/emails/welcome_email.html:593
+msgid "You only have to know one thing: You can learn anything. I just started learning on khanacademy.org"
+msgstr ""
+
+#: templates/emails/welcome_email.txt:1
+#, python-format
+msgid "Welcome to Khan Academy, %(name)s!"
+msgstr ""
+
+#: templates/emails/welcome_email.txt:11
+msgid "* Thousands of interactive practice exercises from kindergarten to calculus"
+msgstr ""
+
+#: templates/emails/welcome_email.txt:13
+msgid "* In-depth videos to watch at your own pace"
+msgstr ""
+
+#: templates/emails/welcome_email.txt:15
+msgid "* Track your progress to identify what you should practice next"
+msgstr ""
+
+#: templates/emails/welcome_email.txt:22
+msgid ""
+"No ads, no subscriptions. We are a not-for-profit because\n"
+"we believe in a free, world-class education for anyone, anywhere."
+msgstr ""
+
+#: templates/emails/welcome_email.txt:25
+#, python-format
+msgid "Learn more at %(url)s"
+msgstr ""
+
+#: templates/emails/welcome_template.html:49
+msgid ""
+"You're receiving this one-time email because you\n"
+"                            recently created an account at Khan Academy."
+msgstr ""
+
+#: templates/parent-verification-email-text-only.txt:3
+msgid "Hi there,"
+msgstr ""
+
+#: templates/parent-verification-email-text-only.txt:5
+msgid "Someone (perhaps yourself or your child) started to create a Khan Academy account for your child and listed you as the parent or guardian."
+msgstr ""
+
+#: templates/parent-verification-email-text-only.txt:7
+msgid "We need you to complete the process for creating your child's account."
+msgstr ""
+
+#: templates/parent-verification-email-text-only.txt:10
+msgid "Please click on the following link to help finish signing up for them."
+msgstr ""
+
+#: templates/parent-verification-email-text-only.txt:17
+msgid "Please sign up for a new Khan Academy account for yourself first, and after that we can help you create a child account."
+msgstr ""
+
+#: templates/parent-verification-email-text-only.txt:22
+msgid "For more information on Khan Academy and child accounts, please see our FAQ entry."
+msgstr ""

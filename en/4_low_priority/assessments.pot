@@ -1,0 +1,94 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:42+0000\n"
+"PO-Revision-Date: 2017-12-01 14:42+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# English version in label at <a href="https://www.khanacademy.org/article/a/resistant-measures-of-center">https://www.khanacademy.org/article/a/resistant-measures-of-center</a>
+# English version in label at <a href="https://www.khanacademy.org/exercise/equations-of-lines-of-best-fit-to-make-predictions">https://www.khanacademy.org/exercise/equations-of-lines-of-best-fit-to-make-predictions</a>
+# English version in label at <a href="https://www.khanacademy.org/exercise/interpreting-scatter-plots">https://www.khanacademy.org/exercise/interpreting-scatter-plots</a>
+# English version in label at <a href="https://www.khanacademy.org/exercise/interpreting-slope-and-y-intercept-of-lines-of-best-fit">https://www.khanacademy.org/exercise/interpreting-slope-and-y-intercept-of-lines-of-best-fit</a>
+# English version in label at <a href="https://www.khanacademy.org/exercise/linear-models-of-bivariate-data">https://www.khanacademy.org/exercise/linear-models-of-bivariate-data</a>
+# English version in label at <a href="https://www.khanacademy.org/exercise/positive-and-negative-linear-correlations-from-scatter-plots">https://www.khanacademy.org/exercise/positive-and-negative-linear-correlations-from-scatter-plots</a>
+# Translate label in article at <a href="https://www.khanacademy.org/translations/edit/redirect/a/resistant-measures-of-center?lang=en-pt">https://www.khanacademy.org/translations/edit/redirect/a/resistant-measures-of-center?lang=en-pt</a>.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/equations-of-lines-of-best-fit-to-make-predictions?lang=x6ec6d9ce368dcdae#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/equations-of-lines-of-best-fit-to-make-predictions?lang=xb61ab9a6fd75399d#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/interpreting-scatter-plots?lang=x06b805b83537aa27#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/interpreting-scatter-plots?lang=x182221dc80b7ec9a#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/interpreting-scatter-plots?lang=xb5d4098c4b3e6901#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/interpreting-slope-and-y-intercept-of-lines-of-best-fit?lang=x4617f49c439a4e57#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/interpreting-slope-and-y-intercept-of-lines-of-best-fit?lang=x5fedb92856859b4e#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/interpreting-slope-and-y-intercept-of-lines-of-best-fit?lang=x9a0e69c4ba3161a3#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/linear-models-of-bivariate-data?lang=xac6c5f46a44499d6#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/linear-models-of-bivariate-data?lang=xb9b3554ebfb0b794#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/positive-and-negative-linear-correlations-from-scatter-plots?lang=x7627113958fafe76#en-pt.
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/positive-and-negative-linear-correlations-from-scatter-plots?lang=xae030567199c6d82#en-pt.
+#: genfiles/compiled_jsx/en/javascript/assignments-package/student-assignments/student-assignments-table.jsx.js:236 genfiles/compiled_jsx/en/javascript/coach-report-shared-package/report-page.jsx.js:216 genfiles/labels/en/1a183438c09cce32092d6d7b540da015477a5e87-data.json:18 genfiles/labels/en/2ba4487b16aa2736f8593449f3c23d4e43973f37-data.json:5 genfiles/labels/en/35147d2d30a315ffb1987bd02017d15cfc9ddd37-data.json:18 genfiles/labels/en/4dd27acbbd7785282b59a6b2f9fd9e08c5b936d8-data.json:18 genfiles/labels/en/511c2a88d77f083045c067dbdd64bf269028ec84-data.json:18 genfiles/labels/en/60e5c6dcaf92af92f04137484146125476eaf432-data.json:11 genfiles/labels/en/667d284dfb1cd0d3797e95b255e16ddee6a2d546-data.json:18 genfiles/labels/en/75777fdbc8b7897a864416226300232cbc64ea1e-data.json:18 genfiles/labels/en/9d3709be52abafa26ffcf277f2499956a0a51933-data.json:8 genfiles/labels/en/a7c2ff0acac120d3205eeb9d556d848351deccd1-data.json:5 genfiles/labels/en/ad19a743323eac8d82e355849b431da475d7a970-data.json:18 genfiles/labels/en/ce9afdf188d649c48937cb3db5c118a1e36c95d5-data.json:18 genfiles/labels/en/d49e3db43078917853f351946b7ef89422ae4908-data.json:18 genfiles/labels/en/d7476b680854ec600f706dd54f403500d6be9d0f-data.json:16 genfiles/labels/en/e4af33ae2251e57b57961bea23db4626438869a4-data.json:18 genfiles/labels/en/ef8bd461490f791167cd984918b3d60d6147d562-data.json:18 genfiles/labels/en/f6796dc096fa83db33f8cda991c286a591801f17-data.json:20 genfiles/labels/en/f90f39b6647a906a1f82595cf74e741e221bc2ce-data.json:18
+msgid "Score"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/probability/ap-statistics-practice/ap-stats-random-variables/e/skill-check-discrete-random-variables">http://translate.khanacademy.org/math/probability/ap-statistics-practice/ap-stats-random-variables/e/skill-check-discrete-random-variables</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/probability/random-variables-topic/random-variables-prob-dist/e/constructing-probability-distributions">http://translate.khanacademy.org/math/probability/random-variables-topic/random-variables-prob-dist/e/constructing-probability-distributions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-discrete/e/constructing-probability-distributions">http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-discrete/e/constructing-probability-distributions</a>.
+# Exercise at (xbc168131) on the pl stage.
+# Exercise at (xbc168131) on the pt-pt stage.
+# Exercise at (xdffaf93f) on the bg stage.
+# Exercise at (xdffaf93f) on the es stage.
+# Exercise at (xdffaf93f) on the pl stage.
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-statistics/probability-ap">http://translate.khanacademy.org/math/ap-statistics/probability-ap</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-15-probability-2">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-15-probability-2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-15-probability">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-15-probability</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob">http://translate.khanacademy.org/math/math2/math2-prob</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/on-sixth-grade-math/on-data-management-probability/on-probability">http://translate.khanacademy.org/math/on-sixth-grade-math/on-data-management-probability/on-probability</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/ap-statistics-practice/ap-stats-probability">http://translate.khanacademy.org/math/probability/ap-statistics-practice/ap-stats-probability</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry">http://translate.khanacademy.org/math/probability/probability-geometry</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library">http://translate.khanacademy.org/math/statistics-probability/probability-library</a>
+# Title of topic (x0747c562c58e98b0) on the hi stage
+# Title of topic (x19ac05e4) on the pl stage
+# Title of topic (x19ac05e4) on the pt-pt stage
+# Title of topic (x657e206d) on the bg stage
+# Title of topic (x657e206d) on the es stage
+# Title of topic (x657e206d) on the pl stage
+# Title of topic (x8d0deee9) on the hy stage
+# Title of topic (xdb324519) on the bg stage
+# Title of topic (xdb324519) on the hy stage
+# Title of topic (xdb324519) on the pt stage
+# Title of topic (xf4049d4c) on the bg stage
+# Title of topic (xf4049d4c) on the pl stage
+# Title of topic (xfaf9ac12) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Probability"
+msgstr ""

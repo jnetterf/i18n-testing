@@ -1,0 +1,563 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:16+0000\n"
+"PO-Revision-Date: 2017-11-21 12:16+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "In this first challenge we will create the body of a snowman. Every shape we make needs a name so we can refer to it later. So first let's create a variable called _name_ and give it the value \"body\"."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Step 1 - Give your shape a name"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Step 2 - Define the radius of the body"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Step 3 - Define the center of the body"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Step 4 - Create a shape object"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "The body has a radius, but before was can draw it, we need to know where it is. So we define the center of the circle, which is a coordinate. Coordinates in 2D are a pair of numbers, so we'll use an array. Create a variable called _center_ and set the coordinate to (200, 280)."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "The snowman's body is a circle, so we will have to give it a radius. Create a variable called _radius_ and set its value a number between `100` and `200`."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-1-building-the-body</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "We now have three variables that describe a shape. In order to tell the computer that these properties belong to the same shape, we need to package them together into an object. Create an object called _bodyShape_ that has the three variables as attributes."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-3-coding-deformers">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-3-coding-deformers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-3-coding-deformers">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-3-coding-deformers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Finally let's code the rotation function. This function also requires taking into account the origin and we will have to apply the formula we learnt in Sets & Staging."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-3-coding-deformers">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-3-coding-deformers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-3-coding-deformers">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-3-coding-deformers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Now let's code the *translateYFunction*. This function is very similar to the translateYFunction, except it *subtracts* the value to the *y* attribute of the coordinate."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-3-coding-deformers">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-3-coding-deformers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-3-coding-deformers">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-3-coding-deformers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Now we have the x and y values we can perform the scale operation. Then we can set the value of each coordinate to be the scale value plus the original origin value."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-3-coding-deformers">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-3-coding-deformers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-3-coding-deformers">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-3-coding-deformers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Now we will code the scale function. This function is a little different from the translate function because we need to take into account the origin of the transformation. We can do this by first translating the coordinates such that origin of the deformer is at (0, 0). Then we can apply the scale and translate back. To do the first transformation we need to subtract the origin from the coordinate."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-3-coding-deformers">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-3-coding-deformers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-3-coding-deformers">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-3-coding-deformers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Step 4 - Finish the scale function"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-3-coding-deformers">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-3-coding-deformers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-3-coding-deformers">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-3-coding-deformers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Step 5 - Code the rotation function"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-3-coding-deformers">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-3-coding-deformers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-3-coding-deformers">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-3-coding-deformers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "The first function to code is the *translateXFunction*. This function takes a coordinate and a value and should add the value to the *x* attribute of the coordinate."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-4-adding-and-updating-deformers">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-4-adding-and-updating-deformers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-4-adding-and-updating-deformers">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-4-adding-and-updating-deformers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Before we can add a deformer to a shape, we need to add a point on that shape for the deformer to sit. This point will act as the origin for the deformer's transformations.\n"
+"\n"
+"Add an origin attribute to the head shape at (200, 200), and to the body shape at (200, 300)."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-4-adding-and-updating-deformers">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-4-adding-and-updating-deformers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-4-adding-and-updating-deformers">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-4-adding-and-updating-deformers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Now we can add a deformer to the model. The _modelData_ object contains a _deformer_ attribute that is currently equal to an empty array. To add a deformer to a shape, add string to this array in the form \"deformerName->shapeName\". For example \"translateX->head\" will add a translateX deformer to the head.\n"
+"\n"
+" Add a deformer to the *body* of the snowman."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-4-adding-and-updating-deformers">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-4-adding-and-updating-deformers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-4-adding-and-updating-deformers">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-4-adding-and-updating-deformers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Now we have a deformer on the base, we want to test that it works. To do this, we use the updateDeformer method. This takes two parameters: the first is the index of the deformer (starting from 0), the second is the value you want to set the deformer to.\n"
+"\n"
+"Scroll through the code until you find where the model is created (line 299). Update the deformer on the line below."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-4-adding-and-updating-deformers">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-4-adding-and-updating-deformers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-4-adding-and-updating-deformers">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-4-adding-and-updating-deformers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Step 4 - Connect the head to the body"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-4-adding-and-updating-deformers">http://translate.khanacademy.org/computing/p/retired-rigging-a-snowman-4-adding-and-updating-deformers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-4-adding-and-updating-deformers">http://translate.khanacademy.org/partner-content/p/retired-rigging-a-snowman-4-adding-and-updating-deformers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"We want the head to move when we move the body and we do this by defining a shape hierarchy. This is done by adding a string to the model's connection attribute. The string is similar to the string for adding deformers. It has the parent shape name, followed \"->\", and the child shape name.\n"
+"\n"
+"Add a connection making the head dependent on the body."
+msgstr ""

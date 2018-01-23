@@ -1,0 +1,899 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-25 11:18+0000\n"
+"PO-Revision-Date: 2017-11-25 11:18+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-fractions/e/adding_and_subtracting_fractions">http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-fractions/e/adding_and_subtracting_fractions</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/core-algebra-foundations-fractions/e/adding_and_subtracting_fractions">http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/core-algebra-foundations-fractions/e/adding_and_subtracting_fractions</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/arithmetic/fractions/fractions-unlike-denom/e/adding_and_subtracting_fractions">http://translate.khanacademy.org/math/arithmetic/fractions/fractions-unlike-denom/e/adding_and_subtracting_fractions</a>
+# Pretty display name for exercise (3011) on the pt stage
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-neg-fractions">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/cc-7th-add-sub-neg-fractions</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Adding & subtracting negative fractions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases">http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/alternate-number-bases">http://translate.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/alternate-number-bases</a>
+# Title of topic (x704b78a9) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Binary and hexadecimal number systems"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases">http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/alternate-number-bases">http://translate.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/alternate-number-bases</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x704b78a9) on the lol stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Alternate number bases"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/cc-1st-grade-math/cc-1st-place-value/cc-1st-two-digit-compare">http://translate.khanacademy.org/math/cc-1st-grade-math/cc-1st-place-value/cc-1st-two-digit-compare</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/early-math/cc-early-math-place-value-topic/cc-early-math-two-digit-compare">http://translate.khanacademy.org/math/early-math/cc-early-math-place-value-topic/cc-early-math-two-digit-compare</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x92e4554d) on the hy stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x92e4554d) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa0d7092d) on the hy stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xa0d7092d) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Comparing two-digit numbers"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-place-value-rounding/cc-4th-place-value-intro">http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-place-value-rounding/cc-4th-place-value-intro</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Place value introduction"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/ncert-eighth-picture-bar-graphs">http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/ncert-eighth-picture-bar-graphs</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-picture-bar-graphs">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-picture-bar-graphs</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Read and interpret picture graphs, bar graphs and histograms.  Also, make some graphs of your own!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-comparing-quantities/in-in-7th-comparing-quantities-percent-decimal-conversions">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-comparing-quantities/in-in-7th-comparing-quantities-percent-decimal-conversions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-decimal-conversions">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-decimal-conversions</a>
+# Title of topic (x6e38701e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Percent, fraction, decimal conversions"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-cubes-cube-roots/in-in-8th-cube-root">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-cubes-cube-roots/in-in-8th-cube-root</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-cube-root">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-cube-root</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x66a8cd11) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Cube roots "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-cubes-cube-roots/in-in-8th-cube-root">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-cubes-cube-roots/in-in-8th-cube-root</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-cube-root">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-cube-root</a>
+# Description of topic (x66a8cd11) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "If you're familiar with the idea of a square root, we're about to take things one step (dimension?) further with the cube root.  This generally refers to finding a number that, when cubed, is equal to the number that you're trying to find the cube root of!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/copy-of-6th-estimation-of-numbers">http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/copy-of-6th-estimation-of-numbers</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-arith-prop/pre-algebra-rounding-whole-numbers">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-arith-prop/pre-algebra-rounding-whole-numbers</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"If you're looking to create an army of robot dogs, will it really make a difference if you have 10,300 dogs, 9,997 dogs or 10,005 dogs?  Probably not.  All you really care about is how many dogs you have to, say, the nearest thousand (10,000 dogs).\n"
+"\n"
+"In this tutorial, we'll learn about conventions for rounding whole numbers.  Very useful when we might not need to (or cannot) be completely precise."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/alternate-number-bases">http://translate.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/alternate-number-bases</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Most of us are use to using the digits 0-9 to represent numbers in the base-10 (decimal)number system.  In this tutorial, we'll see that is just one of many (really infinite) number systems.  In particular, we will focus on the binary (base-2) and hexadecimal (base-16) systems."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/greater-than-less-than">http://translate.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/greater-than-less-than</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Inequalities : Greater than and less than basics"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-arith-prop/pre-algebra-place-value">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-arith-prop/pre-algebra-place-value</a>
+# Description of topic (x27398fa7) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "In this tutorial we'll learn about place value.  This is key to better understanding what we're really doing when we count, carry, regroup, multiply, and divide with multi-digit numbers. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-sub-decimals">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-sub-decimals</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Subtracting decimal"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-greater-than-less-than">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-greater-than-less-than</a>
+# Title of topic (x33a7063d) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Inequalities: Greater than and less than basics"
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/topic-quiz-tutorial-pre-algebra-equations-expressions/e/topic-quiz-exercise-pre-algebra-equations-expressions">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/topic-quiz-tutorial-pre-algebra-equations-expressions/e/topic-quiz-exercise-pre-algebra-equations-expressions</a>
+# Pretty display name for exercise (x9bad35cbf4891427) on the bg stage
+# Pretty display name for exercise (x9bad35cbf4891427) on the de stage
+# Pretty display name for exercise (x9bad35cbf4891427) on the es stage
+# Pretty display name for exercise (x9bad35cbf4891427) on the fr stage
+# Pretty display name for exercise (x9bad35cbf4891427) on the ka stage
+# Pretty display name for exercise (x9bad35cbf4891427) on the pt-pt stage
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/topic-quiz-tutorial-pre-algebra-equations-expressions">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/topic-quiz-tutorial-pre-algebra-equations-expressions</a>
+# Title of topic (x4a3b4b9c3d249b39) on the bg stage
+# Title of topic (x4a3b4b9c3d249b39) on the de stage
+# Title of topic (x4a3b4b9c3d249b39) on the es stage
+# Title of topic (x4a3b4b9c3d249b39) on the fr stage
+# Title of topic (x4a3b4b9c3d249b39) on the ka stage
+# Title of topic (x4a3b4b9c3d249b39) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Test Yourself: Equations, expressions, and inequalities "
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/topic-quiz-tutorial-pre-algebra-equations-expressions/e/topic-quiz-exercise-pre-algebra-equations-expressions">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/topic-quiz-tutorial-pre-algebra-equations-expressions/e/topic-quiz-exercise-pre-algebra-equations-expressions</a>
+# Description of exercise (x9bad35cbf4891427) on the bg stage
+# Description of exercise (x9bad35cbf4891427) on the de stage
+# Description of exercise (x9bad35cbf4891427) on the es stage
+# Description of exercise (x9bad35cbf4891427) on the fr stage
+# Description of exercise (x9bad35cbf4891427) on the ka stage
+# Description of exercise (x9bad35cbf4891427) on the pt-pt stage
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/topic-quiz-tutorial-pre-algebra-equations-expressions">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/topic-quiz-tutorial-pre-algebra-equations-expressions</a>
+# Description of topic (x4a3b4b9c3d249b39) on the bg stage
+# Description of topic (x4a3b4b9c3d249b39) on the de stage
+# Description of topic (x4a3b4b9c3d249b39) on the es stage
+# Description of topic (x4a3b4b9c3d249b39) on the fr stage
+# Description of topic (x4a3b4b9c3d249b39) on the ka stage
+# Description of topic (x4a3b4b9c3d249b39) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+# (format: text)
+#: intl/datastore:1
+msgid "See how you score on Equations, expressions, and inequalities  quiz"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions</a>
+# Title of topic (x04908aa2) on the hy stage
+# Title of topic (x04908aa2) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Equations, expressions, and inequalities "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions</a>
+# Description of topic (x04908aa2) on the hy stage
+# Description of topic (x04908aa2) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic, we will look at 1- and 2-step equations, as well as expressions and inequalities."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals</a>
+# Description of topic (x2251cb4b) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Understanding and solving exponents, radicals, and scientific notation without algebra."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-fractions">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-fractions</a>
+# Title of topic (x1d64bc3f) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Fractions "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-frequency-dot-plot">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-frequency-dot-plot</a>
+# Title of topic (xc5f734f4) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Frequency tables and dot plots"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-picture-bar-graphs">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-picture-bar-graphs</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Picture graphs, bar graphs, and histograms"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-representing-data">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-representing-data</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about different ways to represent and display data."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-stem-leaf">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-stem-leaf</a>
+# Title of topic (xd7abdf1e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Stem and leaf plots"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-stem-leaf">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-stem-leaf</a>
+# Description of topic (xd7abdf1e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to read and interpret stem-and-leaf plots."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning</a>
+# Description of topic (x1f72b5ec) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic is less about statistics and more about interpreting data--whether it is presented as a table, pictograph, bar graph or line graph.  Good for someone new to these ideas.  For a student in high school or college looking to learn statistics, it might make sense to skip (although it might not hurt either)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-measurement/pre-algebra-volume-rectangular">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-measurement/pre-algebra-volume-rectangular</a>
+# Title of topic (xf3a24f5d) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Volume of a rectangular prism"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers</a>
+# Title of topic (x4ba15d90) on the hy stage
+# Title of topic (x4ba15d90) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Negative numbers and coordinate plane "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers</a>
+# Description of topic (x4ba15d90) on the hy stage
+# Description of topic (x4ba15d90) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Extending our understanding of numbers below 0.  Thinking about \"absolute\" distance from 0.  We will also look at all 4 quadrants on the coordinate plane.  "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates</a>
+# Title of topic (x17923675) on the hy stage
+# Title of topic (x17923675) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Ratios, rates, proportions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/rates-and-ratios/farenheit-celsius-conversion">http://translate.khanacademy.org/math/pre-algebra/rates-and-ratios/farenheit-celsius-conversion</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Fahrenheit and Celsius conversion"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/pre-algebra/rates-and-ratios/farenheit-celsius-conversion">http://translate.khanacademy.org/math/pre-algebra/rates-and-ratios/farenheit-celsius-conversion</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "There are three major conventions for measuring temperature in the world, Fahrenheit, Celsius and Kelvin.  If converting between the three gives you cold feet, then this tutorial might warm them up."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/rates-and-ratios">http://translate.khanacademy.org/math/pre-algebra/rates-and-ratios</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Ratios, proportions, units, and rates"
+msgstr ""

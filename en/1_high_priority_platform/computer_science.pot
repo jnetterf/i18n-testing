@@ -1,0 +1,598 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-22 16:08+0000\n"
+"PO-Revision-Date: 2017-11-22 16:08+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/p/challenge-modeling-accretion-disks">http://translate.khanacademy.org/computing/p/challenge-modeling-accretion-disks</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/science/cosmology-and-astronomy/stellar-life-topic/stellar-life-death-tutorial/p/challenge-modeling-accretion-disks">http://translate.khanacademy.org/science/cosmology-and-astronomy/stellar-life-topic/stellar-life-death-tutorial/p/challenge-modeling-accretion-disks</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenge:  Modeling Accretion Disks"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:444 genfiles/compiled_jsx/en/javascript/scratchpads-package/project-list.jsx.js:92
+#, python-format
+msgid "%(num)s Vote"
+msgid_plural "%(num)s Votes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-critter.jsx.js:30
+msgid "Finish challenge!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:112
+msgid "There was a problem submitting your feedback. Try again?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:134
+msgid "Which best describes your problem?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:144
+msgid "Report a different problem"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:188
+msgid "I don't speak English — and the instructions aren't translated."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:251
+msgid "Submitting Feedback..."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:481
+msgid "It can help to play with the final code at the end of the talk-through, going through it line by line and editing it to see how the ouput changes. Have you tried that?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:506
+msgid "No, but I had no questions"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:538
+msgid "There's a \"What's this?\" link next to the hint code. If you click that, you'll get an explanation of what it means. Have you read that?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:658
+msgid "If you still want to report a problem, please help us understand more:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:690
+msgid "If the message in that step does not make sense, please report a problem from there."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:719
+msgid "Sorry if our instructions are confusing! Please describe what is unclear about the instructions:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:732
+msgid "If you are on an iPad, we have various known issues on that browser. However, the editor should work in Chrome, Firefox, and Internet Explorer 9 or higher."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:735
+msgid "If it is not working on one of those browsers, please follow the following link to report an issue. Thanks!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:739
+msgid "Report an issue"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:758
+msgid "You can see the current status of translations on Khan Academy from the translation dashboard: "
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:762
+msgid "Translation dashboard"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:767
+msgid "If your language is not on that list, you can send us an email to request that it be added: "
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:771
+msgid "Request a translation!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-feedback-modal.jsx.js:785
+msgid "Before you leave feedback here, please make sure your report doesn't fall into any of the other categories. You'll get better help that way!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-pane.jsx.js:146
+msgid "It looks like this code was saved with a syntax error. You'll need to fix any syntax errors or restart the challenge before we can determine which step you're on."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-pane.jsx.js:154
+msgid "Please take a moment to fix any syntax errors."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-pane.jsx.js:159
+msgid "Whoops!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-progress.jsx.js:52
+#, python-format
+msgid "Step %(currentStep)s/%(totalSteps)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-step.jsx.js:87
+msgid "If you see colored blanks, the values you put in two blanks of the same color must be exactly the same."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-step.jsx.js:92
+msgid "The image on the right shows what your program should output, if the code is correct. Some things might be different, like the exact colors or position."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-step.jsx.js:103 genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-step.jsx.js:126
+msgid "What's this?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpad-challenge-package/challenge-step.jsx.js:106
+msgid "This hint shows the code you'll need to successfully complete this step, but it is not the complete answer."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/completion-critter.jsx.js:81
+#, python-format
+msgid "You earned %(points)s points!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/completion-critter.jsx.js:92
+msgid "Review a project"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/completion-critter.jsx.js:129 genfiles/compiled_jsx/en/javascript/test-prep-package/practice-page/components/maybe-render-checkin.jsx.js:105
+msgid "Onwards!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/dynamic-project-list.jsx.js:41
+msgid "Votes"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/dynamic-project-list.jsx.js:189
+msgid "Error loading projects, please try again."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/dynamic-project-list.jsx.js:212
+msgid "Filter by subject..."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/dynamic-project-list.jsx.js:284
+msgid "Note: we don't show projects that have no changes, are by child accounts, or are by anonymous users."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/dynamic-project-list.jsx.js:311
+msgid "Show more projects"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/edit-controls.jsx.js:80
+msgid "To see the full effect of the size on your canvas, reload your program after saving."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/edit-controls.jsx.js:84
+msgid "Save and Close"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/project-list.jsx.js:99
+#, python-format
+msgid "%(num)s Spin-Off"
+msgid_plural "%(num)s Spin-Offs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-about.jsx.js:117
+#, python-format
+msgid "Based on: %(title)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-about.jsx.js:152
+#, python-format
+msgid "Updated %(time)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-about.jsx.js:156 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-about.jsx.js:163
+#, python-format
+msgid "Created by: %(nickname)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-buttons.jsx.js:365
+msgid "Record a talkthrough"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-content.jsx.js:160
+msgid "If the audio never loads, reload the page or watch on Youtube."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:24
+msgid "We want to make sure that all of the projects continue working that you create on Khan Academy and that projects are not using functionality that we've intentionally disabled for reasons of security, privacy, or user experience. Generally, that means that projects should not be accessing `externals` or the DOM in some way. Here are specific examples:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:33
+msgid "LocalStorage: Projects should not attempt to get or set `localStorage`. It is impressive what you can do with it, but the way that projects are currently served, their localStorage will suffer collisions and all projects will run out of quota."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:39
+msgid "Links: Projects should not open links to other web pages, on Khan Academy or otherwise. It is jarring to the user and a concern for parents. Please use `println()` with the URL instead for now."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:44
+msgid "Sound: Projects should only create sounds using the `playSound/getSound` functions, with the sounds listed in the soundpicker. Projects should only play sounds in response to user interaction - i.e., inside one of the `mouse*` or `key*` event handling functions. Projects should not play sounds immediately upon load, and should not loop sounds or play sounds everytime `draw()` is called."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:57
+msgid "Projects that access disallowed functionality will be hidden from the “Hot” list."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:66
+msgid "We love when people create projects that support our education goals -- like drawings and stories, games, scientific visualizations, and learning-focused discussion groups (e.g. game development clubs)."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:71
+msgid "But we don't like it when we see certain kinds of projects! If you don't want to make us unhappy, read through our guidelines below and help us spread them to the rest of our community. And maybe then, I won't look so worried!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:80
+msgid "The Hotlist"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:82
+msgid "The purpose of the Hotlist is to highlight original projects that make something really cool, like a game or interactive simulation."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:86
+msgid "Projects that receive votes but don't fit this description, such as memes, messages, and images, may be removed from the Hotlist."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:92
+msgid "Inappropriate projects"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:94
+msgid "We will take actions on projects that fall under these categories:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:98
+msgid "We consider it abuse if projects include:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:106
+msgid "Abusive projects will be removed from the site, and creators may be banned from making future projects."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:113
+msgid "We encourage people to create spin-offs of each others’ projects, via the \"Spin-off\" button. Creating a spin-off gives credit to the original creator and connects the new project to the original. Any user can create a spin-off of any project."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:121
+msgid "A user pastes someone else's project into a new project, instead of creating a spin-off."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:123
+msgid "A user pastes work from multiple projects without giving credit/links to those projects in comments at the top of the project."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:128
+msgid "Projects that are suspected of plagiarism will be hidden from the \"Hot\" list."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:135
+msgid "Votes are a primary driver in which projects appear on our “Hot” list. Because of this, many people want others to vote for their projects."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:139
+msgid "Creating “spam” discussion posts to advertise your project is not allowed. Making posts about your project is only acceptable when your project answers another user’s question, or your post is on a discussion club thread specifically about making project (e.g. sharing your game on a game development club thread)."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:146
+msgid "Projects will be flagged for:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:148
+msgid "Soliciting votes (“Vote up my project!”)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:149
+msgid "Making unwanted posts advertising your project (both the post and the project will be flagged)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:152
+msgid "\"Vote riding\": creating an unrelated project as the spin-off of a popular project, to get more viewers and votes"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:157
+msgid "A voting ring is a group of people who conspire to vote for each others’ projects, regardless of project content. People who participate in voting rings will be banned from community activity."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:162
+msgid "Projects that violate our voting rules will be hidden from the “Hot” list."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:167
+msgid "Off-topic projects"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:169
+msgid "We want to keep projects on the site on-topic and focused on learning."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:172
+msgid "Projects that are off-topic:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:175
+msgid "Petitions for changes to the site. Instead of creating petitions, requests for changes to the site should be added to our feedback forum."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:178
+msgid "Projects that are causing arguments, especially around subjects like politics, religion/atheism, or personal issues."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:181
+msgid "\"Viruses\" -- projects that encourage others to copy and spread them."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-guidelines.jsx.js:185
+msgid "Off-topic projects will be hidden from the “Hot” list."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-playback-bar.jsx.js:189
+msgid "Watch this talkthrough on YouTube"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-save-spinoff-buttons.jsx.js:308 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-save-spinoff-buttons.jsx.js:312
+msgid "Saving recording..."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-save-spinoff-buttons.jsx.js:394
+msgid "Spinning-off..."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-spinoffs.jsx.js:29
+msgid "Be the first to create a spin-off!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-spinoffs.jsx.js:33
+msgid "All Spin-offs"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-spinoffs.jsx.js:52
+msgid "If you save a spin-off of this project, you will see it here (as well as in your My Projects list)."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-spinoffs.jsx.js:58
+msgid "Browse My Projects"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-spinoffs.jsx.js:66
+msgid "Your Spin-offs"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-toolbar.jsx.js:158
+msgid "Start over"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad.jsx.js:141
+msgid "All code is owned by its respective author and made available under the following license:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad.jsx.js:143
+msgid "MIT license"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad.jsx.js:146
+msgid "All non-code (such as writing, drawings, images, etc.) are also owned by their respective author and made available under the following license:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad.jsx.js:149
+msgid "Creative Commons Attribution License"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad.jsx.js:153
+msgid "For more information please see:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad.jsx.js:218
+msgid "Spin-offs"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/share-modal.jsx.js:118
+msgid "Share this on Facebook"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/share-modal.jsx.js:135
+msgid "Share this on Twitter"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/share-modal.jsx.js:150
+msgid "Share this via email"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/share-modal.jsx.js:158
+msgid "Have a website? Embed this project on your site."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/share-modal.jsx.js:171
+msgid "Hide editor"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/share-modal.jsx.js:181
+msgid "Hide buttons"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/scratchpads-package/share-modal.jsx.js:306
+#, python-format
+msgid "<p>Made using: <a href=\"%(url)s\">%(title)s</a></p>"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-basic-diff-rules/a/basic-differentiation-review">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-basic-diff-rules/a/basic-differentiation-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/basic-differentiation-ab/basic-differentiation-rules-ab/a/basic-differentiation-review">http://translate.khanacademy.org/math/ap-calculus-ab/basic-differentiation-ab/basic-differentiation-rules-ab/a/basic-differentiation-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/science/chemistry/chem-kinetics/arrhenius-equation/a/reaction-mechanisms">http://translate.khanacademy.org/science/chemistry/chem-kinetics/arrhenius-equation/a/reaction-mechanisms</a>.
+# Article is at (x1b058add) on the hi stage.
+# Article is at (x1b058add) on the pl stage.
+# Article is at (x1b058add) on the pt stage.
+# Article is at (x1b058add) on the tr stage.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/sql/modifying-databases-with-sql/p/challenge-clothing-alterations">http://translate.khanacademy.org/computing/computer-programming/sql/modifying-databases-with-sql/p/challenge-clothing-alterations</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/sql/modifying-databases-with-sql/p/challenge-dynamic-documents">http://translate.khanacademy.org/computing/computer-programming/sql/modifying-databases-with-sql/p/challenge-dynamic-documents</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/p/challenge-gradebook">http://translate.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/p/challenge-gradebook</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/p/challenge-karaoke-song-selector">http://translate.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/p/challenge-karaoke-song-selector</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/p/challenge-playlist-maker">http://translate.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/p/challenge-playlist-maker</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/p/challenge-the-wordiest-author">http://translate.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/p/challenge-the-wordiest-author</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/p/challenge-bobbys-hobbies">http://translate.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/p/challenge-bobbys-hobbies</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/p/challenge-customers-orders">http://translate.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/p/challenge-customers-orders</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/p/challenge-friendbook">http://translate.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/p/challenge-friendbook</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/p/challenge-sequels-in-sql">http://translate.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/p/challenge-sequels-in-sql</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/sql/sql-basics/p/challenge-book-list-database">http://translate.khanacademy.org/computing/computer-programming/sql/sql-basics/p/challenge-book-list-database</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/sql/sql-basics/p/challenge-todo-list-database-stats">http://translate.khanacademy.org/computing/computer-programming/sql/sql-basics/p/challenge-todo-list-database-stats</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-for-anita">http://translate.khanacademy.org/computing/p/challenge-for-anita</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-for-eliza">http://translate.khanacademy.org/computing/p/challenge-for-eliza</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-for-paul">http://translate.khanacademy.org/computing/p/challenge-for-paul</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-for-rohit">http://translate.khanacademy.org/computing/p/challenge-for-rohit</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-for-vishal">http://translate.khanacademy.org/computing/p/challenge-for-vishal</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-friendbook-for-spongejr">http://translate.khanacademy.org/computing/p/challenge-friendbook-for-spongejr</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/sample-challenge-for-brynden">http://translate.khanacademy.org/computing/p/sample-challenge-for-brynden</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/sample-challenge-for-brynden-2">http://translate.khanacademy.org/computing/p/sample-challenge-for-brynden-2</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/test-challenge-karaoke-selector">http://translate.khanacademy.org/computing/p/test-challenge-karaoke-selector</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-basic-diff-rules/e/differentiating-linear-functions">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-basic-diff-rules/e/differentiating-linear-functions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/basic-differentiation-ab/basic-differentiation-rules-ab/e/differentiating-linear-functions">http://translate.khanacademy.org/math/ap-calculus-ab/basic-differentiation-ab/basic-differentiation-rules-ab/e/differentiating-linear-functions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/circulatory-system-introduction/e/intermediate-circulatory-system-quiz">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/circulatory-system-introduction/e/intermediate-circulatory-system-quiz</a>.
+# Exercise at (x27e41b84) on the pt stage.
+# Exercise at (x510dfec960c65dd1) on the es stage.
+# Exercise at (x56804c27) on the pl stage.
+# Exercise at (x56804c27) on the tr stage.
+# Exercise at (xc5ed019e) on the pt stage.
+# Title of tutorial article <a href="http://translate.khanacademy.org/partner-content/pixar/simulation/hair-simulation-code/a/step-1">http://translate.khanacademy.org/partner-content/pixar/simulation/hair-simulation-code/a/step-1</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/puppies/piab-sandbox/hairsim/a/step-1">http://translate.khanacademy.org/puppies/piab-sandbox/hairsim/a/step-1</a>
+# Title of tutorial article (x6ac62820fd0323d1) on the es stage
+# Title of tutorial article (x6ac62820fd0323d1) on the ja stage
+# Title of tutorial article (x6ac62820fd0323d1) on the pl stage
+# Title of tutorial article (x6ac62820fd0323d1) on the tr stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Step 1"
+msgstr ""
+
+# Name of an avatar (cartoon figure)
+# Title of CS scratchpad <a href="http://translate.khanacademy.org/computing/p/winston">http://translate.khanacademy.org/computing/p/winston</a>. Be careful not to translate javascript reserved words ('if', 'else', 'for', etc...) and processing.js function names ('background', 'color', 'fill', 'sin', 'cos', 'tan', etc...). For more instructions click <a href="https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-">https://sites.google.com/a/khanacademy.org/forge/for-translators/translate-ui/crowdin-faq#TOC-How-should-I-translate-computer-science-commands-</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1 rewards/avatars/util_avatar_parts.py:498 rewards/avatars/util_avatars.py:212 rewards/avatars/util_avatars.py:367
+msgid "Winston"
+msgstr ""
+
+#: javascript/scratchpad-base-package/docs-pjs.handlebars:65
+msgid "ellipse(x, y, w, h)"
+msgstr ""
+
+#: javascript/scratchpad-base-package/docs-pjs.handlebars:70
+msgid "triangle(x1, y1, x2, y2, x3, y3)"
+msgstr ""
+
+#: javascript/scratchpad-base-package/docs-pjs.handlebars:87
+msgid "arc(x, y, w, h, start, stop)"
+msgstr ""
+
+#: javascript/scratchpad-base-package/docs-pjs.handlebars:94
+msgid "bezier(x1, y1, cx1, cy1, cx2, cy2, x2, y2)"
+msgstr ""
+
+#: javascript/scratchpad-base-package/docs-pjs.handlebars:176
+msgid "background(r, g, b)"
+msgstr ""
+
+#: javascript/scratchpad-base-package/docs-pjs.handlebars:216
+msgid "color(r, g, b)"
+msgstr ""
+
+#: javascript/scratchpad-base-package/docs-pjs.handlebars:251
+msgid "text(text, x, y)"
+msgstr ""
+
+#: javascript/scratchpad-base-package/docs-pjs.handlebars:258
+msgid "textFont(font, size*)"
+msgstr ""
+
+#: javascript/scratchpad-base-package/docs-pjs.handlebars:511
+msgid "abs(num)"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/computer-programming/link_redirector">http://www.khanacademy.org/computer-programming/link_redirector</a>
+#: templates/scratchpads/webpage_redirect.html:5
+msgid "Redirecting to URL from learner's webpage..."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/computer-programming/link_redirector">http://www.khanacademy.org/computer-programming/link_redirector</a>
+#: templates/scratchpads/webpage_redirect.html:10
+msgid "A webpage created on Khan Academy wants you to visit:"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/computer-programming/link_redirector">http://www.khanacademy.org/computer-programming/link_redirector</a>
+#: templates/scratchpads/webpage_redirect.html:20
+msgid "Please click the link if you'd like to go there, otherwise close this window."
+msgstr ""

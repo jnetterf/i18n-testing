@@ -1,0 +1,373 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:42+0000\n"
+"PO-Revision-Date: 2017-12-01 14:42+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/a/applying-the-first-derivative-test-to-find-extrema">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/a/applying-the-first-derivative-test-to-find-extrema</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/a/relative-minima-and-maxima-review">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/a/relative-minima-and-maxima-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-inflection-points/a/inflection-points-review">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-inflection-points/a/inflection-points-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/a/inflection-points-review">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/a/inflection-points-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/relative-minima-and-maxima-ab/a/relative-minima-and-maxima-review">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/relative-minima-and-maxima-ab/a/relative-minima-and-maxima-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/points-of-inflection-dc/a/inflection-points-review">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/points-of-inflection-dc/a/inflection-points-review</a>.
+# Article is at (x011acce4d87ed9b1) on the pt stage.
+# Exercise at <a href="http://translate.khanacademy.org/humanities/grammar/usage-and-style/frequently-confused-words/e/frequently-confused-words--too-to-two">http://translate.khanacademy.org/humanities/grammar/usage-and-style/frequently-confused-words/e/frequently-confused-words--too-to-two</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-concavity/e/analyze-points-of-inflection-graphical">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-concavity/e/analyze-points-of-inflection-graphical</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/e/critical-numbers">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/e/critical-numbers</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-justification-with-second-derivative/e/points-of-inflection--graphical-">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-justification-with-second-derivative/e/points-of-inflection--graphical-</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/e/analyze-points-of-inflection-graphical">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/e/analyze-points-of-inflection-graphical</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/relative-minima-and-maxima-ab/e/critical-numbers">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/relative-minima-and-maxima-ab/e/critical-numbers</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/derivative-applications-review-ab/e/derivative-applications-challenge">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/derivative-applications-review-ab/e/derivative-applications-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences/e/understanding-sequences">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences/e/understanding-sequences</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/sequences-tut-bc/e/understanding-sequences">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/sequences-tut-bc/e/understanding-sequences</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-review-calc/e/derivative-applications-challenge">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-review-calc/e/derivative-applications-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc/e/understanding-sequences">http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc/e/understanding-sequences</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/derivative-applications-review-dc/e/derivative-applications-challenge">http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/derivative-applications-review-dc/e/derivative-applications-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/carbohydrates--the-structure-and-function-of-glycogen">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/carbohydrates--the-structure-and-function-of-glycogen</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/bioenergetics/e/principles-of-bioenergetics-questions">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/bioenergetics/e/principles-of-bioenergetics-questions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice/physical-sciences-practice-tut/e/the-structure-and-function-of-glycogen-">http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice/physical-sciences-practice-tut/e/the-structure-and-function-of-glycogen-</a>.
+# Exercise at (x10e4f0033e651bed) on the pt stage.
+# Exercise at (x1bde8ac3) on the pt stage.
+# Exercise at (x1eecda27) on the pt stage.
+# Exercise at (x2161eee2) on the pt stage.
+# Exercise at (x2240397b) on the pt stage.
+# Exercise at (x35240cdb5644c55b) on the es stage.
+# Exercise at (x5a229a6b) on the pt stage.
+# Exercise at (x876083ad0115efee) on the pl stage.
+# Exercise at (x876083ad0115efee) on the tr stage.
+# Exercise at (xa358e3199a086dd1) on the es stage.
+# Exercise at (xae76cd4065494042) on the es stage.
+# Exercise at (xaeb783a3) on the pt stage.
+# Exercise at (xd85974be) on the pt stage.
+# Exercise at (xf815c44f6412a3bc) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Two"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-inflection-points/a/inflection-points-review">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-inflection-points/a/inflection-points-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/a/inflection-points-review">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/a/inflection-points-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/points-of-inflection-dc/a/inflection-points-review">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/points-of-inflection-dc/a/inflection-points-review</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-concavity/e/analyze-points-of-inflection-graphical">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-concavity/e/analyze-points-of-inflection-graphical</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-justification-with-second-derivative/e/points-of-inflection--graphical-">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-justification-with-second-derivative/e/points-of-inflection--graphical-</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/e/analyze-points-of-inflection-graphical">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/e/analyze-points-of-inflection-graphical</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/derivative-applications-review-ab/e/derivative-applications-challenge">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/derivative-applications-review-ab/e/derivative-applications-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences/e/understanding-sequences">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences/e/understanding-sequences</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/sequences-tut-bc/e/understanding-sequences">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/sequences-tut-bc/e/understanding-sequences</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-review-calc/e/derivative-applications-challenge">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-review-calc/e/derivative-applications-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc/e/understanding-sequences">http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc/e/understanding-sequences</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/derivative-applications-review-dc/e/derivative-applications-challenge">http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/derivative-applications-review-dc/e/derivative-applications-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/carbohydrates--the-structure-and-function-of-glycogen">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/carbohydrates--the-structure-and-function-of-glycogen</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/bioenergetics/e/principles-of-bioenergetics-questions">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/bioenergetics/e/principles-of-bioenergetics-questions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice/physical-sciences-practice-tut/e/the-structure-and-function-of-glycogen-">http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice/physical-sciences-practice-tut/e/the-structure-and-function-of-glycogen-</a>.
+# Exercise at (x10e4f0033e651bed) on the pt stage.
+# Exercise at (x1bde8ac3) on the pt stage.
+# Exercise at (x2161eee2) on the pt stage.
+# Exercise at (x2240397b) on the pt stage.
+# Exercise at (x5a229a6b) on the pt stage.
+# Exercise at (xae76cd4065494042) on the es stage.
+# Exercise at (xaeb783a3) on the pt stage.
+# Exercise at (xd85974be) on the pt stage.
+# Exercise at (xf815c44f6412a3bc) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Four"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/a/applying-the-first-derivative-test-to-find-extrema">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/a/applying-the-first-derivative-test-to-find-extrema</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/a/relative-minima-and-maxima-review">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/a/relative-minima-and-maxima-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-inflection-points/a/inflection-points-review">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-inflection-points/a/inflection-points-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/a/inflection-points-review">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/a/inflection-points-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/relative-minima-and-maxima-ab/a/relative-minima-and-maxima-review">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/relative-minima-and-maxima-ab/a/relative-minima-and-maxima-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/points-of-inflection-dc/a/inflection-points-review">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/points-of-inflection-dc/a/inflection-points-review</a>.
+# Article is at (x011acce4d87ed9b1) on the pt stage.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-concavity/e/analyze-points-of-inflection-graphical">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-concavity/e/analyze-points-of-inflection-graphical</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/e/critical-numbers">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/e/critical-numbers</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-justification-with-second-derivative/e/points-of-inflection--graphical-">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-justification-with-second-derivative/e/points-of-inflection--graphical-</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/e/analyze-points-of-inflection-graphical">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/e/analyze-points-of-inflection-graphical</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/relative-minima-and-maxima-ab/e/critical-numbers">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/relative-minima-and-maxima-ab/e/critical-numbers</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/derivative-applications-review-ab/e/derivative-applications-challenge">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/derivative-applications-review-ab/e/derivative-applications-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences/e/understanding-sequences">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences/e/understanding-sequences</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/sequences-tut-bc/e/understanding-sequences">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/sequences-tut-bc/e/understanding-sequences</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-review-calc/e/derivative-applications-challenge">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-review-calc/e/derivative-applications-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc/e/understanding-sequences">http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc/e/understanding-sequences</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/derivative-applications-review-dc/e/derivative-applications-challenge">http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/derivative-applications-review-dc/e/derivative-applications-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/carbohydrates--the-structure-and-function-of-glycogen">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/carbohydrates--the-structure-and-function-of-glycogen</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/bioenergetics/e/principles-of-bioenergetics-questions">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/bioenergetics/e/principles-of-bioenergetics-questions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice/physical-sciences-practice-tut/e/the-structure-and-function-of-glycogen-">http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice/physical-sciences-practice-tut/e/the-structure-and-function-of-glycogen-</a>.
+# Exercise at (x10e4f0033e651bed) on the pt stage.
+# Exercise at (x1bde8ac3) on the pt stage.
+# Exercise at (x1eecda27) on the pt stage.
+# Exercise at (x2161eee2) on the pt stage.
+# Exercise at (x2240397b) on the pt stage.
+# Exercise at (x35240cdb5644c55b) on the es stage.
+# Exercise at (x5a229a6b) on the pt stage.
+# Exercise at (x9bfa0b55) on the pt stage.
+# Exercise at (xa358e3199a086dd1) on the es stage.
+# Exercise at (xae76cd4065494042) on the es stage.
+# Exercise at (xaeb783a3) on the pt stage.
+# Exercise at (xd85974be) on the pt stage.
+# Exercise at (xf815c44f6412a3bc) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "One"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/a/applying-the-first-derivative-test-to-find-extrema">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/a/applying-the-first-derivative-test-to-find-extrema</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/a/relative-minima-and-maxima-review">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/a/relative-minima-and-maxima-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-inflection-points/a/inflection-points-review">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-inflection-points/a/inflection-points-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/a/inflection-points-review">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/a/inflection-points-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/relative-minima-and-maxima-ab/a/relative-minima-and-maxima-review">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/relative-minima-and-maxima-ab/a/relative-minima-and-maxima-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/points-of-inflection-dc/a/inflection-points-review">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/points-of-inflection-dc/a/inflection-points-review</a>.
+# Article is at (x011acce4d87ed9b1) on the pt stage.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-concavity/e/analyze-points-of-inflection-graphical">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-concavity/e/analyze-points-of-inflection-graphical</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/e/critical-numbers">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-find-rel-extrema/e/critical-numbers</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-justification-with-second-derivative/e/points-of-inflection--graphical-">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivatives-analyze-functions/ab-justification-with-second-derivative/e/points-of-inflection--graphical-</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/concavity-and-points-of-inflection-review-ab/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/e/analyze-points-of-inflection-graphical">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/points-of-inflection-ab/e/analyze-points-of-inflection-graphical</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/relative-minima-and-maxima-ab/e/critical-numbers">http://translate.khanacademy.org/math/ap-calculus-ab/analyzing-functions-with-calculus-ab/relative-minima-and-maxima-ab/e/critical-numbers</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/derivative-applications-review-ab/e/derivative-applications-challenge">http://translate.khanacademy.org/math/ap-calculus-ab/derivative-applications-ab/derivative-applications-review-ab/e/derivative-applications-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences/e/understanding-sequences">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences/e/understanding-sequences</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/sequences-tut-bc/e/understanding-sequences">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/sequences-tut-bc/e/understanding-sequences</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-review-calc/e/derivative-applications-challenge">http://translate.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-review-calc/e/derivative-applications-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc/e/understanding-sequences">http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc/e/understanding-sequences</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative">http://translate.khanacademy.org/math/differential-calculus/analyzing-func-with-calc-dc/concavity-and-points-of-inflection-review-dc/e/concavity-and-the-second-derivative</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/derivative-applications-review-dc/e/derivative-applications-challenge">http://translate.khanacademy.org/math/differential-calculus/derivative-applications-dc/derivative-applications-review-dc/e/derivative-applications-challenge</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/carbohydrates--the-structure-and-function-of-glycogen">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/carbohydrates--the-structure-and-function-of-glycogen</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/chemical-processes/bioenergetics/e/principles-of-bioenergetics-questions">http://translate.khanacademy.org/test-prep/mcat/chemical-processes/bioenergetics/e/principles-of-bioenergetics-questions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice/physical-sciences-practice-tut/e/the-structure-and-function-of-glycogen-">http://translate.khanacademy.org/test-prep/mcat/physical-sciences-practice/physical-sciences-practice-tut/e/the-structure-and-function-of-glycogen-</a>.
+# Exercise at (x10e4f0033e651bed) on the pt stage.
+# Exercise at (x1bde8ac3) on the pt stage.
+# Exercise at (x1eecda27) on the pt stage.
+# Exercise at (x2161eee2) on the pt stage.
+# Exercise at (x2240397b) on the pt stage.
+# Exercise at (x35240cdb5644c55b) on the es stage.
+# Exercise at (x5a229a6b) on the pt stage.
+# Exercise at (xa358e3199a086dd1) on the es stage.
+# Exercise at (xae76cd4065494042) on the es stage.
+# Exercise at (xaeb783a3) on the pt stage.
+# Exercise at (xd85974be) on the pt stage.
+# Exercise at (xf815c44f6412a3bc) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Three"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/circulatory-system-introduction/e/advanced-heart-quiz">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/circulatory-system-introduction/e/advanced-heart-quiz</a>.
+# Exercise at <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/circulatory-system-introduction/e/heart-quiz">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/circulatory-system-introduction/e/heart-quiz</a>.
+# Exercise at <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/circulatory-system-introduction/e/intermediate-circulatory-system-quiz">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/circulatory-system-introduction/e/intermediate-circulatory-system-quiz</a>.
+# Exercise at (x56804c27) on the pl stage.
+# Exercise at (x56804c27) on the tr stage.
+# Exercise at (x884b831c) on the pl stage.
+# Exercise at (x884b831c) on the tr stage.
+# Exercise at (xd5d0fcc3) on the pl stage.
+# Exercise at (xd5d0fcc3) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Aorta"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/circulatory-system-introduction/e/heart-quiz">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/circulatory-system-introduction/e/heart-quiz</a>.
+# Exercise at <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/circulatory-system-introduction/e/intermediate-circulatory-system-quiz">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/circulatory-system-introduction/e/intermediate-circulatory-system-quiz</a>.
+# Exercise at (x56804c27) on the pl stage.
+# Exercise at (x56804c27) on the tr stage.
+# Exercise at (x884b831c) on the pl stage.
+# Exercise at (x884b831c) on the tr stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Superior vena cava"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/circulatory-system-introduction/e/intermediate-circulatory-system-quiz">http://translate.khanacademy.org/science/health-and-medicine/circulatory-system/circulatory-system-introduction/e/intermediate-circulatory-system-quiz</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/circulatory-system---passage-2">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/circulatory-system---passage-2</a>.
+# Exercise at (x56804c27) on the pl stage.
+# Exercise at (x56804c27) on the tr stage.
+# Exercise at (xda30f9f4) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Arteries"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/lung-introduction/e/lung-quiz">http://translate.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/lung-introduction/e/lung-quiz</a>.
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/circulatory-system---passage-2">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/circulatory-system---passage-2</a>.
+# Exercise at (x4e2cf098) on the pl stage.
+# Exercise at (x4e2cf098) on the tr stage.
+# Exercise at (xda30f9f4) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Capillaries"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/circulatory-system---passage-2">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/circulatory-system---passage-2</a>.
+# Exercise at (xda30f9f4) on the pt stage.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Arterioles"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/circulatory-system---passage-2">http://translate.khanacademy.org/test-prep/mcat/biological-sciences-practice/biological-sciences-practice-tut/e/circulatory-system---passage-2</a>.
+# Exercise at (xda30f9f4) on the pt stage.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Venules"
+msgstr ""

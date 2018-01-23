@@ -1,0 +1,4195 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:17+0000\n"
+"PO-Revision-Date: 2017-11-21 12:17+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"(If you don't know JavaScript, you can skip the code challenges, or you can do the Intro to JS course and come back to them.)\n"
+"\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "1. Let `min = 0` and `max = n-1`.\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "2. If `max < min`, then stop: target is not present in array. Return `-1`.\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "3. Compute `guess` as the average of `max` and `min`, rounded down (so that it is an integer).\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "4. If `array[guess]` equals target, then stop. You found it! Return `guess`.\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "5. If the guess was too low, that is, `array[guess]` `<` target, then set `min = guess + 1`.\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "6. Otherwise, the guess was too high. Set `max = guess - 1`.\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"7. Go back to step 2.\n"
+"\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "A while loop seems like a better fit than a for loop for this algorithm. Try using a while loop instead of a for loop."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Add two more checks, below the provided check for 73, using `Program.assertEqual()` to make sure your search algorithm consistently finds the correct answer. Observe how it gets to the result each time. "
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Check the condition on your while loop. It looks like you are mixing up when you want to stop looping versus when you want to continue looping."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Complete the `doSearch` function so that it implements a binary search, following the pseudo-code below (this pseudo-code was described in the previous article):\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Hm, what are you checking in the while condition?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "I found an assert statement, but not the one I was expecting. I was looking for `Program.assertEqual(doSearch(primes, 73), 20);`."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "If you carefully construct your while loop, you shouldn't need to have any if statements after it."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "If you carefully design the condition on your while loop, you shouldn't need an extra check for values not in the array, inside the body of your while loop."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "If you carefully design the condition on your while loop, you shouldn't need to use a break."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you almost have the correct condition on the while loop, but something is still wrong with it."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you are assigning the value of an array element to `guess`, but `guess` is supposed to hold the index of the guess"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you are calculating the guess index in each clause. Try calculating the guess index just once."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you are implementing a recursive algorithm, but the pseudocode describes an iterative algorithm."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you are incrementing the number of guesses in each clause. Try incrementing the number of guesses in just one place."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you are trying to use `parseInt` to round the value of your guess down to the nearest whole number. Parsing functions, like `parseInt`, are really slow compared to math functions. Try using a math function to round the value of your guess down to the nearest whole number instead of using `parseInt`."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you are using code outside of the `doSearch` function to print the number of guesses. You should write the code to print out the number of guesses inside the `doSearch` function, so that it will work correctly for every search."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you may be trying to calculate the guess index using more than one line of code. This may be correct, but it makes it harder for us to grade. Try calculating the guess index using just one line of code."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you're declaring the guess variable inside the while loop. As a best practice, we recommend declaring it once, outside the while loop."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Once implemented, uncomment the `Program.assertEqual()` statement at the bottom to verify that the test assertion passes."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Something looks wrong with how you are calculating your new max and/or min values."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "The variable that is supposed to hold the index of the guess is `guess`, but it looks like you are trying to use a different variable."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"To better visualize how your binary search works, add a `println()` statement that outputs the guess at each step.\n"
+"\n"
+"Note: you should print the index of the guess, not the value of the element it points at."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"To help visualize how long the search takes, add a `println()` statement that displays the total number of guesses it takes to find the result.\n"
+"\n"
+"Your function should only print the total number of guesses when it has found the target. Your function shouldn't be printing the number of guesses every loop.\n"
+"\n"
+"Note: A binary search for the target value `41` on the array `primes` requires 1 guess."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Try using `println` instead of `print`. It will make the output easier to read."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Try using a while loop instead of a do while loop."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Try using an if statement instead of using the ? operator."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You should not need to return anything other than `guess` or -1."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge">http://translate.khanacademy.org/computing/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/p/challenge-implement-quicksort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to modify the provided code (add new code, but don't modify the provided code). Consider starting over to restore the original code."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search">http://translate.khanacademy.org/computing/computer-science/algorithms/binary-search/p/challenge-binary-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-binary-search">http://translate.khanacademy.org/computing/p/challenge-binary-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to use the `||` or `&&` operators in the condition of your while loop. Try using a simpler condition."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/p/challenge-implement-breadth-first-search">http://translate.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/p/challenge-implement-breadth-first-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-breadth-first-search">http://translate.khanacademy.org/computing/p/challenge-implement-breadth-first-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"In this step, you'll finish implementing the `doBFS` function, which performs a breadth-first search on a graph and returns an array of objects describing each vertex.\n"
+"\n"
+"For each vertex `v`, the object's `distance` property should be vertex `v`'s distance from the source, and the `predecessor` property should be vertex `v`'s predecessor on a shortest path from the source.  If there is no path from the source to vertex `v`, then `v`'s `distance` and `predecessor` should both be `null`.  The source's predecessor should also be `null`.  \n"
+"\n"
+"In the starter code, the function initializes the `distance` and `predecessor` values to `null`, and then enqueues the source vertex.  It is up to you to implement the rest of the algorithm, as described in the pseudocode.\n"
+"\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/p/challenge-implement-breadth-first-search">http://translate.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/p/challenge-implement-breadth-first-search</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-breadth-first-search">http://translate.khanacademy.org/computing/p/challenge-implement-breadth-first-search</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Once implemented, uncomment the `Program.assertEqual()` at the bottom to verify that the test assertions pass."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation/p/challenge-store-a-graph">http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation/p/challenge-store-a-graph</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-store-a-graph">http://translate.khanacademy.org/computing/p/challenge-store-a-graph</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Are you sure that your adjacency list is the right size ?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation/p/challenge-store-a-graph">http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation/p/challenge-store-a-graph</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-store-a-graph">http://translate.khanacademy.org/computing/p/challenge-store-a-graph</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Are you sure that your adjacency matrix is the right size ?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation/p/challenge-store-a-graph">http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation/p/challenge-store-a-graph</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-store-a-graph">http://translate.khanacademy.org/computing/p/challenge-store-a-graph</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you have provided a solution for an undirected graph, but this is a directed graph."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation/p/challenge-store-a-graph">http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation/p/challenge-store-a-graph</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-store-a-graph">http://translate.khanacademy.org/computing/p/challenge-store-a-graph</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Store the same graph, as an adjacency list, in the variable `adjList`."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation/p/challenge-store-a-graph">http://translate.khanacademy.org/computing/computer-science/algorithms/graph-representation/p/challenge-store-a-graph</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-store-a-graph">http://translate.khanacademy.org/computing/p/challenge-store-a-graph</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"We've stored a graph, with 6 vertices indexed 0-5, as an edge list in the variable `edgeList`.\n"
+"\n"
+"Store the same graph, as an adjacency matrix, in the variable `adjMatrix`."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insert">http://translate.khanacademy.org/computing/p/challenge-implement-insert</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Conditions are evaluated from left to right. Does the order of your conditions prevent reading negative indices of the array ?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insert">http://translate.khanacademy.org/computing/p/challenge-implement-insert</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Fix the `insert` function to correctly insert the given value into the array.\n"
+"\n"
+"The `insert` function takes three parameters as inputs: `array`, `rightIndex`, and `value`.\n"
+"\n"
+"Before the `insert` function is called:\n"
+" * the elements from `array[0]` to `array[rightIndex]` are sorted in ascending order.\n"
+"\n"
+"After calling the `insert` function:\n"
+"* `value` and the elements that were previously in `array[0]` to `array[rightIndex]`, should be sorted in ascending order and stored in the elements from `array[0]` to `array[rightIndex+1]`.\n"
+"\n"
+" In order to do this, the `insert` function will need to make room for `value` by moving items that are greater than `value` to the right. It should start at `rightIndex`, and stop when it finds an item that is less than or equal to `value`, or when it reaches the beginning of the array. Once the function has made room for `value`, it can write `value` to the array.\n"
+"\n"
+"Although there are many ways to write this function, you should write it in a way that is consistent with the hint code."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insert">http://translate.khanacademy.org/computing/p/challenge-implement-insert</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Generally, it's a better practice to use the `for` loop condition to prevent the loop from happening, instead of breaking inside an `if`. Can you use that condition in the `for` loop header instead?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insert">http://translate.khanacademy.org/computing/p/challenge-implement-insert</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Hm, you shouldn't need to decrement two variables. Can you just use the loop variable?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insert">http://translate.khanacademy.org/computing/p/challenge-implement-insert</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Hm, you shouldn't need to have an `if` inside your `for` loop. How could you instead incorporate that condition into the condition of the `for` loop?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insert">http://translate.khanacademy.org/computing/p/challenge-implement-insert</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Instead of relying on the array's undefined values at negative indices, can you explicitly check that you're at the beginning of the array?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insert">http://translate.khanacademy.org/computing/p/challenge-implement-insert</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Instead of using two variables, you could just use the loop variable, to save space."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insert">http://translate.khanacademy.org/computing/p/challenge-implement-insert</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you are using a variable declared outside the function as the counter on the for loop. It is usually better practice to declare variables that a function needs inside the function."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insert">http://translate.khanacademy.org/computing/p/challenge-implement-insert</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It would be better to stop iterating as soon as the values are not greater than your value - you don't need to waste an iteration of your loop when the value is equal."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insert">http://translate.khanacademy.org/computing/p/challenge-implement-insert</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Uncomment the calls to `Program.assertEqual()` to make sure your insert function works as expected."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insert">http://translate.khanacademy.org/computing/p/challenge-implement-insert</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to store the new value until after you've shifted everything over, and it'll save a few operations if you wait."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insert">http://translate.khanacademy.org/computing/p/challenge-implement-insert</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to use an if statement after your for loop. With a properly designed for loop, a simple instruction after the for loop should be sufficient."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insert">http://translate.khanacademy.org/computing/p/challenge-implement-insert</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Your approach seems unecessarily complex. Can you try having more conditions inside the header of the `for` loop, so that you don't need any `if`?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insert</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insert">http://translate.khanacademy.org/computing/p/challenge-implement-insert</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Your loop is iterating more times than it needs to. Instead of having the `if` inside the `for`, can you use that condition in the header of the `for` loop?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insertion-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insertion-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insertion-sort">http://translate.khanacademy.org/computing/p/challenge-implement-insertion-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Insertion sort loops over items in the array, inserting each new item into the subarray before the new item.\n"
+"\n"
+"Write insertion sort, making use of the `insert` function that was written in the previous challenge.\n"
+"\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insertion-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insertion-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insertion-sort">http://translate.khanacademy.org/computing/p/challenge-implement-insertion-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you will pass the insert function a value of -1 for the rightIndex, but rightIndex is supposed to be >= 0. Consider changing the starting value of the loop counter."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insertion-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insertion-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insertion-sort">http://translate.khanacademy.org/computing/p/challenge-implement-insertion-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge">http://translate.khanacademy.org/computing/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-partition">http://translate.khanacademy.org/computing/p/challenge-implement-partition</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/p/challenge-implement-quicksort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Once implemented, uncomment the `Program.assertEqual()` at the bottom to verify that the test assertion passes."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insertion-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insertion-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insertion-sort">http://translate.khanacademy.org/computing/p/challenge-implement-insertion-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "The only array that you should need to use the insert function on is: the array that the insertionSort function was called with."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insertion-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insertion-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insertion-sort">http://translate.khanacademy.org/computing/p/challenge-implement-insertion-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge">http://translate.khanacademy.org/computing/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-partition">http://translate.khanacademy.org/computing/p/challenge-implement-partition</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/p/challenge-implement-quicksort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "We want the tests to be thorough. Do not test the same array in multiple tests. Do not test an array that is already sorted."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insertion-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/insertion-sort/p/challenge-implement-insertion-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-insertion-sort">http://translate.khanacademy.org/computing/p/challenge-implement-insertion-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't hard code the size of the array in the loop. What happens if we call the function with a different sized array ?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Hm, how are you calculating the midpoint of the array? It doesn't look right."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/p/challenge-implement-quicksort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Hm, what are you checking in the if condition? It doesn't look right."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you using an array, other than the one you are sorting, to calculate the third parameter in your call to `mergeSort`."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Something doesn't look right with the parameters you are using for mergeSort and/or merge. Are you following the algorithm discussed in the article ?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"The `mergeSort` function should recursively sort the subarray `array[p..r]` i.e. after calling `mergeSort(array,p,r)` the elements from index `p` to index `r` of `array` should be sorted in ascending order.\n"
+"\n"
+"To remind you of the merge sort algorithm:\n"
+"-If the subarray has size 0 or 1, then it's already sorted, and so nothing needs to be done.\n"
+"-Otherwise, merge sort uses divide-and-conquer to sort the subarray.\n"
+"\n"
+"Use `merge(array, p, q, r)` to merge sorted sub arrays `array[p..q]` and `array[q+1..r]`.\n"
+"\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort">http://translate.khanacademy.org/computing/p/challenge-implement-merge-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to use any variables other than p and r in the if condition."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge">http://translate.khanacademy.org/computing/p/challenge-implement-merge</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "A while loop seems like a better fit here than a for loop. Try using a while loop here instead of a for loop."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge">http://translate.khanacademy.org/computing/p/challenge-implement-merge</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Does the condition on your while loop work if `p` is not 0 ?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge">http://translate.khanacademy.org/computing/p/challenge-implement-merge</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Make sure to uncomment the `assertEqual()` at the bottom to verify that it's returning the expected value."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge">http://translate.khanacademy.org/computing/p/challenge-implement-merge</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "One of the arrays has an element with nothing in it e.g. something like '`,,`'. It makes it hard for us to check your work if any of the arrays contain an element with nothing in it."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge">http://translate.khanacademy.org/computing/p/challenge-implement-merge</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"The `merge` function should merge the sorted subarrays in `array[p..q]` and `array[q+1..r]` into a single sorted subarray in `array[p..r]`.  The function starts by allocating two temporary arrays, `lowHalf` and `highHalf`, and copying `array[p..q]` into `lowHalf` and `array[q+1..r]` into `highHalf`.\n"
+"\n"
+"You should complete the function:\n"
+"-Make it repeatedly compare the lowest untaken element in `lowHalf` with the lowest untaken element in `highHalf` and copy the lower of the two back into `array`, starting at `array[p]`.\n"
+"-Once one of `lowHalf` and `highHalf` has been fully copied back into `array`, the remaining elements in the other temporary array are copied back into `array`.\n"
+"Note: use indexes `i`,`j` and `k` to access elements in `lowHalf`,`highHalf`,and `array`.\n"
+"\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge">http://translate.khanacademy.org/computing/p/challenge-implement-merge</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to store `highHalf[j]` in an extra variable."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge">http://translate.khanacademy.org/computing/p/challenge-implement-merge</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to store `lowHalf[i]` in an extra variable."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge">http://translate.khanacademy.org/computing/p/challenge-implement-merge</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to use any variables other than `i` as an index for `lowHalf`."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge">http://translate.khanacademy.org/computing/p/challenge-implement-merge</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to use any variables other than `j` as an index for `highHalf`."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge">http://translate.khanacademy.org/computing/computer-science/algorithms/merge-sort/p/challenge-implement-merge</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-merge">http://translate.khanacademy.org/computing/p/challenge-implement-merge</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to use any variables other than `k` as an index for `array`."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-partition">http://translate.khanacademy.org/computing/p/challenge-implement-partition</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you are incrementing one of the array indexes more than once each loop."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-partition">http://translate.khanacademy.org/computing/p/challenge-implement-partition</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you are initializing one of the array indexes to zero. What will happen if p is not zero ?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-partition">http://translate.khanacademy.org/computing/p/challenge-implement-partition</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Something doesn't look right with how you are comparing array elements to the pivot's value."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-partition">http://translate.khanacademy.org/computing/p/challenge-implement-partition</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Something doesn't look right with the condition on your for loop."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-partition">http://translate.khanacademy.org/computing/p/challenge-implement-partition</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"The `partition` function should partition the subarray `array[p..r]` so that all elements in `array[p..q-1]` are less than or equal to `array[q]` (the pivot) and all elements in `array[q+1..r]` are greater than `array[q]`, and it returns the index `q` of where the pivot ends up.\n"
+"\n"
+"Use the provided `swap()` function for swapping.\n"
+"\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-partition">http://translate.khanacademy.org/computing/p/challenge-implement-partition</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "We want to return the index of the pivot, not the value of the pivot"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-partition</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-partition">http://translate.khanacademy.org/computing/p/challenge-implement-partition</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to use an else statement."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/p/challenge-implement-quicksort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Add another check, using `Program.assertEqual()`, to make sure your sorting algorithm consistently returns the correct order.\n"
+"\n"
+"Place the code for your check under the provided check.\n"
+"\n"
+"Try it on arrays with negative numbers or 0 to make sure it still works in those cases."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/p/challenge-implement-quicksort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"I found an assert, but not the one I was looking for. I was looking for:\n"
+" `var array = [9, 7, 5, 11, 12, 2, 14, 3, 10, 6];`\n"
+"`quickSort(array, 0, array.length-1);`\n"
+"`Program.assertEqual(array, [2,3,5,6,7,9,10,11,12,14]);`"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/p/challenge-implement-quicksort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Is the pivot supposed to be included in one of the subarrays ?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/p/challenge-implement-quicksort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"The `quickSort` function should recursively sort the subarray `array[p..r]`.\n"
+"- If the subarray has size 0 or 1, then it's already sorted, and so nothing needs to be done.\n"
+"- Otherwise, `quickSort` uses divide-and-conquer to sort the subarray.\n"
+"\n"
+"The divide step should partition the array, the conquer step should recursively quicksort the partitioned subarrays, and the combine step should do nothing.\n"
+"\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/p/challenge-implement-quicksort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to use more than one if statement."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/computer-science/algorithms/quick-sort/p/challenge-implement-quicksort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-quicksort">http://translate.khanacademy.org/computing/p/challenge-implement-quicksort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to use non-numeric elements (including null elements) in your arrays for this challenge."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-is-a-string-a-palindrome">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-is-a-string-a-palindrome</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-is-a-string-a-palindrome">http://translate.khanacademy.org/computing/p/challenge-is-a-string-a-palindrome</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"\n"
+"\n"
+"Once implemented, uncomment the first `Program.assertEqual()` for `isPalindrome(\"a\")` at the bottom to verify that the test assertion passes."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-is-a-string-a-palindrome">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-is-a-string-a-palindrome</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-is-a-string-a-palindrome">http://translate.khanacademy.org/computing/p/challenge-is-a-string-a-palindrome</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Add two more checks (for a total of 5 checks) using `Program.assertEqual()` to make sure your palindrome checking algorithm consistently finds the correct answer. Try it out with numbers and spaces, perhaps."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-is-a-string-a-palindrome">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-is-a-string-a-palindrome</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-is-a-string-a-palindrome">http://translate.khanacademy.org/computing/p/challenge-is-a-string-a-palindrome</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Finally, write the recursive case.\n"
+"\n"
+"Use the provided function `middleCharacters` to remove the first and last characters from the string.\n"
+"\n"
+"Check that the console output from the `checkPalindrome` function is correct.\n"
+"\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-is-a-string-a-palindrome">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-is-a-string-a-palindrome</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-is-a-string-a-palindrome">http://translate.khanacademy.org/computing/p/challenge-is-a-string-a-palindrome</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"In this challenge, you'll make it so the `isPalindrome()` function returns `true` if the provided string is a palindrome, and `false` otherwise.\n"
+"\n"
+" Start by implementing the first base case:\n"
+" if the length of the string is 0 or 1, `isPalindrome()` should return `true.`  "
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-is-a-string-a-palindrome">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-is-a-string-a-palindrome</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-is-a-string-a-palindrome">http://translate.khanacademy.org/computing/p/challenge-is-a-string-a-palindrome</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Once implemented, uncomment the `Program.assertEqual()` for `isPalindrome(\"motor\")` at the bottom to verify that the test assertion passes."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-is-a-string-a-palindrome">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-is-a-string-a-palindrome</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-is-a-string-a-palindrome">http://translate.khanacademy.org/computing/p/challenge-is-a-string-a-palindrome</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Once implemented, uncomment the `Program.assertEqual()` for `isPalindrome(\"rotor\")` at the bottom to verify that the test assertion passes."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-is-a-string-a-palindrome">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-is-a-string-a-palindrome</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-is-a-string-a-palindrome">http://translate.khanacademy.org/computing/p/challenge-is-a-string-a-palindrome</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"There is a second base case.\n"
+"\n"
+"  If the first and last characters of the string are different, then we know immediately that the string is not a palindrome.  Write this case, using the provided functions `firstCharacter` and `lastCharacter` to extract the needed characters from the string.\n"
+"\n"
+" "
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-iterative-factorial">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-iterative-factorial</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-iterative-factorial">http://translate.khanacademy.org/computing/p/challenge-iterative-factorial</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Add two more checks (for a total of 4 checks) using `Program.assertEqual()` to make sure your factorial algorithm consistently finds the correct answer."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-iterative-factorial">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-iterative-factorial</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-iterative-factorial">http://translate.khanacademy.org/computing/p/challenge-iterative-factorial</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Finish the provided `factorial` function, so that it returns the value `n!`.  Your code should use a `for` loop to compute the product `1 * 2 * 3 * ... * n`.  If you write the code carefully, you won't need a special case for when `n` equals `0`.\n"
+"\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-iterative-factorial">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-iterative-factorial</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-iterative-factorial">http://translate.khanacademy.org/computing/p/challenge-iterative-factorial</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Once implemented, uncomment the `Program.assertEqual()` statements at the bottom to verify that the test assertions pass."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-iterative-factorial">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-iterative-factorial</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-iterative-factorial">http://translate.khanacademy.org/computing/p/challenge-iterative-factorial</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Try to declare the counter for your for loop in the for loop declaration."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-iterative-factorial">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-iterative-factorial</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-iterative-factorial">http://translate.khanacademy.org/computing/p/challenge-iterative-factorial</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Try to use a for loop instead of a while loop."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-iterative-factorial">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-iterative-factorial</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-iterative-factorial">http://translate.khanacademy.org/computing/p/challenge-iterative-factorial</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to make any recursive calls to `factorial`. You should provide an iterative solution, not a recursive solution."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-iterative-factorial">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-iterative-factorial</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-iterative-factorial">http://translate.khanacademy.org/computing/p/challenge-iterative-factorial</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to modify the provided code. Consider starting over to restore the original code."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-factorial">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-factorial</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-recursive-factorial">http://translate.khanacademy.org/computing/p/challenge-recursive-factorial</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Add two more checks using `Program.assertEqual()` to make sure your factorial algorithm consistently finds the correct answer."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-factorial">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-factorial</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-recursive-factorial">http://translate.khanacademy.org/computing/p/challenge-recursive-factorial</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"In this challenge you will write a recursive function that returns the value of `n!`.\n"
+"\n"
+"  Start by writing the base case:\n"
+"  if `n` is zero, then factorial should just return the value 1.\n"
+"\n"
+"Once implemented, uncomment the `Program.assertEqual()` for `factorial(0)` at the bottom to verify that the test assertion passes."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-factorial">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-factorial</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-recursive-factorial">http://translate.khanacademy.org/computing/p/challenge-recursive-factorial</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Write the recursive case:\n"
+"- Make a recursive call to the function `factorial` with an argument of `n-1`\n"
+"- Multiply the result of the recursive call by `n`\n"
+"- Return the result of the multiplication\n"
+" You should do all of this in one line of code.\n"
+"\n"
+"You should assume that `n` is positive.\n"
+"\n"
+"Make sure to uncomment the `Program.assertEqual()` for `factorial(5)` at the bottom to verify that it's returning the expected value."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-powers">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-powers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-recursive-powers">http://translate.khanacademy.org/computing/p/challenge-recursive-powers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Add two more checks using `Program.assertEqual()` to make sure your `power` function consistently computes the correct answer."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-powers">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-powers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-recursive-powers">http://translate.khanacademy.org/computing/p/challenge-recursive-powers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"In this step, write the recursive case for which `n` is even.\n"
+"\n"
+"  You should use the provided function `isEven()` to check if `n` is even.\n"
+"\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-powers">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-powers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-recursive-powers">http://translate.khanacademy.org/computing/p/challenge-recursive-powers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Make sure to uncomment the relevant assertEqual() at the bottom to verify that it's returning the expected value."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-powers">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-powers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-recursive-powers">http://translate.khanacademy.org/computing/p/challenge-recursive-powers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Once implemented, uncomment the relevant `displayPower()` to see how the result is computed, and uncomment the relevant `Program.assertEqual()` to make sure the test passes."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-powers">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-powers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-recursive-powers">http://translate.khanacademy.org/computing/p/challenge-recursive-powers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"There are three recursive cases. In this step, write the recursive case for which `n` is negative.\n"
+"\n"
+"Compute `x` raised to `-n` recursively, and return the reciprocal of that number.\n"
+"\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-powers">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-powers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-recursive-powers">http://translate.khanacademy.org/computing/p/challenge-recursive-powers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"There are three recursive cases. In this step, write the recursive case for which n is odd.\n"
+"\n"
+"You should use the provided function `isOdd()` to check if `n` is odd.\n"
+"\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-powers">http://translate.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/p/challenge-recursive-powers</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-recursive-powers">http://translate.khanacademy.org/computing/p/challenge-recursive-powers</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Write a recursive function `power(x, n)` that returns the value of `x^n`.\n"
+" (assume that `n` is an integer)\n"
+"\n"
+"  Start by writing the base case.\n"
+"\n"
+"  "
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Add two more checks using `Program.assertEqual()` to make sure your function consistently finds the correct answer."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Finish writing the function `indexOfMinimum`, which takes an array and a number `startIndex`, and returns the index of the smallest value that occurs with index `startIndex` or greater. If this smallest value occurs more than once in this range, then return the index of the leftmost occurrence within this range.\n"
+"\n"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "I found an assert, but not the one I was expecting. I was looking for: Program.assertEqual(index, 4); "
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "I'm getting confused when you assign the index of the smallest element found to more than one variable."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It doesn't look like you are checking the last element in the array"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you are trying to check one element past the array"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Should the for loop start at startIndex ? Will the array element at startIndex ever be smaller than itself ?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Try using a variable other than startIndex as the counter for the for loop."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "We want the tests to be thorough. Make sure you don't test the same startIndex in multiple tests."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Will this return the leftmost occurrence of the smallest value in the range ?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray">http://translate.khanacademy.org/computing/p/challenge-find-minimum-in-subarray</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't hard code the size of the array. What would happen if you ran your function on a different sized array ?"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-swap">http://translate.khanacademy.org/computing/p/challenge-implement-swap</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"\n"
+"\n"
+"Once implemented, uncomment the `Program.assertEqual()` at the bottom to verify that the test assertion passes."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Add another check using `Program.assertEqual()` to make sure your sorting algorithm consistently returns the correct order. Try it on arrays with negative numbers or 0 to make sure it still works in those cases."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "I found an assert, but not the one I was expecting. I was looking for: var array = [22, 11, 99, 88, 9, 7, 42]; selectionSort(array); Program.assertEqual(array, [7, 9, 11, 22, 42, 88, 99]);"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you are trying to write your own code to swap two elements. Try using the swap function instead."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you are using an extra variable to hold the same value as the loop counter. Try using the loop counter directly."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Selection sort loops over positions in the array.  For each position, it finds the index of the minimum value in the subarray starting at that position.  Then it swaps the values at the position and at the minimum index.  Write selection sort, making use of the `swap` and `indexOfMinimum` functions.  "
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-selection-sort</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort">http://translate.khanacademy.org/computing/p/challenge-implement-selection-sort</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "You shouldn't need to make any recursive calls to `selectionSort`. You should provide an iterative solution, not a recursive solution."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-swap">http://translate.khanacademy.org/computing/p/challenge-implement-swap</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"A key step in many sorting algorithms (including selection sort) is swapping the location of two items in an array. Here's a `swap` function that looks like it might work, but doesn't:\n"
+"-the code prints out `[9, 9, 4]` when it should print out `[9, 7, 4]`.\n"
+"\n"
+"Fix the `swap` function.\n"
+"\n"
+"Hint: Work through the code line by line, writing down the values of items in the array after each step.  Could you use an extra temporary variable to solve the problem that shows up?  "
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-swap">http://translate.khanacademy.org/computing/p/challenge-implement-swap</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Add two more checks (for a total of three checks) using `Program.assertEqual()` to make sure your `swap` function consistently computes the correct answer. Try swapping different indexes for your tests."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-swap">http://translate.khanacademy.org/computing/p/challenge-implement-swap</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "It looks like you are assigning a value to your temporary variable and then overwriting it. Try assigning a value to the temporary variable only once."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-swap">http://translate.khanacademy.org/computing/p/challenge-implement-swap</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "This method may work with numbers, but we want our swap function to work with all types of data. Try using a temporary variable."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-swap">http://translate.khanacademy.org/computing/p/challenge-implement-swap</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Try to use only one temporary variable."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-swap">http://translate.khanacademy.org/computing/p/challenge-implement-swap</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "We need to call the swap function before each additional Program.assertEqual() to properly test the swap function"
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/p/challenge-implement-swap</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-implement-swap">http://translate.khanacademy.org/computing/p/challenge-implement-swap</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "We want the tests to be thorough. Make sure you don't swap the same indexes in multiple tests."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/p/challenge-solve-hanoi-recursively">http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/p/challenge-solve-hanoi-recursively</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-solve-hanoi-recursively">http://translate.khanacademy.org/computing/p/challenge-solve-hanoi-recursively</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"In this challenge, you will solve the towers of Hanoi problem for five disks, by writing a recursive function `solveHanoi` that will solve Hanoi for any positive number of disks.\n"
+"\n"
+"A call to `solveHanoi(numDisks,fromPeg,toPeg)` should move `numDisks` disks from the peg `fromPeg` to the peg `toPeg`.\n"
+"\n"
+"Start by implementing the base case of zero disks."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/p/challenge-solve-hanoi-recursively">http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/p/challenge-solve-hanoi-recursively</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-solve-hanoi-recursively">http://translate.khanacademy.org/computing/p/challenge-solve-hanoi-recursively</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Make a recursive function call to move the disks from the spare peg back on top of the bottom disk, i.e. move (`numDisks - 1`) disks from the spare peg to the target peg."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/p/challenge-solve-hanoi-recursively">http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/p/challenge-solve-hanoi-recursively</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-solve-hanoi-recursively">http://translate.khanacademy.org/computing/p/challenge-solve-hanoi-recursively</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Make a recursive function call to move the disks sitting on top of the bottom disk on the `fromPeg` to the spare peg, i.e.  move (`numDisks - 1`) disks to the spare peg.\n"
+"\n"
+" You can find the spare peg by using the `getSparePeg` function.\n"
+"\n"
+" A call to `hanoi.getSparePeg(peg1,peg2)` returns the remaining peg that isn't `peg1` or `peg2`."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/p/challenge-solve-hanoi-recursively">http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/p/challenge-solve-hanoi-recursively</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-solve-hanoi-recursively">http://translate.khanacademy.org/computing/p/challenge-solve-hanoi-recursively</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Test it out."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/p/challenge-solve-hanoi-recursively">http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/p/challenge-solve-hanoi-recursively</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-solve-hanoi-recursively">http://translate.khanacademy.org/computing/p/challenge-solve-hanoi-recursively</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Uncomment the call to `solveHanoi` and the `Program.assertEqual` statement below your `solveHanoi` function,  and press the `Restart` button to test out your `solveHanoi` function.\n"
+"\n"
+"Every time you call `moveDisk`, the move will be recorded in the console window. If your function attempts to make an invalid move, the `moveDisk` function will print an error message in the console and block further calls to `moveDisk`. To call `moveDisk` after you have made an invalid move, you will need to press the 'Restart' button.\n"
+"\n"
+"A call to `hanoi.isSolved(toPeg)` returns `true` if all disks are on toPeg and no invalid moves have been used."
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/p/challenge-solve-hanoi-recursively">http://translate.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/p/challenge-solve-hanoi-recursively</a>.
+# CS exercise at <a href="http://translate.khanacademy.org/computing/p/challenge-solve-hanoi-recursively">http://translate.khanacademy.org/computing/p/challenge-solve-hanoi-recursively</a>.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"You have exposed the bottom disk.  Move it to the target peg.\n"
+"\n"
+"This function call is not recursive; don't call `solveHanoi` for this step.\n"
+"\n"
+"A call to `hanoi.moveDisk(peg1,peg2)` moves the top disk on `peg1` to `peg2`."
+msgstr ""

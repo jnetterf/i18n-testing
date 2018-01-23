@@ -1,0 +1,738 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:17+0000\n"
+"PO-Revision-Date: 2017-11-21 12:17+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"It will output this line:\n"
+"\n"
+"```\n"
+"hi\n"
+"```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"Once the program is done running, the while loop will have executed three times, and the final output will be:\n"
+"\n"
+"```\n"
+"hi\n"
+"hi\n"
+"hi\n"
+"```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"When the program is done running, it will have printed out:\n"
+"\n"
+"```\n"
+"0\n"
+"1\n"
+"2\n"
+"```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops">http://translate.khanacademy.org/computing/computer-programming/programming/looping/e/review-loops</a>.
+# Exercise at (x7cde8e67) on the bn stage.
+# Exercise at (x7cde8e67) on the pl stage.
+# Exercise at (x7cde8e67) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid ""
+"When the program is done running, it will have printed out:\n"
+"\n"
+"```\n"
+"3\n"
+"4\n"
+"5\n"
+"```"
+msgstr ""
+
+# Exercise is at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise is at (x0fa9195636a0bade) on the bn stage.
+# Exercise is at (x0fa9195636a0bade) on the pl stage.
+# Exercise is at (x0fa9195636a0bade) on the pt stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>
+# Pretty display name for exercise (xaae103de) on the bn stage
+# Pretty display name for exercise (xaae103de) on the pl stage
+# Pretty display name for exercise (xaae103de) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Quiz: Variable Expressions"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid " ```b + c```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Because the expression that  ```width2 ``` stores uses only multiplication and addition, when ```width1``` gets smaller,  ```width2 ``` will get smaller as well."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "If we substitute the new value for  ```width1``` $(6)$ into the expression that ```width2``` stores, we get the mathematical expression $2*6+5$, which is equal to $12+5$, or $17$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "To make ```h``` dependent on ```w```, we need to use ```w``` somewhere in the expression."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "To make ```scoop2``` dependent on  ```scoop1```, we need to use ```scoop1``` somewhere in the expression."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "To make ```small``` dependent on  ```big```, we need to use ```big``` somewhere in the expression."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "```big / 10```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming">http://translate.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming/e/topic-quiz-exercise-programming</a>.
+# Exercise at (x0fa9195636a0bade) on the bn stage.
+# Exercise at (x0fa9195636a0bade) on the pl stage.
+# Exercise at (x0fa9195636a0bade) on the pt stage.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "```big```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "```bodySize * 2```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "```bodySize / 2```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "```bodySize / 4```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "```bodySize```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "```w * 5```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "```w```"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "`scoop1 * (3/4)`"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "`scoop1 + 10`"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# Exercise at (xaae103de) on the bn stage.
+# Exercise at (xaae103de) on the pl stage.
+# Exercise at (xaae103de) on the pt stage.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "`scoop1 - 10`"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions">http://translate.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/e/quiz--use-variable-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We know that ```width2 ``` is dependent on ```width1 ```, because ```width1 ``` is used in the expression that ```width2 ``` stores. Therefore, when the value of ```width1 ``` changes, the value of ```width2 ``` must also change."
+msgstr ""

@@ -1,0 +1,535 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:17+0000\n"
+"PO-Revision-Date: 2017-11-21 12:17+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-applications-derivatives">http://translate.khanacademy.org/math/ap-calculus-ab/ab-applications-derivatives</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives">http://translate.khanacademy.org/math/ap-calculus-bc/bc-applications-derivatives</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives</a>
+# Title of topic (x6e9cfc38846841a5) on the hy stage
+# Title of topic (x6e9cfc38846841a5) on the pt stage
+# Title of topic (x77616dba817fd822) on the hy stage
+# Title of topic (x77616dba817fd822) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Applications of derivatives"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-application-of-integrals/copy-of-arc-length-bc">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-application-of-integrals/copy-of-arc-length-bc</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Arc length (optional)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-application-of-integrals/in-in-area-between-two-curves">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-application-of-integrals/in-in-area-between-two-curves</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let us now extend our understanding of integrals to calculate areas by calculating the area between two curves. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-application-of-integrals/in-in-area-under-simple-curves">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-application-of-integrals/in-in-area-under-simple-curves</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Area under simple curves"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-application-of-integrals/in-in-area-under-simple-curves">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-application-of-integrals/in-in-area-under-simple-curves</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "After building a good understanding of integrals we will undertstand how to calculate the area under a curve by adding the area of numerous elementary strips and then we will extend it to calcuate the area of the region bounded by a curve and a line."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-application-of-integrals">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-application-of-integrals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Application of integrals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-application-of-integrals">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-application-of-integrals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Many formulae that we studied (memorised actually) in elementary geometry allowed us to calculate areas of many simple figures such as squares and circles but now we'll be studying how we can find between any two curves. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives/copy-of-rectilinear-motion-diff-calc-ab">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives/copy-of-rectilinear-motion-diff-calc-ab</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Rectilinear motion (optional)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives/in-in-approximations">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives/in-in-approximations</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Approximations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives/in-in-approximations">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives/in-in-approximations</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let us now learn to use the concept of differentiation to approximate square root of a specific number without the direct calculation. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives/in-in-tangents-normals">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives/in-in-tangents-normals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Tangents & Normals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives/in-in-tangents-normals">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-applications-of-derivatives/in-in-tangents-normals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let us relate the concept of tangents and normals of a graph to the derivative of a function. We will also explore how to calculate the equation of tangent at a specific point on the graph."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-continuity-differentiability/copy-of-intermediate-value-theorem-ab">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-continuity-differentiability/copy-of-intermediate-value-theorem-ab</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Review: Intermediate value theorem"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-continuity-differentiability/copy-of-limits-of-combined-and-composite-func-ab">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-continuity-differentiability/copy-of-limits-of-combined-and-composite-func-ab</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Review: Limits of combined & composite functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-continuity-differentiability/in-in-revie-differentiation-basics">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-continuity-differentiability/in-in-revie-differentiation-basics</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Review: Differentiation basics"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-continuity-differentiability/in-in-revie-differentiation-basics">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-continuity-differentiability/in-in-revie-differentiation-basics</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Review: Differentiation basics:"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-continuity-differentiability">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-continuity-differentiability</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Continuity & differentiability"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-continuity-differentiability">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-continuity-differentiability</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In Class XI, we had learnt to differentiate certain simple functions like polynomial functions and trigonometric functions. This year we'll pick up from there and learn new concepts of differentiability and continuity of functions. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-definite-integrals/in-in-challenging-definite-integrals">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-definite-integrals/in-in-challenging-definite-integrals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenging definite integrals"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-definite-integrals/in-in-challenging-definite-integrals">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-definite-integrals/in-in-challenging-definite-integrals</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid " Challenging definite integrals"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-definite-integrals">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-definite-integrals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Definite Integrals"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-adjoint-and-inverse-of-a-matrix-using-minors-and-cofactors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-adjoint-and-inverse-of-a-matrix-using-minors-and-cofactors</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Adjoint and inverse of a matrix using minors and cofactors"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-adjoint-and-inverse-of-a-matrix-using-minors-and-cofactors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-adjoint-and-inverse-of-a-matrix-using-minors-and-cofactors</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We will explore the concept of minors and the order of a minor in a determinant. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-determinants-2">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-determinants-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determinants"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-determinants-2">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-determinants-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lets' learn to how to calculate the determinant of a 2x2 and 3x3 matrix by expansion."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-determinants-in-more-depth">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-determinants-in-more-depth</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determinants in more depth (Optional)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-determinants-in-more-depth">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-determinants-in-more-depth</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let us now get a deeper understanding of determinants and stretch ourselves with a few challenging concepts. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-properties-of-determinants">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-properties-of-determinants</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Properties of determinants"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-properties-of-determinants">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/in-in-properties-of-determinants</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's learn some of the properties of determinants and verify them by using expansion. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A determinant is a very useful quantity that we calculate from a matrix. Let's learn why it is useful and also how to calculate it. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-differential-equations/copy-of-slope-fields">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-differential-equations/copy-of-slope-fields</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Slope fields (optional)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-differential-equations">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-differential-equations</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this chapter we will be focussing on concepts related to differential equations, general and particular solutions of a differential equation, formation of differential equations, some methods to solve a first order - first degree differential equation and some applications of differential equations in different areas."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-integrals">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-integrals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Indefinite Integrals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-integrals">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-integrals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "If I give you a derivative of a function, can you come up with a possible original function. This function is sometimes called the anti-derivative of the original function. It is sometimes also called the indefinite integral and the process of finding it is called 'integrating'. Let us also learn how to find the integral of a function. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-inverse-trigonometric-functions/in-in-basic-concepts">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-inverse-trigonometric-functions/in-in-basic-concepts</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Basic concepts of inverse trigonometry"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-inverse-trigonometric-functions/in-in-basic-concepts">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-inverse-trigonometric-functions/in-in-basic-concepts</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Basic concepts"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-inverse-trigonometric-functions/in-in-basic-concepts">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-inverse-trigonometric-functions/in-in-basic-concepts</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this subtopic we will explore the concept of inverse trigonometric functions, how to interchange the domain and range, graphs and principal branch of functions. We will also see the procedure of finding the principal value."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-inverse-trigonometric-functions/in-in-domain-and-range-of-inverse-trigonometric-functions">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-inverse-trigonometric-functions/in-in-domain-and-range-of-inverse-trigonometric-functions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Domain and range of inverse trigonometric functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-inverse-trigonometric-functions">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-inverse-trigonometric-functions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Inverse trigonometric functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-inverse-trigonometric-functions">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-inverse-trigonometric-functions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this chapter, we will be studying the inverse of trigonometric functions. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-linear-programming">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-linear-programming</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear Programming"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-linear-programming">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-linear-programming</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"In Class XI, we have studied systems\r"
+" of linear inequalities in two variables and their solutions by\r\n"
+"graphical method. An important class of optimisation problems is linear programming\r\n"
+"problem which can be solved by graphical methods"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/in-in-inverse-of-a-matrix-by-elementary-operations">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/in-in-inverse-of-a-matrix-by-elementary-operations</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Inverse of a matrix by elementary operations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/in-in-invertible-matrices">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/in-in-invertible-matrices</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Invertible matrices"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/in-in-invertible-matrices">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/in-in-invertible-matrices</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this subtopic we will define the inverse of a matrix, understand the proof of uniqueness of an inverse and calculate the Inverse of a matrix by using elementary operations on matrices."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/in-in-transpose-of-a-matrix">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/in-in-transpose-of-a-matrix</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let us now see what is a transpose of a matrix. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this chapter we'll be acquainted with the fundamentals of matrix and matrix algebra. Matrices is a brand new concept that you'll be studying and one of its uses is to solve a system of linear equations but it has far reaching applications in almost every area of higher enquiry including advanced quantum physics and artificial intelligence. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-playing-with-graphs-using-differentiation">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-playing-with-graphs-using-differentiation</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Playing with graphs (using differentiation)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-playing-with-graphs-using-differentiation">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-playing-with-graphs-using-differentiation</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's put all of our differentiation abilities to use, by analysing the graphs of various functions. As you will see, the derivative and the second derivative of a function can tell us a lot about the function's graph."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-combinatorics-probability">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-combinatorics-probability</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Review: Combinatorics and probability"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-multiplication-rule-independent-events">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-multiplication-rule-independent-events</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Review: Multiplication rule for independent events"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-poisson-distribution">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-poisson-distribution</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Poisson distribution (optional)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-stats-conditional-probability">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-stats-conditional-probability</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Baye's Theorem"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-transforming-and-combining-random-variables">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-transforming-and-combining-random-variables</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Variance of random variables"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Probability of events"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this chapter, we shall discuss the important concept of conditional probability of an event given that another event has occurred. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-relations-functions/copy-of-alg-two-variable-functions">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-relations-functions/copy-of-alg-two-variable-functions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Binary operations"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-relations-functions/copy-of-alg-two-variable-functions">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-relations-functions/copy-of-alg-two-variable-functions</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Two-variable functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-relations-functions/copy-of-inverse-transformations">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-relations-functions/copy-of-inverse-transformations</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Formal definition of inverse functions (optional)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-relations-functions/copy-of-inverse-transformations">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-relations-functions/copy-of-inverse-transformations</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You can use a transformation/function to map from one set to another, but can you invert it?  In other words, is there a function/transformation that given the output of the original mapping, can output the original input (this is much clearer with diagrams). This tutorial addresses this question in a linear algebra context.  "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-relations-functions">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-relations-functions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We will be revisiting the definition of relations and functions and learning about invertible functions. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-multiplication-of-a-vector-by-scalar">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-multiplication-of-a-vector-by-scalar</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiplication of a vector by a scalar"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-multiplication-of-a-vector-by-scalar">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-multiplication-of-a-vector-by-scalar</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We will now learn how the multiplication of a vector by a scalar is defined."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-product-of-two-vectors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-product-of-two-vectors</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Dot product:  Scaler product of two vectors"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-product-of-two-vectors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-product-of-two-vectors</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Scaler product of two vectors"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-product-of-two-vectors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-product-of-two-vectors</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We know how to multiply number and we always get a number as a result. There are two ways to \"multiply\" vectors. In one of them, the result is a number and is called the scalar product or dot product of the two vectors. In the other, the result is a vector and is called the vector or cross product. Let us find out how to calculate and visualise the dot product of two vectors.  "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-vector-product-of-two-vectors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-vector-product-of-two-vectors</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Cross product: Vector product of two vectors"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-vector-product-of-two-vectors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-vector-product-of-two-vectors</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Vector product of two vectors"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-vector-product-of-two-vectors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-vector-product-of-two-vectors</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Now that we have a fair understanding of what a dot product is, let's learn what it means by a cross product of two vectors. Lets also intuitively compare the two."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Vector algebra"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid ""
+"Let us learn about vectors which are quantities which have magnitude and direction. We'll also study some of the basic concepts about vectors, various\n"
+"operations on vectors, and their algebraic and geometric properties."
+msgstr ""

@@ -1,0 +1,101 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-03 19:44+0000\n"
+"PO-Revision-Date: 2017-11-03 19:44+0000\n"
+"Language-Team: English <english-translators@khanacademy.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/i18n-form.jsx.js:24
+#, python-format
+msgid "Thanks for helping us create the %(languageLocalName)s version of Khan Academy!"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/i18n-form.jsx.js:37
+#, python-format
+msgid "This is for reporting problems with the %(languageLocalName)s version of Khan Academy. If you have some other problem that's not connected to %(languageLocalName)s translations, grammar, or other internationalization issues, <a href='https://www.khanacademy.org/reportissue?type=Defect'> report it here</a>."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/i18n-form.jsx.js:54
+msgid "Type of problem"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/i18n-form.jsx.js:58
+msgid "Incorrect Translation"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/i18n-form.jsx.js:62
+#, python-format
+msgid "I see English text instead of %(languageLocalName)s"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/i18n-form.jsx.js:64
+msgid "The text or translations on this page look wrong"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/i18n-form.jsx.js:67
+msgid "Something else is wrong"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/i18n-form.jsx.js:116
+msgid "Which text has an incorrect translation on this page?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/i18n-form.jsx.js:118
+msgid "What is wrong with it? What is a better translation?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/i18n-form.jsx.js:127
+#, python-format
+msgid "Which text is showing up as English instead of %(languageLocalName)s?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/i18n-form.jsx.js:133
+msgid "What text looks wrong on this page?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/i18n-form.jsx.js:134
+msgid "What looks wrong about it? (It may be helpful to include a link to a screenshot.)"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/i18n-form.jsx.js:141
+msgid "What translation, grammar, or other internationalization issue are you seeing?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/issues.jsx.js:25
+msgid "Thank you for your feedback! Your issue has been created and can be found at the following link:"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/issues.jsx.js:34
+msgid "Please let us know of any other issues you see."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/issues.jsx.js:53
+msgid "We had trouble submitting your report. Sorry :("
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/issues.jsx.js:60
+#, python-format
+msgid "Would you mind giving us the same info <a target='_blank' href='%(url)s'>over here</a>?"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/issues.jsx.js:144
+msgid "Note: all information that you provide here will be public."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/issues.jsx.js:155
+msgid "Submit issue."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/issues.jsx.js:191
+msgid "Submitting issue..."
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/issues-package/issues.jsx.js:278
+#, python-format
+msgid "Report a problem with the %(languageLocalName)s version of Khan Academy"
+msgstr ""
