@@ -1,0 +1,35 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-03 19:44+0000\n"
+"PO-Revision-Date: 2018-01-24 10:47-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.in-in-grade-11-ncert.videos.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Title of video <a href="http://translate.khanacademy.org/math/fr-v2-premiere-s/fr-v2-suites/fr-v2-suites-gomtriques/v/geometric-series">http://translate.khanacademy.org/math/fr-v2-premiere-s/fr-v2-suites/fr-v2-suites-gomtriques/v/geometric-series</a>
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "DEPRECATED Finite geometric series"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/fr-v2-premiere-s/fr-v2-suites/fr-v2-suites-gomtriques/v/geometric-series">http://translate.khanacademy.org/math/fr-v2-premiere-s/fr-v2-suites/fr-v2-suites-gomtriques/v/geometric-series</a>
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "This video was deprecated on August 2016 because we made a new, better, video."
+msgstr ""
+
