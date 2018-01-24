@@ -1,0 +1,436 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-03 19:44+0000\n"
+"PO-Revision-Date: 2018-01-24 10:47-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.in-in-grade-11-ncert.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-binomial-theorem/copy-of-in-in-binomial-theorem-for-positive-integral-indices">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-binomial-theorem/copy-of-in-in-binomial-theorem-for-positive-integral-indices</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Binomial Theorem for Positive Integral Indices"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-binomial-theorem/copy-of-in-in-binomial-theorem-for-positive-integral-indices">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-binomial-theorem/copy-of-in-in-binomial-theorem-for-positive-integral-indices</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's learn the binomial theorem and how to expand binomials. We will also look at the connection between the binomial theorem and combinatorics (permutations and combinations). "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-binomial-theorem">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-binomial-theorem</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's learn about the Binomial theorem and how to apply it when the powers involved are positive integers. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this chapter we'll be extending the real number system to a larger system so as to solve equations which are not possible within the system of real numbers. We will finally get introduced to the infamous 'imaginary numbers' which you will soon realise are as 'real' as the real numbers that you are already quite familiar with. Equipped with this new weapon called complex numbers, we will revisit quadratic equations from a new point of view. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-conic-sections/copy-of-center-and-radii-of-an-ellipse">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-conic-sections/copy-of-center-and-radii-of-an-ellipse</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Features of an ellipse"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-conic-sections/copy-of-focus-and-directrix-of-a-parabola">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-conic-sections/copy-of-focus-and-directrix-of-a-parabola</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Features of a parabola"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-conic-sections/copy-of-intro-to-hyperbolas">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-conic-sections/copy-of-intro-to-hyperbolas</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Features of a hyperbola"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-conic-sections/in-in-equation-of-an-ellipse">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-conic-sections/in-in-equation-of-an-ellipse</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Equation of an ellipse"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-conic-sections">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-conic-sections</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We look at equations of some of curves, such as circles, ellipses, parabolas\n"
+"and hyperbolas. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-derivatives">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-derivatives</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Derivatives"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-differentiation/copy-of-sine-and-cosine-derivatives-ab">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-differentiation/copy-of-sine-and-cosine-derivatives-ab</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Sine & cosine, eˣ and ln(x) derivatives"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-differentiation">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-differentiation</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "DIfferentiation"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-limits/copy-of-limits-from-graphs-ab">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-limits/copy-of-limits-from-graphs-ab</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Limits from graphs"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-linear-inequalities">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-linear-inequalities</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's study linear inequalities in one and two variables and how to solve them graphically. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-permutations-and-combinations/copy-of-in-in-combinations">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-permutations-and-combinations/copy-of-in-in-combinations</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In cricket, selectors have to solve the hairy problem of deciding which 11 players to pick to play for India from a larger group of players. We learn to solve simpler problems than that like \"How many ways can these selectors select 11 players from the squad of 20?\" and when we don't care about the order in which the 11 players were selected, we call this kind of selection as a 'combination'. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-permutations-and-combinations/copy-of-in-in-fundamental-principle-of-counting">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-permutations-and-combinations/copy-of-in-in-fundamental-principle-of-counting</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Fundamental Principle of Counting"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-permutations-and-combinations/copy-of-in-in-fundamental-principle-of-counting">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-permutations-and-combinations/copy-of-in-in-fundamental-principle-of-counting</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's learn the 'fundamental principle of counting' that forms the foundation for the rest of permutations and combinations. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-permutations-and-combinations/copy-of-in-in-permutations">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-permutations-and-combinations/copy-of-in-in-permutations</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "To 'permute' something is just a fancy way to 'rearrange' it. So, what we are really going to learn here is answers to questions involving numbers of ways in which things can be rearranged (or if you wish 'permuted'). "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-permutations-and-combinations">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-permutations-and-combinations</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Permutations and combinations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-permutations-and-combinations">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-permutations-and-combinations</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's now learn the art and science of how to count very large numbers without actually counting them. We will start with the fundamental principle of counting and finally demystify two big words 'permutations' and 'combinations' and make them our friends for ever. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-principle-of-mathematical-induction">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-principle-of-mathematical-induction</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-principle-of-mathematical-induction/in-in-principal-of-mathematical-induction">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-principle-of-mathematical-induction/in-in-principal-of-mathematical-induction</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Principle of mathematical induction"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-principle-of-mathematical-induction">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-principle-of-mathematical-induction</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this chapter we'll try and learn to prove certain results or statements\n"
+"that are formulated in terms of n with the help of specific technique,\n"
+"known as principle of mathematical induction."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We've learnt about the experimental and theoretical approach to probability and now we'll learn about the axiomatic approach to probability. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-relations-and-functions/copy-of-alg-determining-the-range-of-a-function">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-relations-and-functions/copy-of-alg-determining-the-range-of-a-function</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determining the range of advanced functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-relations-and-functions">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-relations-and-functions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We will learn how to map pairs of objects from two sets and then introduce the idea of relations between the pair. Finally, we will learn about a special type of relation called a 'function'. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-sets/in-in-intersection-and-union-of-sets">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-sets/in-in-intersection-and-union-of-sets</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about the intersection and union of sets using venn diagrams"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-sets/in-in-sets-operations-on-sets">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-sets/in-in-sets-operations-on-sets</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Operations on sets"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-sets/in-in-sets-types-of-sets">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-sets/in-in-sets-types-of-sets</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Types of sets"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-sets">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-sets</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Sets"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-sets">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-sets</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Sets are used to define the concepts of relations and functions. We are going to study about different types of sets, venn diagrams, and operations on sets."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-straight-lines/copy-of-distance-between-a-point-and-a-line">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-straight-lines/copy-of-distance-between-a-point-and-a-line</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Distance between a point and a line"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-straight-lines">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-straight-lines</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Straight lines"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-straight-lines">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-straight-lines</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We'll be learning different types of equation of lines, the general form and various formulae related to slopes, angle between the lines, and distance point formulae of a line."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-basic-sinusoidal-equations">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-basic-sinusoidal-equations</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Trigonometric equations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-in-in-angles">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-in-in-angles</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Angle is a measure of the rotation about a point. We will explore different aspects of an angle and will understand what are degrees and radians. \n"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/in-in-trigonometric-functions-trigonometric-identities">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/in-in-trigonometric-functions-trigonometric-identities</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Trigonometric identities"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this chapter we will generalise the concept of trigonometric ratios to trigonometric functions and study their properties."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-exponential-and-logarithmic-functions">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-exponential-and-logarithmic-functions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Exponential and Logarithmic functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-exponential-and-logarithmic-functions">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-exponential-and-logarithmic-functions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We know what exponents are and this chapter will reintroduce us to the concept of exponents through functions. Then, we'll learn about logarithms, which are the inverses of exponents. We'll practice using logarithms to solve various equations. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-playing-with-graphs-of-functions/copy-of-math3-func-symmetry">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-playing-with-graphs-of-functions/copy-of-math3-func-symmetry</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Symmetry of functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-playing-with-graphs-of-functions/copy-of-math3-polynomials-zeros-and-graphs">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-playing-with-graphs-of-functions/copy-of-math3-polynomials-zeros-and-graphs</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphs of polynomials using their zeroes"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-playing-with-graphs-of-functions">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-playing-with-graphs-of-functions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Advanced: Playing with graphs"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-playing-with-graphs-of-functions">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-playing-with-graphs-of-functions</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Playing with graphs"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-playing-with-graphs-of-functions">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-playing-with-graphs-of-functions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We've understood the basics of functions. Now let's take a closer look at how these functions can be shifted, torn and twisted, and how to visualise all of it graphically! We'll also take a look at the symmetry of some of the functions and understand what are even and odd functions. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/in-in-sequences-and-series-sequences">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/in-in-sequences-and-series-sequences</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Review sequences before you dive into arithmetic series."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/in-in-sum-to-n-termas-of-special-series">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/in-in-sum-to-n-termas-of-special-series</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Sum to n terms of special series"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/in-in-sum-to-n-termas-of-special-series">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/in-in-sum-to-n-termas-of-special-series</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic explains concepts related to some special series, such as: Sum of first n natural numbers and sum of squares of the first n natural numbers. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Sequence and series"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's learn deeper concepts of arithmetic progressions, get introduced to geometric progressions, and the idea of the arithmetic mean and the geometric mean. We will also look at the sum to n terms of a few special series. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/copy-of-pop-variance-standard-deviation">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/copy-of-pop-variance-standard-deviation</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Variance and standard deviation (ungrouped data):"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/in-in-comparing-distributions">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/in-in-comparing-distributions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic introduces the coefficient of variation: C.V. =(σ\n"
+"/x)*100 where: x is not 0 for a certain data and comparison of two frequency distributions with same mean"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/in-in-mean-deviation">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/in-in-mean-deviation</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Mean absolute deviation (grouped data)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/in-in-mean-deviation">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/in-in-mean-deviation</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Mean deviation for ungrouped data is explained in this subtopic along with it formulae to calculate it. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/in-in-measures-of-dispersion">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/in-in-measures-of-dispersion</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Measures of dispersion"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/in-in-measures-of-dispersion">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/in-in-measures-of-dispersion</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In order to have a better interpretation of data one should have a good idea of how they are scattered or how much they are\n"
+"bunched around a measure of central tendency (median, mean etc). Let's learn about measures of separation or spread in this tutorial. "
+msgstr ""
+
+# Article is at (x829418755f1752cd) on the bg stage.
+# Article is at (x829418755f1752cd) on the pl stage.
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/in-in-range">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/in-in-range</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Range"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/in-in-range">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/in-in-range</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The Range is Maximum Value – Minimum Value. Let's explore the idea of range deeper in this tutorial."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's learn now about variance and standard deviation and also some measures of dispersion. "
+msgstr ""
+
