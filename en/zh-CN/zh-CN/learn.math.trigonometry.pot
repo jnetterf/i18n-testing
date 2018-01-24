@@ -1,0 +1,3641 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:42+0000\n"
+"PO-Revision-Date: 2018-01-24 10:58-0500\n"
+"Language-Team: Chinese Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.trigonometry.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: zh_CN\n"
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/basic-probability">https://www.khanacademy.org/tag/basic-probability</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-basic-prob">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-basic-prob</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability/copy-of-basic-prob-precalc">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability/copy-of-basic-prob-precalc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/prob-comb/basic-prob-precalc">http://translate.khanacademy.org/math/precalculus/prob-comb/basic-prob-precalc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/independent-dependent-probability/basic-probability">http://translate.khanacademy.org/math/probability/independent-dependent-probability/basic-probability</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Basic probability"
+msgstr ""
+
+# Title of topic mastery/exercise mission badge "topic:K62pPNvRVUW0wCVsQWqSSZDj2SUVisbA4AMNuqJe"
+# Title of topic mastery/exercise mission badge "topic:czHTYtJhEUrZm4VMWWNf5pltVGJVx2TCmoXbVs1h"
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1 javascript/coach-report-progress-by-student-package/focus-graph.js:206
+msgid "Equation of a line"
+msgstr ""
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/polar-coordinates">https://www.khanacademy.org/tag/polar-coordinates</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/parametric-equations/polar-coor">http://translate.khanacademy.org/math/precalculus/parametric-equations/polar-coor</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-angular-movement/a/polar-coordinates">http://translate.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-angular-movement/a/polar-coordinates</a>
+# Title of tutorial article (xf02483ce) on the bn stage
+# Title of tutorial article (xf02483ce) on the pl stage
+# Title of tutorial article (xf02483ce) on the pt stage
+# Title of video <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a/v/polar-coordinates-1">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a/v/polar-coordinates-1</a>
+# Title of video (xf16db78cc1c9b015) on the ja stage
+# Title of video (xf16db78cc1c9b015) on the pl stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Polar coordinates"
+msgstr ""
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/slope">https://www.khanacademy.org/tag/slope</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope/alg-basics-slope">http://translate.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope/alg-basics-slope</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-linear-eq-func/alg-slope">http://translate.khanacademy.org/math/algebra-home/alg-linear-eq-func/alg-slope</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/two-var-linear-equations/slope">http://translate.khanacademy.org/math/algebra/two-var-linear-equations/slope</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-slope">http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-slope</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-straight-lines/copy-of-alg-slope">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-straight-lines/copy-of-alg-slope</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-two-var-eq/math1-slope">http://translate.khanacademy.org/math/math1/math1-two-var-eq/math1-slope</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-11th-physics-differentiation/in-in-differentiation-slope">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-11th-physics-differentiation/in-in-differentiation-slope</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-basic-math-concepts-for-physics-prerequisite/in-in-slope">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-basic-math-concepts-for-physics-prerequisite/in-in-slope</a>
+# Title of topic (x96f3fe19) on the bg stage
+# Title of topic (x96f3fe19) on the ka stage
+# Title of topic (x96f3fe19) on the pt stage
+# Title of topic (x96f3fe19) on the pt-pt stage
+# Title of topic (xad6803a3) on the pt stage
+# Title of topic (xd86b66d4) on the lol stage
+# Title of topic (xfa292828) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Slope"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope/core-algebra-slope">http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope/core-algebra-slope</a>
+# Description of topic (x5b28a456) on the accents stage
+# Description of topic (x5b28a456) on the bg stage
+# Description of topic (x5b28a456) on the es stage
+# Description of topic (x5b28a456) on the fr stage
+# Description of topic (x5b28a456) on the ja stage
+# Description of topic (x5b28a456) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "If you've ever struggled to tell someone just how steep something is, you'll find the answer here.  In this tutorial, we cover the idea of the slope of a line.  We also think about how slope relates to the equation of a line and how you can determine the slope or y-intercept given some clues.\n\n"
+"This tutorial is appropriate for someone who understands the basics of graphing equations and want to dig a bit deeper.  After this tutorial, you will be prepared to start thinking deeper about the equation of a line."
+msgstr ""
+
+# Exercise is at (x20c0b163) on the pt stage.
+# Exercise is at (xb80fe829) on the pt stage.
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-systems/core-algebra-systems-tutorial">http://translate.khanacademy.org/math/algebra-basics/core-algebra-systems/core-algebra-systems-tutorial</a>
+# Title of topic (xcc3cc895) on the accents stage
+# Title of topic (xcc3cc895) on the bg stage
+# Title of topic (xcc3cc895) on the es stage
+# Title of topic (xcc3cc895) on the fr stage
+# Title of topic (xcc3cc895) on the ja stage
+# Title of topic (xcc3cc895) on the pt-pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving systems of equations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-complex-number-challenge">http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-complex-number-challenge</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/complex-number-challenge">http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/complex-number-challenge</a>
+# Title of topic (x75e0e0fa) on the bg stage
+# Title of topic (x75e0e0fa) on the pt stage
+# Title of topic (xe4256fd5) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenging complex number problems"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-complex-number-challenge">http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-complex-number-challenge</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/complex-number-challenge">http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/complex-number-challenge</a>
+# Description of topic (x75e0e0fa) on the bg stage
+# Description of topic (x75e0e0fa) on the pt stage
+# Description of topic (xe4256fd5) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "This tutorial goes through a fancy problem from the IIT JEE exam in India (competitive exam for getting into their top engineering schools).  Whether or not you live in India, this is a good example to test whether you are a complex number rock star."
+msgstr ""
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/piecewise-functions">https://www.khanacademy.org/tag/piecewise-functions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-piecewise-functions">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-piecewise-functions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/absolute-value-equations-functions/piecewise-functions">http://translate.khanacademy.org/math/algebra/absolute-value-equations-functions/piecewise-functions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/piecewise-functions">http://translate.khanacademy.org/math/algebra/algebra-functions/piecewise-functions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-relations-and-functions/copy-of-math1-piecewise-functions">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-relations-and-functions/copy-of-math1-piecewise-functions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-functions/math1-piecewise-functions">http://translate.khanacademy.org/math/math1/math1-functions/math1-piecewise-functions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-absolute-value/math1-piecewise-functions">http://translate.khanacademy.org/math/math2/math2-absolute-value/math1-piecewise-functions</a>
+# Title of topic (x68c4c6a136effeb3) on the pt stage
+# Title of topic (x6c147e43c5fff2ba) on the bg stage
+# Title of topic (x6c147e43c5fff2ba) on the ka stage
+# Title of topic (x6c147e43c5fff2ba) on the pt stage
+# Title of topic (x6c147e43c5fff2ba) on the pt-pt stage
+# Title of topic (xa619bfca) on the de stage
+# Title of topic (xa619bfca) on the es stage
+# Title of topic (xaee8f85d) on the lol stage
+# Title of topic (xb81f9b8b) on the es stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Piecewise functions"
+msgstr ""
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/quadratic-inequalities">https://www.khanacademy.org/tag/quadratic-inequalities</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-quadratics/alg-quadratic-inequalities">http://translate.khanacademy.org/math/algebra-home/alg-quadratics/alg-quadratic-inequalities</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/advanced-equations-and-inequalities/quadratic-inequalities">http://translate.khanacademy.org/math/algebra2/advanced-equations-and-inequalities/quadratic-inequalities</a>
+# Title of topic (x7f626382) on the lol stage
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-quadratics/alg-quadratic-inequalities/v/quadratic-inequality-example">http://translate.khanacademy.org/math/algebra-home/alg-quadratics/alg-quadratic-inequalities/v/quadratic-inequality-example</a>
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/advanced-equations-and-inequalities/quadratic-inequalities/v/quadratic-inequality-example">http://translate.khanacademy.org/math/algebra2/advanced-equations-and-inequalities/quadratic-inequalities/v/quadratic-inequality-example</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Quadratic inequalities"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2015/v/2015-ap-calculus-bc-5d">http://translate.khanacademy.org/math/ap-calculus-bc/bc-solved-exams/bc-solved-exams-2015/v/2015-ap-calculus-bc-5d</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc/solved-exams-bc-2015/v/2015-ap-calculus-bc-5d">http://translate.khanacademy.org/math/ap-calculus-bc/solved-exams-bc/solved-exams-bc-2015/v/2015-ap-calculus-bc-5d</a>
+# Description of video <a href="http://translate.khanacademy.org/math/calculus-home/ap-calc-topic/ap-calculus-bc-questions/v/2015-ap-calculus-bc-5d">http://translate.khanacademy.org/math/calculus-home/ap-calc-topic/ap-calculus-bc-questions/v/2015-ap-calculus-bc-5d</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func/alg-partial-fraction/e/partial_fraction_expansion_1">http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func/alg-partial-fraction/e/partial_fraction_expansion_1</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/precalculus/partial-fraction-expans/partial-fraction/e/partial_fraction_expansion_1">http://translate.khanacademy.org/math/precalculus/partial-fraction-expans/partial-fraction/e/partial_fraction_expansion_1</a>
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/partial-fraction-expansion">https://www.khanacademy.org/tag/partial-fraction-expansion</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func/alg-partial-fraction">http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func/alg-partial-fraction</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-partial-fractions">http://translate.khanacademy.org/math/ap-calculus-bc/bc-antiderivatives-ftc/bc-partial-fractions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/integration-techniques-bc/partial-fraction-expansion-bc">http://translate.khanacademy.org/math/ap-calculus-bc/integration-techniques-bc/partial-fraction-expansion-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/integration-techniques-calc/partial-fraction-expansion-calc">http://translate.khanacademy.org/math/calculus-home/integration-techniques-calc/partial-fraction-expansion-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-integrals/copy-of-integrate-partial-fraction-expan">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-integrals/copy-of-integrate-partial-fraction-expan</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/integration-techniques/integrate-partial-fraction-expan">http://translate.khanacademy.org/math/integral-calculus/integration-techniques/integrate-partial-fraction-expan</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/integration-techniques-calc/partial-fraction-expansion-calc">http://translate.khanacademy.org/math/new-calculus/integration-techniques-calc/partial-fraction-expansion-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/partial-fraction-expans">http://translate.khanacademy.org/math/precalculus/partial-fraction-expans</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/partial-fraction-expans/partial-fraction">http://translate.khanacademy.org/math/precalculus/partial-fraction-expans/partial-fraction</a>
+# Title of topic (x042d45c2a1213378) on the pt stage
+# Title of topic (x59814c35) on the pt stage
+# Title of topic (x6c8253a6) on the lol stage
+# Title of topic (xec561842) on the accents stage
+# Title of topic (xec561842) on the es stage
+# Title of topic (xec561842) on the fr stage
+# Title of topic (xec561842) on the ja stage
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func/alg-partial-fraction/v/partial-fraction-expansion-2">http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func/alg-partial-fraction/v/partial-fraction-expansion-2</a>
+# Title of video <a href="http://translate.khanacademy.org/math/precalculus/partial-fraction-expans/partial-fraction/v/partial-fraction-expansion-2">http://translate.khanacademy.org/math/precalculus/partial-fraction-expans/partial-fraction/v/partial-fraction-expansion-2</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+# (format: text)
+#: intl/datastore:1
+msgid "Partial fraction expansion"
+msgstr ""
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/simplifying-rational-expressions">https://www.khanacademy.org/tag/simplifying-rational-expressions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func/alg-simplify-rational-expressions">http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func/alg-simplify-rational-expressions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/rational-expressions-equations-and-functions/simplify-rational-expressions">http://translate.khanacademy.org/math/algebra2/rational-expressions-equations-and-functions/simplify-rational-expressions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-rational-exp-eq-func/math3-simplify-rational-exp">http://translate.khanacademy.org/math/math3/math3-rational-exp-eq-func/math3-simplify-rational-exp</a>
+# Title of topic (x1001e778) on the bg stage
+# Title of topic (x1001e778) on the pt stage
+# Title of topic (xa7bc84c4) on the bg stage
+# Title of topic (xa7bc84c4) on the ka stage
+# Title of topic (xa7bc84c4) on the pt stage
+# Title of topic (xe1478259) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Simplifying rational expressions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-deductive-and-inductive-reasoning">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-deductive-and-inductive-reasoning</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-principle-of-mathematical-induction/in-in-deductive-and-inductive-reasoning">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-principle-of-mathematical-induction/in-in-deductive-and-inductive-reasoning</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/deductive-and-inductive-reasoning">http://translate.khanacademy.org/math/precalculus/seq-induction/deductive-and-inductive-reasoning</a>
+# Title of topic (x27c5ee4a) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Deductive and inductive reasoning"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-deductive-and-inductive-reasoning">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-deductive-and-inductive-reasoning</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/deductive-and-inductive-reasoning">http://translate.khanacademy.org/math/precalculus/seq-induction/deductive-and-inductive-reasoning</a>
+# Description of topic (x27c5ee4a) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You will hear the words \"deductive reasoning\" and \"inductive reasoning\" throughout your life.  This very optional tutorial will give you context for what these mean."
+msgstr ""
+
+# Exercise is at (x9b4bbe1c1e806b4b) on the es stage.
+# Exercise is at (xae0e91087a985fea) on the es stage.
+# Exercise is at (xae76cd4065494042) on the es stage.
+# Exercise is at (xf815c44f6412a3bc) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/e/geometric-series--1">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/e/geometric-series--1</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/e/geometric-series--1">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/e/geometric-series--1</a>
+# Pretty display name for exercise (x71fc8537) on the bg stage
+# Pretty display name for exercise (x71fc8537) on the pt stage
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/finite-geometric-series">https://www.khanacademy.org/tag/finite-geometric-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-finite-geometric-series">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-finite-geometric-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-finite-geo-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-finite-geo-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/geo-series-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/geo-series-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/finite-geometric-series-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/finite-geometric-series-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-geo-series">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-geo-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/series-ic/geo-series-ic">http://translate.khanacademy.org/math/integral-calculus/series-ic/geo-series-ic</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-series/math3-geo-series">http://translate.khanacademy.org/math/math3/math3-series/math3-geo-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/geometric-sequence-series">http://translate.khanacademy.org/math/precalculus/seq-induction/geometric-sequence-series</a>
+# Title of topic (x135e3b0a8481f0fb) on the es stage
+# Title of topic (x135e3b0a8481f0fb) on the pt stage
+# Title of topic (x2d982116) on the accents stage
+# Title of topic (x2d982116) on the es stage
+# Title of topic (x2d982116) on the fr stage
+# Title of topic (x2d982116) on the ja stage
+# Title of topic (x5cd4a50b294cb016) on the pt stage
+# Title of topic (x74af7c7d) on the lol stage
+# Title of topic (xcd8ec02a) on the bg stage
+# Title of topic (xcd8ec02a) on the pt stage
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/v/geometric-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/v/geometric-series</a>
+# Title of video <a href="http://translate.khanacademy.org/math/new-calculus/series-calc/geo-series-calc/v/geometric-series">http://translate.khanacademy.org/math/new-calculus/series-calc/geo-series-calc/v/geometric-series</a>
+# Title of video (x363f77ba) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Finite geometric series"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-finite-geometric-series">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-finite-geometric-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-geo-series">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-geo-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math3-series/math3-geo-series">http://translate.khanacademy.org/math/math3/math3-series/math3-geo-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/geometric-sequence-series">http://translate.khanacademy.org/math/precalculus/seq-induction/geometric-sequence-series</a>
+# Description of topic (x74af7c7d) on the lol stage
+# Description of topic (xcd8ec02a) on the bg stage
+# Description of topic (xcd8ec02a) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Whether you are computing mortgage payments or calculating how many users your website will have after a few years,  geometric  series show up in life far more than you imagine.  This tutorial will review all the important concepts and more!"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/algebra/sequences/constructing-geometric-sequences">http://translate.khanacademy.org/math/algebra/sequences/constructing-geometric-sequences</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf1bc87d5) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/geometric-sequences">https://www.khanacademy.org/tag/geometric-sequences</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-geometric-sequences-review">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-geometric-sequences-review</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequences">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequences</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-precalc-geometric-sequences">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-precalc-geometric-sequences</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/precalc-geometric-sequences">http://translate.khanacademy.org/math/precalculus/seq-induction/precalc-geometric-sequences</a>
+# Title of topic (x0d159c47) on the lol stage
+# Title of topic (x5112a568) on the bg stage
+# Title of topic (x5112a568) on the pt stage
+# Title of topic (xc565a9b0) on the bg stage
+# Title of topic (xc565a9b0) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Geometric sequences"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-induction">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-induction</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/proof-by-induction">http://translate.khanacademy.org/math/precalculus/seq-induction/proof-by-induction</a>
+# Title of topic (x922f8d19) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Induction"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-induction">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-induction</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/proof-by-induction">http://translate.khanacademy.org/math/precalculus/seq-induction/proof-by-induction</a>
+# Description of topic (x922f8d19) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Proof by induction is a core tool.  This tutorial walks you through the general idea that if 1) something is true for a base case (say when n=1) and 2) if it is true for n, then it is also true for n+1, then it must be true for all n!  Amazing!"
+msgstr ""
+
+# Exercise is at (xae76cd4065494042) on the es stage.
+# Exercise is at (xf815c44f6412a3bc) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series/e/geometric-series-of-constants">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series/e/geometric-series-of-constants</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-geo-series/e/geometric-series-of-constants">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-geo-series/e/geometric-series-of-constants</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/infinite-geo-series-bc/e/geometric-series-of-constants">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/infinite-geo-series-bc/e/geometric-series-of-constants</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/geo-series-calc/e/geometric-series-of-constants">http://translate.khanacademy.org/math/calculus-home/series-calc/geo-series-calc/e/geometric-series-of-constants</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/infinite-geometric-series/e/geometric-series-of-constants">http://translate.khanacademy.org/math/precalculus/seq-induction/infinite-geometric-series/e/geometric-series-of-constants</a>
+# Pretty display name for exercise (x05d70249) on the pt stage
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/infinite-geometric-series">https://www.khanacademy.org/tag/infinite-geometric-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-geo-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-geo-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/infinite-geo-series-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/infinite-geo-series-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/geo-series-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/geo-series-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/series-ic/infinite-geo-series-ic">http://translate.khanacademy.org/math/integral-calculus/series-ic/infinite-geo-series-ic</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/infinite-geometric-series">http://translate.khanacademy.org/math/precalculus/seq-induction/infinite-geometric-series</a>
+# Title of topic (x712c3789) on the lol stage
+# Title of topic (x783b0beabf302552) on the pt stage
+# Title of topic (xaebb56815a1c0291) on the accents stage
+# Title of topic (xaebb56815a1c0291) on the es stage
+# Title of topic (xaebb56815a1c0291) on the fr stage
+# Title of topic (xaebb56815a1c0291) on the ja stage
+# Title of topic (xc57e91a7) on the es stage
+# Title of topic (xc57e91a7) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Infinite geometric series"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/infinite-geometric-series">http://translate.khanacademy.org/math/precalculus/seq-induction/infinite-geometric-series</a>
+# Description of topic (x712c3789) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You're already familiar with finite geometric series, but you don't want the summation to stop!!  What happens if you keep adding?  The terms are getting small fast!  Can it be that the sum of an infinite number of rapidly shrinking terms can be finite!  Yes, often times it can!  Mind-blowing!  Stupendous!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-advanced-sinusoidal-equations">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-advanced-sinusoidal-equations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/advanced-sinusoidal-equations-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/advanced-sinusoidal-equations-precalc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/advanced-sinusoidal-equations">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/advanced-sinusoidal-equations</a>
+# Title of topic (xf0af1874) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving advanced sinusoidal equations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-advanced-sinusoidal-equations">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-advanced-sinusoidal-equations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/advanced-sinusoidal-equations-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/advanced-sinusoidal-equations-precalc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/advanced-sinusoidal-equations">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/advanced-sinusoidal-equations</a>
+# Description of topic (xf0af1874) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to solve equations of the form a*sin(bx+c)=d or a*cos(bx+c)=d where a, b, c, and d are any number. For example, solve 5*sin(2x-1)=3."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-amplitude-and-midline-of-sinusoids-from-formulas">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-amplitude-and-midline-of-sinusoids-from-formulas</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/amplitude-and-midline-of-sinusoids-from-formulas-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/amplitude-and-midline-of-sinusoids-from-formulas-alg2</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-amplitude-midline-from-formula">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-amplitude-midline-from-formula</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/amplitude-and-midline-of-sinusoids-from-formulas">http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/amplitude-and-midline-of-sinusoids-from-formulas</a>
+# Description of topic (x9e7f6b3b) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to find the amplitude and the midline of the graph of a sinusoidal function from its formula. For example, find the amplitude and the midline of f(x)=3*sin(2x-1)+5."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-basic-sinusoidal-equations">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-basic-sinusoidal-equations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/basic-sinusoidal-equations-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/basic-sinusoidal-equations-precalc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/basic-sinusoidal-equations">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/basic-sinusoidal-equations</a>
+# Title of topic (x5292b1a0) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving basic sinusoidal equations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-basic-sinusoidal-equations">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-basic-sinusoidal-equations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-basic-sinusoidal-equations">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-basic-sinusoidal-equations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/basic-sinusoidal-equations-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/basic-sinusoidal-equations-precalc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/basic-sinusoidal-equations">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/basic-sinusoidal-equations</a>
+# Description of topic (x5292b1a0) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to solve equations of the form sin(x)=d or cos(x)=d where d is any number. For example, solve sin(x)=0.6."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-constructing-sinusoids">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-constructing-sinusoids</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/constructing-sinusoids-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/constructing-sinusoids-alg2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-constructing-sinusoids">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-constructing-sinusoids</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/constructing-sinusoids">http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/constructing-sinusoids</a>
+# Title of topic (x1194a743) on the lol stage
+# Title of topic (x2e92a185) on the bg stage
+# Title of topic (x2e92a185) on the pt stage
+# Title of topic (x34372fc9) on the bg stage
+# Title of topic (x34372fc9) on the pt stage
+# Title of topic (x8cf79fa7) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Constructing sinusoidal functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-constructing-sinusoids">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-constructing-sinusoids</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/constructing-sinusoids-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/constructing-sinusoids-alg2</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-constructing-sinusoids">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-constructing-sinusoids</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/constructing-sinusoids">http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/constructing-sinusoids</a>
+# Description of topic (x1194a743) on the lol stage
+# Description of topic (x2e92a185) on the bg stage
+# Description of topic (x2e92a185) on the pt stage
+# Description of topic (x34372fc9) on the bg stage
+# Description of topic (x34372fc9) on the pt stage
+# Description of topic (x8cf79fa7) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to find the formula of a sinusoidal function from its graph or a few selected features. Model real-world situations with sinusoidal functions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-graphing-sinusoids">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-graphing-sinusoids</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/graphing-sinusoids-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/graphing-sinusoids-alg2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-graphing-sinusoids">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-graphing-sinusoids</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/graphing-sinusoids">http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/graphing-sinusoids</a>
+# Title of topic (x8322d425) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphing sinusoidal functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-graphing-sinusoids">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-graphing-sinusoids</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/graphing-sinusoids-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/graphing-sinusoids-alg2</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-graphing-sinusoids">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-graphing-sinusoids</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/graphing-sinusoids">http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/graphing-sinusoids</a>
+# Description of topic (x8322d425) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to draw the graph of sinusoidal functions. For example, draw the graph of f(x)=-2*cos(πx)-7."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-graphs-of-sine-cosine-tangent">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-graphs-of-sine-cosine-tangent</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/graphs-of-sine-cosine-tangent-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/graphs-of-sine-cosine-tangent-alg2</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-graphs-of-sine-cosine-tangent">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-graphs-of-sine-cosine-tangent</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-sin-cos-tan-graphs">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-sin-cos-tan-graphs</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/basic-graphs-of-sine-cosine-tangent">http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/basic-graphs-of-sine-cosine-tangent</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/graphs-of-sine-cosine-tangent">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/graphs-of-sine-cosine-tangent</a>
+# Description of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-basic-math-concepts-for-physics-prerequisite/in-in-graphs-of-sine-cosine-tangent-alg2">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-basic-math-concepts-for-physics-prerequisite/in-in-graphs-of-sine-cosine-tangent-alg2</a>
+# Description of topic (x63b2db73) on the bg stage
+# Description of topic (x63b2db73) on the pt stage
+# Description of topic (x87fa6250) on the lol stage
+# Description of topic (xce13f683) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how the graphs of y=sin(θ), y=cos(θ), and y=tan(θ) look, using the unit circle definition of the functions."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-intro-to-amplitude-and-midline-of-sinusoids">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-intro-to-amplitude-and-midline-of-sinusoids</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/intro-to-amplitude-and-midline-of-sinusoids-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/intro-to-amplitude-and-midline-of-sinusoids-alg2</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-amplitude-midline-intro">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-amplitude-midline-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/intro-to-amplitude-and-midline-of-sinusoids">http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/intro-to-amplitude-and-midline-of-sinusoids</a>
+# Description of topic (x426cf5e4) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about very important features of sinusoidal functions: the amplitude and the midline. Learn how they relate to the extremum points of the function."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-intro-to-radians">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-intro-to-radians</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/intro-to-radians-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/intro-to-radians-alg2</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-radians-intro">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-radians-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/intro-to-radians-trig">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/intro-to-radians-trig</a>
+# Description of topic (xe1d7532e) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about radians, which are the official unit of measurement for angles in algebra (in contrast to degrees, which are used in geometry)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-intro-to-trig-angle-addition-identities">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-intro-to-trig-angle-addition-identities</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/intro-to-trig-angle-addition-identities-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/intro-to-trig-angle-addition-identities-precalc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/intro-to-trig-angle-addition-identities">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/intro-to-trig-angle-addition-identities</a>
+# Title of topic (x12b9d0ff) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to the trigonometric angle addition identities"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-intro-to-trig-angle-addition-identities">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-intro-to-trig-angle-addition-identities</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/intro-to-trig-angle-addition-identities-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/intro-to-trig-angle-addition-identities-precalc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/intro-to-trig-angle-addition-identities">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/intro-to-trig-angle-addition-identities</a>
+# Description of topic (x12b9d0ff) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about the trigonometric angle addition identities, which help us discuss the trig values of sums of angles in terms of the trig values of the individual angles. For example, we can express sin(x+y) in terms of sin(x), sin(y), cos(x), and cos(y)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-inverse-trig-functions">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-inverse-trig-functions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/inverse-trig-functions-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/inverse-trig-functions-precalc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/inverse-trig-functions">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/inverse-trig-functions</a>
+# Title of topic (xe21800ba) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The inverse trigonometric functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-inverse-trig-functions">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-inverse-trig-functions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/inverse-trig-functions-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/inverse-trig-functions-precalc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/inverse-trig-functions">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/inverse-trig-functions</a>
+# Description of topic (xe21800ba) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about the inverse functions of sine, cosine, and tangent, and how they are defined even though the functions are not really invertible. These functions will be very helpful when you will solve trigonometric equations."
+msgstr ""
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/parametric-equations">https://www.khanacademy.org/tag/parametric-equations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-parametric">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-parametric</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/parametric-equations/parametric">http://translate.khanacademy.org/math/precalculus/parametric-equations/parametric</a>
+# Title of topic (x1847c23a) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Parametric equations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-parametric">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-parametric</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/parametric-equations/parametric">http://translate.khanacademy.org/math/precalculus/parametric-equations/parametric</a>
+# Description of topic (x1847c23a) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here we will explore representing our x's and y's in terms of a third variable or parameter (often 't').  Not only can we describe new things, but it can be super useful for describing things like particle motion in physics."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-period-of-sinusoids">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-period-of-sinusoids</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/period-of-sinusoids-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/period-of-sinusoids-alg2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-period-of-sinusoids">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-period-of-sinusoids</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/period-of-sinusoids">http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/period-of-sinusoids</a>
+# Title of topic (x0e6da0c7) on the bg stage
+# Title of topic (x0e6da0c7) on the pt stage
+# Title of topic (x0fa98639) on the lol stage
+# Title of topic (x8fa254ac) on the bg stage
+# Title of topic (x8fa254ac) on the pt stage
+# Title of topic (xfe148ff5) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Period of sinusoidal functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-period-of-sinusoids">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-period-of-sinusoids</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/period-of-sinusoids-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/period-of-sinusoids-alg2</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-period-of-sinusoids">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-period-of-sinusoids</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/period-of-sinusoids">http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/period-of-sinusoids</a>
+# Description of topic (x0e6da0c7) on the bg stage
+# Description of topic (x0e6da0c7) on the pt stage
+# Description of topic (x0fa98639) on the lol stage
+# Description of topic (x8fa254ac) on the bg stage
+# Description of topic (x8fa254ac) on the pt stage
+# Description of topic (xfe148ff5) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about the period of sinusoidal functions: how it relates to extremum points and the midline, and how to find it from the formula of the function. For example, find the period of f(x)=3*sin(2x-1)+5."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-pythagorean-identity">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-pythagorean-identity</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/pythagorean-identity-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/pythagorean-identity-alg2</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-pythagorean-identity">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-pythagorean-identity</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/pythagorean-identity">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/pythagorean-identity</a>
+# Description of topic (x2588569c) on the bg stage
+# Description of topic (x2588569c) on the pt stage
+# Description of topic (x4eea1f04) on the lol stage
+# Description of topic (xcdca8ebf) on the bg stage
+# Description of topic (xcdca8ebf) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Prove the Pythagorean trigonometric identity for all real numbers and use it in order to solve problems."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-solving-sinusoidal-models">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-solving-sinusoidal-models</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/solving-sinusoidal-models-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/solving-sinusoidal-models-precalc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/solving-sinusoidal-models">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/solving-sinusoidal-models</a>
+# Title of topic (xa4a9bba9) on the lol stage
+# Title of topic (xa7c2f691) on the pt stage
+# Title of topic (xb6451c03) on the bg stage
+# Title of topic (xb6451c03) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving sinusoidal models"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-solving-sinusoidal-models">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-solving-sinusoidal-models</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/solving-sinusoidal-models-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/solving-sinusoidal-models-precalc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/solving-sinusoidal-models">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/solving-sinusoidal-models</a>
+# Description of topic (xa4a9bba9) on the lol stage
+# Description of topic (xa7c2f691) on the pt stage
+# Description of topic (xb6451c03) on the bg stage
+# Description of topic (xb6451c03) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solve word problems that involve sinusoidal modeling functions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-trig-identities">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-trig-identities</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/trig-identities-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/trig-identities-alg2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-trig-identities">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-trig-identities</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/trig-identities">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/trig-identities</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-basic-math-concepts-for-physics-prerequisite/in-in-trig-identities-alg2">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-basic-math-concepts-for-physics-prerequisite/in-in-trig-identities-alg2</a>
+# Title of topic (x226d14c9) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Basic trigonometric identities"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-trig-identities">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-trig-identities</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/trig-identities-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/trig-identities-alg2</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-trig-identities">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-trig-identities</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/trig-identities">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/trig-identities</a>
+# Description of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-basic-math-concepts-for-physics-prerequisite/in-in-trig-identities-alg2">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-basic-math-concepts-for-physics-prerequisite/in-in-trig-identities-alg2</a>
+# Description of topic (x226d14c9) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about very useful trigonometric identities that arise by considering different properties of the unit circle definition."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-trig-values-special-angles">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-trig-values-special-angles</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/trig-values-special-angles-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/trig-values-special-angles-alg2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-trig-values-special-angles">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-trig-values-special-angles</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-trig-special-angles">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-trig-special-angles</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/trig-values-special-angles">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/trig-values-special-angles</a>
+# Title of topic (x88ce5d65) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Trigonometric values of special angles"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-trig-values-special-angles">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-trig-values-special-angles</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/trig-values-special-angles-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/trig-values-special-angles-alg2</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-trig-values-special-angles">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-trig-values-special-angles</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-trig-special-angles">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-trig-special-angles</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/trig-values-special-angles">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/trig-values-special-angles</a>
+# Description of topic (x88ce5d65) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to find the trigonometric values of some special angles without the use of a calculator."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-unit-circle-definition-of-trig-functions">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-unit-circle-definition-of-trig-functions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/unit-circle-definition-of-trig-functions-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/unit-circle-definition-of-trig-functions-alg2</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-unit-circle-definition">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-unit-circle-definition</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func</a>
+# Description of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-basic-math-concepts-for-physics-prerequisite/in-in-unit-circle-definition-of-trig-functions-alg2">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-basic-math-concepts-for-physics-prerequisite/in-in-unit-circle-definition-of-trig-functions-alg2</a>
+# Description of topic (x1b43a2e2) on the lol stage
+# Description of topic (x36c957e4) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how the trigonometric ratios are extended to all real numbers using algebra. Start solving simple problems that involve this new definition of the trigonometric functions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-using-trig-identities">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-using-trig-identities</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/using-trig-identities-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/using-trig-identities-precalc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/using-trig-identities">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/using-trig-identities</a>
+# Title of topic (x539233b6) on the lol stage
+# Title of topic (xb47e6c87) on the pt stage
+# Title of topic (xd08f2f1b) on the bg stage
+# Title of topic (xd08f2f1b) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Using trigonometric identities to solve problems"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-using-trig-identities">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-using-trig-identities</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/using-trig-identities-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/using-trig-identities-precalc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/using-trig-identities">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/using-trig-identities</a>
+# Description of topic (x539233b6) on the lol stage
+# Description of topic (xb47e6c87) on the pt stage
+# Description of topic (xd08f2f1b) on the bg stage
+# Description of topic (xd08f2f1b) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about different ways in which trigonometric identities, such as the Pythagorean identity and the angle addition identities, can be used to solve problems."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/algebra2/exponential-and-logarithmic-functions/logarithmic-scale">http://translate.khanacademy.org/math/algebra2/exponential-and-logarithmic-functions/logarithmic-scale</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Logarithmic scale and patterns"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/exponential-and-logarithmic-functions">http://translate.khanacademy.org/math/algebra2/exponential-and-logarithmic-functions</a>
+# Title of topic (x01b58215) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Exponential and logarithmic functions"
+msgstr ""
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/exponential-growth-and-decay">https://www.khanacademy.org/tag/exponential-growth-and-decay</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/exponential-growth-and-decay-alg-2">http://translate.khanacademy.org/math/algebra2/exponential-growth-and-decay-alg-2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-exponential-growth">http://translate.khanacademy.org/math/math2/math2-exponential-growth</a>
+# Title of topic (x222a66cb) on the hy stage
+# Title of topic (x872c276b) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Exponential growth and decay"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/seq-and-series">http://translate.khanacademy.org/math/precalculus/seq-induction/seq-and-series</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x68e77953) on the bg stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x68e77953) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series</a>
+# Title of topic (x3ed1e1c3) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Sequences and series"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/amplitude-and-midline-of-sinusoids-from-formulas-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/amplitude-and-midline-of-sinusoids-from-formulas-alg2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/amplitude-and-midline-of-sinusoids-from-formulas">http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/amplitude-and-midline-of-sinusoids-from-formulas</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding amplitude and midline of sinusoidal functions from their formulas"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/graphs-of-sine-cosine-tangent-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/graphs-of-sine-cosine-tangent-alg2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-graphs-of-sine-cosine-tangent">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-graphs-of-sine-cosine-tangent</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/basic-graphs-of-sine-cosine-tangent">http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/basic-graphs-of-sine-cosine-tangent</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/graphs-of-sine-cosine-tangent">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/graphs-of-sine-cosine-tangent</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-basic-math-concepts-for-physics-prerequisite/in-in-graphs-of-sine-cosine-tangent-alg2">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-basic-math-concepts-for-physics-prerequisite/in-in-graphs-of-sine-cosine-tangent-alg2</a>
+# Title of topic (x63b2db73) on the bg stage
+# Title of topic (x63b2db73) on the pt stage
+# Title of topic (xce13f683) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The graphs of sine, cosine, and tangent"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/intro-to-amplitude-and-midline-of-sinusoids-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/intro-to-amplitude-and-midline-of-sinusoids-alg2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/intro-to-amplitude-and-midline-of-sinusoids">http://translate.khanacademy.org/math/trigonometry/trig-function-graphs/intro-to-amplitude-and-midline-of-sinusoids</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to amplitude, midline, and extrema of sinusoidal functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/pythagorean-identity-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/pythagorean-identity-alg2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/pythagorean-identity">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/pythagorean-identity</a>
+# Title of topic (x2588569c) on the bg stage
+# Title of topic (x2588569c) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The Pythagorean identity"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/lagrange-multipliers-single-constraint">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/lagrange-multipliers-single-constraint</a>.
+# Article is at (x632fba9d) on the ja stage.
+# Article is at (x632fba9d) on the pl stage.
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/unit-circle-definition-of-trig-functions-alg2/v/unit-circle-definition-of-trig-functions-1">http://translate.khanacademy.org/math/algebra2/trig-functions/unit-circle-definition-of-trig-functions-alg2/v/unit-circle-definition-of-trig-functions-1</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Unit circle"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/trig-functions/unit-circle-definition-of-trig-functions-alg2">http://translate.khanacademy.org/math/algebra2/trig-functions/unit-circle-definition-of-trig-functions-alg2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/unit-circle-definition-of-trig-functions">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/unit-circle-definition-of-trig-functions</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-basic-math-concepts-for-physics-prerequisite/in-in-unit-circle-definition-of-trig-functions-alg2">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-basic-math-concepts-for-physics-prerequisite/in-in-unit-circle-definition-of-trig-functions-alg2</a>
+# Title of topic (x36c957e4) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The unit circle definition of sine, cosine, and tangent"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/geo-series-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/geo-series-calc</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xc57e91a7) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xc57e91a7) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/seq-series-review">http://translate.khanacademy.org/math/integral-calculus/sequences-series-approx-calc/seq-series-review</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/new-calculus/series-calc/geo-series-calc">http://translate.khanacademy.org/math/new-calculus/series-calc/geo-series-calc</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Geometric series"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/intro-to-the-trig-ratios-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/intro-to-the-trig-ratios-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-trig-ratios-intro">http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-trig-ratios-intro</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/intro-to-the-trig-ratios-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/intro-to-the-trig-ratios-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-trig-ratios-intro">http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-trig-ratios-intro</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/intro-to-the-trig-ratios">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/intro-to-the-trig-ratios</a>
+# Title of topic (xc2cc797b) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to the trigonometric ratios"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/intro-to-the-trig-ratios-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/intro-to-the-trig-ratios-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-trig-ratios-intro">http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-trig-ratios-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/intro-to-the-trig-ratios-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/intro-to-the-trig-ratios-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-trig-ratios-intro">http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-trig-ratios-intro</a>
+# Description of topic (xc2cc797b) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn what sine, cosine, and tangent are."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/law-of-cosines-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/law-of-cosines-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-law-of-cosines">http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-law-of-cosines</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/law-of-cosines-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/law-of-cosines-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-law-of-cosines">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-law-of-cosines</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles/law-of-cosines">http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles/law-of-cosines</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about the Law of cosines and how to use it in order to find missing side lengths and angles in general triangles."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/law-of-cosines-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/law-of-cosines-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/law-of-cosines-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/law-of-cosines-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles/law-of-cosines">http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles/law-of-cosines</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The law of cosines"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/law-of-sines-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/law-of-sines-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-law-of-sines">http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-law-of-sines</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/law-of-sines-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/law-of-sines-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-law-of-sines">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-law-of-sines</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles/law-of-sines">http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles/law-of-sines</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about the Law of sines and how to use it in order to find missing side lengths and angles in general triangles."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/law-of-sines-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/law-of-sines-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/law-of-sines-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/law-of-sines-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles/law-of-sines">http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles/law-of-sines</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The law of sines"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/modeling-with-right-triangles-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/modeling-with-right-triangles-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-modeling-with-right-triangles">http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-modeling-with-right-triangles</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/modeling-with-right-triangles-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/modeling-with-right-triangles-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-modeling-with-right-triangles">http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-modeling-with-right-triangles</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/modeling-with-right-triangles">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/modeling-with-right-triangles</a>
+# Title of topic (x676c0aa8) on the pt stage
+# Title of topic (x7d78aab7) on the bg stage
+# Title of topic (x7d78aab7) on the pt stage
+# Title of topic (xf9ac641a) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Modeling with right triangles"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/modeling-with-right-triangles-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/modeling-with-right-triangles-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-modeling-with-right-triangles">http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-modeling-with-right-triangles</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/modeling-with-right-triangles-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/modeling-with-right-triangles-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-modeling-with-right-triangles">http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-modeling-with-right-triangles</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/modeling-with-right-triangles">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/modeling-with-right-triangles</a>
+# Description of topic (x676c0aa8) on the pt stage
+# Description of topic (x7d78aab7) on the bg stage
+# Description of topic (x7d78aab7) on the pt stage
+# Description of topic (xf9ac641a) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solve real-world problems that can be modeled by right triangles, using trigonometry."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/reciprocal-trig-ratios-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/reciprocal-trig-ratios-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios</a>
+# Title of topic (x8be384b2) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The reciprocal trigonometric ratios"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/reciprocal-trig-ratios-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/reciprocal-trig-ratios-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios</a>
+# Description of topic (x8be384b2) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about the remaining three side ratios in a right triangle: the secant, the cosecant, and the cotangent."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/sine-and-cosine-of-complementary-angles-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/sine-and-cosine-of-complementary-angles-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-complementary-angles">http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-complementary-angles</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/sine-and-cosine-of-complementary-angles-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/sine-and-cosine-of-complementary-angles-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-complementary-angles">http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-complementary-angles</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/sine-and-cosine-of-complementary-angles">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/sine-and-cosine-of-complementary-angles</a>
+# Description of topic (x2f79c533) on the bg stage
+# Description of topic (x2f79c533) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about the relationship between the sine of an angle and the cosine of its complementary angle, which is the angle that completes to 90°."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/sine-and-cosine-of-complementary-angles-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/sine-and-cosine-of-complementary-angles-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/sine-and-cosine-of-complementary-angles-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/sine-and-cosine-of-complementary-angles-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/sine-and-cosine-of-complementary-angles">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/sine-and-cosine-of-complementary-angles</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Sine and cosine of complementary angles"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/solving-general-triangles-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/solving-general-triangles-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-solving-general-triangles">http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-solving-general-triangles</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/solving-general-triangles-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/solving-general-triangles-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-solving-general-triangles">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-solving-general-triangles</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles/solving-general-triangles">http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles/solving-general-triangles</a>
+# Title of topic (x165bed41) on the pt stage
+# Title of topic (xba9ff3fb) on the bg stage
+# Title of topic (xba9ff3fb) on the pt stage
+# Title of topic (xc373f6f1) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving general triangles"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/solving-general-triangles-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/solving-general-triangles-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-solving-general-triangles">http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-solving-general-triangles</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/solving-general-triangles-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/solving-general-triangles-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-solving-general-triangles">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-solving-general-triangles</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles/solving-general-triangles">http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles/solving-general-triangles</a>
+# Description of topic (x165bed41) on the pt stage
+# Description of topic (xba9ff3fb) on the bg stage
+# Description of topic (xba9ff3fb) on the pt stage
+# Description of topic (xc373f6f1) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Use the power of trigonometry in order to solve various problems that involve triangles."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/trig-ratios-similarity-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/trig-ratios-similarity-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-trig-ratios-similarity">http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-trig-ratios-similarity</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/trig-ratios-similarity-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/trig-ratios-similarity-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-trig-ratios-similarity">http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-trig-ratios-similarity</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-ratios-similarity">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-ratios-similarity</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how the trigonometric ratios are derived from triangle similarity considerations."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/trig-ratios-similarity-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/trig-ratios-similarity-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/trig-ratios-similarity-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/trig-ratios-similarity-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-ratios-similarity">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-ratios-similarity</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Trigonometric ratios and similarity"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/trig-solve-for-a-side-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/trig-solve-for-a-side-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-solve-for-a-side">http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-solve-for-a-side</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/trig-solve-for-a-side-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/trig-solve-for-a-side-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-solve-for-a-side">http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-solve-for-a-side</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-solve-for-a-side">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-solve-for-a-side</a>
+# Title of topic (x69b8de29) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving for a side in a right triangle using the trigonometric ratios"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/trig-solve-for-a-side-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/trig-solve-for-a-side-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-solve-for-a-side">http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-solve-for-a-side</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/trig-solve-for-a-side-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/trig-solve-for-a-side-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-solve-for-a-side">http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-solve-for-a-side</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-solve-for-a-side">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-solve-for-a-side</a>
+# Description of topic (x69b8de29) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to find a side length in a right triangle when given one side length and one acute angle."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/trig-solve-for-an-angle-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/trig-solve-for-an-angle-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-solve-for-an-angle">http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-solve-for-an-angle</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/trig-solve-for-an-angle-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/trig-solve-for-an-angle-geo</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-solve-for-an-angle">http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-solve-for-an-angle</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-solve-for-an-angle">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-solve-for-an-angle</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving for an angle in a right triangle using the trigonometric ratios"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/trig-solve-for-an-angle-geo">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/trig-solve-for-an-angle-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-solve-for-an-angle">http://translate.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-solve-for-an-angle</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/geometry/right-triangles-topic/trig-solve-for-an-angle-geo">http://translate.khanacademy.org/math/geometry/right-triangles-topic/trig-solve-for-an-angle-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-solve-for-an-angle">http://translate.khanacademy.org/math/math2/math2-right-tri-trig/math2-solve-for-an-angle</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-solve-for-an-angle">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-solve-for-an-angle</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to find an acute angle in a right triangle when given two side lengths."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-unit-circle-definition-of-trig-functions">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-trigonometric-functions/copy-of-unit-circle-definition-of-trig-functions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/unit-circle-definition-of-trig-functions">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/unit-circle-definition-of-trig-functions</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about the ingenious way in which we define the trigonometric functions for any real number."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/complex-number-challenge">http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/complex-number-challenge</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x75e0e0fa) on the bg stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x75e0e0fa) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenging complex number problem"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers">http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Understanding i and the complex plane"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/limit-topic-precalc">http://translate.khanacademy.org/math/precalculus/limit-topic-precalc</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Preview of the calculus topic of limits"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/parametric-equations/polar-coor">http://translate.khanacademy.org/math/precalculus/parametric-equations/polar-coor</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Feel that Cartesian coordinates are too \"square\".  That they bias us towards lines and away from cool spirally things.  Well polar coordinates be just what you need!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/parametric-equations">http://translate.khanacademy.org/math/precalculus/parametric-equations</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Parametric equations and polar coordinates"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/parametric-equations">http://translate.khanacademy.org/math/precalculus/parametric-equations</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "An alternative to Cartesian coordinates."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/prob-comb/addition-rule-prob-precalc">http://translate.khanacademy.org/math/precalculus/prob-comb/addition-rule-prob-precalc</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Venn diagrams and the addition rule"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/prob-comb/dependent-events-precalc">http://translate.khanacademy.org/math/precalculus/prob-comb/dependent-events-precalc</a>
+# Title of topic (x2313d307) on the bg stage
+# Title of topic (x2313d307) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Dependent events"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/prob-comb">http://translate.khanacademy.org/math/precalculus/prob-comb</a>
+# Description of topic (x1af1e2a6) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Basics of probability and combinatorics"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction">http://translate.khanacademy.org/math/precalculus/seq-induction</a>
+# Title of topic (xef1dc391) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Sequences, series and induction"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction">http://translate.khanacademy.org/math/precalculus/seq-induction</a>
+# Description of topic (xef1dc391) on the hy stage
+# Description of topic (xef1dc391) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "An assortment of concepts in math that help us deal with sequences and proofs."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/trig-reference">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/trig-reference</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/using-trig-identities-precalc/a/trig-identity-reference">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/using-trig-identities-precalc/a/trig-identity-reference</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/trig-reference/a/trig-identity-reference">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/trig-reference/a/trig-identity-reference</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Trig identity reference"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/trig-reference">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/trig-reference</a>
+# Description of tutorial article <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/using-trig-identities-precalc/a/trig-identity-reference">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/using-trig-identities-precalc/a/trig-identity-reference</a>
+# Description of tutorial article <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/trig-reference/a/trig-identity-reference">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/trig-reference/a/trig-identity-reference</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+# (format: text)
+#: intl/datastore:1
+msgid "Look up AND understand all your favorite trig identities"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities</a>
+# Title of topic (x6c759222) on the hy stage
+# Title of topic (xb7335d47) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Trigonometric equations and identities"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities</a>
+# Description of topic (x6c759222) on the hy stage
+# Description of topic (xb7335d47) on the hy stage
+# Description of topic (xb7335d47) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to solve trigonometric equations and how to use trigonometric identities to solve various problems."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/challenge-trig-problems">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/challenge-trig-problems</a>
+# Title of topic (xced61f24) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Challenging trigonometry problems"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/challenge-trig-problems">http://translate.khanacademy.org/math/trigonometry/trig-equations-and-identities/challenge-trig-problems</a>
+# Description of topic (xced61f24) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "See Sal solve a bunch of very challenging geometry and algebra problems that involve trigonometry."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-function-graphs">http://translate.khanacademy.org/math/trigonometry/trig-function-graphs</a>
+# Description of topic (xb1166488) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to graph trigonometric functions and how to interpret those graphs. Learn how to construct trigonometric functions from their graphs or other features."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles">http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles</a>
+# Title of topic (x3f4bb451) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Trigonometry with general triangles"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles">http://translate.khanacademy.org/math/trigonometry/trig-with-general-triangles</a>
+# Description of topic (x3f4bb451) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to use trigonometry in order to find missing sides and angles in any triangle."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/intro-to-the-pythagorean-identity">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/intro-to-the-pythagorean-identity</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to the Pythagorean trigonometric identity"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/intro-to-the-pythagorean-identity">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/intro-to-the-pythagorean-identity</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about a very special trigonometric identity that follows from the Pythagorean theorem."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/intro-to-the-trig-ratios">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/intro-to-the-trig-ratios</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Meet your new best friends: sine, cosine, and tangent."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-ratios-special-triangles">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-ratios-special-triangles</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Trigonometric ratios of special triangles"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-ratios-special-triangles">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-ratios-special-triangles</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn to find the sine, cosine, and tangent of 45-45-90 triangles and also 30-60-90 triangles. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles</a>
+# Title of topic (x74f9f730) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Trigonometry with right triangles"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x74f9f730) on the hy stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Basic trigonometry"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles</a>
+# Description of topic (x74f9f730) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn the basics of trigonometry: What are sine, cosine, and tangent? How can we use them to solve for unknown sides and angles in right triangles?"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/long-live-tau">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/long-live-tau</a>
+# Title of topic (x215566f4) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Long live Tau"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/long-live-tau">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/long-live-tau</a>
+# Description of topic (x215566f4) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Watch videos by Sal and Vi that discuss the ongoing battle between the more popular Pi (π=3.14..) and its more qualified rival Tau (τ=6.28...)."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/unit-circle-definition-of-trig-functions">http://translate.khanacademy.org/math/trigonometry/unit-circle-trig-func/unit-circle-definition-of-trig-functions</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The unit circle definition of the trigonometric functions"
+msgstr ""
+
+# Exercise is at (xb80fe829) on the pt stage.
+# Exercise is at (xc686d33e) on the pt stage.
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/factoring-quadratics">https://www.khanacademy.org/tag/factoring-quadratics</a>
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Factoring quadratics"
+msgstr ""
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/hyperbolic-functions">https://www.khanacademy.org/tag/hyperbolic-functions</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Hyperbolic functions"
+msgstr ""
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/inverse-trig-functions">https://www.khanacademy.org/tag/inverse-trig-functions</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Inverse trig functions"
+msgstr ""
+
