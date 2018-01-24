@@ -1,0 +1,93 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:17+0000\n"
+"PO-Revision-Date: 2018-01-24 10:57-0500\n"
+"Language-Team: Chinese Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/4_low_priority/about.volunteer.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: zh_CN\n"
+
+# See text on <a href="http://www.khanacademy.org/contribute">http://www.khanacademy.org/contribute</a>
+#: templates/contribute.html:21
+msgid "Bring Khan Academy to the world"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/contribute">http://www.khanacademy.org/contribute</a>
+#: templates/contribute.html:23
+msgid "Help us translate our content into the world's languages."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/contribute">http://www.khanacademy.org/contribute</a>
+#: templates/contribute.html:26
+msgid "Apply to translate"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/contribute">http://www.khanacademy.org/contribute</a>
+#: templates/contribute.html:29
+msgid "Learn more about our <a href=\"http://international.khanacademy.org\">international initiatives</a>."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/contribute">http://www.khanacademy.org/contribute</a>
+#: templates/contribute.html:32
+msgid "Review Khan Academy's content"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/contribute">http://www.khanacademy.org/contribute</a>
+#: templates/contribute.html:34
+msgid "Help ensure our content is accurate and comprehensive."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/contribute">http://www.khanacademy.org/contribute</a>
+#: templates/contribute.html:37
+msgid "Apply to review"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/contribute">http://www.khanacademy.org/contribute</a>
+#: templates/contribute.html:58
+msgid "Together we can reinvent education on a global scale."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/contribute">http://www.khanacademy.org/contribute</a>
+#: templates/contribute.html:68
+msgid "More ways to help"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/contribute">http://www.khanacademy.org/contribute</a>
+#: templates/contribute.html:72
+msgid "Want to help? Here are different <a href=\"/r/domore\">ways to do more</a>."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/contribute">http://www.khanacademy.org/contribute</a>
+#: templates/contribute.html:75
+msgid "Khan Academy has received the time, energy, and expertise of many <a href=\"/contribute/credits\">volunteers and part-time contributors</a>."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/blog">http://www.khanacademy.org/about/blog</a>
+#: genfiles/compiled_jsx/en/javascript/page-package/footer.jsx.js:415 templates/about/viewblog.html:67
+msgid "Follow us on Twitter"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/about/blog">http://www.khanacademy.org/about/blog</a>
+#: templates/about/viewblog.html:64
+msgid "Join us on Facebook"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/contribute/credits">http://www.khanacademy.org/contribute/credits</a>
+#: templates/about/volunteer_credits.html:2 templates/about/volunteer_credits.html:13
+msgid "Our Contributors"
+msgstr ""
+
+#: genfiles/compiled_jsx/en/javascript/about-package/volunteer-credits.jsx.js:216
+msgid "Volunteers"
+msgstr ""
+
