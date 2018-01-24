@@ -1,0 +1,4538 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-30 11:19+0000\n"
+"PO-Revision-Date: 2018-01-24 10:58-0500\n"
+"Language-Team: Chinese Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/3_medium_priority/learn.math.linear-algebra.videos.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: zh_CN\n"
+
+# Title of video <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/v/intro-unit-vector-notation">http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/v/intro-unit-vector-notation</a>
+# Title of video <a href="http://translate.khanacademy.org/science/physics/two-dimensional-motion/two-dimensional-projectile-mot/v/unit-vector-notation">http://translate.khanacademy.org/science/physics/two-dimensional-motion/two-dimensional-projectile-mot/v/unit-vector-notation</a>
+# Title of video (25609) on the pl stage
+# Title of video (25609) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Unit vector notation"
+msgstr ""
+
+# Exercise is at (x9969d17a0fb54fd1) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/e/unit-vector">http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/e/unit-vector</a>
+# Pretty display name for exercise (x875a4b7a) on the pt stage
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/unit-vectors">https://www.khanacademy.org/tag/unit-vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-unit-vectors">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-unit-vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-unit-vectors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-unit-vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors">http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-unit-vectors">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-unit-vectors</a>
+# Title of topic (xe63530c2) on the lol stage
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/unit-vectors">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/unit-vectors</a>
+# Title of video <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/v/unit-vector-intro">http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/v/unit-vector-intro</a>
+# Title of video (25313) on the ja stage
+# Title of video (25313) on the pl stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Unit vectors"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-alternate-basis-tranformation-matrix-example-part-2">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-alternate-basis-tranformation-matrix-example-part-2</a>
+# Title of video (25437) on the ja stage
+# Title of video (25437) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Alternate basis transformation matrix example part 2"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-alternate-basis-tranformation-matrix-example-part-2">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-alternate-basis-tranformation-matrix-example-part-2</a>
+# Description of video (25437) on the ja stage
+# Description of video (25437) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that the transformation matrix with respect to basis B actually works.  Brief point on why someone would want to operate in a different basis to begin with."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-alternate-basis-tranformation-matrix-example">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-alternate-basis-tranformation-matrix-example</a>
+# Title of video (25435) on the ja stage
+# Title of video (25435) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Alternate basis transformation matrix example"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-alternate-basis-tranformation-matrix-example">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-alternate-basis-tranformation-matrix-example</a>
+# Description of video (25435) on the ja stage
+# Description of video (25435) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Example of finding the transformation matrix for an alternate basis"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-changing-coordinate-systems-to-help-find-a-transformation-matrix">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-changing-coordinate-systems-to-help-find-a-transformation-matrix</a>
+# Title of video (25439) on the ja stage
+# Title of video (25439) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Changing coordinate systems to help find a transformation matrix"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-changing-coordinate-systems-to-help-find-a-transformation-matrix">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-changing-coordinate-systems-to-help-find-a-transformation-matrix</a>
+# Description of video (25439) on the ja stage
+# Description of video (25439) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Changing our coordinate system to find the transformation matrix with respect to standard coordinates"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-invertible-change-of-basis-matrix">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-invertible-change-of-basis-matrix</a>
+# Title of video (25431) on the ja stage
+# Title of video (25431) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Invertible change of basis matrix"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-invertible-change-of-basis-matrix">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-invertible-change-of-basis-matrix</a>
+# Description of video (25431) on the ja stage
+# Description of video (25431) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Using an invertible change of basis matrix to go between different coordinate systems"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-transformation-matrix-with-respect-to-a-basis">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-transformation-matrix-with-respect-to-a-basis</a>
+# Title of video (25433) on the ja stage
+# Title of video (25433) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Transformation matrix with respect to a basis"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-transformation-matrix-with-respect-to-a-basis">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/lin-alg-transformation-matrix-with-respect-to-a-basis</a>
+# Description of video (25433) on the ja stage
+# Description of video (25433) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Finding the transformation matrix with respect to a non-standard basis"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/linear-algebra-change-of-basis-matrix">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/linear-algebra-change-of-basis-matrix</a>
+# Title of video (25429) on the ja stage
+# Title of video (25429) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Change of basis matrix"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/linear-algebra-change-of-basis-matrix">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/linear-algebra-change-of-basis-matrix</a>
+# Description of video (25429) on the ja stage
+# Description of video (25429) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Using a change of basis matrix to get us from one coordinate system to another."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/linear-algebra-coordinates-with-respect-to-a-basis">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/linear-algebra-coordinates-with-respect-to-a-basis</a>
+# Title of video (25427) on the ja stage
+# Title of video (25427) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Coordinates with respect to a basis"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/linear-algebra-coordinates-with-respect-to-a-basis">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis/v/linear-algebra-coordinates-with-respect-to-a-basis</a>
+# Description of video (25427) on the ja stage
+# Description of video (25427) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Understanding alternate coordinate systems"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-eigenvalues-of-a-3x3-matrix">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-eigenvalues-of-a-3x3-matrix</a>
+# Title of video (25467) on the ja stage
+# Title of video (25467) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Eigenvalues of a 3x3 matrix"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-eigenvalues-of-a-3x3-matrix">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-eigenvalues-of-a-3x3-matrix</a>
+# Description of video (25467) on the ja stage
+# Description of video (25467) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Determining the eigenvalues of a 3x3 matrix"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-eigenvectors-and-eigenspaces-for-a-3x3-matrix">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-eigenvectors-and-eigenspaces-for-a-3x3-matrix</a>
+# Title of video (25469) on the ja stage
+# Title of video (25469) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Eigenvectors and eigenspaces for a 3x3 matrix"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-example-solving-for-the-eigenvalues-of-a-2x2-matrix">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-example-solving-for-the-eigenvalues-of-a-2x2-matrix</a>
+# Title of video (25463) on the ja stage
+# Title of video (25463) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Example solving for the eigenvalues of a 2x2 matrix"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-finding-eigenvectors-and-eigenspaces-example">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-finding-eigenvectors-and-eigenspaces-example</a>
+# Title of video (25465) on the ja stage
+# Title of video (25465) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding eigenvectors and eigenspaces example"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-finding-eigenvectors-and-eigenspaces-example">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-finding-eigenvectors-and-eigenspaces-example</a>
+# Description of video (25465) on the ja stage
+# Description of video (25465) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Finding the eigenvectors and eigenspaces of a 2x2 matrix"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors</a>
+# Title of video (25459) on the ja stage
+# Title of video (25459) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to eigenvalues and eigenvectors"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-introduction-to-eigenvalues-and-eigenvectors</a>
+# Description of video (25459) on the ja stage
+# Description of video (25459) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "What eigenvectors and eigenvalues are and why they are interesting"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-proof-of-formula-for-determining-eigenvalues">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-proof-of-formula-for-determining-eigenvalues</a>
+# Title of video (25461) on the ja stage
+# Title of video (25461) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Proof of formula for determining eigenvalues"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-proof-of-formula-for-determining-eigenvalues">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-proof-of-formula-for-determining-eigenvalues</a>
+# Description of video (25461) on the ja stage
+# Description of video (25461) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Proof of formula for determining Eigenvalues"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-showing-that-an-eigenbasis-makes-for-good-coordinate-systems">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything/v/linear-algebra-showing-that-an-eigenbasis-makes-for-good-coordinate-systems</a>
+# Title of video (25471) on the ja stage
+# Title of video (25471) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Showing that an eigenbasis makes for good coordinate systems"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/lin-alg-a-projection-onto-a-subspace-is-a-linear-transforma">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/lin-alg-a-projection-onto-a-subspace-is-a-linear-transforma</a>
+# Title of video (25413) on the ja stage
+# Title of video (25413) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A projection onto a subspace is a linear transformation"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/lin-alg-a-projection-onto-a-subspace-is-a-linear-transforma">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/lin-alg-a-projection-onto-a-subspace-is-a-linear-transforma</a>
+# Description of video (25413) on the ja stage
+# Description of video (25413) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that a  projection onto a subspace is a linear transformation"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/lin-alg-another-example-of-a-projection-matrix">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/lin-alg-another-example-of-a-projection-matrix</a>
+# Title of video (25417) on the ja stage
+# Title of video (25417) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Another example of a projection matrix"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/lin-alg-another-example-of-a-projection-matrix">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/lin-alg-another-example-of-a-projection-matrix</a>
+# Description of video (25417) on the ja stage
+# Description of video (25417) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Figuring out the transformation matrix for a projection onto a subspace by figuring out the matrix for the projection onto the subspace's orthogonal complement first"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-alg-projection-is-closest-vector-in-subspace">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-alg-projection-is-closest-vector-in-subspace</a>
+# Title of video (25419) on the ja stage
+# Title of video (25419) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Projection is closest vector in subspace"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-alg-projection-is-closest-vector-in-subspace">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-alg-projection-is-closest-vector-in-subspace</a>
+# Description of video (25419) on the ja stage
+# Description of video (25419) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that the projection of x onto a subspace is the closest vector in the subspace to x"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-alg-visualizing-a-projection-onto-a-plane">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-alg-visualizing-a-projection-onto-a-plane</a>
+# Title of video (25411) on the ja stage
+# Title of video (25411) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Visualizing a projection onto a plane"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-alg-visualizing-a-projection-onto-a-plane">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-alg-visualizing-a-projection-onto-a-plane</a>
+# Description of video (25411) on the ja stage
+# Description of video (25411) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Visualizing a projection onto a plane.  Showing that the old and new definitions of projections aren't that different."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-another-least-squares-example">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-another-least-squares-example</a>
+# Title of video (25425) on the ja stage
+# Title of video (25425) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Another least squares example"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-another-least-squares-example">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-another-least-squares-example</a>
+# Description of video (25425) on the ja stage
+# Description of video (25425) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Using least squares approximation to fit a line to points"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-least-squares-approximation">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-least-squares-approximation</a>
+# Title of video (25421) on the ja stage
+# Title of video (25421) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Least squares approximation"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-least-squares-approximation">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-least-squares-approximation</a>
+# Description of video (25421) on the ja stage
+# Description of video (25421) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "The least squares approximation for otherwise unsolvable equations"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-least-squares-examples">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-least-squares-examples</a>
+# Title of video (25423) on the ja stage
+# Title of video (25423) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Least squares examples"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-least-squares-examples">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-least-squares-examples</a>
+# Description of video (25423) on the ja stage
+# Description of video (25423) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "An example using the least squares solution to an unsolvable system"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-projections-onto-subspaces">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-projections-onto-subspaces</a>
+# Title of video (25409) on the ja stage
+# Title of video (25409) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Projections onto subspaces"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-subspace-projection-matrix-example">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-subspace-projection-matrix-example</a>
+# Title of video (25415) on the ja stage
+# Title of video (25415) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Subspace projection matrix example"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-subspace-projection-matrix-example">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections/v/linear-algebra-subspace-projection-matrix-example</a>
+# Description of video (25415) on the ja stage
+# Description of video (25415) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Example of a transformation matrix for a projection onto a subspace"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-example-using-orthogonal-change-of-basis-matrix-to-find-transformation-matrix">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-example-using-orthogonal-change-of-basis-matrix-to-find-transformation-matrix</a>
+# Title of video (25449) on the ja stage
+# Title of video (25449) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Example using orthogonal change-of-basis matrix to find transformation matrix"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-finding-projection-onto-subspace-with-orthonormal-basis-example">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-finding-projection-onto-subspace-with-orthonormal-basis-example</a>
+# Title of video (25447) on the ja stage
+# Title of video (25447) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding projection onto subspace with orthonormal basis example"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-finding-projection-onto-subspace-with-orthonormal-basis-example">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-finding-projection-onto-subspace-with-orthonormal-basis-example</a>
+# Description of video (25447) on the ja stage
+# Description of video (25447) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Example of finding the transformation matrix for the projection onto a subspace with an orthonormal basis"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-orthogonal-matrices-preserve-angles-and-lengths">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-orthogonal-matrices-preserve-angles-and-lengths</a>
+# Title of video (25451) on the ja stage
+# Title of video (25451) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Orthogonal matrices preserve angles and lengths"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-orthogonal-matrices-preserve-angles-and-lengths">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-orthogonal-matrices-preserve-angles-and-lengths</a>
+# Description of video (25451) on the ja stage
+# Description of video (25451) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that orthogonal matrices preserve angles and lengths"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-projections-onto-subspaces-with-orthonormal-bases">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/lin-alg-projections-onto-subspaces-with-orthonormal-bases</a>
+# Title of video (25445) on the ja stage
+# Title of video (25445) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Projections onto subspaces with orthonormal bases"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-coordinates-with-respect-to-orthonormal-bases">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-coordinates-with-respect-to-orthonormal-bases</a>
+# Title of video (25443) on the ja stage
+# Title of video (25443) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Coordinates with respect to orthonormal bases"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-coordinates-with-respect-to-orthonormal-bases">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-coordinates-with-respect-to-orthonormal-bases</a>
+# Description of video (25443) on the ja stage
+# Description of video (25443) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Seeing that orthonormal bases make for good coordinate systems"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-gram-schmidt-example-with-3-basis-vectors">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-gram-schmidt-example-with-3-basis-vectors</a>
+# Title of video (25457) on the ja stage
+# Title of video (25457) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Gram-Schmidt example with 3 basis vectors"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-gram-schmidt-process-example">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-gram-schmidt-process-example</a>
+# Title of video (25455) on the ja stage
+# Title of video (25455) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Gram-Schmidt process example"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-gram-schmidt-process-example">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-gram-schmidt-process-example</a>
+# Description of video (25455) on the ja stage
+# Description of video (25455) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Using Gram-Schmidt to find an orthonormal basis for a plane in R3"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-introduction-to-orthonormal-bases">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-introduction-to-orthonormal-bases</a>
+# Title of video (25441) on the ja stage
+# Title of video (25441) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to orthonormal bases"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-introduction-to-orthonormal-bases">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-introduction-to-orthonormal-bases</a>
+# Description of video (25441) on the ja stage
+# Description of video (25441) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Looking at sets and bases that are orthonormal -- or where all the vectors have length 1 and are orthogonal to each other."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-the-gram-schmidt-process">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-the-gram-schmidt-process</a>
+# Title of video (25453) on the ja stage
+# Title of video (25453) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The Gram-Schmidt process"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-the-gram-schmidt-process">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis/v/linear-algebra-the-gram-schmidt-process</a>
+# Description of video (25453) on the ja stage
+# Description of video (25453) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Finding an orthonormal basis for a subspace using the Gram-Schmidt Process"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-orthogonal-complement-of-the-nullspace">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-orthogonal-complement-of-the-nullspace</a>
+# Title of video (25401) on the ja stage
+# Title of video (25401) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Orthogonal complement of the nullspace"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-orthogonal-complement-of-the-nullspace">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-orthogonal-complement-of-the-nullspace</a>
+# Description of video (25401) on the ja stage
+# Description of video (25401) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "The orthogonal complement of the nullspace and left nullspace."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-orthogonal-complement-of-the-orthogonal-complement">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-orthogonal-complement-of-the-orthogonal-complement</a>
+# Title of video (25399) on the ja stage
+# Title of video (25399) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Orthogonal complement of the orthogonal complement"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-orthogonal-complement-of-the-orthogonal-complement">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-orthogonal-complement-of-the-orthogonal-complement</a>
+# Description of video (25399) on the ja stage
+# Description of video (25399) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Finding that the orthogonal complement of the orthogonal complement of V is V"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-representing-vectors-in-rn-using-subspace-members">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-representing-vectors-in-rn-using-subspace-members</a>
+# Title of video (25397) on the ja stage
+# Title of video (25397) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Representing vectors in rn using subspace members"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-representing-vectors-in-rn-using-subspace-members">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-representing-vectors-in-rn-using-subspace-members</a>
+# Description of video (25397) on the ja stage
+# Description of video (25397) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that any member of Rn can be represented as a unique sum of a vector in subspace V and a vector in the orthogonal complement of V."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-unique-rowspace-solution-to-ax-b">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-unique-rowspace-solution-to-ax-b</a>
+# Title of video (25403) on the ja stage
+# Title of video (25403) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Unique rowspace solution to Ax = b"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-unique-rowspace-solution-to-ax-b">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/lin-alg-unique-rowspace-solution-to-ax-b</a>
+# Description of video (25403) on the ja stage
+# Description of video (25403) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that, for any b that is in the column space of A, there is a unique member of the row space that is the \"smallest\" solution to Ax=b"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/linear-alg-rowspace-solution-to-ax-b-example">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/linear-alg-rowspace-solution-to-ax-b-example</a>
+# Title of video (25405) on the ja stage
+# Title of video (25405) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Rowspace solution to Ax = b example"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/linear-alg-rowspace-solution-to-ax-b-example">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/linear-alg-rowspace-solution-to-ax-b-example</a>
+# Description of video (25405) on the ja stage
+# Description of video (25405) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Visualizing the rowspace solution to Ax=b"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/linear-algebra-dim-v-dim-orthogonal-complement-of-v-n">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/linear-algebra-dim-v-dim-orthogonal-complement-of-v-n</a>
+# Title of video (25395) on the ja stage
+# Title of video (25395) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "dim(v) + dim(orthogonal complement of v) = n"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/linear-algebra-dim-v-dim-orthogonal-complement-of-v-n">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/linear-algebra-dim-v-dim-orthogonal-complement-of-v-n</a>
+# Description of video (25395) on the ja stage
+# Description of video (25395) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that if V is a subspace of Rn, then dim(V) + dim(V's orthogonal complement) = n"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/linear-algebra-orthogonal-complements">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/linear-algebra-orthogonal-complements</a>
+# Description of video (25391) on the ja stage
+# Description of video (25391) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Orthogonal Complements as subspaces."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/eola-chapter-1">http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/eola-chapter-1</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Chapter 1: Vectors, what even are they?"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/eola-chapter-1">http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/eola-chapter-1</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "I imagine many viewers are already familiar with vectors in some context, so this video is intended both as a quick review of vector terminology, as well as a chance to make sure we&#39;re all on the same page about how specifically to think about vectors in the context of linear algebra."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/eola-chapter-2">http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/eola-chapter-2</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Chapter 2: Linear combinations, span, and bases"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/eola-chapter-2">http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/eola-chapter-2</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "The fundamental vector concepts of span, linear combinations, linear dependence and bases all center on one surprisingly important operation: Scaling several vectors and adding them together."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/eola-preview">http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/eola-preview</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Essence of linear algebra preview"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/eola-preview">http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/eola-preview</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "This introduces the &quot;Essence of linear algebra&quot; series, aimed at animating the geometric intuitions underlying many of the topics taught in a standard linear algebra course."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/essence-of-linear-algebra-chapter-3">http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/essence-of-linear-algebra-chapter-3</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Chapter 3: Linear transformations and matrices"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/essence-of-linear-algebra-chapter-3">http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola/v/essence-of-linear-algebra-chapter-3</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "Matrices can be thought of as transforming space, and understanding how this work is crucial for understanding many other ideas that follow in linear algebra."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/compositions-of-linear-transformations-1">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/compositions-of-linear-transformations-1</a>
+# Title of video (25319) on the ja stage
+# Title of video (25319) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Compositions of linear transformations 1"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/compositions-of-linear-transformations-1">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/compositions-of-linear-transformations-1</a>
+# Description of video (25319) on the ja stage
+# Description of video (25319) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to compositions of Linear Transformations"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/compositions-of-linear-transformations-2">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/compositions-of-linear-transformations-2</a>
+# Title of video (25321) on the ja stage
+# Title of video (25321) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Compositions of linear transformations 2"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/compositions-of-linear-transformations-2">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/compositions-of-linear-transformations-2</a>
+# Description of video (25321) on the ja stage
+# Description of video (25321) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Providing the motivation for definition of matrix products"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/distributive-property-of-matrix-products">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/distributive-property-of-matrix-products</a>
+# Title of video (25327) on the ja stage
+# Title of video (25327) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Distributive property of matrix products"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/distributive-property-of-matrix-products">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/distributive-property-of-matrix-products</a>
+# Description of video (25327) on the ja stage
+# Description of video (25327) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that matrix products exhibit the distributive property"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/linear-algebra-matrix-product-examples">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/linear-algebra-matrix-product-examples</a>
+# Title of video (25323) on the ja stage
+# Title of video (25323) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Matrix product examples"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/linear-algebra-matrix-product-examples">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/linear-algebra-matrix-product-examples</a>
+# Description of video (25323) on the ja stage
+# Description of video (25323) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Example of taking the product of two matrices"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/matrix-product-associativity">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/matrix-product-associativity</a>
+# Title of video (25325) on the ja stage
+# Title of video (25325) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Matrix product associativity"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/matrix-product-associativity">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations/v/matrix-product-associativity</a>
+# Description of video (25325) on the ja stage
+# Description of video (25325) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that matrix products are associative"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-correction-scalar-muliplication-of-row">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-correction-scalar-muliplication-of-row</a>
+# Title of video (25363) on the ja stage
+# Title of video (25363) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "(correction) scalar multiplication of row"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-correction-scalar-muliplication-of-row">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-correction-scalar-muliplication-of-row</a>
+# Description of video (25363) on the ja stage
+# Description of video (25363) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Correction of last video showing that the determinant when one row is multiplied by a scalar is equal to the scalar times the determinant"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-after-row-operations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-after-row-operations</a>
+# Title of video (25369) on the ja stage
+# Title of video (25369) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determinant after row operations"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-after-row-operations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-after-row-operations</a>
+# Description of video (25369) on the ja stage
+# Description of video (25369) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "What happens to the determinant when we perform a row operation"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-and-area-of-a-parallelogram">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-and-area-of-a-parallelogram</a>
+# Title of video (25375) on the ja stage
+# Title of video (25375) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determinant and area of a parallelogram"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-and-area-of-a-parallelogram">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-and-area-of-a-parallelogram</a>
+# Description of video (25375) on the ja stage
+# Description of video (25375) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Realizing that the determinant of a 2x2 matrix is equal to the area of the parallelogram defined by the column vectors of the matrix"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-as-scaling-factor">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-as-scaling-factor</a>
+# Title of video (25377) on the ja stage
+# Title of video (25377) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determinant as scaling factor"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-as-scaling-factor">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-as-scaling-factor</a>
+# Description of video (25377) on the ja stage
+# Description of video (25377) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Viewing the determinant of the transformation matrix as a scaling factor of regions"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-when-row-is-added">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-when-row-is-added</a>
+# Title of video (25365) on the ja stage
+# Title of video (25365) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determinant when row is added"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-when-row-is-added">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-when-row-is-added</a>
+# Description of video (25365) on the ja stage
+# Description of video (25365) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "The determinant when one matrix has a row that is the sum of the rows of other matrices (and every other term is identical in the 3 matrices)"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-when-row-multiplied-by-scalar">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-when-row-multiplied-by-scalar</a>
+# Title of video (25361) on the ja stage
+# Title of video (25361) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determinant when row multiplied by scalar"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-when-row-multiplied-by-scalar">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-determinant-when-row-multiplied-by-scalar</a>
+# Description of video (25361) on the ja stage
+# Description of video (25361) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "The determinant when a row is multiplied by a scalar"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-duplicate-row-determinant">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-duplicate-row-determinant</a>
+# Title of video (25367) on the ja stage
+# Title of video (25367) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Duplicate row determinant"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-duplicate-row-determinant">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-duplicate-row-determinant</a>
+# Description of video (25367) on the ja stage
+# Description of video (25367) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Determinant of a matrix with duplicate rows"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-simpler-4x4-determinant">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-simpler-4x4-determinant</a>
+# Title of video (25373) on the ja stage
+# Title of video (25373) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Simpler 4x4 determinant"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-simpler-4x4-determinant">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-simpler-4x4-determinant</a>
+# Description of video (25373) on the ja stage
+# Description of video (25373) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Calculating a 4x4 determinant by putting in in upper triangular form first."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-upper-triangular-determinant">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-upper-triangular-determinant</a>
+# Title of video (25371) on the ja stage
+# Title of video (25371) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Upper triangular determinant"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-upper-triangular-determinant">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth/v/linear-algebra-upper-triangular-determinant</a>
+# Description of video (25371) on the ja stage
+# Description of video (25371) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "The determinant of an upper triangular matrix"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-3x3-determinant">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-3x3-determinant</a>
+# Title of video (25353) on the ja stage
+# Title of video (25353) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3 x 3 determinant"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-3x3-determinant">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-3x3-determinant</a>
+# Description of video (25353) on the ja stage
+# Description of video (25353) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Determinants: Finding the determinant of a 3x3 matrix"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-deriving-a-method-for-determining-inverses">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-deriving-a-method-for-determining-inverses</a>
+# Title of video (25347) on the ja stage
+# Title of video (25347) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Deriving a method for determining inverses"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-deriving-a-method-for-determining-inverses">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-deriving-a-method-for-determining-inverses</a>
+# Description of video (25347) on the ja stage
+# Description of video (25347) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Determining a method for constructing inverse transformation matrices"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-determinants-along-other-rows-cols">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-determinants-along-other-rows-cols</a>
+# Title of video (25357) on the ja stage
+# Title of video (25357) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determinants along other rows/cols"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-determinants-along-other-rows-cols">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-determinants-along-other-rows-cols</a>
+# Description of video (25357) on the ja stage
+# Description of video (25357) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Finding the determinant by going along other rows or columns"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-example-of-finding-matrix-inverse">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-example-of-finding-matrix-inverse</a>
+# Title of video (25349) on the ja stage
+# Title of video (25349) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Example of finding matrix inverse"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-example-of-finding-matrix-inverse">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-example-of-finding-matrix-inverse</a>
+# Description of video (25349) on the ja stage
+# Description of video (25349) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Example of calculating the inverse of a matrix"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-formula-for-2x2-inverse">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-formula-for-2x2-inverse</a>
+# Title of video (25351) on the ja stage
+# Title of video (25351) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Formula for 2x2 inverse"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-formula-for-2x2-inverse">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-formula-for-2x2-inverse</a>
+# Description of video (25351) on the ja stage
+# Description of video (25351) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Figuring out the formula for a 2x2 matrix. Defining the determinant."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-formula-for-2x2-inverse">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-formula-for-2x2-inverse</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "Figuring out the formula for a 2x2 matrix.  Defining the determinant."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-nxn-determinant">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-nxn-determinant</a>
+# Title of video (25355) on the ja stage
+# Title of video (25355) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "n x n determinant"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-nxn-determinant">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-nxn-determinant</a>
+# Description of video (25355) on the ja stage
+# Description of video (25355) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Defining the determinant for nxn matrices. An exampled of a 4x4 determinant."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-nxn-determinant">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-nxn-determinant</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "Defining the determinant for nxn matrices.  An exampled of a 4x4 determinant."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-rule-of-sarrus-of-determinants">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-rule-of-sarrus-of-determinants</a>
+# Title of video (25359) on the ja stage
+# Title of video (25359) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Rule of Sarrus of determinants"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-rule-of-sarrus-of-determinants">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-rule-of-sarrus-of-determinants</a>
+# Description of video (25359) on the ja stage
+# Description of video (25359) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "A alternative &quot;short cut&quot; for calculating 3x3 determinants (Rule of Sarrus)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-rule-of-sarrus-of-determinants">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices/v/linear-algebra-rule-of-sarrus-of-determinants</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "A alternative \"short cut\" for calculating 3x3 determinants (Rule of Sarrus)"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/determining-whether-a-transformation-is-onto">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/determining-whether-a-transformation-is-onto</a>
+# Title of video (25337) on the ja stage
+# Title of video (25337) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determining whether a transformation is onto"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-exploring-the-solution-set-of-ax-b">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-exploring-the-solution-set-of-ax-b</a>
+# Title of video (25339) on the ja stage
+# Title of video (25339) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Exploring the solution set of Ax = b"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-exploring-the-solution-set-of-ax-b">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-exploring-the-solution-set-of-ax-b</a>
+# Description of video (25339) on the ja stage
+# Description of video (25339) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Exploring the solution set of Ax=b (non homogeneous equations)"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-matrix-condition-for-one-to-one-trans">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-matrix-condition-for-one-to-one-trans</a>
+# Title of video (25341) on the ja stage
+# Title of video (25341) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Matrix condition for one-to-one transformation"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-matrix-condition-for-one-to-one-trans">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-matrix-condition-for-one-to-one-trans</a>
+# Description of video (25341) on the ja stage
+# Description of video (25341) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that the rank of the of an mxn transformation matrix has to be n for the transformation to be one-to-one (injective)"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-showing-that-inverses-are-linear">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-showing-that-inverses-are-linear</a>
+# Title of video (25345) on the ja stage
+# Title of video (25345) on the pl stage
+# Title of video (25345) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Showing that inverses are linear"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-showing-that-inverses-are-linear">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-showing-that-inverses-are-linear</a>
+# Description of video (25345) on the ja stage
+# Description of video (25345) on the pl stage
+# Description of video (25345) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that inverse transformations are also linear"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-simplifying-conditions-for-invertibility">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-simplifying-conditions-for-invertibility</a>
+# Title of video (25343) on the ja stage
+# Title of video (25343) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Simplifying conditions for invertibility"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-simplifying-conditions-for-invertibility">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/linear-algebra-simplifying-conditions-for-invertibility</a>
+# Description of video (25343) on the ja stage
+# Description of video (25343) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that a transformation is invertible if and only if  rref(A) is equal to the identity matrix"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/proof-invertibility-implies-a-unique-solution-to-f-x-y">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/proof-invertibility-implies-a-unique-solution-to-f-x-y</a>
+# Title of video (25331) on the ja stage
+# Title of video (25331) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Proof: Invertibility implies a unique solution to f(x)=y"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/proof-invertibility-implies-a-unique-solution-to-f-x-y">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/proof-invertibility-implies-a-unique-solution-to-f-x-y</a>
+# Description of video (25331) on the ja stage
+# Description of video (25331) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Proof: Invertibility implies a unique solution to f(x)=y for all y in co-domain of f."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/relating-invertibility-to-being-onto-and-one-to-one">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/relating-invertibility-to-being-onto-and-one-to-one</a>
+# Title of video (25335) on the ja stage
+# Title of video (25335) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Relating invertibility to being onto and one-to-one"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/relating-invertibility-to-being-onto-and-one-to-one">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/relating-invertibility-to-being-onto-and-one-to-one</a>
+# Description of video (25335) on the ja stage
+# Description of video (25335) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Relating invertibility to being onto (surjective) and one-to-one (injective)"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/surjective-onto-and-injective-one-to-one-functions">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/surjective-onto-and-injective-one-to-one-functions</a>
+# Title of video (25333) on the ja stage
+# Title of video (25333) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Surjective (onto) and injective (one-to-one) functions"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/surjective-onto-and-injective-one-to-one-functions">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations/v/surjective-onto-and-injective-one-to-one-functions</a>
+# Description of video (25333) on the ja stage
+# Description of video (25333) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to surjective and injective functions"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/expressing-a-projection-on-to-a-line-as-a-matrix-vector-prod">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/expressing-a-projection-on-to-a-line-as-a-matrix-vector-prod</a>
+# Title of video (25317) on the ja stage
+# Title of video (25317) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Expressing a projection on to a line as a matrix vector prod"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/expressing-a-projection-on-to-a-line-as-a-matrix-vector-prod">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/expressing-a-projection-on-to-a-line-as-a-matrix-vector-prod</a>
+# Description of video (25317) on the ja stage
+# Description of video (25317) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Expressing a Projection on to a line as a Matrix Vector prod"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/introduction-to-projections">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/introduction-to-projections</a>
+# Title of video (25315) on the ja stage
+# Title of video (25315) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to projections"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/introduction-to-projections">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/introduction-to-projections</a>
+# Description of video (25315) on the ja stage
+# Description of video (25315) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Determining the projection of a vector on s line"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/linear-transformation-examples-rotations-in-r2">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/linear-transformation-examples-rotations-in-r2</a>
+# Title of video (25309) on the ja stage
+# Title of video (25309) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear transformation examples: Rotations in R2"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/linear-transformation-examples-rotations-in-r2">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/linear-transformation-examples-rotations-in-r2</a>
+# Description of video (25309) on the ja stage
+# Description of video (25309) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Linear Transformation Examples: Rotations in R2"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/linear-transformation-examples-scaling-and-reflections">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/linear-transformation-examples-scaling-and-reflections</a>
+# Title of video (25307) on the ja stage
+# Title of video (25307) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear transformation examples: Scaling and reflections"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/linear-transformation-examples-scaling-and-reflections">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/linear-transformation-examples-scaling-and-reflections</a>
+# Description of video (25307) on the ja stage
+# Description of video (25307) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Creating scaling and reflection transformation matrices (which are diagonal)"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/rotation-in-r3-around-the-x-axis">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/rotation-in-r3-around-the-x-axis</a>
+# Title of video (25311) on the ja stage
+# Title of video (25311) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Rotation in R3 around the x-axis"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/rotation-in-r3-around-the-x-axis">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/rotation-in-r3-around-the-x-axis</a>
+# Description of video (25311) on the ja stage
+# Description of video (25311) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Construction a rotation transformation in R3"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/unit-vectors">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples/v/unit-vectors</a>
+# Description of video (25313) on the ja stage
+# Description of video (25313) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "What unit vectors are and how to construct them"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/im-t-image-of-a-transformation">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/im-t-image-of-a-transformation</a>
+# Title of video (25297) on the ja stage
+# Title of video (25297) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "im(T): Image of a transformation"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/im-t-image-of-a-transformation">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/im-t-image-of-a-transformation</a>
+# Description of video (25297) on the ja stage
+# Description of video (25297) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that the image of a subspace under a transformation is also a subspace.  Definition of the image of a Transformation."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/image-of-a-subset-under-a-transformation">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/image-of-a-subset-under-a-transformation</a>
+# Title of video (25295) on the ja stage
+# Title of video (25295) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Image of a subset under a transformation"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/image-of-a-subset-under-a-transformation">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/image-of-a-subset-under-a-transformation</a>
+# Description of video (25295) on the ja stage
+# Description of video (25295) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Exploring what happens to a subset of the domain under a transformation"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/linear-transformations-as-matrix-vector-products">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/linear-transformations-as-matrix-vector-products</a>
+# Title of video (25293) on the ja stage
+# Title of video (25293) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear transformations as matrix vector products"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/linear-transformations-as-matrix-vector-products">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/linear-transformations-as-matrix-vector-products</a>
+# Description of video (25293) on the ja stage
+# Description of video (25293) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing how ANY linear transformation can be represented as a matrix vector product"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/linear-transformations</a>
+# Title of video (25289) on the ja stage
+# Title of video (25289) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear transformations"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/linear-transformations</a>
+# Description of video (25289) on the ja stage
+# Description of video (25289) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to linear transformations"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/matrix-vector-products-as-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/matrix-vector-products-as-linear-transformations</a>
+# Title of video (25291) on the ja stage
+# Title of video (25291) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Matrix vector products as linear transformations"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/matrix-vector-products-as-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/matrix-vector-products-as-linear-transformations</a>
+# Description of video (25291) on the ja stage
+# Description of video (25291) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Matrix Vector Products as Linear Transformations"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/more-on-matrix-addition-and-scalar-multiplication">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/more-on-matrix-addition-and-scalar-multiplication</a>
+# Title of video (25305) on the ja stage
+# Title of video (25305) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "More on matrix addition and scalar multiplication"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/more-on-matrix-addition-and-scalar-multiplication">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/more-on-matrix-addition-and-scalar-multiplication</a>
+# Description of video (25305) on the ja stage
+# Description of video (25305) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "More on Matrix Addition and Scalar Multiplication"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/preimage-and-kernel-example">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/preimage-and-kernel-example</a>
+# Title of video (25301) on the ja stage
+# Title of video (25301) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Preimage and kernel example"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/preimage-and-kernel-example">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/preimage-and-kernel-example</a>
+# Description of video (25301) on the ja stage
+# Description of video (25301) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Example involving the preimage of a set under a transformation.  Definition of kernel of a transformation."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/preimage-of-a-set">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/preimage-of-a-set</a>
+# Title of video (25299) on the ja stage
+# Title of video (25299) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Preimage of a set"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/preimage-of-a-set">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/preimage-of-a-set</a>
+# Description of video (25299) on the ja stage
+# Description of video (25299) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Definition of preimage of a set"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/sums-and-scalar-multiples-of-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/sums-and-scalar-multiples-of-linear-transformations</a>
+# Title of video (25303) on the ja stage
+# Title of video (25303) on the pl stage
+# Title of video (25303) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Sums and scalar multiples of linear transformations"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/sums-and-scalar-multiples-of-linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/sums-and-scalar-multiples-of-linear-transformations</a>
+# Description of video (25303) on the ja stage
+# Description of video (25303) on the pl stage
+# Description of video (25303) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Sums and Scalar Multiples of Linear Transformations.  Definitions of matrix addition and scalar multiplication."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/vector-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/vector-transformations</a>
+# Title of video (25287) on the ja stage
+# Title of video (25287) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Vector transformations"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/vector-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/v/vector-transformations</a>
+# Description of video (25287) on the ja stage
+# Description of video (25287) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to the notion of vector transformations"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/lin-alg-showing-that-a-transpose-x-a-is-invertible">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/lin-alg-showing-that-a-transpose-x-a-is-invertible</a>
+# Title of video (25407) on the ja stage
+# Title of video (25407) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Showing that A-transpose x A is invertible"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/lin-alg-showing-that-a-transpose-x-a-is-invertible">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/lin-alg-showing-that-a-transpose-x-a-is-invertible</a>
+# Description of video (25407) on the ja stage
+# Description of video (25407) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that (transpose of A)(A) is invertible if A has linearly independent columns"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/lin-alg-visualizations-of-left-nullspace-and-rowspace">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/lin-alg-visualizations-of-left-nullspace-and-rowspace</a>
+# Title of video (25389) on the ja stage
+# Title of video (25389) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Visualizations of left nullspace and rowspace"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/lin-alg-visualizations-of-left-nullspace-and-rowspace">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/lin-alg-visualizations-of-left-nullspace-and-rowspace</a>
+# Description of video (25389) on the ja stage
+# Description of video (25389) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Relationship between left nullspace, rowspace, column space and nullspace."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-determinant-of-transpose">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-determinant-of-transpose</a>
+# Title of video (25381) on the ja stage
+# Title of video (25381) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determinant of transpose"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-determinant-of-transpose">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-determinant-of-transpose</a>
+# Description of video (25381) on the ja stage
+# Description of video (25381) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Proof by induction that transposing a matrix does not change its determinant"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-rank-a-rank-transpose-of-a">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-rank-a-rank-transpose-of-a</a>
+# Title of video (25393) on the ja stage
+# Title of video (25393) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "rank(a) = rank(transpose of a)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-rank-a-rank-transpose-of-a">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-rank-a-rank-transpose-of-a</a>
+# Description of video (25393) on the ja stage
+# Description of video (25393) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Rank(A) = Rank(transpose of A)"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-rowspace-and-left-nullspace">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-rowspace-and-left-nullspace</a>
+# Title of video (25387) on the ja stage
+# Title of video (25387) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Rowspace and left nullspace"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-rowspace-and-left-nullspace">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-rowspace-and-left-nullspace</a>
+# Description of video (25387) on the ja stage
+# Description of video (25387) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Rowspace and Left Nullspace"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-matrix-product">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-matrix-product</a>
+# Title of video (178920409) on the ja stage
+# Title of video (178920409) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Transpose of a matrix product"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-matrix-product">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-matrix-product</a>
+# Description of video (178920409) on the ja stage
+# Description of video (178920409) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Taking the transpose of the product of two matrices"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-vector">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-vector</a>
+# Title of video (25385) on the es stage
+# Title of video (25385) on the ja stage
+# Title of video (25385) on the pl stage
+# Title of video (25385) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Transpose of a vector"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-vector">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-vector</a>
+# Description of video (25385) on the es stage
+# Description of video (25385) on the ja stage
+# Description of video (25385) on the pl stage
+# Description of video (25385) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Transpose of a column vector. Matrix-matrix products using vectors"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-vector">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-vector</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: html)
+#: intl/datastore:1
+msgid "Transpose of a column vector.  Matrix-matrix products using vectors"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transposes-of-sums-and-inverses">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transposes-of-sums-and-inverses</a>
+# Title of video (25383) on the ja stage
+# Title of video (25383) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Transposes of sums and inverses"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/defining-a-plane-in-r3-with-a-point-and-normal-vector">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/defining-a-plane-in-r3-with-a-point-and-normal-vector</a>
+# Title of video (25247) on the ja stage
+# Title of video (25247) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Defining a plane in R3 with a point and normal vector"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/defining-a-plane-in-r3-with-a-point-and-normal-vector">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/defining-a-plane-in-r3-with-a-point-and-normal-vector</a>
+# Description of video (25247) on the ja stage
+# Description of video (25247) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Determining the equation for a plane in R3 using a point on the plane and a normal vector"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/defining-the-angle-between-vectors">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/defining-the-angle-between-vectors</a>
+# Title of video (25245) on the ja stage
+# Title of video (25245) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Defining the angle between vectors"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/defining-the-angle-between-vectors">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/defining-the-angle-between-vectors</a>
+# Description of video (25245) on the ja stage
+# Description of video (25245) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Introducing the idea of an angle between two vectors"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/distance-between-planes">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/distance-between-planes</a>
+# Title of video (8187467) on the ja stage
+# Title of video (8187467) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Distance between planes"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/distance-between-planes">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/distance-between-planes</a>
+# Description of video (8187467) on the ja stage
+# Description of video (8187467) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "2010 IIT JEE Paper 1 Problem 51 Distance Between Planes"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/dot-and-cross-product-comparison-intuition">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/dot-and-cross-product-comparison-intuition</a>
+# Title of video (25253) on the ja stage
+# Title of video (25253) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Dot and cross product comparison/intuition"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/dot-and-cross-product-comparison-intuition">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/dot-and-cross-product-comparison-intuition</a>
+# Description of video (25253) on the ja stage
+# Description of video (25253) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Dot and Cross Product Comparison/Intuition"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/linear-algebra-cross-product-introduction">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/linear-algebra-cross-product-introduction</a>
+# Description of video <a href="http://translate.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields/magnets-magnetic/v/cross-product-1">http://translate.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields/magnets-magnetic/v/cross-product-1</a>
+# Description of video (25249) on the ja stage
+# Description of video (25249) on the pl stage
+# Description of video (25707) on the pl stage
+# Description of video (25707) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to the cross product"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/linear-algebra-cross-product-introduction">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/linear-algebra-cross-product-introduction</a>
+# Title of video (25249) on the ja stage
+# Title of video (25249) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Cross product introduction"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/linear-algebra-vector-triangle-inequality">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/linear-algebra-vector-triangle-inequality</a>
+# Title of video (25243) on the ja stage
+# Title of video (25243) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Vector triangle inequality"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/linear-algebra-vector-triangle-inequality">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/linear-algebra-vector-triangle-inequality</a>
+# Description of video (25243) on the ja stage
+# Description of video (25243) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Proving the triangle inequality for vectors in Rn"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/linear-algebra-vector-triangle-inequality">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/linear-algebra-vector-triangle-inequality</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "Proving the triangle inequality  for vectors in Rn"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/normal-vector-from-plane-equation">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/normal-vector-from-plane-equation</a>
+# Title of video (8187465) on the ja stage
+# Title of video (8187465) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Normal vector from plane equation"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/normal-vector-from-plane-equation">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/normal-vector-from-plane-equation</a>
+# Description of video (8187465) on the ja stage
+# Description of video (8187465) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Figuring out a normal vector to a plane from its equation"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/point-distance-to-plane">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/point-distance-to-plane</a>
+# Title of video (8187466) on the ja stage
+# Title of video (8187466) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Point distance to plane"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/point-distance-to-plane">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/point-distance-to-plane</a>
+# Description of video (8187466) on the ja stage
+# Description of video (8187466) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Distance between a point and a plane in three dimensions"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/proof-of-the-cauchy-schwarz-inequality">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/proof-of-the-cauchy-schwarz-inequality</a>
+# Title of video (25241) on the ja stage
+# Title of video (25241) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Proof of the Cauchy-Schwarz inequality"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/proof-of-the-cauchy-schwarz-inequality">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/proof-of-the-cauchy-schwarz-inequality</a>
+# Description of video (25241) on the ja stage
+# Description of video (25241) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Proof of the Cauchy-Schwarz Inequality"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/proof-relationship-between-cross-product-and-sin-of-angle">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/proof-relationship-between-cross-product-and-sin-of-angle</a>
+# Title of video (25251) on the ja stage
+# Title of video (25251) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Proof: Relationship between cross product and sin of angle"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/proof-relationship-between-cross-product-and-sin-of-angle">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/proof-relationship-between-cross-product-and-sin-of-angle</a>
+# Description of video (25251) on the ja stage
+# Description of video (25251) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Proof: Relationship between the  cross product and sin of angle between vectors"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/proving-vector-dot-product-properties">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/proving-vector-dot-product-properties</a>
+# Title of video (25239) on the ja stage
+# Title of video (25239) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Proving vector dot product properties"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/proving-vector-dot-product-properties">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/proving-vector-dot-product-properties</a>
+# Description of video (25239) on the ja stage
+# Description of video (25239) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Proving the &quot;associative&quot;, &quot;distributive&quot; and &quot;commutative&quot; properties for vector dot products."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/proving-vector-dot-product-properties">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/proving-vector-dot-product-properties</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "Proving the \"associative\", \"distributive\" and \"commutative\" properties for vector dot products."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length</a>
+# Title of video (25237) on the ja stage
+# Title of video (25237) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Vector dot product and vector length"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length</a>
+# Description of video (25237) on the ja stage
+# Description of video (25237) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Definitions of the vector dot product and vector length"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-triple-product-expansion-very-optional">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-triple-product-expansion-very-optional</a>
+# Title of video (8187461) on the ja stage
+# Title of video (8187461) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Vector triple product expansion (very optional)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-triple-product-expansion-very-optional">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-triple-product-expansion-very-optional</a>
+# Description of video (8187461) on the ja stage
+# Description of video (8187461) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "A shortcut for having to evaluate the cross product of three vectors"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span</a>
+# Title of video (25225) on the ja stage
+# Title of video (25225) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear combinations and span"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span</a>
+# Description of video (25225) on the ja stage
+# Description of video (25225) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Understanding linear combinations and spans of vectors"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence</a>
+# Title of video (25227) on the ja stage
+# Title of video (25227) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to linear independence"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence</a>
+# Description of video (25227) on the ja stage
+# Description of video (25227) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to linear dependence and independence"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/more-on-linear-independence">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/more-on-linear-independence</a>
+# Title of video (25229) on the ja stage
+# Title of video (25229) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "More on linear independence"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/more-on-linear-independence">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/more-on-linear-independence</a>
+# Description of video (25229) on the ja stage
+# Description of video (25229) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "More examples determining linear dependence or independence."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/span-and-linear-independence-example">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/span-and-linear-independence-example</a>
+# Title of video (25231) on the ja stage
+# Title of video (25231) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Span and linear independence example"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/span-and-linear-independence-example">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/span-and-linear-independence-example</a>
+# Description of video (25231) on the ja stage
+# Description of video (25231) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Determining whether 3 vectors are linearly independent and/or span R3"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination/v/matrices-reduced-row-echelon-form-1">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination/v/matrices-reduced-row-echelon-form-1</a>
+# Title of video (25255) on the ja stage
+# Title of video (25255) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving a system of 3 equations and 4 variables using matrix row-echelon form"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination/v/matrices-reduced-row-echelon-form-1">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination/v/matrices-reduced-row-echelon-form-1</a>
+# Description of video (25255) on the ja stage
+# Description of video (25255) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal solves a linear system with 3 equations and 4 variables by representing it with an augmented matrix and bringing the matrix to reduced row-echelon form."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination/v/matrices-reduced-row-echelon-form-3">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination/v/matrices-reduced-row-echelon-form-3</a>
+# Title of video (25259) on the ja stage
+# Title of video (25259) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Using matrix row-echelon form in order to show a linear system has no solutions"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination/v/matrices-reduced-row-echelon-form-3">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination/v/matrices-reduced-row-echelon-form-3</a>
+# Description of video (25259) on the ja stage
+# Description of video (25259) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "And another example of solving a system of linear equations by putting an augmented matrix into reduced row echelon form"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/column-space-of-a-matrix">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/column-space-of-a-matrix</a>
+# Title of video (25269) on the ja stage
+# Title of video (25269) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Column space of a matrix"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/column-space-of-a-matrix">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/column-space-of-a-matrix</a>
+# Description of video (25269) on the ja stage
+# Description of video (25269) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to the column space of a matrix"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/dimension-of-the-column-space-or-rank">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/dimension-of-the-column-space-or-rank</a>
+# Title of video (25279) on the ja stage
+# Title of video (25279) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Dimension of the column space or rank"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/dimension-of-the-column-space-or-rank">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/dimension-of-the-column-space-or-rank</a>
+# Description of video (25279) on the ja stage
+# Description of video (25279) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Dimension of the Column Space or Rank"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/dimension-of-the-null-space-or-nullity">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/dimension-of-the-null-space-or-nullity</a>
+# Title of video (25277) on the ja stage
+# Title of video (25277) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Dimension of the null space or nullity"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/dimension-of-the-null-space-or-nullity">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/dimension-of-the-null-space-or-nullity</a>
+# Description of video (25277) on the ja stage
+# Description of video (25277) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Dimension of the Null Space or Nullity"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/introduction-to-the-null-space-of-a-matrix">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/introduction-to-the-null-space-of-a-matrix</a>
+# Title of video (25263) on the ja stage
+# Title of video (25263) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to the null space of a matrix"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/introduction-to-the-null-space-of-a-matrix">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/introduction-to-the-null-space-of-a-matrix</a>
+# Description of video (25263) on the ja stage
+# Description of video (25263) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that the Null Space of a Matrix is a valid Subspace"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/matrix-vector-products">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/matrix-vector-products</a>
+# Title of video (25261) on the ja stage
+# Title of video (25261) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Matrix vector products"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/matrix-vector-products">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/matrix-vector-products</a>
+# Description of video (25261) on the ja stage
+# Description of video (25261) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Defining and understanding what it means to take the product of a matrix and a vector"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/null-space-2-calculating-the-null-space-of-a-matrix">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/null-space-2-calculating-the-null-space-of-a-matrix</a>
+# Title of video (25265) on the ja stage
+# Title of video (25265) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Null space 2: Calculating the null space of a matrix"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/null-space-2-calculating-the-null-space-of-a-matrix">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/null-space-2-calculating-the-null-space-of-a-matrix</a>
+# Description of video (25265) on the ja stage
+# Description of video (25265) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Calculating the null space of a matrix"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/null-space-3-relation-to-linear-independence">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/null-space-3-relation-to-linear-independence</a>
+# Title of video (25267) on the ja stage
+# Title of video (25267) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Null space 3: Relation to linear independence"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/null-space-3-relation-to-linear-independence">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/null-space-3-relation-to-linear-independence</a>
+# Description of video (25267) on the ja stage
+# Description of video (25267) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Understanding how the null space of a matrix relates to the linear independence of its column vectors"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/null-space-and-column-space-basis">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/null-space-and-column-space-basis</a>
+# Title of video (25271) on the ja stage
+# Title of video (25271) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Null space and column space basis"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/null-space-and-column-space-basis">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/null-space-and-column-space-basis</a>
+# Description of video (25271) on the ja stage
+# Description of video (25271) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Figuring out the null space and a basis of a column space for a matrix"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/proof-any-subspace-basis-has-same-number-of-elements">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/proof-any-subspace-basis-has-same-number-of-elements</a>
+# Title of video (25275) on the ja stage
+# Title of video (25275) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Proof: Any subspace basis has same number of elements"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/showing-relation-between-basis-cols-and-pivot-cols">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/showing-relation-between-basis-cols-and-pivot-cols</a>
+# Title of video (25281) on the ja stage
+# Title of video (25281) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Showing relation between basis cols and pivot cols"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/showing-relation-between-basis-cols-and-pivot-cols">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/showing-relation-between-basis-cols-and-pivot-cols</a>
+# Description of video (25281) on the ja stage
+# Description of video (25281) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that linear independence of pivot columns implies linear independence of the corresponding columns in the original equation"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/showing-that-the-candidate-basis-does-span-c-a">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/showing-that-the-candidate-basis-does-span-c-a</a>
+# Title of video (25283) on the ja stage
+# Title of video (25283) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Showing that the candidate basis does span C(A)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/showing-that-the-candidate-basis-does-span-c-a">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/showing-that-the-candidate-basis-does-span-c-a</a>
+# Description of video (25283) on the ja stage
+# Description of video (25283) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Showing that just the columns of A associated with the pivot columns of rref(A) do indeed span C(A)."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/visualizing-a-column-space-as-a-plane-in-r3">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/visualizing-a-column-space-as-a-plane-in-r3</a>
+# Title of video (25273) on the ja stage
+# Title of video (25273) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Visualizing a column space as a plane in R3"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/visualizing-a-column-space-as-a-plane-in-r3">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space/v/visualizing-a-column-space-as-a-plane-in-r3</a>
+# Description of video (25273) on the ja stage
+# Description of video (25273) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Determining the planar equation for a column space in R3"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-algebra-basis-of-a-subspace">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-algebra-basis-of-a-subspace</a>
+# Title of video (25235) on the ja stage
+# Title of video (25235) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Basis of a subspace"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-algebra-basis-of-a-subspace">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-algebra-basis-of-a-subspace</a>
+# Description of video (25235) on the ja stage
+# Description of video (25235) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Understanding the definition of a basis of a subspace"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-subspaces">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-subspaces</a>
+# Title of video (25233) on the ja stage
+# Title of video (25233) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear subspaces"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-subspaces">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis/v/linear-subspaces</a>
+# Description of video (25233) on the ja stage
+# Description of video (25233) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to linear subspaces of Rn"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/linear-algebra-parametric-representations-of-lines">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/linear-algebra-parametric-representations-of-lines</a>
+# Title of video (25223) on the ja stage
+# Title of video (25223) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Parametric representations of lines"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/linear-algebra-parametric-representations-of-lines">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/linear-algebra-parametric-representations-of-lines</a>
+# Description of video (25223) on the ja stage
+# Description of video (25223) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Parametric Representations of Lines in R2 and R3"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/linear-algebra-vector-examples">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/linear-algebra-vector-examples</a>
+# Title of video (25221) on the ja stage
+# Title of video (25221) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Vector examples"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/linear-algebra-vector-examples">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/linear-algebra-vector-examples</a>
+# Description of video (25221) on the ja stage
+# Description of video (25221) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Visually understanding basic vector operations"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/multiplying-vector-by-scalar">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/multiplying-vector-by-scalar</a>
+# Title of video (xf85df5ef) on the ja stage
+# Title of video (xf85df5ef) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiplying a vector by a scalar"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/multiplying-vector-by-scalar">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/multiplying-vector-by-scalar</a>
+# Description of video (xf85df5ef) on the ja stage
+# Description of video (xf85df5ef) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Watch Sal change the magnitude of a vector by multiplying it by a scalar."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/real-coordinate-spaces">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/real-coordinate-spaces</a>
+# Title of video (x184489c0) on the ja stage
+# Title of video (x184489c0) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Real coordinate spaces"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra</a>
+# Title of video (xbb63d308) on the ja stage
+# Title of video (xbb63d308) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Vector intro for linear algebra"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra</a>
+# Description of video (xbb63d308) on the ja stage
+# Description of video (xbb63d308) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "A vector has both magnitude and direction. We use vectors to, for example, describe the velocity of moving objects. In this video, you&#39;ll learn how to write and draw vectors."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/row-echelon-and-gaussian-elimination/v/matrices-reduced-row-echelon-form-2">http://translate.khanacademy.org/math/precalculus/precalc-matrices/row-echelon-and-gaussian-elimination/v/matrices-reduced-row-echelon-form-2</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving linear systems with matrices"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/row-echelon-and-gaussian-elimination/v/matrices-reduced-row-echelon-form-2">http://translate.khanacademy.org/math/precalculus/precalc-matrices/row-echelon-and-gaussian-elimination/v/matrices-reduced-row-echelon-form-2</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal solves a linear system with 3 variables by representing it with an augmented matrix and bringing the matrix to <strong>reduced row-echelon form</strong>."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/v/intro-unit-vector-notation">http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/v/intro-unit-vector-notation</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Unit vectors intro"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/v/intro-unit-vector-notation">http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/v/intro-unit-vector-notation</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Unit vectors are vectors whose magnitude is exactly 1 unit. They are very useful for different reasons. Specifically, the unit vectors [0,1] and [1,0] can form together any other vector."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/v/intro-unit-vector-notation">http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/v/intro-unit-vector-notation</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "Watch Sal explain unit vectors including a variety of notation."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/vector-addition-subtraction/v/adding-vectors">http://translate.khanacademy.org/math/precalculus/vectors-precalc/vector-addition-subtraction/v/adding-vectors</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Adding vectors algebraically & graphically"
+msgstr ""
+
