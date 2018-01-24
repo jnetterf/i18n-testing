@@ -1,0 +1,576 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2018-01-24 10:47-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.in-sevth-grade-math.articles.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Article is at <a href="http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-3d-shapes/a/creating-3d-shapes">http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-3d-shapes/a/creating-3d-shapes</a>.
+# Article is at <a href="http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-3d-shapes/a/generating-3d-shapes">http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-3d-shapes/a/generating-3d-shapes</a>.
+# Article is at <a href="http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-3d-shapes/a/rotating-3d-shapes">http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-3d-shapes/a/rotating-3d-shapes</a>.
+# Article is at <a href="http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-3d-shapes/a/what-are-3d-shapes">http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-3d-shapes/a/what-are-3d-shapes</a>.
+# Article is at <a href="http://translate.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/a/splitting-data-into-related-tables">http://translate.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql/a/splitting-data-into-related-tables</a>.
+# Article is at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/a-guessing-game">http://translate.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/a/a-guessing-game</a>.
+# Article is at <a href="http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/a/sorting">http://translate.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/a/sorting</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/partner-content/learnstorm-mindset-activities-17/activity-five/get-started-five/a/activity-5-overcoming-frustration">http://translate.khanacademy.org/partner-content/learnstorm-mindset-activities-17/activity-five/get-started-five/a/activity-5-overcoming-frustration</a>.
+# Article is at <a href="http://translate.khanacademy.org/partner-content/learnstorm-mindset-activities-17/activity-one/get-started-activity-one/a/activity-1-the-truth-about-your-brain">http://translate.khanacademy.org/partner-content/learnstorm-mindset-activities-17/activity-one/get-started-activity-one/a/activity-1-the-truth-about-your-brain</a>.
+# Article is at <a href="http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-eight/weekly-activity-8-get-started/a/complete-weekly-activity-eight">http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-eight/weekly-activity-8-get-started/a/complete-weekly-activity-eight</a>.
+# Article is at <a href="http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-five/weekly-activity-five-get-started-here/a/complete-weekly-activity-5">http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-five/weekly-activity-five-get-started-here/a/complete-weekly-activity-5</a>.
+# Article is at <a href="http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-four/weekly-activity-four-get-started-here/a/complete-weekly-activity-four">http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-four/weekly-activity-four-get-started-here/a/complete-weekly-activity-four</a>.
+# Article is at <a href="http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-nine/weekly-activity-nine-get-started/a/complete-weekly-activity-nine">http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-nine/weekly-activity-nine-get-started/a/complete-weekly-activity-nine</a>.
+# Article is at <a href="http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-nine/weekly-activity-nine-get-started/a/end-of-mindset-marathon-cool-down">http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-nine/weekly-activity-nine-get-started/a/end-of-mindset-marathon-cool-down</a>.
+# Article is at <a href="http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-one/weekly-activity-one-science-behind/a/complete-the-science-behind-learning-activity">http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-one/weekly-activity-one-science-behind/a/complete-the-science-behind-learning-activity</a>.
+# Article is at <a href="http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-one/weekly-activity-one-science-behind/a/mindset-warm-up">http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-one/weekly-activity-one-science-behind/a/mindset-warm-up</a>.
+# Article is at <a href="http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-seven/weekly-activity-seven-get-started/a/complete-weekly-activity-7">http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-seven/weekly-activity-seven-get-started/a/complete-weekly-activity-7</a>.
+# Article is at <a href="http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-six/weekly-activity-six-get-started-here/a/complete-weekly-activity-6">http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-six/weekly-activity-six-get-started-here/a/complete-weekly-activity-6</a>.
+# Article is at <a href="http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-three/weekly-activity-three-get-started-here/a/complete-weekly-activity-3">http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-three/weekly-activity-three-get-started-here/a/complete-weekly-activity-3</a>.
+# Article is at <a href="http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-two/weekly-activity-two-recognizing-and-conquering/a/complete-weekly-activity-number-two">http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/ls-weekly-activity-two/weekly-activity-two-recognizing-and-conquering/a/complete-weekly-activity-number-two</a>.
+# Article is at <a href="http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/v2-draft-weekly-activity-1/complete-v2-draft-activity-1/a/v2-weekly-activity-1-the-truth-about-your-brain">http://translate.khanacademy.org/partner-content/learnstorm-weekly-activities-home/v2-draft-weekly-activity-1/complete-v2-draft-activity-1/a/v2-weekly-activity-1-the-truth-about-your-brain</a>.
+# Article is at (x0ef73e9a) on the pl stage.
+# Article is at (x2b9682344ec92b8f) on the pt stage.
+# Article is at (x30b0bdb2) on the bn stage.
+# Article is at (x30b0bdb2) on the pl stage.
+# Article is at (x4595883b) on the bn stage.
+# Article is at (x4595883b) on the pl stage.
+# Article is at (x77830370) on the pl stage.
+# Article is at (x99315768) on the bn stage.
+# Article is at (x99315768) on the pl stage.
+# Article is at (x9eb3ee1d) on the bn stage.
+# Article is at (x9eb3ee1d) on the pl stage.
+# Article is at (xbaed7e9e) on the pt stage.
+# Article is at (xd24c1e01) on the bn stage.
+# Article is at (xd24c1e01) on the pl stage.
+# Article is at (xe5b414aa2df4f271) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "[[☃ iframe 1]]"
+msgstr ""
+
+# Description of tutorial article <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>
+# Description of tutorial article <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>
+# Description of tutorial article (xbaed7e9e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "This was made for a hackathon back in 2014!"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](https://ka-perseus-graphie.s3.amazonaws.com/548cc5efb60f82ca6a80e92af0fa6d4aae2572cc.png)![](https://ka-perseus-graphie.s3.amazonaws.com/5e1b96fadae499ba2afc53ed62bd241605db2e0f.png)"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](https://ka-perseus-graphie.s3.amazonaws.com/caaff26ee48fee619a8147b37811bed99d64c136.png)"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/circumference">https://www.khanacademy.org/tag/circumference</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Circumference"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Congratulations, you've just shown that the area of a circle is $\\pi r^2$! If you ever forget this formula, just think back to the circle that we rearranged into a rectangle and it will come back right away."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Diameter"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Exactly. So if the height of our rectangle is $r$ and the width is $\\pi r$, what is the area? [[☃ expression 1]]"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Instead, let's start by estimating the area of the circle first. Since calculating the area of a square is easy, we can estimate the area of a circle by comparing it to squares that are smaller and larger than it."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let's try cutting up a circle to see if we can rearrange it into a more familiar shape. Look below - see how the four quarters of a circle can be fitted together? The slider controls how many sections we divide the circle into. Slide it to the right to see what happens when we increase that number!"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "That's right, if you slice up a circle into lots of pieces and shuffle them around, it starts to look like a rectangle! And we know how to find the area of a rectangle. By comparing the circle with the rectangle, we can clearly see that the height of the rectangle is $r$. But what's the width?"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "That's right, the circumference! As you move the slider back to the right, it should become clear that the top and bottom edges combined are always of length $2 \\pi r$. But if we just want the width of the rectangle, we only want half of that length. How much is that? [[☃ expression 1]]"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The area of the square on the left is $7^2 = 49$ and the area of the square on the right is $10^2=100$, so we know that the area of the circle must be between 49 and 100. That narrows it down a bit, but we still don't know exactly what the area is. How can we find out?"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Unlike squares or rectangles, circles don't have any straight sides. If you draw a circle on graph paper, you'll find that it's hard to get an exact measurement - there are a lot of grid squares that are partly inside the circle, and partly outside. It's not clear how to count them."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "[[☃ dropdown 1]]"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "[[☃ sequence 1]]"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "## What is the area of a circle?"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle">http://translate.khanacademy.org/math/7th-engage-ny/engage-7th-module-3/7th-module-3-topic-c/a/area-of-a-circle</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-12-area-related-to-circles/in-in-areas-of-sector-and-segment-of-a-circle/a/area-of-a-circle</a>.
+# Article is at (xbaed7e9e) on the pt stage.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The trick is to move the slider back to the left and pay close attention to the top and bottom of the wavy rectangle. Combined, what part of the circle do they represent?"
+msgstr ""
+
