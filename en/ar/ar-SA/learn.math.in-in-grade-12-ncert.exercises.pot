@@ -1,0 +1,26 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-07-26 22:28+0000\n"
+"PO-Revision-Date: 2018-01-24 10:47-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.in-in-grade-12-ncert.exercises.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Exercise at (xb5e9bc456347266f) on the es stage.
+# (KA_SOURCE_TREE: es)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Fill in the blanks and select the correct answer."
+msgstr ""
+
