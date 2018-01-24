@@ -1,0 +1,127 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2018-01-24 10:48-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.math1.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math1/math1-exponential-func">http://translate.khanacademy.org/math/math1/math1-exponential-func</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x2298c533) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Exponential growth & decay | Mathematics 1 | Khan Academy"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math1/math1-functions">http://translate.khanacademy.org/math/math1/math1-functions</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xef51da9a) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Functions | Mathematics 1 | Khan Academy"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-one-var-eq-ineq">http://translate.khanacademy.org/math/math1/math1-one-var-eq-ineq</a>
+# Title of topic (x86004a50) on the bg stage
+# Title of topic (x86004a50) on the ka stage
+# Title of topic (x86004a50) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving equations & inequalities"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math1/math1-systems-of-eq">http://translate.khanacademy.org/math/math1/math1-systems-of-eq</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf01626f4) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Systems of equations | Mathematics 1 | Khan Academy"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math1/math1-two-var-eq/hor-and-ver-lines-math1">http://translate.khanacademy.org/math/math1/math1-two-var-eq/hor-and-ver-lines-math1</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe80713c286c3016f) on the bg stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe80713c286c3016f) on the ka stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe80713c286c3016f) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe80713c286c3016f) on the pt-pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Copy of Horizontal & vertical lines"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math1/math1-two-var-ineq">http://translate.khanacademy.org/math/math1/math1-two-var-ineq</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Two-variable Inequalities (systems & graphs)"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math1/math1-units/math1-dimensional-analysis-for-unit-conversion">http://translate.khanacademy.org/math/math1/math1-units/math1-dimensional-analysis-for-unit-conversion</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Dimensional analysis converting"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math1/math1-units">http://translate.khanacademy.org/math/math1/math1-units</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x2433bf3d) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Working with units | Mathematics 1 | Khan Academy"
+msgstr ""
+
