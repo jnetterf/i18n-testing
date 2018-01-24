@@ -1,0 +1,428 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-03 19:44+0000\n"
+"PO-Revision-Date: 2018-01-24 10:50-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.math1.exercises.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "DEPRECATED Advanced structure in expressions"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$(t-a)^2 \\ge 0$  for any $t$  (so that term  \"adds\" to the expression when it is not $0$)."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$(t-a)^2$ will always be non-negative so  \n"
+"$-(t-a)^2$ will always be non-positive  (it will always \"take away\" from the rest of the expression)."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$(t-a)^2$ will always be non-negative so, if $t\\ne{a}$  it will always \"add\" to $b$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$P\\le0$ when $(t-a)^2 \\ge b$, so the company will definitely make a loss. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$a^{-ct}$ will approach $0$ as $t$ increases, but never quite get there.  So the height will never quite get to $\\frac{b^2}{b-1}$, much less be more than that."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "A company's weekly profit, $P$, after time $t$ (in weeks) is given by the equation (assume $t \\ge 0$):\n\n"
+"$P = (t-a)^3 + b$\n\n"
+"Where $b>0$ and $a^3 >b$.\n\n"
+"**Which of the following statements are true?**\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "A company's weekly profit, $P$, after time $t$ (in weeks) is given by the equation:\n\n"
+"$P = (t-a)^2 + b$\n\n"
+"Where $a,b>0$.\n\n"
+"**Which of the following statements are true?**\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "A company's weekly profit, $P$, after time $t$ (in weeks) is given by the equation:\n\n"
+"$P = (t-a)^2 + b$\n\n"
+"where $a > 0$ and $b<0$.\n\n"
+"**Which of the following statements are true?** (Assume the company's intent is to make a profit.)\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "A company's weekly profit, $P$, after time $t$ (in weeks) is given by the equation:\n\n"
+"$P = b+(t-a)^2$\n\n"
+"Where $a,b>0$.\n\n"
+"**Which of the following statements are true?**\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "A company's weekly profit, $P$, after time $t$ (in weeks) is given by the equation:\n\n"
+"$P = b-(t-a)^2$\n\n"
+"Where $a,b>0$.\n\n"
+"**Which of the following statements are true?**\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "As $t$ increases from $0$, $\\large a^{-ct}=\\dfrac{1}{a\\^{ct}}$ becomes smaller and smaller and closer and closer to $0$ (without ever getting to $0$)."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "At any $t\\ne a$, $(t-a)^2$ is non-negative and $P>b$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "At any $t\\ne a$, $(t-a)^2$ will always be non-negative and $P>b$  \n\n"
+"So the company will never be breakeven or at a loss."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Because $\\$b$ is the least that the company will ever make in a week (and $b>0$), we also know that the company will never have a loss."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Because of this, the profit is maximized when $-(t-a)^2 = 0$  \n"
+"(which happens when $t=a$).\n\n"
+"When that happens, $P = b$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Because of this, the profit is minimized when $(t-a)^2 = 0$  \n"
+"(which happens when $t=a$).\n\n"
+"When that happens, $P = b$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Once $t>a$, then the company must be making a profit because both $(t-a)^3$ and $b$ will be positive.  \n\n"
+"Since the company started with a loss when $t=0$ and will make a profit once $t>a$ and $t$ can take on any value in-between, the company must have been breakeven for some $t$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Since $b>0$ and $a^3>b$, we know that $a>0$.\n\n"
+"Since $a>0$, we know that there is some time for which $t<a$.\n\n"
+"In particular, when $t=0$, $P=b-a^3$ which is less than $0$ since $b<a^3$.\n\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Since the company makes a profit at some time(s) and a loss at others, it will be breakeven ($P=0$) at some point in between."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "So $P \\geq b $ for all $t$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "So the company will make a maximum profit of $\\$b$ (we know it is a profit because $b>0$).  \n\n\n\n"
+"For example, as long as $(t-a)^2 \\ge b$, then $P\\le0$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "So the company will make a minimum  of $\\$b$ ( since $b<0$, this is going to be a loss).  \n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "So the company will make a minimum profit of $\\$b$ (we know it is a profit because $b>0$).  \n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "So the least the company will ever make is $\\$b$, but as $(t-a)^2$ gets larger and larger, there are values for $t$ at which the company breaks even or is profitable."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The company can definitely make more or less than $\\$b$ in a week .\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The company starts with a loss when $t=0$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The company will be breakeven (have $0$ profit) for some $t$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The company will be breakeven (have $0$ profit) for some $t$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The company will be breakeven (have $0$ profit) for some t"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The company will break even (have $0$ profit) for some t"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The company will have a loss at some time"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The company will never have a loss"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The company will never make a profit"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The company will never make a profit."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The correct statements are:  \n\n"
+"* The company will have a loss at some time  \n"
+"* The most that the company will ever make in a week is $\\$b$.  \n"
+"* The company will be breakeven (have $0$ profit) for some $t$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The correct statements are:  \n\n"
+"* The company will never have a loss.  \n\n"
+"* The least that the company will ever make in a week is $\\$b$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The correct statements are:  \n\n"
+"- The particle starts (when $t=0$) at a height of $b+1$ meters.  \n"
+"- The height will never be more than $\\dfrac{b^2}{b-1}$.  \n"
+"- The particle will always be traveling upwards."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The height will never be more than $\\dfrac{b^2}{b-1}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The height, $h$, of a particle (in meters) at a time $t$ is given by  \n\n"
+"$\\qquad\\large h=\\dfrac{b^2-a^{-ct}}{b-1}$\n\n"
+"where $a,b,c>2$, and $t$ starts at $0$ and increases.\n\n"
+"**Which of the following statements are true?**\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The least that the company will ever make in a week is $\\$b$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The least that the company will ever make in a week is $\\$b$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The most that the company will ever make in a week is $\\$b$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The most that the company will ever make in a week is $\\$b$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The particle starts (when $t=0$) at a height of $b+1$ meters"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The particle will always be traveling downwards."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The particle will always be traveling upwards."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The particle will have a negative height at some point."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The true statements are:  \n\n"
+"* The company starts with a loss when $t=0$.\n\n"
+"* The company will be breakeven (have $0$ profit) for some $t$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The worst result of operations the company will ever have in a week is $\\$b$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Therefore, $b^2-a^{-ct}$ will increase from $b^2-1$ and approach $b^2$ as $t$ goes from $0$ to infinity.\n\n"
+"Since the numerator is increasing and the denominator is positive, the entire expression will be increasing as $t$ increases from $0$  (the particle will always be traveling upwards)."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions">http://translate.khanacademy.org/math/math1/math1-exp-structure/math1-reasoning-about-expressions-with-unknown-variables/e/advanced-structure-in-expressions</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "When $t=\\blue0$, $\\large {h = \\dfrac{b^2-a^{-c\\cdot\\blue0}}{b-1} = \\dfrac{b^2-1}{b-1} = \\dfrac{(b+1)(b-1)}{b-1} = b+1}$."
+msgstr ""
+
