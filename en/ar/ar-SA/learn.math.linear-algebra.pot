@@ -1,0 +1,941 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-22 16:08+0000\n"
+"PO-Revision-Date: 2018-01-24 10:50-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/3_medium_priority/learn.math.linear-algebra.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Exercise is at <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check/e/skill-check--visualizing-functions</a>.
+# Exercise is at (x0532b959) on the ja stage.
+# Exercise is at (x0532b959) on the pl stage.
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/cc-eighth-grade-math/geometric-transformations/identify-transformations">http://translate.khanacademy.org/math/cc-eighth-grade-math/geometric-transformations/identify-transformations</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x54f6dbaa22dcc65f) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x54f6dbaa22dcc65f) on the pt-pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x7a8cfdaa) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x7a8cfdaa) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-transformations">http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-transformations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ab-sixth-grade-math/shape-space/ab-transformations">http://translate.khanacademy.org/math/ab-sixth-grade-math/shape-space/ab-transformations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo/transformations-basics">http://translate.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo/transformations-basics</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry-home/transformations">http://translate.khanacademy.org/math/geometry-home/transformations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-transformations">http://translate.khanacademy.org/math/geometry/hs-geo-transformations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/transformations">http://translate.khanacademy.org/math/geometry/transformations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/multivariable-transformations">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/multivariable-transformations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/on-sixth-grade-math/on-geometry-spatial-sense/on-transformations">http://translate.khanacademy.org/math/on-sixth-grade-math/on-geometry-spatial-sense/on-transformations</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/transformation">http://translate.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/transformation</a>
+# Title of topic mastery/exercise mission badge "topic:xc8e66653"
+# Title of topic (x5346e895) on the ja stage
+# Title of topic (x5346e895) on the pl stage
+# Title of topic (x896e6e88) on the bn stage
+# Title of topic (x896e6e88) on the pl stage
+# Title of topic (xa8bb2388) on the tr stage
+# Title of topic (xc244bcf0) on the ka stage
+# Title of topic (xc244bcf0) on the pt stage
+# Title of topic (xc8e66653) on the es stage
+# Title of topic (xefca3883) on the lol stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions/a/transformations">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions/a/transformations</a>
+# Title of tutorial article (x0f54ee01) on the ja stage
+# Title of tutorial article (x0f54ee01) on the pl stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Transformations"
+msgstr ""
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/vectors">https://www.khanacademy.org/tag/vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors">http://translate.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors">http://translate.khanacademy.org/math/algebra-home/alg-vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc">http://translate.khanacademy.org/math/precalculus/vectors-precalc</a>
+# Title of topic mastery/exercise mission badge "topic:t4B-w8_x_OAaX1N6RNH_7Pessb4vRhqDR-jge3sr"
+# Title of topic mastery/exercise mission badge "topic:x7291eb9f"
+# Title of topic (x7291eb9f) on the ja stage
+# Title of topic (x7291eb9f) on the pl stage
+# Title of topic (x8679955c) on the bn stage
+# Title of topic (x8679955c) on the pl stage
+# Title of topic (x89b95edd) on the lol stage
+# Title of topic (x8dd62d07) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Vectors"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/in-in-transpose-of-a-matrix">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/in-in-transpose-of-a-matrix</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose</a>
+# Title of topic (x7bf0f42f) on the ja stage
+# Title of topic (x7bf0f42f) on the pl stage
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-matrix">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-matrix</a>
+# Title of video (1401091052) on the es stage
+# Title of video (25379) on the ja stage
+# Title of video (25379) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Transpose of a matrix"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis</a>
+# Title of topic (x476be17b) on the ja stage
+# Title of topic (x476be17b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Change of basis"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis</a>
+# Description of topic (x476be17b) on the ja stage
+# Description of topic (x476be17b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding a coordinate system boring.  Even worse, does it make certain transformations difficult (especially transformations that you have to do over and over and over again)?  Well, we have the tool for you:  change your coordinate system to one that you like more.  Sound strange?  Watch this tutorial and it will be less so.  Have fun!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything</a>
+# Title of topic (xbbab9c7d) on the ja stage
+# Title of topic (xbbab9c7d) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Eigen-everything"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything</a>
+# Description of topic (xbbab9c7d) on the ja stage
+# Description of topic (xbbab9c7d) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Eigenvectors, eigenvalues, eigenspaces!  We will not stop with the \"eigens\"!  Seriously though, eigen-everythings have many applications including finding \"good\" bases for a transformation (yes, \"good\" is a technical term in this context)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections</a>
+# Title of topic (xd6d11862) on the ja stage
+# Title of topic (xd6d11862) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Orthogonal projections"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthogonal-projections</a>
+# Description of topic (xd6d11862) on the ja stage
+# Description of topic (xd6d11862) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This is one of those tutorials that bring many ideas we've been building together into something applicable.  Orthogonal projections (which can sometimes be conceptualized as a \"vector's shadow\" on a subspace if the light source is above it) can be used in fields varying from computer graphics and statistics!\n\n"
+"If you're familiar with orthogonal complements, then you're ready for this tutorial!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis</a>
+# Title of topic (xf34f42a2) on the ja stage
+# Title of topic (xf34f42a2) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Orthonormal bases and the Gram-Schmidt process"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf34f42a2) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf34f42a2) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Orthonormal basis"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis</a>
+# Description of topic (xf34f42a2) on the ja stage
+# Description of topic (xf34f42a2) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "As we'll see in this tutorial, it is hard not to love a basis where all the vectors are orthogonal to each other and each have length 1 (hey, this sounds pretty much like some coordinate systems you've known for a long time!).  We explore these orthonormal bases in some depth and also give you a great tool for creating them: the Gram-Schmidt Process (which would also be a great name for a band)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements</a>
+# Title of topic (x3826be61) on the ja stage
+# Title of topic (x3826be61) on the pl stage
+# Title of video <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/linear-algebra-orthogonal-complements">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements/v/linear-algebra-orthogonal-complements</a>
+# Title of video (25391) on the ja stage
+# Title of video (25391) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Orthogonal complements"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements">http://translate.khanacademy.org/math/linear-algebra/alternate-bases/othogonal-complements</a>
+# Description of topic (x3826be61) on the ja stage
+# Description of topic (x3826be61) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We will now explore the set of vectors that is orthogonal to every vector in a second set (this is the second set's orthogonal complement)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases">http://translate.khanacademy.org/math/linear-algebra/alternate-bases</a>
+# Title of topic (xa2a6b742) on the ja stage
+# Title of topic (xa2a6b742) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Alternate coordinate systems (bases)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/alternate-bases">http://translate.khanacademy.org/math/linear-algebra/alternate-bases</a>
+# Description of topic (xa2a6b742) on the ja stage
+# Description of topic (xa2a6b742) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We explore creating and moving between various coordinate systems."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola">http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola</a>: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/eola-topic">http://translate.khanacademy.org/math/linear-algebra/eola-topic</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Essence of linear algebra"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola">http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "The geometry of vectors and matrices"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola">http://translate.khanacademy.org/math/linear-algebra/eola-topic/eola</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "For anyone looking to review/preview linear algebra, this sequence of 3blue1brown videos illustrates many of the geometric intuitions underlying the core concepts surrounding matrices and vectors.  (New videos posted every day this week)."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/eola-topic">http://translate.khanacademy.org/math/linear-algebra/eola-topic</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Looking for a quick review of the core topics in linear algebra?  Or perhaps you want to preview the relevant intuitions before diving in deeper.  This sequence is focussed on the geometric intuitions underlying the subject, making the many matrix and vector operations feel less arbitrary."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations</a>
+# Title of topic (x28b69859) on the ja stage
+# Title of topic (x28b69859) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Transformations and matrix multiplication"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations</a>
+# Description of topic (x28b69859) on the ja stage
+# Description of topic (x28b69859) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You probably remember how to multiply matrices from high school, but didn't know why or what it represented.  This tutorial will address this.  You'll see that multiplying two matrices can be view as the composition of linear transformations."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth</a>
+# Title of topic (x2de3e796) on the ja stage
+# Title of topic (x2de3e796) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "More determinant depth"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth</a>
+# Description of topic (x2de3e796) on the ja stage
+# Description of topic (x2de3e796) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In the last tutorial on matrix inverses, we first defined what a determinant is and gave several examples of computing them.  In this tutorial we go deeper.  We will explore what happens to the determinant under several circumstances and conceptualize it in several ways."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices</a>
+# Title of topic (x87f9bf1b) on the ja stage
+# Title of topic (x87f9bf1b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding inverses and determinants"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x87f9bf1b) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x87f9bf1b) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding inverses of matrices"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices</a>
+# Description of topic (x87f9bf1b) on the ja stage
+# Description of topic (x87f9bf1b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We've talked a lot about inverse transformations abstractly in the last tutorial.  Now, we're ready to actually compute inverses.  We start from \"documenting\" the row operations to get a matrix into reduced row echelon form and use this to come up with the formula for the inverse of a 2x2 matrix.  After this we define a determinant for 2x2, 3x3 and nxn matrices."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations</a>
+# Title of topic (xbbb5e349) on the ja stage
+# Title of topic (xbbb5e349) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Inverse functions and transformations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations</a>
+# Description of topic (xbbb5e349) on the ja stage
+# Description of topic (xbbb5e349) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You can use a transformation/function to map from one set to another, but can you invert it?  In other words, is there a function/transformation that given the output of the original mapping, can output the original input (this is much clearer with diagrams).  \n\n"
+"This tutorial addresses this question in a linear algebra context.  Since matrices can represent linear transformations, we're going to spend a lot of time thinking about matrices that represent the inverse transformation."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples</a>
+# Title of topic (x89bde35b) on the ja stage
+# Title of topic (x89bde35b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear transformation examples"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/lin-trans-examples</a>
+# Description of topic (x89bde35b) on the ja stage
+# Description of topic (x89bde35b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this tutorial, we do several examples of actually constructing transformation matrices.  Very useful if you've got some actual transforming to do (especially scaling, rotating and projecting) ;)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations</a>
+# Title of topic (xc9d8c505) on the ja stage
+# Title of topic (xc9d8c505) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Functions and linear transformations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations</a>
+# Description of topic (xc9d8c505) on the ja stage
+# Description of topic (xc9d8c505) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "People have been telling you forever that linear algebra and matrices are useful for modeling, simulations and computer graphics, but it has been a little non-obvious.  This tutorial will start to draw the lines by re-introducing you functions (a bit more rigor than you may remember from high school) and linear functions/transformations in particular."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose</a>
+# Description of topic (x7bf0f42f) on the ja stage
+# Description of topic (x7bf0f42f) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We now explore what happens when you switch the rows and columns of a matrix!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations</a>
+# Title of topic (x7a8cfdaa) on the ja stage
+# Title of topic (x7a8cfdaa) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Matrix transformations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/matrix-transformations">http://translate.khanacademy.org/math/linear-algebra/matrix-transformations</a>
+# Description of topic (x7a8cfdaa) on the ja stage
+# Description of topic (x7a8cfdaa) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Understanding how we can map one set of vectors to another set.  Matrices used to define linear transformations."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products</a>
+# Title of topic (xfa24ce4a) on the ja stage
+# Title of topic (xfa24ce4a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Vector dot and cross products"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products</a>
+# Description of topic (xfa24ce4a) on the ja stage
+# Description of topic (xfa24ce4a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this tutorial, we define two ways to \"multiply\" vectors-- the dot product and the cross product.  As we progress, we'll get an intuitive feel for their meaning, how they can used and how the two vector products relate to each other."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations</a>
+# Title of topic (x5767834a) on the ja stage
+# Title of topic (x5767834a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear combinations and spans"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations</a>
+# Description of topic (x5767834a) on the ja stage
+# Description of topic (x5767834a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Given a set of vectors, what other vectors can you create by adding and/or subtracting scalar multiples of those vectors.  The set of vectors that you can create through these linear combinations of the original set is called the \"span\" of the set."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence</a>
+# Title of topic (x364bd4b8) on the ja stage
+# Title of topic (x364bd4b8) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear dependence and independence"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence</a>
+# Description of topic (x364bd4b8) on the ja stage
+# Description of topic (x364bd4b8) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "If no vector in a set can be created from a linear combination of the other vectors in the set, then we say that the set is linearly independent.  Linearly independent sets are great because there aren't any extra, unnecessary vectors lying around in the set. :)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination</a>
+# Title of topic (x1bd580cd) on the ja stage
+# Title of topic (x1bd580cd) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Matrices for solving systems by elimination"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x1bd580cd) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x1bd580cd) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving systems by elimination"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination</a>
+# Description of topic (x1bd580cd) on the ja stage
+# Description of topic (x1bd580cd) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This tutorial is a bit of an excursion back to you Algebra II days when you first solved systems of equations (and possibly used matrices to do so).  In this tutorial, we did a bit deeper than you may have then, with emphasis on valid row operations and getting a matrix into reduced row echelon form."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space</a>
+# Title of topic (xb622e18e) on the ja stage
+# Title of topic (xb622e18e) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Null space and column space"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space</a>
+# Description of topic (xb622e18e) on the ja stage
+# Description of topic (xb622e18e) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We will define matrix-vector multiplication and think about the set of vectors that satisfy Ax=0 for a given matrix A (this is the null space of A).  We then proceed to think about the linear combinations of the columns of a matrix (column space).  Both of these ideas help us think the possible solutions to the Matrix-vector equation Ax=b."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis</a>
+# Title of topic (x77d03ae7) on the ja stage
+# Title of topic (x77d03ae7) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Subspaces and the basis for a subspace"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/subspace-basis</a>
+# Description of topic (x77d03ae7) on the ja stage
+# Description of topic (x77d03ae7) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this tutorial, we'll define what a \"subspace\" is --essentially a subset of vectors that has some special properties.  We'll then think of a set of vectors that can most efficiently be use to construct a subspace which we will call a \"basis\"."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors</a>
+# Description of topic (x7291eb9f) on the ja stage
+# Description of topic (x7291eb9f) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We will begin our journey through linear algebra by defining and conceptualizing what a vector is (rather than starting with matrices and matrix operations like in a more basic algebra course) and defining some basic operations (like addition, subtraction and scalar multiplication)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces</a>
+# Title of topic (x5b1b89e0) on the ja stage
+# Title of topic (x5b1b89e0) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Vectors and spaces"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces">http://translate.khanacademy.org/math/linear-algebra/vectors-and-spaces</a>
+# Description of topic (x5b1b89e0) on the ja stage
+# Description of topic (x5b1b89e0) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's get our feet wet by thinking in terms of vectors and spaces."
+msgstr ""
+
