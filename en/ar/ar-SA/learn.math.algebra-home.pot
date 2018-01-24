@@ -1,0 +1,2590 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2018-01-24 10:54-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.algebra-home.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope/hor-and-ver-lines-alg-basics">http://translate.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope/hor-and-ver-lines-alg-basics</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-linear-eq-func/hor-and-ver-lines-alg">http://translate.khanacademy.org/math/algebra-home/alg-linear-eq-func/hor-and-ver-lines-alg</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/two-var-linear-equations/hor-and-ver-lines-alg1">http://translate.khanacademy.org/math/algebra/two-var-linear-equations/hor-and-ver-lines-alg1</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-straight-lines/copy-of-hor-and-ver-lines-alg">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-straight-lines/copy-of-hor-and-ver-lines-alg</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-two-var-eq/hor-and-ver-lines-math1">http://translate.khanacademy.org/math/math1/math1-two-var-eq/hor-and-ver-lines-math1</a>
+# Description of topic (x16e46007f479a461) on the pt stage
+# Description of topic (x48af2c6c48c7c792) on the pt stage
+# Description of topic (x53e62f2e5e271541) on the lol stage
+# Description of topic (xe80713c286c3016f) on the bg stage
+# Description of topic (xe80713c286c3016f) on the ka stage
+# Description of topic (xe80713c286c3016f) on the pt stage
+# Description of topic (xe80713c286c3016f) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "You know what horizontal and vertical lines are, but how do their equations look? And what is their slope? Learn all about it in this tutorial."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-absolute-value">http://translate.khanacademy.org/math/algebra-home/alg-absolute-value</a>
+# Title of topic (x45f8be3d) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Absolute value equations, functions, & inequalities"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-absolute-value">http://translate.khanacademy.org/math/algebra-home/alg-absolute-value</a>
+# Description of topic (x45f8be3d) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Solving absolute value equations\n"
+"- Graphing absolute value functions\n"
+"- Solving absolute value inequalities"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq">http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq</a>
+# Title of topic (x70bad2b9) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving basic equations & inequalities (one variable, linear)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq">http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq</a>
+# Description of topic (x70bad2b9) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Solving one-variable linear equations\n"
+"- Solving one-variable linear inequalities"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-adding-and-subtracting-complex-numbers">http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-adding-and-subtracting-complex-numbers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-adding-and-subtracting-complex-numbers">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-adding-and-subtracting-complex-numbers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-complex-num/math2-add-sub-complex-num">http://translate.khanacademy.org/math/math2/math2-complex-num/math2-add-sub-complex-num</a>
+# Title of topic (xed8c36df) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Adding & subtracting complex numbers"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-complex-conjugates-and-dividing-complex-numbers">http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-complex-conjugates-and-dividing-complex-numbers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-complex-conjugates-and-dividing-complex-numbers">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-complex-conjugates-and-dividing-complex-numbers</a>
+# Title of topic (x4d1d045d) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Complex conjugates & dividing complex numbers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-multiplying-and-dividing-complex-numbers-in-polar-form">http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-multiplying-and-dividing-complex-numbers-in-polar-form</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-multiplying-and-dividing-complex-numbers-in-polar-form">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-multiplying-and-dividing-complex-numbers-in-polar-form</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/multiplying-and-dividing-complex-numbers-in-polar-form">http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/multiplying-and-dividing-complex-numbers-in-polar-form</a>
+# Description of topic (x62f80d4d) on the bg stage
+# Description of topic (x62f80d4d) on the de stage
+# Description of topic (x62f80d4d) on the pt stage
+# Description of topic (xb51a59b4) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how complex multiplication and division work when the numbers are given in polar form. Amazingly enough, this is much easier than multiplication and division in rectangular form."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-multiplying-and-dividing-complex-numbers-in-polar-form">http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-multiplying-and-dividing-complex-numbers-in-polar-form</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-multiplying-and-dividing-complex-numbers-in-polar-form">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-multiplying-and-dividing-complex-numbers-in-polar-form</a>
+# Title of topic (xb51a59b4) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiplying & dividing complex numbers in polar form"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers">http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers</a>
+# Description of topic (x81a51245) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Adding, subtracting, multiplying, & dividing complex numbers\n"
+"- Complex plane\n"
+"- Absolute value & angle of complex numbers\n"
+"- Polar coordinates of complex numbers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-conic-sections">http://translate.khanacademy.org/math/algebra-home/alg-conic-sections</a>
+# Description of topic (x1eec33f5) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers the four conic sections and their equations: Circle, Ellipse, Parabola, and Hyperbola."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-advanced-interpretation-of-exponential-models">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-advanced-interpretation-of-exponential-models</a>
+# Title of topic (xcf7d994b) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Advanced interpretation of exponential models (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-change-of-base-formula-for-logarithms">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-change-of-base-formula-for-logarithms</a>
+# Title of topic (xb38515c1) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The change of base formula for logarithms (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-constructing-exponential-models-according-to-rate-of-change">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-constructing-exponential-models-according-to-rate-of-change</a>
+# Title of topic (x55d531cc) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Constructing exponential models according to rate of change (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-distinguishing-between-linear-and-exponential-growth">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-distinguishing-between-linear-and-exponential-growth</a>
+# Title of topic (xdd07948a) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Distinguishing between linear and exponential growth (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-e-and-the-natural-logarithm">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-e-and-the-natural-logarithm</a>
+# Title of topic (x5494fb6b) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The constant e and the natural logarithm (Algebra 2 level)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-exp-prop-review">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-exp-prop-review</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-exp-prop-review">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-exp-prop-review</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/ncert-9th-math1-exp-prop-review">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/ncert-9th-math1-exp-prop-review</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-exp-prop-review">http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-exp-prop-review</a>
+# Description of topic (x1a35feb66ba3ebd7) on the bg stage
+# Description of topic (x1a35feb66ba3ebd7) on the ka stage
+# Description of topic (x1a35feb66ba3ebd7) on the pt stage
+# Description of topic (x1a35feb66ba3ebd7) on the pt-pt stage
+# Description of topic (xa4071dd5d9a03020) on the lol stage
+# Description of topic (xdf38d5159cee52ff) on the hi stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Practice using the exponent properties to rewrite powers, where the exponent is an integer that can either be positive or negative."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-graphs-of-exponential-functions">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-graphs-of-exponential-functions</a>
+# Title of topic (xba549a60) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphs of exponential functions (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-graphs-of-logarithmic-functions">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-graphs-of-logarithmic-functions</a>
+# Title of topic (x101e07ee) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphs of logarithmic functions (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-interpreting-the-rate-of-change-of-exponential-models">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-interpreting-the-rate-of-change-of-exponential-models</a>
+# Title of topic (xda64d5f4) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Interpreting the rate of change of exponential models (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-introduction-to-logarithms">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-introduction-to-logarithms</a>
+# Title of topic (x771fa5dd) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to logarithms (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-introduction-to-rational-exponents-and-radicals">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-introduction-to-rational-exponents-and-radicals</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/rational-exponents-intro">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/rational-exponents-intro</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-introduction-to-rational-exponents-and-radicals">http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-introduction-to-rational-exponents-and-radicals</a>
+# Title of topic (x8f8d33673e8d7abb) on the bg stage
+# Title of topic (x8f8d33673e8d7abb) on the ka stage
+# Title of topic (x8f8d33673e8d7abb) on the pt stage
+# Title of topic (x8f8d33673e8d7abb) on the pt-pt stage
+# Title of topic (xd61e4187eaed7a9d) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Rational exponents intro"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-introduction-to-rational-exponents-and-radicals">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-introduction-to-rational-exponents-and-radicals</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/rational-exponents-intro">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/rational-exponents-intro</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-introduction-to-rational-exponents-and-radicals">http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-introduction-to-rational-exponents-and-radicals</a>
+# Description of topic (x8f8d33673e8d7abb) on the bg stage
+# Description of topic (x8f8d33673e8d7abb) on the ka stage
+# Description of topic (x8f8d33673e8d7abb) on the pt stage
+# Description of topic (x8f8d33673e8d7abb) on the pt-pt stage
+# Description of topic (xd61e4187eaed7a9d) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn the definition for raising a number by a fractional exponent, like 8^⅔."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-logarithmic-equations">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-logarithmic-equations</a>
+# Title of topic (x132ebc92) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Logarithmic equations (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-logarithmic-scale">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-logarithmic-scale</a>
+# Title of topic (x0088916f) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Logarithmic scale (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-properties-of-logarithms">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-properties-of-logarithms</a>
+# Title of topic (xf5cf0afa) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Properties of logarithms (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-radicals">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-radicals</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-radicals">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-radicals</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-radicals">http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-radicals</a>
+# Title of topic (x7d41e1d1d3ce1082) on the bg stage
+# Title of topic (x7d41e1d1d3ce1082) on the ka stage
+# Title of topic (x7d41e1d1d3ce1082) on the pt stage
+# Title of topic (x7d41e1d1d3ce1082) on the pt-pt stage
+# Title of topic (xcfad1618a7d4725f) on the pt stage
+# Title of topic (xf6623ab882e6cd11) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Radicals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-radicals">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-radicals</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-radicals">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-radicals</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-radicals">http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-radicals</a>
+# Description of topic (x7d41e1d1d3ce1082) on the bg stage
+# Description of topic (x7d41e1d1d3ce1082) on the ka stage
+# Description of topic (x7d41e1d1d3ce1082) on the pt stage
+# Description of topic (x7d41e1d1d3ce1082) on the pt-pt stage
+# Description of topic (xcfad1618a7d4725f) on the pt stage
+# Description of topic (xf6623ab882e6cd11) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Radicals (also known as roots) are a generalization of square roots. They are the inverse operation of any power. For example, the 5th root of 32 is 2, because 2⁵=32."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-rational-exp-eval">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-rational-exp-eval</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-rational-exp-eval">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-rational-exp-eval</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-rational-exp-eval">http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-rational-exp-eval</a>
+# Title of topic (xb6314bdbca21059d) on the bg stage
+# Title of topic (xb6314bdbca21059d) on the ka stage
+# Title of topic (xb6314bdbca21059d) on the pt stage
+# Title of topic (xb6314bdbca21059d) on the pt-pt stage
+# Title of topic (xb84028600b50e700) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Advanced exponent & radical evaluation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-rational-exp-eval">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-rational-exp-eval</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-rational-exp-eval">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-rational-exp-eval</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-rational-exp-eval">http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-rational-exp-eval</a>
+# Description of topic (xb6314bdbca21059d) on the bg stage
+# Description of topic (xb6314bdbca21059d) on the ka stage
+# Description of topic (xb6314bdbca21059d) on the pt stage
+# Description of topic (xb6314bdbca21059d) on the pt-pt stage
+# Description of topic (xb84028600b50e700) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Evaluate elaborate expressions that contain radicals and fractional exponents."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-rational-exponents-and-the-properties-of-exponents">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-rational-exponents-and-the-properties-of-exponents</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/rational-exponents-and-the-properties-of-exponents">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/rational-exponents-and-the-properties-of-exponents</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/ncert-9th-math1-rational-exponents-and-the-properties-of-exponents">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-1-number-systems/ncert-9th-math1-rational-exponents-and-the-properties-of-exponents</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-rational-exponents-and-the-properties-of-exponents">http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-rational-exponents-and-the-properties-of-exponents</a>
+# Description of topic (x55fba4d8e0d1b7be) on the bg stage
+# Description of topic (x55fba4d8e0d1b7be) on the ka stage
+# Description of topic (x55fba4d8e0d1b7be) on the pt stage
+# Description of topic (x55fba4d8e0d1b7be) on the pt-pt stage
+# Description of topic (xe170ec724fd69a53) on the lol stage
+# Description of topic (xe24eff25) on the pt stage
+# Description of topic (xf5d5732e216134a0) on the hi stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "In this tutorial you will rewrite variable expressions with rational exponents using the properties of exponents."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-simplify-higher-index-roots">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-simplify-higher-index-roots</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-simplify-higher-index-roots">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-simplify-higher-index-roots</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-simplify-higher-index-roots">http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-simplify-higher-index-roots</a>
+# Title of topic (x42751683b97f4f40) on the pt stage
+# Title of topic (xe213369ee3535110) on the lol stage
+# Title of topic (xfe231ef1b25027b4) on the bg stage
+# Title of topic (xfe231ef1b25027b4) on the ka stage
+# Title of topic (xfe231ef1b25027b4) on the pt stage
+# Title of topic (xfe231ef1b25027b4) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Simplifying radicals (higher-index roots)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-simplify-higher-index-roots">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-simplify-higher-index-roots</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-simplify-higher-index-roots">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-simplify-higher-index-roots</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-simplify-higher-index-roots">http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-simplify-higher-index-roots</a>
+# Description of topic (x42751683b97f4f40) on the pt stage
+# Description of topic (xe213369ee3535110) on the lol stage
+# Description of topic (xfe231ef1b25027b4) on the bg stage
+# Description of topic (xfe231ef1b25027b4) on the ka stage
+# Description of topic (xfe231ef1b25027b4) on the pt stage
+# Description of topic (xfe231ef1b25027b4) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Just like we can simplify square roots, we can simplify other radicals. This tutorial covers the simplification of higher-index roots. For example, ∜48=2⋅∜3."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-simplify-radical-expressions">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-simplify-radical-expressions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-simplify-square-roots">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-simplify-square-roots</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-simplify-radical-expressions">http://translate.khanacademy.org/math/math1/math1-rational-exponents/math1-simplify-radical-expressions</a>
+# Description of topic (x04b4278f4c1b7160) on the bg stage
+# Description of topic (x04b4278f4c1b7160) on the ka stage
+# Description of topic (x04b4278f4c1b7160) on the pt stage
+# Description of topic (x04b4278f4c1b7160) on the pt-pt stage
+# Description of topic (x94602307aa81f341) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "We know how to evaluate square roots of perfect squares. For example, √16=4. What about the other square roots? It's harder to give an exact number, but we can simplify them so we have a better understanding of their value. For example, √32=4⋅√2. Learn more about it in this tutorial."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-solving-exponential-equations-with-logarithms">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-solving-exponential-equations-with-logarithms</a>
+# Title of topic (x5ba41d69) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving exponential equations with logarithms (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-solving-exponential-models">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/alg-solving-exponential-models</a>
+# Title of topic (x52592702) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving exponential models (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/miscellaneous-radicals">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/miscellaneous-radicals</a>
+# Title of topic (x17e78e515fb25e4b) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Radicals (miscellaneous videos)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/miscellaneous-radicals">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/miscellaneous-radicals</a>
+# Description of topic (x17e78e515fb25e4b) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Various videos we have that cover advanced/special skills related to radical expressions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-exp-log">http://translate.khanacademy.org/math/math3/math3-exp-log</a>
+# Title of topic (x8dcb3354) on the lol stage
+# Title of topic (xf486bed1) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Exponential & logarithmic functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log</a>
+# Description of topic (x8dcb3354) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Radicals & rational exponents\n"
+"- Graphs & end behavior of exponential functions\n"
+"- Manipulating exponential expressions using exponent properties\n"
+"- Exponential growth & decay\n"
+"- Modeling with exponential functions\n"
+"- Solving exponential equations\n"
+"- Logarithm properties\n"
+"- Solving logarithmic equations\n"
+"- Graphing logarithmic functions\n"
+"- Logarithmic scale"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-combining-and-composing-modeling-functions">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-combining-and-composing-modeling-functions</a>
+# Title of topic (xd7eb92ad) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Modeling situations by combining and composing functions (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-comparing-features-of-functions">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-comparing-features-of-functions</a>
+# Title of topic (xaf83a1b8) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Comparing features of functions (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-determining-the-range-of-a-function">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-determining-the-range-of-a-function</a>
+# Title of topic (xdd447a29) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determining the range of a function (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-domain-of-advanced-functions">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-domain-of-advanced-functions</a>
+# Title of topic (x630b4281) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determining the domain of advanced functions (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-finding-inverse-functions">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-finding-inverse-functions</a>
+# Title of topic (x0c1fb68e) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding inverse functions (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-funciton-composition">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-funciton-composition</a>
+# Title of topic (x70586b8b) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Composing functions (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-graphing-nonlinear-piecewise-functions">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-graphing-nonlinear-piecewise-functions</a>
+# Title of topic (xaf9dbaa9) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphing nonlinear piecewise functions (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-interpreting-the-end-behavior-of-functions">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-interpreting-the-end-behavior-of-functions</a>
+# Title of topic (x24f1af59) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Interpreting the end behavior of algebraic models (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-interpreting-the-periodicity-of-functions">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-interpreting-the-periodicity-of-functions</a>
+# Title of topic (x83582589) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Interpreting the periodicity of algebraic models (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-interpreting-the-symmetry-of-functions">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-interpreting-the-symmetry-of-functions</a>
+# Title of topic (x05f5c663) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Interpreting the symmetry of algebraic models (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-introduction-to-inverses-of-functions">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-introduction-to-inverses-of-functions</a>
+# Title of topic (x1575badc) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to inverses of functions (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-invertible-functions">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-invertible-functions</a>
+# Title of topic (x6d7a1198) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determining whether a function is invertible (Algebra 2 level)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-piecewise-functions">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-piecewise-functions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-functions/math1-piecewise-functions">http://translate.khanacademy.org/math/math1/math1-functions/math1-piecewise-functions</a>
+# Description of topic (xa619bfca) on the de stage
+# Description of topic (xa619bfca) on the es stage
+# Description of topic (xaee8f85d) on the lol stage
+# Description of topic (xb81f9b8b) on the es stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Piecewise functions are functions that have different assignment rules for different numbers. For example, a function can return x² for any negative x-value and return x³ for any non-negative x-value."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-recognizing-functions-ddp">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-recognizing-functions-ddp</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/recognizing-functions-ddp">http://translate.khanacademy.org/math/algebra/algebra-functions/recognizing-functions-ddp</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-relations-and-functions/copy-of-recognizing-functions-ddp">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-relations-and-functions/copy-of-recognizing-functions-ddp</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-functions/math1-recognizing-functions">http://translate.khanacademy.org/math/math1/math1-functions/math1-recognizing-functions</a>
+# Description of topic (x75ff98d8) on the bg stage
+# Description of topic (x75ff98d8) on the ka stage
+# Description of topic (x75ff98d8) on the pt stage
+# Description of topic (x75ff98d8) on the pt-pt stage
+# Description of topic (xd067840f) on the lol stage
+# Description of topic (xe9ec38ab) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to distinguish between two-variable relationships that are functions and two-variable relationships that aren't functions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-verifying-that-functions-are-inverses">http://translate.khanacademy.org/math/algebra-home/alg-functions/alg-verifying-that-functions-are-inverses</a>
+# Title of topic (xafece04f) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Verifying that functions are inverses (Algebra 2 level)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-functions">http://translate.khanacademy.org/math/algebra-home/alg-functions</a>
+# Description of topic (xafa85e24) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Evaluating functions\n"
+"- Domain & range of functions\n"
+"- Graphical features of functions\n"
+"- Average rate of change of functions\n"
+"- Function combination and composition\n"
+"- Function transformations (shift, reflect, stretch)\n"
+"- Piecewise functions\n"
+"- Inverse functions\n"
+"- Two-variable functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases">http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases</a>
+# Description of topic (x704b78a9) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Most of us are used to using the digits 0-9 to represent numbers in the base-10 (decimal)number system.  In this tutorial, we'll see that is just one of many (really infinite) number systems.  In particular, we will focus on the binary (base-2) and hexadecimal (base-16) systems."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra">http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra</a>
+# Description of topic (xfee28fc8) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Evaluating algebraic expressions\n"
+"- Manipulating algebraic expressions & equivalent expressions\n"
+"- Seeing structure in expressions\n"
+"- Irrational numbers\n"
+"- Division by zero"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-linear-eq-func/hor-and-ver-lines-alg">http://translate.khanacademy.org/math/algebra-home/alg-linear-eq-func/hor-and-ver-lines-alg</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x53e62f2e5e271541) on the lol stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Horizontal & vertical lines"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-linear-eq-func">http://translate.khanacademy.org/math/algebra-home/alg-linear-eq-func</a>
+# Title of topic (x8335e029) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear equations, functions, & graphs"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-linear-eq-func">http://translate.khanacademy.org/math/algebra-home/alg-linear-eq-func</a>
+# Description of topic (x8335e029) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Intercepts of linear equations/functions\n"
+"- Slope of linear equations/functions\n"
+"- Slope-intercept, point-slope, & standard forms\n"
+"- Graphing linear equations/functions\n"
+"- Writing linear equations/functions\n"
+"- Interpreting linear equations/functions\n"
+"- Linear equations/functions word problems"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-determinants-and-inverses-of-large-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-determinants-and-inverses-of-large-matrices</a>
+# Title of topic (x126004ad) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Determinants & inverses of large matrices"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-row-echelon-and-gaussian-elimination">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-row-echelon-and-gaussian-elimination</a>
+# Title of topic (xbaea483e) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Row-echelon form & Gaussian elimination"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices</a>
+# Description of topic (xbd2d7487) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Adding & subtracting matrices\n"
+"- Multiplying matrices by scalars\n"
+"- Multiplying matrices\n"
+"- Representing & solving linear systems with matrices\n"
+"- Matrix inverses\n"
+"- Matrix determinants\n"
+"- Matrices as transformations\n"
+"- Matrices applications"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-modeling/alg-one-variable-modeling">http://translate.khanacademy.org/math/algebra-home/alg-modeling/alg-one-variable-modeling</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-modeling/math2-one-var-modeling">http://translate.khanacademy.org/math/math2/math2-modeling/math2-one-var-modeling</a>
+# Title of topic (x7d7a5068) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Modeling with one-variable equations & inequalities"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-modeling">http://translate.khanacademy.org/math/algebra-home/alg-modeling</a>
+# Title of topic (xb17d5ecb) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Algebraic modeling"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-modeling">http://translate.khanacademy.org/math/algebra-home/alg-modeling</a>
+# Description of topic (xb17d5ecb) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers various subjects that concern modeling real-world situations with algebra."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-polynomials/alg-add-subtract-poly-two-var">http://translate.khanacademy.org/math/algebra-home/alg-polynomials/alg-add-subtract-poly-two-var</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-polynomials/math2-add-sub-poly-two-var">http://translate.khanacademy.org/math/math2/math2-polynomials/math2-add-sub-poly-two-var</a>
+# Title of topic (x0077ba6d) on the bg stage
+# Title of topic (x0077ba6d) on the pt stage
+# Title of topic (xe57dd125) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Adding & subtracting polynomials: two variables"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-polynomials/alg-binomial-theorem">http://translate.khanacademy.org/math/algebra-home/alg-polynomials/alg-binomial-theorem</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-binomial-theorem">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-binomial-theorem</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-polynomials/math3-binomial-theorem">http://translate.khanacademy.org/math/math3/math3-polynomials/math3-binomial-theorem</a>
+# Title of topic (x995859dd) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Binomial theorem"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-polynomials/alg-fundamental-theorem-of-algebra">http://translate.khanacademy.org/math/algebra-home/alg-polynomials/alg-fundamental-theorem-of-algebra</a>
+# Title of topic (xb769e8da) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Fundamental Theorem of Algebra"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-polynomials/alg-multiplying-monomials">http://translate.khanacademy.org/math/algebra-home/alg-polynomials/alg-multiplying-monomials</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-monomials">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-monomials</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-algebraic-exp-identities/in-in-8th-algebra-multiplying-monomials">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-algebraic-exp-identities/in-in-8th-algebra-multiplying-monomials</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-polynomials/math2-mul-monomials">http://translate.khanacademy.org/math/math2/math2-polynomials/math2-mul-monomials</a>
+# Description of topic (x1425e2d8) on the bg stage
+# Description of topic (x1425e2d8) on the pt stage
+# Description of topic (x1425e2d8) on the pt-pt stage
+# Description of topic (xc3e67c50) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "As an intro to more elaborate polynomial multiplication, learn how to multiply monomials (which are polynomials with a single term). For example, multiply 2x³ and 5x⁷."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-polynomials">http://translate.khanacademy.org/math/algebra-home/alg-polynomials</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-polynomials">http://translate.khanacademy.org/math/math3/math3-polynomials</a>
+# Title of topic (x952b6bbb) on the lol stage
+# Title of topic (xa6c1ce5e) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Polynomial expressions, equations, & functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-polynomials">http://translate.khanacademy.org/math/algebra-home/alg-polynomials</a>
+# Description of topic (x952b6bbb) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Adding, subtracting, and multiplying polynomial expressions\n"
+"- Factoring polynomial expressions as the product of linear factors\n"
+"- Dividing polynomial expressions\n"
+"- Proving polynomials identities\n"
+"- Solving polynomial equations & finding the zeros of polynomial functions\n"
+"- Graphing polynomial functions\n"
+"- Symmetry of functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-quadratics/alg-features-of-quadratic-functions">http://translate.khanacademy.org/math/algebra-home/alg-quadratics/alg-features-of-quadratic-functions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/quadratics/features-of-quadratic-functions">http://translate.khanacademy.org/math/algebra/quadratics/features-of-quadratic-functions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-quadratics/math2-quadratics-features">http://translate.khanacademy.org/math/math2/math2-quadratics/math2-quadratics-features</a>
+# Title of topic (x620bf61c) on the bg stage
+# Title of topic (x620bf61c) on the de stage
+# Title of topic (x620bf61c) on the ka stage
+# Title of topic (x620bf61c) on the pt stage
+# Title of topic (x620bf61c) on the pt-pt stage
+# Title of topic (xa095021d) on the de stage
+# Title of topic (xa095021d) on the es stage
+# Title of topic (xa095021d) on the lol stage
+# Title of topic (xa095021d) on the pt stage
+# Title of topic (xb9d7cf57) on the bg stage
+# Title of topic (xb9d7cf57) on the de stage
+# Title of topic (xb9d7cf57) on the ka stage
+# Title of topic (xb9d7cf57) on the pt stage
+# Title of topic (xb9d7cf57) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Features & forms of quadratic functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-quadratics/alg-transforming-quadratic-functions">http://translate.khanacademy.org/math/algebra-home/alg-quadratics/alg-transforming-quadratic-functions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/quadratics/transforming-quadratic-functions">http://translate.khanacademy.org/math/algebra/quadratics/transforming-quadratic-functions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-quadratics/math2-transforming-quadratics">http://translate.khanacademy.org/math/math2/math2-quadratics/math2-transforming-quadratics</a>
+# Title of topic (x5ba556f5) on the bg stage
+# Title of topic (x5ba556f5) on the ka stage
+# Title of topic (x5ba556f5) on the pt stage
+# Title of topic (x5ba556f5) on the pt-pt stage
+# Title of topic (x7f2813b4) on the lol stage
+# Title of topic (xee77911f) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Transforming parabolas"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-quadratics/factored-form-alg">http://translate.khanacademy.org/math/algebra-home/alg-quadratics/factored-form-alg</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/quadratics/factored-form-alg1">http://translate.khanacademy.org/math/algebra/quadratics/factored-form-alg1</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-quadratics/math2-factored-form">http://translate.khanacademy.org/math/math2/math2-quadratics/math2-factored-form</a>
+# Title of topic (x11b6afe82ae69489) on the bg stage
+# Title of topic (x11b6afe82ae69489) on the ka stage
+# Title of topic (x11b6afe82ae69489) on the pt stage
+# Title of topic (x11b6afe82ae69489) on the pt-pt stage
+# Title of topic (x1d8862d35a9d9f19) on the bg stage
+# Title of topic (x1d8862d35a9d9f19) on the ka stage
+# Title of topic (x1d8862d35a9d9f19) on the pt stage
+# Title of topic (x55a24397ab62177b) on the es stage
+# Title of topic (x55a24397ab62177b) on the lol stage
+# Title of topic (x55a24397ab62177b) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Quadratic factored form"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-quadratics/factored-form-alg">http://translate.khanacademy.org/math/algebra-home/alg-quadratics/factored-form-alg</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/quadratics/factored-form-alg1">http://translate.khanacademy.org/math/algebra/quadratics/factored-form-alg1</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-quadratics/math2-factored-form">http://translate.khanacademy.org/math/math2/math2-quadratics/math2-factored-form</a>
+# Description of topic (x11b6afe82ae69489) on the bg stage
+# Description of topic (x11b6afe82ae69489) on the ka stage
+# Description of topic (x11b6afe82ae69489) on the pt stage
+# Description of topic (x11b6afe82ae69489) on the pt-pt stage
+# Description of topic (x1d8862d35a9d9f19) on the bg stage
+# Description of topic (x1d8862d35a9d9f19) on the ka stage
+# Description of topic (x1d8862d35a9d9f19) on the pt stage
+# Description of topic (x55a24397ab62177b) on the es stage
+# Description of topic (x55a24397ab62177b) on the lol stage
+# Description of topic (x55a24397ab62177b) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The factored form of a quadratic function is an expression that is, well, factored! Like f(x)=(2x+1)(x-3). Learn how to analyze functions given in this form to find their zeros, their vertex, and their graph."
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/algebra/quadratics/parabolas-intro-alg1/e/parabolas-intro">http://translate.khanacademy.org/math/algebra/quadratics/parabolas-intro-alg1/e/parabolas-intro</a>
+# Pretty display name for exercise (xdd647b3fba99058a) on the lol stage
+# Pretty display name for exercise (xdd647b3fba99058a) on the pt stage
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-quadratics/parabolas-intro-alg">http://translate.khanacademy.org/math/algebra-home/alg-quadratics/parabolas-intro-alg</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/quadratics/parabolas-intro-alg1">http://translate.khanacademy.org/math/algebra/quadratics/parabolas-intro-alg1</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-quadratics/math2-parabolas-intro">http://translate.khanacademy.org/math/math2/math2-quadratics/math2-parabolas-intro</a>
+# Title of topic (x0bc9d16e07110f68) on the lol stage
+# Title of topic (xf4afc6b664c218c8) on the bg stage
+# Title of topic (xf4afc6b664c218c8) on the ka stage
+# Title of topic (xf4afc6b664c218c8) on the pt stage
+# Title of topic (xf4afc6b664c218c8) on the pt-pt stage
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/quadratics/parabolas-intro-alg1/v/parabolas-intro">http://translate.khanacademy.org/math/algebra/quadratics/parabolas-intro-alg1/v/parabolas-intro</a>
+# Title of video (x3ffe2e08365a9116) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Parabolas intro"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-quadratics/parabolas-intro-alg">http://translate.khanacademy.org/math/algebra-home/alg-quadratics/parabolas-intro-alg</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/quadratics/parabolas-intro-alg1">http://translate.khanacademy.org/math/algebra/quadratics/parabolas-intro-alg1</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-quadratics/math2-parabolas-intro">http://translate.khanacademy.org/math/math2/math2-quadratics/math2-parabolas-intro</a>
+# Description of topic (x0bc9d16e07110f68) on the lol stage
+# Description of topic (xf4afc6b664c218c8) on the bg stage
+# Description of topic (xf4afc6b664c218c8) on the ka stage
+# Description of topic (xf4afc6b664c218c8) on the pt stage
+# Description of topic (xf4afc6b664c218c8) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn what parabolas are and about their main features: their general shape, vertex, and axis of symmetry."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-quadratics/quad-standard-form-alg">http://translate.khanacademy.org/math/algebra-home/alg-quadratics/quad-standard-form-alg</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/quadratics/quad-standard-form-alg1">http://translate.khanacademy.org/math/algebra/quadratics/quad-standard-form-alg1</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-quadratics/math2-quad-standard-form">http://translate.khanacademy.org/math/math2/math2-quadratics/math2-quad-standard-form</a>
+# Title of topic (x54122a25) on the lol stage
+# Title of topic (x80893a54) on the bg stage
+# Title of topic (x80893a54) on the ka stage
+# Title of topic (x80893a54) on the pt stage
+# Title of topic (x80893a54) on the pt-pt stage
+# Title of topic (xf44db6ed) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Quadratic standard form"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-quadratics/vertex-form-alg">http://translate.khanacademy.org/math/algebra-home/alg-quadratics/vertex-form-alg</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/quadratics/vertex-form-alg1">http://translate.khanacademy.org/math/algebra/quadratics/vertex-form-alg1</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-quadratics/math2-vertex-form">http://translate.khanacademy.org/math/math2/math2-quadratics/math2-vertex-form</a>
+# Title of topic (x51861fd7045c22a8) on the bg stage
+# Title of topic (x51861fd7045c22a8) on the de stage
+# Title of topic (x51861fd7045c22a8) on the ka stage
+# Title of topic (x51861fd7045c22a8) on the pt stage
+# Title of topic (x51861fd7045c22a8) on the pt-pt stage
+# Title of topic (x56a4874163f1bce8) on the bg stage
+# Title of topic (x56a4874163f1bce8) on the de stage
+# Title of topic (x56a4874163f1bce8) on the ka stage
+# Title of topic (x56a4874163f1bce8) on the pt stage
+# Title of topic (x56a4874163f1bce8) on the pt-pt stage
+# Title of topic (x7ca6b15f1d9141ba) on the de stage
+# Title of topic (x7ca6b15f1d9141ba) on the es stage
+# Title of topic (x7ca6b15f1d9141ba) on the lol stage
+# Title of topic (x7ca6b15f1d9141ba) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Quadratic vertex form"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-quadratics/vertex-form-alg">http://translate.khanacademy.org/math/algebra-home/alg-quadratics/vertex-form-alg</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/quadratics/vertex-form-alg1">http://translate.khanacademy.org/math/algebra/quadratics/vertex-form-alg1</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-quadratics/math2-vertex-form">http://translate.khanacademy.org/math/math2/math2-quadratics/math2-vertex-form</a>
+# Description of topic (x51861fd7045c22a8) on the bg stage
+# Description of topic (x51861fd7045c22a8) on the de stage
+# Description of topic (x51861fd7045c22a8) on the ka stage
+# Description of topic (x51861fd7045c22a8) on the pt stage
+# Description of topic (x51861fd7045c22a8) on the pt-pt stage
+# Description of topic (x56a4874163f1bce8) on the bg stage
+# Description of topic (x56a4874163f1bce8) on the de stage
+# Description of topic (x56a4874163f1bce8) on the ka stage
+# Description of topic (x56a4874163f1bce8) on the pt stage
+# Description of topic (x56a4874163f1bce8) on the pt-pt stage
+# Description of topic (x7ca6b15f1d9141ba) on the de stage
+# Description of topic (x7ca6b15f1d9141ba) on the es stage
+# Description of topic (x7ca6b15f1d9141ba) on the lol stage
+# Description of topic (x7ca6b15f1d9141ba) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The vertex form of a quadratic function shows the coordinates of the parabola's vertex. For example, the vertex of g(x)=(x-1)²+2 is at (1,2). Learn how to analyze functions given in this form to find their zeros, their vertex, and their graph."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-quadratics">http://translate.khanacademy.org/math/algebra-home/alg-quadratics</a>
+# Title of topic (x9c4ed357) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Quadratic equations & functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-quadratics">http://translate.khanacademy.org/math/algebra-home/alg-quadratics</a>
+# Description of topic (x9c4ed357) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Solving quadratic equations\n"
+"- Graphing quadratic functions\n"
+"- Features of quadratic functions\n"
+"- Quadratic equations/functions word problems\n"
+"- Systems of quadratic equations\n"
+"- Quadratic inequalities"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-radical-eq-func">http://translate.khanacademy.org/math/algebra-home/alg-radical-eq-func</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-radical-eq-func">http://translate.khanacademy.org/math/math3/math3-radical-eq-func</a>
+# Title of topic (xc464e6e6) on the hy stage
+# Title of topic (xf86e2954) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Radical equations & functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-radical-eq-func">http://translate.khanacademy.org/math/algebra-home/alg-radical-eq-func</a>
+# Description of topic (xf86e2954) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Solving radical equations\n"
+"- Graphing radical functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func/alg-partial-fraction">http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func/alg-partial-fraction</a>
+# Description of topic (x6c8253a6) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Partial fraction expansion is a method that allows us to re-write a relatively complex rational expression as the sum of simpler rational expressions. For example, it allows us to rewrite (3x-8)/(x²-4x-5) as 7/(6x-30)+11/(6x+6)."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func/alg-rational-inequalities">http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func/alg-rational-inequalities</a>
+# Description of topic (xd7d8d9b3) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to solve inequalities that contain rational expressions. For instance, solve (x-3)/(x+4)≥2."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func">http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-rational-exp-eq-func">http://translate.khanacademy.org/math/math3/math3-rational-exp-eq-func</a>
+# Title of topic (x6dce9ae0) on the lol stage
+# Title of topic (xaebe04f9) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Rational expressions, equations, & functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func">http://translate.khanacademy.org/math/algebra-home/alg-rational-expr-eq-func</a>
+# Description of topic (x6dce9ae0) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Simplifying rational expressions\n"
+"- Multiplying, dividing, adding, & subtracting rational expressions\n"
+"- Rational equations\n"
+"- Graphing rational functions (including horizontal & vertical asymptotes)\n"
+"- Modeling with rational functions\n"
+"- Rational inequalities\n"
+"- Partial fraction expansion"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-sequences/alg-general-sequences">http://translate.khanacademy.org/math/algebra-home/alg-sequences/alg-general-sequences</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/sequences/general-sequences">http://translate.khanacademy.org/math/algebra/sequences/general-sequences</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-sequences/math1-general-sequences">http://translate.khanacademy.org/math/math1/math1-sequences/math1-general-sequences</a>
+# Title of topic (x007dddbf) on the bg stage
+# Title of topic (x007dddbf) on the pt stage
+# Title of topic (x007dddbf) on the pt-pt stage
+# Title of topic (x5eaa56ea) on the pt stage
+# Title of topic (x7cd10a1d) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "General sequences"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-sequences/alg-general-sequences">http://translate.khanacademy.org/math/algebra-home/alg-sequences/alg-general-sequences</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra/sequences/general-sequences">http://translate.khanacademy.org/math/algebra/sequences/general-sequences</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-sequences/math1-general-sequences">http://translate.khanacademy.org/math/math1/math1-sequences/math1-general-sequences</a>
+# Description of topic (x007dddbf) on the bg stage
+# Description of topic (x007dddbf) on the pt stage
+# Description of topic (x007dddbf) on the pt-pt stage
+# Description of topic (x5eaa56ea) on the pt stage
+# Description of topic (x7cd10a1d) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Arithmetic and geometric sequences are very useful, but they are definitely not the only kinds of sequences out there. Let's zoom out and consider some other kinds of sequences."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-sequences">http://translate.khanacademy.org/math/algebra-home/alg-sequences</a>
+# Description of topic (x3f292851) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Recursive and explicit formulas for sequences\n"
+"- Arithmetic sequences\n"
+"- Geometric sequences\n"
+"- Sequences word problems"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction</a>
+# Title of topic (xa81702b6) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Series & induction"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction</a>
+# Description of topic (xa81702b6) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Finite arithmetic series\n"
+"- Finite geometric series\n"
+"- Infinite geometric series\n"
+"- Deductive & inductive reasoning"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-introduction-to-systems-of-linear-equations">http://translate.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-introduction-to-systems-of-linear-equations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/systems-of-linear-equations/introduction-to-systems-of-linear-equations">http://translate.khanacademy.org/math/algebra/systems-of-linear-equations/introduction-to-systems-of-linear-equations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-systems-of-eq/math1-introduction-to-systems-of-linear-equations">http://translate.khanacademy.org/math/math1/math1-systems-of-eq/math1-introduction-to-systems-of-linear-equations</a>
+# Title of topic (x8b7d0d70) on the lol stage
+# Title of topic (xb5540612) on the bg stage
+# Title of topic (xb5540612) on the pt stage
+# Title of topic (xb5540612) on the pt-pt stage
+# Title of topic (xf11f7e19) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to systems of equations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-solving-equations-by-graphing">http://translate.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-solving-equations-by-graphing</a>
+# Title of topic (x37774ba4) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving equations by graphing (Algebra 2 level)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-system-of-equations">http://translate.khanacademy.org/math/algebra-home/alg-system-of-equations</a>
+# Title of topic (x30a5fe35) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "System of equations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-system-of-equations">http://translate.khanacademy.org/math/algebra-home/alg-system-of-equations</a>
+# Description of topic (x30a5fe35) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Solutions of linear systems\n"
+"- Graphing linear systems\n"
+"- Solving linear systems algebraically\n"
+"- Analyzing the number of solutions to systems\n"
+"- Linear systems word problems"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-amplitude-and-midline-of-sinusoids-from-formulas">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-amplitude-and-midline-of-sinusoids-from-formulas</a>
+# Title of topic (x9e7f6b3b) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding amplitude & midline of sinusoidal functions from their formulas"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-graphs-of-sine-cosine-tangent">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-graphs-of-sine-cosine-tangent</a>
+# Title of topic (x87fa6250) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The graphs of sine, cosine, & tangent"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-intro-to-amplitude-and-midline-of-sinusoids">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-intro-to-amplitude-and-midline-of-sinusoids</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-amplitude-midline-intro">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-amplitude-midline-intro</a>
+# Title of topic (x426cf5e4) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to amplitude, midline, & extrema of sinusoidal functions"
+msgstr ""
+
+# Exercise at (x27e41b84) on the pt stage.
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-pythagorean-identity">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-pythagorean-identity</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-pythagorean-identity">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-pythagorean-identity</a>
+# Title of topic (x4eea1f04) on the lol stage
+# Title of topic (xcdca8ebf) on the bg stage
+# Title of topic (xcdca8ebf) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Pythagorean identity"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-unit-circle-definition-of-trig-functions">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-unit-circle-definition-of-trig-functions</a>
+# Title of topic (x1b43a2e2) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The unit circle definition of sine, cosine, & tangent"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions</a>
+# Description of topic (x0de8e94c) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Unit circle definition of trig functions\n"
+"- Trig identities\n"
+"- Graphs of sinusoidal & trigonometric functions\n"
+"- Inverse trig functions & solving trig equations\n"
+"- Modeling with trig functions\n"
+"- Parametric functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-two-var-inequalities">http://translate.khanacademy.org/math/algebra-home/alg-two-var-inequalities</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-two-var-ineq">http://translate.khanacademy.org/math/math1/math1-two-var-ineq</a>
+# Title of topic (x606e97e8) on the lol stage
+# Title of topic (xc2f362ae) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Two-variable inequalities"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-two-var-inequalities">http://translate.khanacademy.org/math/algebra-home/alg-two-var-inequalities</a>
+# Description of topic (x606e97e8) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Solutions to linear inequalities and systems of inequalities\n"
+"- Graphing linear inequalities and systems of inequalities\n"
+"- Linear inequalities and systems of inequalities word problems"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-adding-vectors-in-magnitude-and-direction-form">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-adding-vectors-in-magnitude-and-direction-form</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-adding-vectors-in-magnitude-and-direction-form">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-adding-vectors-in-magnitude-and-direction-form</a>
+# Title of topic (xc8acd485) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Adding vectors in magnitude & direction form"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-magnitude-direction">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-magnitude-direction</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-magnitude-direction">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-magnitude-direction</a>
+# Title of topic (x2a3a9605) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Magnitude & direction form of vectors"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-vector-addition-subtraction">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-vector-addition-subtraction</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-vector-addition-subtraction">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-vector-addition-subtraction</a>
+# Title of topic (xff3c1bbb) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Vector addition & subtraction"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors">http://translate.khanacademy.org/math/algebra-home/alg-vectors</a>
+# Description of topic (x89b95edd) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This topic covers:\n\n"
+"- Vector magnitude\n"
+"- Vector scaling\n"
+"- Unit vectors\n"
+"- Adding & subtracting vectors\n"
+"- Magnitude & direction form\n"
+"- Vector applications"
+msgstr ""
+
+# Exercise is at (xae76cd4065494042) on the es stage.
+# Exercise is at (xf815c44f6412a3bc) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences/e/understanding-sequences">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-sequences/e/understanding-sequences</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/sequences-tut-bc/e/understanding-sequences">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/sequences-tut-bc/e/understanding-sequences</a>
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc/e/understanding-sequences">http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc/e/understanding-sequences</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/sequences-tut-bc">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/sequences-tut-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc">http://translate.khanacademy.org/math/calculus-home/series-calc/sequences-calc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/integral-calculus/series-ic/sequences-tut-ic">http://translate.khanacademy.org/math/integral-calculus/series-ic/sequences-tut-ic</a>
+# Title of topic (x4751bc92) on the accents stage
+# Title of topic (x4751bc92) on the es stage
+# Title of topic (x4751bc92) on the fr stage
+# Title of topic (x4751bc92) on the ja stage
+# Title of topic (x9299beb7) on the es stage
+# Title of topic (x9299beb7) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Sequences review"
+msgstr ""
+
