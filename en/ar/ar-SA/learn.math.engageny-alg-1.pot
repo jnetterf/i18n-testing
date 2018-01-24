@@ -1,0 +1,517 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-03 19:43+0000\n"
+"PO-Revision-Date: 2018-01-24 10:54-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.gagy-alg-1.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1a-functions-intro">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1a-functions-intro</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lessons 1-3: Piecewise, quadratic, and exponential functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1a-graphs">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1a-graphs</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lessons 4-5: Analyzing graphs"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1b-add-sub-2-var">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1b-add-sub-2-var</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lesson 8: Adding and subtracting polynomials with 2 variables"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1b-add-sub">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1b-add-sub</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lesson 8: Adding and subtracting polynomials"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1b-mul-binom">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1b-mul-binom</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lesson 9: Multiplying binomials"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1b-mul-mono-poly">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1b-mul-mono-poly</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lesson 9: Multiplying monomials by polynomials"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1b-mul-mono">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1b-mul-mono</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lesson 9: Multiplying monomials"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1b-properties">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1b-properties</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lessons 6-7: Distributive, commutative, and associative properties"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-2-var-eq">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-2-var-eq</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lesson 20: Solution sets to equations with two variables"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-2-var-ineq">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-2-var-ineq</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lesson 21: Solution sets to inequalities with two variables"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-advanced-eq">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-advanced-eq</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lessons 17-19: Advanced equations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-compound-ineq">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-compound-ineq</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lessons 15-16 Compound inequalities"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-elimination">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-elimination</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lesson 23: Solution sets to simultaneous equations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-solving-equations">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-solving-equations</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lessons 10-13: Solving Equations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-solving-ineq">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-solving-ineq</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lesson 14: Solving inequalities"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-systems-applications">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-systems-applications</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lesson 24: Applications of systems of equations and inequalities"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-systems">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1c-systems</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lesson 22: Solution sets to simultaneous equations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1d">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1/alg1-1d</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic D: Creating equations to solve problems"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Module 1: Relationships between quantities and reasoning with equations and their graphs"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-1">http://translate.khanacademy.org/math/engageny-alg-1/alg1-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "\"In this module students analyze and explain precisely the process of solving an equation.  Through repeated reasoning, students develop fluency in writing, interpreting, and translating between various forms of linear equations and inequalities and make conjectures about the form that a linear equation might take in a solution to a problem.  They reason abstractly and quantitatively by choosing and interpreting units in the context of creating equations in two variables to represent relationships between quantities.  They master the solution of linear equations and apply related solution techniques and the properties of exponents to the creation and solution of simple exponential equations.  They learn the terminology specific to polynomials and understand that polynomials form a system analogous to the integers.\" Eureka Math/EngageNY (c) 2015 GreatMinds.org"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2a-box-plots">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2a-box-plots</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lesson 1: Box plots and shape"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2a-center">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2a-center</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lesson 2: Describing the center of a distribution"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2a-dot-plots">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2a-dot-plots</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lesson 1: Dot plots and histograms"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2a-mean-as-balance">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2a-mean-as-balance</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lesson 3: Estimating centers and interpreting the mean as a balance point"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2b-comparing-distributions">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2b-comparing-distributions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lesson 8: Comparing distributions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2b-deviations">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2b-deviations</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lesson 4: Summarizing deviations from the mean"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2b-interquartile-range">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2b-interquartile-range</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lesson 7: Measuring variability for skewed distributions (interquartile range) "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2b-variability">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2b-variability</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lessons 5-6: Standard deviation and variability"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2c-association">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2c-association</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lesson 11: Conditional relative frequencies and association "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2c-bivariate-categorical">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2c-bivariate-categorical</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lessons 9-10: Bivariate categorical data"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2d-correlation">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2d-correlation</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic D: Lesson 19: Interpreting correlation"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2d-modeling-relationships-line">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2d-modeling-relationships-line</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic D: Lesson 14: Modeling relationships with a line"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2d-relationships-two-numerical-variables">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2d-relationships-two-numerical-variables</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic D: Lessons 12-13: Relationships between two numerical variables"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2d-residuals">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2d-residuals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic D: Lessons 15-18: Residuals"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Module 2: Descriptive statistics"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "\"In this module, students reconnect with and deepen their understanding of statistics and probability concepts first introduced in Grades 6, 7, and 8. Students develop a set of tools for understanding and interpreting variability in data, and begin to make more informed decisions from data. They work with data distributions of various shapes, centers, and spreads. Students build on their experience with bivariate quantitative data from Grade 8. This module sets the stage for more extensive work with sampling and inference in later grades.\" Eureka Math/EngageNY (c) 2015 GreatMinds.org"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3a-arithmetic-formulas">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3a-arithmetic-formulas</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lessons 1-3: Arithmetic sequence formulas"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3a-arithmetic-intro">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3a-arithmetic-intro</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lessons 1-3: Arithmetic sequence intro"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3a-exp-decay">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3a-exp-decay</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lesson 7: Exponential decay"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3a-exp-growth">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3a-exp-growth</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lessons 4-6: Exponential growth"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3a-geometric-formulas">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3a-geometric-formulas</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lessons 1-3: Geometric sequence formulas"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3a-geometric-intro">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3a-geometric-intro</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lessons 1-3: Geometric sequence intro"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3b-domain-range">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3b-domain-range</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lessons 8-12: Function domain and range"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3b-func-intro">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3b-func-intro</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lessons 8-12: Functions intro"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3b-graph-interpret">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3b-graph-interpret</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lesson 13: Interpreting the graph of a function"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3b-lin-vs-exp">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3b-lin-vs-exp</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lesson 14: Linear and exponential Models—comparing growth rates"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3b-recog-func">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3b-recog-func</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lessons 8-12:  Recognizing functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3c-abs-value">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3c-abs-value</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lessons 16-20: Graphing absolute value functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3c-piecewise">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3c-piecewise</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lesson 15: Piecewise functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3d">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3/alg1-3d</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic D: Using functions and graphs to solve problems"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Module 3: Linear and exponential functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-3">http://translate.khanacademy.org/math/engageny-alg-1/alg1-3</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "\"In earlier grades, students define, evaluate, and compare functions and use them to model relationships between quantities. In this module, students extend their study of functions to include function notation and the concepts of domain and range. They explore many examples of functions and their graphs, focusing on the contrast between linear and exponential functions. They interpret functions given graphically, numerically, symbolically, and verbally; translate between representations; and understand the limitations of various representations.\" Eureka Math/EngageNY (c) 2015 GreatMinds.org"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-5">http://translate.khanacademy.org/math/engageny-alg-1/alg1-5</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-5/alg1-5ab">http://translate.khanacademy.org/math/engageny-alg-1/alg1-5/alg1-5ab</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Module 5: A synthesis of modeling with equations and functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-5">http://translate.khanacademy.org/math/engageny-alg-1/alg1-5</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "\"In Module 5, students synthesize what they have learned during the year about functions to select the correct function type in a series of modeling problems. Students no longer have the benefit of a module or lesson title that includes function type to guide them in their choices. Skills and knowledge from the previous modules will support the requirements of this module, including writing, rewriting, comparing, and graphing functions and interpretation of the parameters of an equation. Students must also draw on their study of statistics in Module 2, using graphs and functions to model a context presented with data and/or tables of values. In this module, the modeling cycle is used  as the organizing structure, rather than function type.\" Eureka Math/EngageNY (c) 2015 GreatMinds.org"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-common-factor">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-common-factor</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lessons 1-2: Common factor"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-factor-binom-intro">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-factor-binom-intro</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lessons 1-2: Factoring binomials intro"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-factor-mono">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-factor-mono</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lessons 1-2: Factoring monomials"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-grouping">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-grouping</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lessons 3-4: Factoring by grouping"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-parabolas">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-parabolas</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lessons 8-10: Parabolas intro"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-quad-eq">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-quad-eq</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lessons 6-7: Solving basic one-variable quadratic equations"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-special-forms">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-special-forms</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lessons 3-4: Special forms"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-zero-product">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4a-zero-product</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic A: Lesson 5: The zero product property"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4b-completing-the-square">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4b-completing-the-square</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lessons 11-13: Completing the square"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4b-quad-formula">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4b-quad-formula</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lessons 14-15: The quadratic formula"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4b-standard-form">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4b-standard-form</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lesson 17: Graphing quadratic functions from the standard form"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4b-vertex-form">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4b-vertex-form</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic B: Lesson 16: Graphing quadratic equations from the vertex form"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4c-modeling">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4c-modeling</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lessons 23–24: Modeling with quadratic functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4c-transform-graph">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4c-transform-graph</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lessons 20-22: Scaling and transforming graphs"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4c-translate-graphs">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4/alg1-4c-translate-graphs</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Topic C: Lessons 18-19: Translating graphs of functions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Module 4: Polynomial and quadratic expressions, equations, and functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4">http://translate.khanacademy.org/math/engageny-alg-1/alg1-module-4</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "\"In earlier modules, students analyze the process of solving equations and developing fluency in writing, interpreting, and translating between various forms of linear equations (Module 1) and linear and exponential functions (Module 3). These experiences combined with modeling with data (Module 2), set the stage for Module 4. Here students continue to interpret expressions, create equations, rewrite equations and functions in different but equivalent forms, and graph and interpret functions, but this time using polynomial functions, and more specifically quadratic functions, as well as square root and cube root functions.\" Eureka Math/EngageNY (c) 2015 GreatMinds.org"
+msgstr ""
+
