@@ -1,0 +1,947 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-29 14:51+0000\n"
+"PO-Revision-Date: 2018-01-24 10:48-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.in-sixth-grade-math.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/math/arithmetic-home/arith-review-decimals/decimals-intro">http://translate.khanacademy.org/math/arithmetic-home/arith-review-decimals/decimals-intro</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/arithmetic/arith-decimals/arith-review-decimals-intro">http://translate.khanacademy.org/math/arithmetic/arith-decimals/arith-review-decimals-intro</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-decimals/cc-4th-decimals-intro">http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-decimals/cc-4th-decimals-intro</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-decimals/in-in-6th-decimals-intro">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-decimals/in-in-6th-decimals-intro</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-decimals-intro">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-decimals-intro</a>
+# Title of topic (x6db9e0d4) on the lol stage
+# Title of topic (x7ea7f3d1c81f53c7) on the lol stage
+# Title of video <a href="http://translate.khanacademy.org/math/arithmetic/arith-decimals/arith-review-decimals-intro/v/introduction-to-decimals">http://translate.khanacademy.org/math/arithmetic/arith-decimals/arith-review-decimals-intro/v/introduction-to-decimals</a>
+# Title of video <a href="http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-decimals/cc-4th-decimals-intro/v/introduction-to-decimals">http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-decimals/cc-4th-decimals-intro/v/introduction-to-decimals</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Intro to decimals"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-ratios-prop-topic/cc-6th-ratios-intro">http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-ratios-prop-topic/cc-6th-ratios-intro</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-ratios-intro">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-ratios-intro</a>
+# Title of topic (x6f3b8aeb) on the pt stage
+# Title of topic (xe352ffb1) on the ka stage
+# Title of topic (xe352ffb1) on the pt stage
+# Title of topic (xe352ffb1) on the pt-pt stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-ratios-prop-topic/cc-6th-ratios-intro/a/intro-to-ratios">http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-ratios-prop-topic/cc-6th-ratios-intro/a/intro-to-ratios</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-ratios-intro/a/intro-to-ratios">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-ratios-intro/a/intro-to-ratios</a>
+# Title of video <a href="http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-ratios-prop-topic/cc-6th-ratios-intro/v/ratios-intro">http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-ratios-prop-topic/cc-6th-ratios-intro/v/ratios-intro</a>
+# Title of video <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-ratios-intro/v/ratios-intro">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-ratios-intro/v/ratios-intro</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Intro to ratios"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-elementary-shapes">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-elementary-shapes</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/understanding-elementary-shapes">http://translate.khanacademy.org/math/in-sixth-grade-math/understanding-elementary-shapes</a>
+# Title of topic (x09e980693391c7c0) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Understanding elementary shapes"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-geometrical-ideas/in-in-geo-ideas-geometry-properties-shapes">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-geometrical-ideas/in-in-geo-ideas-geometry-properties-shapes</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/copy-of-geometry-properties-shapes">http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/copy-of-geometry-properties-shapes</a>
+# Title of topic (x64953288efe2d715) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to polygons"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-geometrical-ideas">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-geometrical-ideas</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas">http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas</a>
+# Title of topic (xdd0100794e1bad1d) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Basic geometrical ideas"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-know-numbers">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-know-numbers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers">http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers</a>
+# Title of topic (x822a2c9d22cf3dbc) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Knowing our numbers"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-playwithnos/in-in-6th-playwithnumbers-hcf">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-playwithnos/in-in-6th-playwithnumbers-hcf</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/highest-common-factor">http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/highest-common-factor</a>
+# Title of topic (xe6ca1b4cbb33767a) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Highest common factor"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-playwithnos/in-in-6th-playwithnumbers-lcm">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-playwithnos/in-in-6th-playwithnumbers-lcm</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/lowest-common-multiple">http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/lowest-common-multiple</a>
+# Title of topic (xe517c66a00adb959) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lowest common multiple"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-prac-geo/in-in-6th-prac-geo-cons-angles">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-prac-geo/in-in-6th-prac-geo-cons-angles</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/practical-geometry/6th-constructing-angles-practical-geometry">http://translate.khanacademy.org/math/in-sixth-grade-math/practical-geometry/6th-constructing-angles-practical-geometry</a>
+# Description of topic (xe884d0d6071c7563) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A shape, formed by two lines or rays diverging from a common point (the vertex). In this topic we will learn how to construct basic angles using compass and straightedge using the bisector technique."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-prac-geo/in-in-6th-prac-geo-cons-perpendiculars">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-prac-geo/in-in-6th-prac-geo-cons-perpendiculars</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/practical-geometry/6th-constructing-perpendiculars">http://translate.khanacademy.org/math/in-sixth-grade-math/practical-geometry/6th-constructing-perpendiculars</a>
+# Title of topic (xf26f8fb0c7a1162b) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Constructing perpendiculars"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-prac-geo/in-in-6th-prac-geo-cons-perpendiculars">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-prac-geo/in-in-6th-prac-geo-cons-perpendiculars</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/practical-geometry/6th-constructing-perpendiculars">http://translate.khanacademy.org/math/in-sixth-grade-math/practical-geometry/6th-constructing-perpendiculars</a>
+# Description of topic (xf26f8fb0c7a1162b) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Two lines are said to be perpendicular if they intersect such that the angles formed between them are right angles."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/6th-overview-hist-alg">http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/6th-overview-hist-alg</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Overview and history of algebra"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/6th-overview-hist-alg">http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/6th-overview-hist-alg</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Did you realize that the word \"algebra\" comes from Arabic (just like \"algorithm\" and \"al jazeera\" and \"Aladdin\")?  And what is so great about algebra anyway?  \n\n"
+"Algebra is the language through which we describe patterns in mathematics. It involves usage of letters with numbers to depict problems. In this topic chapter we will learn about Matchstick patters, we will introduce the idea of variables, and we will understand where these variables can be used. A variable is depicted as a letter which can take any value. We will also learn to write linear expressions and ways to solve them.This tutorial doesn't explore algebra so much as it introduces the history and ideas that underpin it."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/copy-of-alg1-intro-to-variables">http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/copy-of-alg1-intro-to-variables</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Idea of a variable"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/expressions-variables">http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/expressions-variables</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Expressions with variables"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/expressions-variables">http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/expressions-variables</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Expression like (4x + 5), which contains the variable x, cannot be evaluated. Only if x is given some value, an expression like (4x + 5) can be evaluated. In this topic we will learn how to evaluate exponential equations, we will write expressions variables and learn how to solve them when the value of the variable is specified."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/solution-equation">http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/solution-equation</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Solution of an equation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/solution-equation">http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/solution-equation</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The value of the variable in an equation which satisfies the equation is called a solution to the equation. Here we will learn to solve an equation using substitution."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/using-expressions-practically">http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/using-expressions-practically</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Using expressions practically"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/using-expressions-practically">http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in/using-expressions-practically</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic we will learn to evaluate and interpret linear expression using examples from real world problems."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in">http://translate.khanacademy.org/math/in-sixth-grade-math/algebra-in</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Algebra is the language through which we describe patterns in mathematics. It involves usage of letters with numbers to depict problems."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/basic-geo-circles">http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/basic-geo-circles</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A circle is a simple closed curve that is not a polygon. It is the locus of all points that are equidistant from it's centre. In this topic we will look into the language and notations that we use while dealing with circles."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/basic-geo-introduction">http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/basic-geo-introduction</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here we will discuss the meaning of geometry and the history related to it. We will also look into the life of Euclid, who is known as the father of Geometry."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/copy-of-geometry-properties-shapes">http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/copy-of-geometry-properties-shapes</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to polygons "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/line-segments-rays">http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/line-segments-rays</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Points, line segments, lines and rays"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/line-segments-rays">http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/line-segments-rays</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic we will understand the definition of a point and look into how we can name it. We will also see that a line segment is a part of a line that is bounded by two end points. A line segment that goes off on both directions indefinitely is called a line, whereas a line segment that only extends in one direction is called a ray. In this topic we will learn to draw, recognize and differentiate between line segments, lines, and rays."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/new-topic-2015-11-17T23:24:25.732Z">http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/new-topic-2015-11-17T23:24:25.732Z</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Angles are made when corners are formed. In this topic we will start with angle basics and understand what we call different angles."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/parallel-lines">http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/parallel-lines</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Parallel lines, perpendicular lines and intersecting lines"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/parallel-lines">http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/parallel-lines</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Parallel, perpendicular and intersecting lines"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/parallel-lines">http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/parallel-lines</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Two lines that cannot have a common point are called parallel lines. When two intersecting lines make an angle of 90 degrees, they are called perpendicular lines. When two lines intersect and the angle between them is a right angle, then the lines are said to be perpendicular. In this topic we will learn to clearly differentiate between parallel and perpendicular lines and to draw them. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas">http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Geometry comes from the greek words for \"earth\" and \"measurement.\" It is the study of shapes and sizes. In this chapter, we will develop a strong foundation for geometry."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/data-handling/6th-bar-graphs">http://translate.khanacademy.org/math/in-sixth-grade-math/data-handling/6th-bar-graphs</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Bars of uniform width can be drawn horizontally or vertically with equal spacing between them to depict complex data, which can then be understood easily at a glance. In this topic, we will learn to read and create bar charts."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/data-handling/6th-pictographs">http://translate.khanacademy.org/math/in-sixth-grade-math/data-handling/6th-pictographs</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic we will learn what pictographs are and how to read and interpret pictorially depicted data."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/data-handling/copy-of-dot-plot">http://translate.khanacademy.org/math/in-sixth-grade-math/data-handling/copy-of-dot-plot</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Recording and organising data"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/data-handling/copy-of-dot-plot">http://translate.khanacademy.org/math/in-sixth-grade-math/data-handling/copy-of-dot-plot</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Dot plots & frequency tables"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/data-handling/copy-of-dot-plot">http://translate.khanacademy.org/math/in-sixth-grade-math/data-handling/copy-of-dot-plot</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Recording and organising data is the foundation of data handling. There are many ways to organise data to make it easier to use. Dot plots and frequency tables both display how often different values occur in a set of numerical data. Remember, like always, the names don't matter as much as the idea behind them. A dot plot is like a bar chart, but it displays data using dots (not bars). And a frequency table is like a dot plot, but it displays data in a simple table (not a fancy diagram)."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/data-handling">http://translate.khanacademy.org/math/in-sixth-grade-math/data-handling</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Data is a collection of numbers gathered to represent some information."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/addition-decimals">http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/addition-decimals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Addition of decimals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/addition-decimals">http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/addition-decimals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "To add decimals, we add them as though they are regular numbers, and then we place the decimal at its original position in the result. For example, 0.56 + 1.22 = 1.78. In this topic, we will practice a few problems of decimal addition to get a better understanding of this topic."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/comparing-decimals-in">http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/comparing-decimals-in</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Comparing Decimals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/comparing-decimals-in">http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/comparing-decimals-in</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We first compare the whole part, and if it is the same, then the fractional part is compared to arrive at a conclusion. In this topic we will compare decimals by difference in largest place value, ordering from least to greatest, and ordering from smallest to biggest."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/decimals-introduction">http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/decimals-introduction</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A dot represents a decimal point. In real life problems like measuring of length, weight, or time, the values are not exact whole numbers, but rather portions of whole numbers. In situations where we need to be exact, we use decimal numbers. In this chapter we will learn how to reduce number to 10ths, 100ths of a decimal place, to compare decimal numbers. We will also learn how to add and subtract decimal numbers, and understand how to use them in real life situations."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/subtraction-decimals">http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/subtraction-decimals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Subtraction of decimals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/subtraction-decimals">http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/subtraction-decimals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "To subtract decimals, we keep the decimal point in place, and simply subtract each digit like we would for regular subtraction problems. For example, 2.58 – 1.32 = 1.26. In this topic we will practice a few problems based on decimal subtraction to get a better understanding of the topic."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/tenths-hundredths">http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/tenths-hundredths</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Tenths and Hundredths"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/tenths-hundredths">http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/tenths-hundredths</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "One block divided into 10 equal parts means each part is 1/10 (one-tenth) of a unit, and similarly, each block divided into 100 equal parts means each part is 1/100 (one-hundredth) of a unit."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/using-decimals">http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/using-decimals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Using decimals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/using-decimals">http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/using-decimals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Money (1 paisa = Rs.0.01), Length (1 cm=0.01 m), Weight (1 g = 0.001 kg). In this topic we will consider real life problems of measurement and see how the concept of decimals can be applied in converting centimeters to meters, gram to kilogram etc."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1">http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A dot represents a decimal point. In real life problems like measuring of length, weight, or time, the values are not exact whole numbers but rather portions of whole number. In situations where we need to be exact, we use decimal numbers."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/a-fraction">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/a-fraction</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A fraction"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/a-fraction">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/a-fraction</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "5/12 is a fraction. We read it as “five-twelfths”.12 is the number of equal parts into which the whole has been divide, out of which we are talking about 5 only. In this topic we will learn ow to recognize a fraction, we will introduce the concept of numerators and denominators and we will learn how to compare fractions visually and using the number line."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/addition-subtraction-fractions">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/addition-subtraction-fractions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Addition and subtraction of fractions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/addition-subtraction-fractions">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/addition-subtraction-fractions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic we will learn to add and subtract fractions with like, unlike and common denominators. We will also learn how to add fractions with different signs, mixed fractions with like, unlike denominators, and addition of decimals, fractions, and percentages."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/comparing-fractions-in">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/comparing-fractions-in</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In like fractions, the fraction having the greater numerator is greater. In fractions with same numerator, the fraction having the greater denominator is smaller. In this topic we will learn to compare fractions with different numerators and denominators. We will also learn about ordering fractions, multiplication as scaling, and compare probabilities."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/equivalent-fractions">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/equivalent-fractions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Fractions containing a similar part of the whole are allied equivalent fractions, e.g. 1/2 = 2/4. In this chapter we will practice word problems related to equivalent fractions, and we will learn how to compare them visually and on the number line."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/fraction-number-line">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/fraction-number-line</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Fraction on the number line"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/fraction-number-line">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/fraction-number-line</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic we will learn how to plot proper and improper fractions on a number line. We will also learn how to add fractions with different signs."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/fractions-introduction">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/fractions-introduction</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A fraction is a number representing part of a whole. We use fractions in everyday life, from dividing a to even checking the time. In this chapter we will learn about the basics of fractions, what proper, improper, equivalent, and mixed fractions are. We will also learn how to write fractions in their simplest forms, to compare fractions, and to add or subtract two fractions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/improper-mixed-fractions">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/improper-mixed-fractions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Improper and mixed fractions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/improper-mixed-fractions">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/improper-mixed-fractions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Fractions less than 1 are called proper fractions. In a proper fraction, the numerator is always less than the denominator. A mixed fraction is a combination of a whole and a part, while fractions greater than 1 are called improper fractions. In this topic we will learn about changing/converting mixed numbers into improper fractions and vice versa. We will also do exercises to convert decimals into fractions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/like-fractions">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/like-fractions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Like fractions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/like-fractions">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/like-fractions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Fractions with same denominators are called like fractions. Here we will learn how to decompose a fraction visually and practice adding fractions through exercises."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/simplest-form-fraction">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/simplest-form-fraction</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Simplest form of a fraction"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/simplest-form-fraction">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/simplest-form-fraction</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A fraction is said to be in the simplest (or lowest) form if its numerator and denominator have no common factor other than 1."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A fraction is a number representing part of a whole. We use fractions in everyday life, from dividing a pie to even checking the time. 3/4, 56/3, 25/4 etc. are all fractions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/integers-india/addition-integers">http://translate.khanacademy.org/math/in-sixth-grade-math/integers-india/addition-integers</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Addition of integers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/integers-india/addition-integers">http://translate.khanacademy.org/math/in-sixth-grade-math/integers-india/addition-integers</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "When we add a negative integer to a positive integer, we move to the left on the number line. Similarly, when we add a positive number to a negative number, we move to the right on the number line. In this topic we will learn how to add/subtract negative numbers, integers with different signs, and will practice this concept on the number line."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/integers-india/integers-in">http://translate.khanacademy.org/math/in-sixth-grade-math/integers-india/integers-in</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "If we put the whole numbers and the negative numbers together, the new collection of numbers are called integers. In this topic we will learn how to depict negative numbers on a number line, ordering of negative numbers, and will introduce the concept of fractions on a number line."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/integers-india/subtraction-integers-number-line">http://translate.khanacademy.org/math/in-sixth-grade-math/integers-india/subtraction-integers-number-line</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Subtraction of integers with the help of the number line"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/integers-india/subtraction-integers-number-line">http://translate.khanacademy.org/math/in-sixth-grade-math/integers-india/subtraction-integers-number-line</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Subtraction of Integers with the help of the number line"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/integers-india/subtraction-integers-number-line">http://translate.khanacademy.org/math/in-sixth-grade-math/integers-india/subtraction-integers-number-line</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "To subtract an integer from another integer, it is enough to add the additive inverse of the integer that is being subtracted, to the other integer. We will also see that subtracting a negative equals adding a positive, and we will practice this concept on several basic problems."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/integers-india">http://translate.khanacademy.org/math/in-sixth-grade-math/integers-india</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The set of integers from 1 to infinity is called Natural numbers. When we add 0 to this, we get whole numbers. A set of 0, natural numbers and their opposites, make up 'integers'."
+msgstr ""
+
+# Exercise is at (xb58b83df) on the pt stage.
+# Exercise is at (xe847e006) on the pt stage.
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/6th-comparing-numbers">http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/6th-comparing-numbers</a>
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Comparing numbers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/6th-comparing-numbers">http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/6th-comparing-numbers</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "How do we know one number is bigger than another? What is the biggest number you have heard of? Is there a number bigger than that? "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/copy-of-6th-estimation-of-numbers">http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/copy-of-6th-estimation-of-numbers</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Estimation of numbers"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/copy-of-6th-estimation-of-numbers">http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/copy-of-6th-estimation-of-numbers</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Estimation of numbers"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/copy-of-6th-large-numbers-in-practice">http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/copy-of-6th-large-numbers-in-practice</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Large numbers in practice"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/copy-of-6th-large-numbers-in-practice">http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/copy-of-6th-large-numbers-in-practice</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how convert larger units of length to smaller units.  The metric units used in this tutorial are millimeters, centimeters, meters, and kilometres."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/ncert-sixth-using-brackets">http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/ncert-sixth-using-brackets</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Using brackets"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/ncert-sixth-using-brackets">http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers/ncert-sixth-using-brackets</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The use of brackets (or parentheses) while multiplying or adding numbers helps us do long calculations in a very simple way! Let's see how."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers">http://translate.khanacademy.org/math/in-sixth-grade-math/knowing-numbers</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Counting things is easy for us now. In this chapter we will learn more about large numbers and what we can call them!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/mensuration/area-in">http://translate.khanacademy.org/math/in-sixth-grade-math/mensuration/area-in</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The amount of surface enclosed by a closed figure is called its area."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/mensuration">http://translate.khanacademy.org/math/in-sixth-grade-math/mensuration</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Mensuration is the branch of mathematics which deals with the study of Geometric shapes, their area, volume and related concepts."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/hcf-lcm">http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/hcf-lcm</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Some problems on HCF and LCM"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/hcf-lcm">http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/hcf-lcm</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's look into some applications of Highest common factor (HCF) and Lowest common multiple (LCM), and try to build a better understanding of these topics through some exercises."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/highest-common-factor">http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/highest-common-factor</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We will understand what the we mean by the term \"Greatest common divisor\" or \"Highest common factor\", and cover some basic exercises. Let's begin!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/lowest-common-multiple">http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/lowest-common-multiple</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here, we will look into what we mean when we use the term \"Lowest common multiple\" and how we can calculate it."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/more-divisibility-rules">http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/more-divisibility-rules</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "More divisibility rules"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/more-divisibility-rules">http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/more-divisibility-rules</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here, we will lean few more divisibility rules, like if a number is divisible by another number then it is divisible by each of the factors of that number."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/prime-composite-numbers">http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/prime-composite-numbers</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic we will see that composite numbers have more than two factors while' Prime numbers' have exactly two factors: 1 and the number itself. We will also look into prime factorization and a fundamental theorem of arithmetic."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/prime-factorization">http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/prime-factorization</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "When a number is expressed as a product of its factors, we say that the number has been factorized. Here, we will look deeper into the concept of prime factorization, the fundamental theorem of arithmetic, and do a divisibility exercise!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/test-divisibility-numbers">http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/test-divisibility-numbers</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Test for divisibility of numbers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/test-divisibility-numbers">http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers/test-divisibility-numbers</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic we will look into how the 2, 3, 4, 5, 6, 8, 9, 10 divisibility rules govern the divisibility of a large number. We will also do the 3 and 9 divisibility rules in detail. Let's see what we mean by that!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers">http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this chapter we will learn about factors and multiples and about the divisibility rules for 2, 3, 4, 5, 6, 8, 9 and 10"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/practical-geometry">http://translate.khanacademy.org/math/in-sixth-grade-math/practical-geometry</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Practical Geometry"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/practical-geometry">http://translate.khanacademy.org/math/in-sixth-grade-math/practical-geometry</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Geometry is to draw various shapes with tools like rulers, compasses, dividers, set squares and protractors. It is the study of shapes."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/6th-proportion">http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/6th-proportion</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Proportion"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/6th-proportion">http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/6th-proportion</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to tell whether two quantities are proportional by thinking about equivalent ratios and drawing graphs. If two ratios are equal, we say that they are in proportion and use the symbol ‘::’ or ‘=’ to equate the two ratios. Here we will look into an example that should help us gain a better understanding of this topic."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/6th-ratio-intro">http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/6th-ratio-intro</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Ratio"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/6th-ratio-intro">http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/6th-ratio-intro</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Ratios show up everywhere in life—sports, finance, medicine, cooking, you name it! In this tutorial, we learn what ratios are and how to use them. Comparing any two quantities in terms of ‘how many times’ is known as ratio, and it is denoted by a ':' sign. Two quantities can be compared only if they are in the same unit. In this topic we will learn to simplify rations, and see how they are used through several basic examples."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/introduction-ratios">http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/introduction-ratios</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In certain situations, comparison by division makes better sense than comparison by taking the difference. The comparison by division is called the ratio of the two numbers. In this chapter we will introduce the concept of ratios and proportions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/unitary-method">http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/unitary-method</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Unitary method"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/unitary-method">http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/unitary-method</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The method in which first we find the value of one unit and then the value of required number of units is known as Unitary Method. In this topic we will learn to use the unitary method to solve problems involving ratios."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion">http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Ratio and proportion"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion">http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In certain situations, comparison by division makes better sense than comparison by taking the difference. The comparison by division is called the ratio of the two numbers."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/symmetry-1/copy-of-basic-geo-reflections">http://translate.khanacademy.org/math/in-sixth-grade-math/symmetry-1/copy-of-basic-geo-reflections</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Reflections"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/symmetry-1/copy-of-basic-geo-reflections">http://translate.khanacademy.org/math/in-sixth-grade-math/symmetry-1/copy-of-basic-geo-reflections</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about reflections and how to perform them. Also wonder about how reflections are connected to symmetry. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/symmetry-1">http://translate.khanacademy.org/math/in-sixth-grade-math/symmetry-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Symmetry is when one shape becomes exactly like another if you flip, slide or turn it."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/understanding-elementary-shapes/6th-acute-obtuse-right-reflex">http://translate.khanacademy.org/math/in-sixth-grade-math/understanding-elementary-shapes/6th-acute-obtuse-right-reflex</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Angles: acute, obtuse, right and reflex"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/understanding-elementary-shapes/6th-acute-obtuse-right-reflex">http://translate.khanacademy.org/math/in-sixth-grade-math/understanding-elementary-shapes/6th-acute-obtuse-right-reflex</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "An angle smaller than a right angle is called an acute angle, an angle greater than right angle but less then straight angle is obtuse angle while a reflex angle is larger then a straight angle. I this chapter we will also learn how to categorize triangles based on the angles that it has."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/understanding-elementary-shapes/copy-of-geometry-classifying-triangles">http://translate.khanacademy.org/math/in-sixth-grade-math/understanding-elementary-shapes/copy-of-geometry-classifying-triangles</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Naming triangles"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/understanding-elementary-shapes/measuring-angles">http://translate.khanacademy.org/math/in-sixth-grade-math/understanding-elementary-shapes/measuring-angles</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "One complete revolution is divided into 360 equal parts. Each part is a degree, and angles are measured in degrees. A right angle is 90 degrees and a straight angle is 180 degrees. In this topic we will learn how to measure angles in degrees. We will also learn how to use a protractor and to solve for unknown angles."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/understanding-elementary-shapes">http://translate.khanacademy.org/math/in-sixth-grade-math/understanding-elementary-shapes</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Corners, edges, planes, open curves and closed curves are different shapes that we see around us. Understanding these shapes can help us solve a wise variety of real world problems."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/whole-numbers/6th-properties-of-whole-numbers">http://translate.khanacademy.org/math/in-sixth-grade-math/whole-numbers/6th-properties-of-whole-numbers</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Properties of whole numbers"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/whole-numbers/ncert-6th-distributive-property-of-whole-numbers">http://translate.khanacademy.org/math/in-sixth-grade-math/whole-numbers/ncert-6th-distributive-property-of-whole-numbers</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Distributive property for whole numbers"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/whole-numbers/number-line">http://translate.khanacademy.org/math/in-sixth-grade-math/whole-numbers/number-line</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The number line"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/whole-numbers/number-line">http://translate.khanacademy.org/math/in-sixth-grade-math/whole-numbers/number-line</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here we will learn how to draw a number line that starts with zero, and we will understand ways to multiply and add two numbers on this line. We will also look into some examples concerning money and distance."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/whole-numbers">http://translate.khanacademy.org/math/in-sixth-grade-math/whole-numbers</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Natural numbers are the set of numbers ranging from 1 to infinity. If we add 0 to this set we get a new set of numbers called 'Whole numbers'."
+msgstr ""
+
