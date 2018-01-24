@@ -1,0 +1,224 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2018-01-24 10:51-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.math2.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-absolute-value">http://translate.khanacademy.org/math/math2/math2-absolute-value</a>
+# Title of topic (x6e38d8af) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Absolute value equations & functions"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math2/math2-complex-num">http://translate.khanacademy.org/math/math2/math2-complex-num</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xea2655a7) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Complex numbers | Mathematics 2 | Khan Academy"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math2/math2-conics">http://translate.khanacademy.org/math/math2/math2-conics</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xfedeea5e) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Conic sections | Mathematics 2 | Khan Academy"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math2/math2-exponential-growth">http://translate.khanacademy.org/math/math2/math2-exponential-growth</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x222a66cb) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Exponential growth & decay | Mathematics 2 | Khan Academy"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-irrationals">http://translate.khanacademy.org/math/math2/math2-irrationals</a>
+# Title of topic (x02afcefc) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Rational & irrational numbers"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math2/math2-polynomials">http://translate.khanacademy.org/math/math2/math2-polynomials</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x75f7d943) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Polynomials | Mathematics 2 | Khan Academy"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-quadratics/math2-completing-the-square">http://translate.khanacademy.org/math/math2/math2-quadratics/math2-completing-the-square</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Quadratic equations: completing the square"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-quadratics/math2-quadratic-eq-factoring">http://translate.khanacademy.org/math/math2/math2-quadratics/math2-quadratic-eq-factoring</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Quadratic equations: factoring"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-quadratics/math2-quadratic-formula">http://translate.khanacademy.org/math/math2/math2-quadratics/math2-quadratic-formula</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Quadratic equations: quadratic formula"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-quadratics/math2-quadratics-square-root">http://translate.khanacademy.org/math/math2/math2-quadratics/math2-quadratics-square-root</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Quadratic equations: taking square root"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-quadratics/math2-transforming-quadratics">http://translate.khanacademy.org/math/math2/math2-quadratics/math2-transforming-quadratics</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Transforming graphs of quadratic functions"
+msgstr ""
+
