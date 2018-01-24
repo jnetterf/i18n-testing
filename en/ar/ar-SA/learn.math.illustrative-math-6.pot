@@ -1,0 +1,82 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-08 11:27+0000\n"
+"PO-Revision-Date: 2018-01-24 10:49-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.illustrative-math-6.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/6th-unit-2-lesson-1-mastery-practice">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/6th-unit-2-lesson-1-mastery-practice</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Mastery practice: Lessons 1 & 2"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/6th-unit-2-lesson-1-mastery-practice">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/6th-unit-2-lesson-1-mastery-practice</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Mastery practice: Lesson 1 & 2"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Pre-unit diagnostic assessment"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "End-of-unit assessment"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lesson 1: Introducing ratios and ratio language"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this lesson, students use collections of objects to make sense of and use ratio language. Students see that there are several different ways to describe a situation using ratio language. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-2-representing-ratios-with-diagrams">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-2-representing-ratios-with-diagrams</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lesson 2: Representing ratios with diagrams"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Unit 2: Introducing ratios"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this unit, students learn to understand and use the terms “ratio,” “rate,” “equivalent ratios,” “per,” “at this rate,” “constant speed,” and “constant rate,” and to recognize when two ratios are or are not equivalent. They represent ratios as expressions, and represent equivalent ratios with double number line diagrams, tape diagrams, and tables. They use these terms and representations in reasoning about situations involving color mixtures, recipes, unit pricing, and constant speed."
+msgstr ""
+
