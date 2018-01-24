@@ -1,0 +1,2584 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2018-01-24 10:53-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.precalculus.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-absolute-value-and-angle-of-complex-numbers">http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-absolute-value-and-angle-of-complex-numbers</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-absolute-value-and-angle-of-complex-numbers">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-absolute-value-and-angle-of-complex-numbers</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/absolute-value-and-angle-of-complex-numbers">http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/absolute-value-and-angle-of-complex-numbers</a>
+# Description of topic (xf1850a70) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about very important graphical features of complex numbers: their absolute value and their angle."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-distance-and-midpoint-of-complex-numbers">http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-distance-and-midpoint-of-complex-numbers</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-distance-and-midpoint-of-complex-numbers">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-distance-and-midpoint-of-complex-numbers</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/distance-and-midpoint-of-complex-numbers">http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/distance-and-midpoint-of-complex-numbers</a>
+# Description of topic (x09f9f9ed) on the lol stage
+# Description of topic (x54b4a226) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how we define the distance of two complex numbers, and how we define their midpoint."
+msgstr ""
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/polar-form-of-complex-numbers">https://www.khanacademy.org/tag/polar-form-of-complex-numbers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-polar-form-of-complex-numbers">http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-polar-form-of-complex-numbers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-polar-form-of-complex-numbers">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-polar-form-of-complex-numbers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/polar-form-of-complex-numbers">http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/polar-form-of-complex-numbers</a>
+# Title of topic (xd038c99a) on the lol stage
+# Title of topic (xdd54641d) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Polar form of complex numbers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-polar-form-of-complex-numbers">http://translate.khanacademy.org/math/algebra-home/alg-complex-numbers/alg-polar-form-of-complex-numbers</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-polar-form-of-complex-numbers">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-complex-numbers/copy-of-alg-polar-form-of-complex-numbers</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/polar-form-of-complex-numbers">http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/polar-form-of-complex-numbers</a>
+# Description of topic (xd038c99a) on the lol stage
+# Description of topic (xdd54641d) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to represent complex numbers in a different way. Unlike rectangular form, which emphasizes the real and imaginary parts, polar form emphasizes the absolute value (\"modulus\") and the angle (\"argument\")."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-adding-and-subtracting-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-adding-and-subtracting-matrices</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-adding-and-subtracting-matrices">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-adding-and-subtracting-matrices</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/adding-and-subtracting-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices/adding-and-subtracting-matrices</a>
+# Description of topic (xcb96c510) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to add and subtract two matrices to obtain a new matrix (just like numbers!)."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-determinant-of-2x2-matrix">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-determinant-of-2x2-matrix</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/determinant-of-2x2-matrix">http://translate.khanacademy.org/math/precalculus/precalc-matrices/determinant-of-2x2-matrix</a>
+# Description of topic (x6fed5d89) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn what the determinant of a matrix is and how to find it for 2x2 matrices."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-determinants-and-inverses-of-large-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-determinants-and-inverses-of-large-matrices</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/determinants-and-inverses-of-large-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices/determinants-and-inverses-of-large-matrices</a>
+# Description of topic (x126004ad) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to find the determinants and the inverses of matrices with dimensions 3x3 or larger."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-elementary-matrix-row-operations">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-elementary-matrix-row-operations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-elementary-matrix-row-operations">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-elementary-matrix-row-operations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/elementary-matrix-row-operations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/elementary-matrix-row-operations</a>
+# Title of topic (xe223bab6) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Elementary matrix row operations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-elementary-matrix-row-operations">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-elementary-matrix-row-operations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-elementary-matrix-row-operations">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-elementary-matrix-row-operations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/elementary-matrix-row-operations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/elementary-matrix-row-operations</a>
+# Description of topic (xe223bab6) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about the three basic operations we can perform on a matrix without changing the solution set of the linear system it represents."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-finding-inverse-matrix-with-determinant">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-finding-inverse-matrix-with-determinant</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/finding-inverse-matrix-with-determinant">http://translate.khanacademy.org/math/precalculus/precalc-matrices/finding-inverse-matrix-with-determinant</a>
+# Title of topic (x58750688) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding the inverse of a matrix using its determinant"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-finding-inverse-matrix-with-determinant">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-finding-inverse-matrix-with-determinant</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/finding-inverse-matrix-with-determinant">http://translate.khanacademy.org/math/precalculus/precalc-matrices/finding-inverse-matrix-with-determinant</a>
+# Description of topic (x58750688) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about a way to find the inverse of a matrix using its determinant and adjugates."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-intro-to-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-intro-to-matrices</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-intro-to-matrices">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-intro-to-matrices</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/intro-to-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices/intro-to-matrices</a>
+# Title of topic (x07e12ac3) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to matrices"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-intro-to-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-intro-to-matrices</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-intro-to-matrices">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-intro-to-matrices</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/intro-to-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices/intro-to-matrices</a>
+# Description of topic (x07e12ac3) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn what matrices are and about their parts (coordinates and dimensions)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-intro-to-matrix-inverses">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-intro-to-matrix-inverses</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/intro-to-matrix-inverses">http://translate.khanacademy.org/math/precalculus/precalc-matrices/intro-to-matrix-inverses</a>
+# Title of topic (xc2156dd3) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to matrix inverses"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-intro-to-matrix-inverses">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-intro-to-matrix-inverses</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/intro-to-matrix-inverses">http://translate.khanacademy.org/math/precalculus/precalc-matrices/intro-to-matrix-inverses</a>
+# Description of topic (xc2156dd3) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn what the inverse of a matrix is, and how to determine whether two matrices are inverses or whether a matrix is invertible."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-matrices-as-transformations">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-matrices-as-transformations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations">http://translate.khanacademy.org/math/precalculus/precalc-matrices/matrices-as-transformations</a>
+# Description of topic (x0292de4e) on the lol stage
+# Description of topic (xfef41b4c) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how matrices can be used as transformations of vectors or transformations of the plane."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-model-situations-with-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-model-situations-with-matrices</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/model-situations-with-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices/model-situations-with-matrices</a>
+# Title of topic (xc2fc822b) on the lol stage
+# Title of topic (xd2baedef) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Model real-world situations with matrices"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-model-situations-with-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-model-situations-with-matrices</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/model-situations-with-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices/model-situations-with-matrices</a>
+# Description of topic (xc2fc822b) on the lol stage
+# Description of topic (xd2baedef) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how matrices can be used to describe real-world situations."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-multiplying-matrices-by-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-multiplying-matrices-by-matrices</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-multiplying-matrices-by-matrices">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-multiplying-matrices-by-matrices</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices</a>
+# Title of topic (x51f2e61b) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiplying matrices by matrices"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-multiplying-matrices-by-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-multiplying-matrices-by-matrices</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-multiplying-matrices-by-matrices">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-multiplying-matrices-by-matrices</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices</a>
+# Description of topic (x51f2e61b) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to find the result of a multiplication of two matrices."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-multiplying-matrices-by-scalars">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-multiplying-matrices-by-scalars</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-multiplying-matrices-by-scalars">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-multiplying-matrices-by-scalars</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-scalars">http://translate.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-scalars</a>
+# Title of topic (x2098ecf0) on the lol stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-scalars/a/multiplying-matrices-by-scalars">http://translate.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-scalars/a/multiplying-matrices-by-scalars</a>
+# Title of video <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-scalars/v/scalar-multiplication">http://translate.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-scalars/v/scalar-multiplication</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiplying matrices by scalars"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-multiplying-matrices-by-scalars">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-multiplying-matrices-by-scalars</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-multiplying-matrices-by-scalars">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-multiplying-matrices-by-scalars</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-scalars">http://translate.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-scalars</a>
+# Description of topic (x2098ecf0) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to multiply matrices by scalars (in the world of matrices, scalars are simply regular numbers). For example, multiply a 2X2 matrix by 3."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-practice-finding-inverses-of-2x2-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-practice-finding-inverses-of-2x2-matrices</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/practice-finding-inverses-of-2x2-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices/practice-finding-inverses-of-2x2-matrices</a>
+# Title of topic (x4cd0f1ff) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Practice finding the inverses of 2x2 matrices"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-practice-finding-inverses-of-2x2-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-practice-finding-inverses-of-2x2-matrices</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/practice-finding-inverses-of-2x2-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices/practice-finding-inverses-of-2x2-matrices</a>
+# Description of topic (x4cd0f1ff) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "After you've learned how to find the inverse of a 2x2 matrix, gain some practice with it."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-properties-of-matrix-addition-and-scalar-multiplication">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-properties-of-matrix-addition-and-scalar-multiplication</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-properties-of-matrix-addition-and-scalar-multiplication">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-properties-of-matrix-addition-and-scalar-multiplication</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/properties-of-matrix-addition-and-scalar-multiplication">http://translate.khanacademy.org/math/precalculus/precalc-matrices/properties-of-matrix-addition-and-scalar-multiplication</a>
+# Title of topic (x71d26b0a) on the lol stage
+# Title of topic (xc1406ca1) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Properties of matrix addition & scalar multiplication"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-properties-of-matrix-addition-and-scalar-multiplication">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-properties-of-matrix-addition-and-scalar-multiplication</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-properties-of-matrix-addition-and-scalar-multiplication">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-alg-properties-of-matrix-addition-and-scalar-multiplication</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/properties-of-matrix-addition-and-scalar-multiplication">http://translate.khanacademy.org/math/precalculus/precalc-matrices/properties-of-matrix-addition-and-scalar-multiplication</a>
+# Description of topic (x71d26b0a) on the lol stage
+# Description of topic (xc1406ca1) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about zero matrices and about how matrix addition, subtraction, and scalar multiplication are related to their corresponding operations with real numbers."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-properties-of-matrix-multiplication">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-properties-of-matrix-multiplication</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-properties-of-matrix-multiplication">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-matrices/copy-of-properties-of-matrix-multiplication</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/properties-of-matrix-multiplication">http://translate.khanacademy.org/math/precalculus/precalc-matrices/properties-of-matrix-multiplication</a>
+# Description of topic (x22d53642) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about identity matrices and about how matrix multiplication relates to real number multiplication (spoiler: the distributive property applies but the commutative property does not!)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-representing-systems-with-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-representing-systems-with-matrices</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/representing-systems-with-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices/representing-systems-with-matrices</a>
+# Title of topic (x33ac38f4) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Representing linear systems of equations with augmented matrices"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-representing-systems-with-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-representing-systems-with-matrices</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/representing-systems-with-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices/representing-systems-with-matrices</a>
+# Description of topic (x33ac38f4) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how systems of linear equations with multiple variables are represented with matrices."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-row-echelon-and-gaussian-elimination">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-row-echelon-and-gaussian-elimination</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/row-echelon-and-gaussian-elimination">http://translate.khanacademy.org/math/precalculus/precalc-matrices/row-echelon-and-gaussian-elimination</a>
+# Description of topic (xbaea483e) on the lol stage
+# Description of topic (xd93aed07) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to use the matrix row operations in order to easily solve large systems of linear equations."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-solving-equations-with-inverse-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-solving-equations-with-inverse-matrices</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/copy-of-alg-solving-equations-with-inverse-matrices">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/copy-of-alg-solving-equations-with-inverse-matrices</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/solving-equations-with-inverse-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices/solving-equations-with-inverse-matrices</a>
+# Title of topic (x48fb767a) on the pt stage
+# Title of topic (x4a5d852c) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving equations with inverse matrices"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-solving-equations-with-inverse-matrices">http://translate.khanacademy.org/math/algebra-home/alg-matrices/alg-solving-equations-with-inverse-matrices</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/copy-of-alg-solving-equations-with-inverse-matrices">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-determinants/copy-of-alg-solving-equations-with-inverse-matrices</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/solving-equations-with-inverse-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices/solving-equations-with-inverse-matrices</a>
+# Description of topic (x48fb767a) on the pt stage
+# Description of topic (x4a5d852c) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to solve systems of linear equations using inverse matrices, and how to solve matrix equations using inverse matrices."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/advanced-sigma-notation">http://translate.khanacademy.org/math/precalculus/seq-induction/advanced-sigma-notation</a>
+# Title of topic (x3db7d146) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Advanced sigma notation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/advanced-sigma-notation">http://translate.khanacademy.org/math/precalculus/seq-induction/advanced-sigma-notation</a>
+# Description of topic (x3db7d146) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Now that you know basic sigma notation and series, we can put the two together to write series using sigma notation and evaluate more challenging expressions."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-finite-arithmetic-series">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-finite-arithmetic-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-seq-and-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-seq-and-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-seq-and-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-seq-and-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-arithmetic-series">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-arithmetic-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math3-series/math3-arithmetic-series">http://translate.khanacademy.org/math/math3/math3-series/math3-arithmetic-series</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/seq-and-series">http://translate.khanacademy.org/math/precalculus/seq-induction/seq-and-series</a>
+# Description of topic (x520982b8) on the bg stage
+# Description of topic (x520982b8) on the pt stage
+# Description of topic (x5822b408) on the lol stage
+# Description of topic (x68e77953) on the bg stage
+# Description of topic (x68e77953) on the pt stage
+# Description of topic (x8f472b35) on the bg stage
+# Description of topic (x8f472b35) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to evaluate and work with finite arithmetic series."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-finite-geometric-series-word-problems">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-finite-geometric-series-word-problems</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-finite-geometric-series-word-problems">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-finite-geometric-series-word-problems</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-finite-geometric-series-word-problems">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-finite-geometric-series-word-problems</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-geo-series-app">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-geo-series-app</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-series/math3-geo-series-app">http://translate.khanacademy.org/math/math3/math3-series/math3-geo-series-app</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/finite-geometric-series-word-problems">http://translate.khanacademy.org/math/precalculus/seq-induction/finite-geometric-series-word-problems</a>
+# Title of topic (x1cd6051b) on the bg stage
+# Title of topic (x1cd6051b) on the pt stage
+# Title of topic (x262c084a) on the bg stage
+# Title of topic (x262c084a) on the pt stage
+# Title of topic (xa1892177) on the lol stage
+# Title of topic (xcca2420a) on the bg stage
+# Title of topic (xcca2420a) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Finite geometric series applications"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-finite-geometric-series-word-problems">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-finite-geometric-series-word-problems</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-finite-geometric-series-word-problems">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-finite-geometric-series-word-problems</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-finite-geometric-series-word-problems">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-finite-geometric-series-word-problems</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-geo-series-app">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-geo-series-app</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math3-series/math3-geo-series-app">http://translate.khanacademy.org/math/math3/math3-series/math3-geo-series-app</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/finite-geometric-series-word-problems">http://translate.khanacademy.org/math/precalculus/seq-induction/finite-geometric-series-word-problems</a>
+# Description of topic (x1cd6051b) on the bg stage
+# Description of topic (x1cd6051b) on the pt stage
+# Description of topic (x262c084a) on the bg stage
+# Description of topic (x262c084a) on the pt stage
+# Description of topic (xa1892177) on the lol stage
+# Description of topic (xcca2420a) on the bg stage
+# Description of topic (xcca2420a) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Apply what you've learned about geometric series to model situations in some fun word problems."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-geometric-sequences-review">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-geometric-sequences-review</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequences">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequences</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-precalc-geometric-sequences">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-precalc-geometric-sequences</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/precalc-geometric-sequences">http://translate.khanacademy.org/math/precalculus/seq-induction/precalc-geometric-sequences</a>
+# Description of topic (x0d159c47) on the lol stage
+# Description of topic (x5112a568) on the bg stage
+# Description of topic (x5112a568) on the pt stage
+# Description of topic (xc565a9b0) on the bg stage
+# Description of topic (xc565a9b0) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Review geometric sequences before you dive into geometric series."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series-applications">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series-applications</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/infinite-geometric-series-applications">http://translate.khanacademy.org/math/precalculus/seq-induction/infinite-geometric-series-applications</a>
+# Title of topic (x19595a33) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Infinite geometric series applications"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series-applications">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series-applications</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/infinite-geometric-series-applications">http://translate.khanacademy.org/math/precalculus/seq-induction/infinite-geometric-series-applications</a>
+# Description of topic (x19595a33) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Apply what you've learned about infinite geometric series to model situations in some fun word problems."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-sigma-notation">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-sigma-notation</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-sigma-notation">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-sigma-notation</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-sigma-notation">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-sigma-notation</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-sigma-notation">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-sigma-notation</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-series/math3-sigma-notation">http://translate.khanacademy.org/math/math3/math3-series/math3-sigma-notation</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/sigma-notation">http://translate.khanacademy.org/math/precalculus/seq-induction/sigma-notation</a>
+# Title of topic (x2d1d0db5) on the lol stage
+# Title of topic (x330b6b99) on the bg stage
+# Title of topic (x330b6b99) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Basic sigma notation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-sigma-notation">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-sigma-notation</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-sigma-notation">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-sigma-notation</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-sigma-notation">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-sigma-notation</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-sigma-notation">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-sigma-notation</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math3-series/math3-sigma-notation">http://translate.khanacademy.org/math/math3/math3-series/math3-sigma-notation</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/sigma-notation">http://translate.khanacademy.org/math/precalculus/seq-induction/sigma-notation</a>
+# Description of topic (x2d1d0db5) on the lol stage
+# Description of topic (x330b6b99) on the bg stage
+# Description of topic (x330b6b99) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to use and interpret sigma notation. Hint: It means take the sum!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-adding-vectors-in-magnitude-and-direction-form">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-adding-vectors-in-magnitude-and-direction-form</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-adding-vectors-in-magnitude-and-direction-form">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-adding-vectors-in-magnitude-and-direction-form</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/adding-vectors-in-magnitude-and-direction-form">http://translate.khanacademy.org/math/precalculus/vectors-precalc/adding-vectors-in-magnitude-and-direction-form</a>
+# Description of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-adding-vectors-in-magnitude-and-direction-form">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-adding-vectors-in-magnitude-and-direction-form</a>
+# Description of topic (xc8acd485) on the lol stage
+# Description of topic (xcbd35802) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to add two vectors together that are in magnitude and direction form. We can always use our old friend component form!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-applications-of-vectors">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-applications-of-vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-applications-of-vectors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-applications-of-vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/applications-of-vectors">http://translate.khanacademy.org/math/precalculus/vectors-precalc/applications-of-vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-applications-of-vectors">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-applications-of-vectors</a>
+# Title of topic (x34e653cd) on the lol stage
+# Title of topic (x4630220a) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Applications of vectors"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-applications-of-vectors">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-applications-of-vectors</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-applications-of-vectors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-applications-of-vectors</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/applications-of-vectors">http://translate.khanacademy.org/math/precalculus/vectors-precalc/applications-of-vectors</a>
+# Description of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-applications-of-vectors">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-applications-of-vectors</a>
+# Description of topic (x34e653cd) on the lol stage
+# Description of topic (x4630220a) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Apply what you've learned about vectors so far to solve some fun word problems."
+msgstr ""
+
+# Exercise is at (x9969d17a0fb54fd1) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/combined-vector-operations/e/combined-vector-operations">http://translate.khanacademy.org/math/precalculus/vectors-precalc/combined-vector-operations/e/combined-vector-operations</a>
+# Pretty display name for exercise (xc723fec5) on the pt stage
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-combined-vector-operations">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-combined-vector-operations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-combined-vector-operations">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-combined-vector-operations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/combined-vector-operations">http://translate.khanacademy.org/math/precalculus/vectors-precalc/combined-vector-operations</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-combined-vector-operations">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-combined-vector-operations</a>
+# Title of topic (x3e7db8d5) on the pt stage
+# Title of topic (x5be78113) on the lol stage
+# Title of video <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/combined-vector-operations/v/combined-vector-operations-example">http://translate.khanacademy.org/math/precalculus/vectors-precalc/combined-vector-operations/v/combined-vector-operations-example</a>
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Combined vector operations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-combined-vector-operations">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-combined-vector-operations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-combined-vector-operations">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-combined-vector-operations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/combined-vector-operations">http://translate.khanacademy.org/math/precalculus/vectors-precalc/combined-vector-operations</a>
+# Description of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-combined-vector-operations">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-combined-vector-operations</a>
+# Description of topic (x3e7db8d5) on the pt stage
+# Description of topic (x5be78113) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Use both scalar multiplication and vector addition or subtraction in the same problem!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-component-form-of-vectors">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-component-form-of-vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-component-form-of-vectors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-component-form-of-vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/component-form-of-vectors">http://translate.khanacademy.org/math/precalculus/vectors-precalc/component-form-of-vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-component-form-of-vectors">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-component-form-of-vectors</a>
+# Title of topic (xca9ac1e6) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Component form of vectors"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-component-form-of-vectors">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-component-form-of-vectors</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-component-form-of-vectors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-component-form-of-vectors</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/component-form-of-vectors">http://translate.khanacademy.org/math/precalculus/vectors-precalc/component-form-of-vectors</a>
+# Description of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-component-form-of-vectors">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-component-form-of-vectors</a>
+# Description of topic (xca9ac1e6) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Convert vectors from magnitude and direction form to component form."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-magnitude-direction">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-magnitude-direction</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-magnitude-direction">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-magnitude-direction</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/magnitude-direction">http://translate.khanacademy.org/math/precalculus/vectors-precalc/magnitude-direction</a>
+# Description of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-magnitude-direction">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-magnitude-direction</a>
+# Description of topic (x2a3a9605) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Think about how we can represent vectors using their magnitude and direction instead of their components."
+msgstr ""
+
+# Exercise is at (x9969d17a0fb54fd1) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/magnitude-vectors/e/magnitude-of-vectors">http://translate.khanacademy.org/math/precalculus/vectors-precalc/magnitude-vectors/e/magnitude-of-vectors</a>
+# Pretty display name for exercise (x12054c97) on the pt stage
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-magnitude-vectors">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-magnitude-vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-copy-of-alg-magnitude-vectors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-copy-of-alg-magnitude-vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/magnitude-vectors">http://translate.khanacademy.org/math/precalculus/vectors-precalc/magnitude-vectors</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-magnitude-vectors">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-magnitude-vectors</a>
+# Title of topic (x06b5e023) on the bg stage
+# Title of topic (x06b5e023) on the pt stage
+# Title of topic (xb57ecabd) on the lol stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Magnitude of vectors"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-magnitude-vectors">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-magnitude-vectors</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-copy-of-alg-magnitude-vectors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/in-in-copy-of-alg-magnitude-vectors</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/magnitude-vectors">http://translate.khanacademy.org/math/precalculus/vectors-precalc/magnitude-vectors</a>
+# Description of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-magnitude-vectors">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-magnitude-vectors</a>
+# Description of topic (x06b5e023) on the bg stage
+# Description of topic (x06b5e023) on the pt stage
+# Description of topic (xb57ecabd) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Find the magnitude of a vector given in component form."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-scalar-multiplication">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-scalar-multiplication</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-scalar-multiplication">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-scalar-multiplication</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/scalar-multiplication">http://translate.khanacademy.org/math/precalculus/vectors-precalc/scalar-multiplication</a>
+# Description of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-scalar-multiplication">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-scalar-multiplication</a>
+# Description of topic (x1ce456cf) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiply a vector by a scalar to get a new vector."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-unit-vectors">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-unit-vectors</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-unit-vectors">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-unit-vectors</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors">http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors</a>
+# Description of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-unit-vectors">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-unit-vectors</a>
+# Description of topic (xe63530c2) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about special vectors called unit vectors that have a magnitude of 1."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-vector-addition-subtraction">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-vector-addition-subtraction</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-vector-addition-subtraction">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-vector-addition-subtraction</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/vector-addition-subtraction">http://translate.khanacademy.org/math/precalculus/vectors-precalc/vector-addition-subtraction</a>
+# Description of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-vector-addition-subtraction">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-vector-addition-subtraction</a>
+# Description of topic (xff3c1bbb) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Combine two vectors by adding or subtracting them to get a new vector."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-vector-basics">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-vector-basics</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-vector-basics">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-vector-basics</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/vector-basic">http://translate.khanacademy.org/math/precalculus/vectors-precalc/vector-basic</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-vector-basic">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-vector-basic</a>
+# Title of topic (x326c30dc) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Vector basics"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-vector-basics">http://translate.khanacademy.org/math/algebra-home/alg-vectors/alg-vector-basics</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-vector-basics">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-vector-algebra/copy-of-alg-vector-basics</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/vector-basic">http://translate.khanacademy.org/math/precalculus/vectors-precalc/vector-basic</a>
+# Description of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-vector-basic">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-vector-basic</a>
+# Description of topic (x326c30dc) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn the basics of vectors, like that a vector has both magnitude and direction."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-seq-and-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-seq-and-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-seq-and-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-seq-and-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-arithmetic-series">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-sequence-and-series/copy-of-math3-arithmetic-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-series/math3-arithmetic-series">http://translate.khanacademy.org/math/math3/math3-series/math3-arithmetic-series</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/seq-and-series">http://translate.khanacademy.org/math/precalculus/seq-induction/seq-and-series</a>
+# Title of topic (x520982b8) on the bg stage
+# Title of topic (x520982b8) on the pt stage
+# Title of topic (x68e77953) on the bg stage
+# Title of topic (x68e77953) on the pt stage
+# Title of topic (x8f472b35) on the bg stage
+# Title of topic (x8f472b35) on the pt stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-seq-and-series/a/evaluating-arithmetic-series-guided-practice">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-seq-and-series/a/evaluating-arithmetic-series-guided-practice</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-seq-and-series/a/evaluating-arithmetic-series-guided-practice">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-seq-and-series/a/evaluating-arithmetic-series-guided-practice</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Finite arithmetic series"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-sequences-review">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-sequences-review</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-sequences-review">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-sequences-review</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/sequences-review">http://translate.khanacademy.org/math/precalculus/seq-induction/sequences-review</a>
+# Description of topic (x6212fa9b) on the bg stage
+# Description of topic (x6212fa9b) on the pt stage
+# Description of topic (x93112555) on the bg stage
+# Description of topic (x93112555) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Review arithmetic sequences before you dive into arithmetic series."
+msgstr ""
+
+# Exercise is at (x9b4bbe1c1e806b4b) on the es stage.
+# Exercise is at (xae0e91087a985fea) on the es stage.
+# Exercise is at (xf815c44f6412a3bc) on the es stage.
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-sigma-notation">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-sigma-notation</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-sigma-notation">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-sigma-notation</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/sigma-notation">http://translate.khanacademy.org/math/precalculus/seq-induction/sigma-notation</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x330b6b99) on the bg stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x330b6b99) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Sigma notation"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-ab/limits-basics-ab">http://translate.khanacademy.org/math/ap-calculus-ab/limits-basics-ab</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-calculus-bc/limits-basics-bc">http://translate.khanacademy.org/math/ap-calculus-bc/limits-basics-bc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/differential-calculus/limit-basics-dc">http://translate.khanacademy.org/math/differential-calculus/limit-basics-dc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/limits-precalc">http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/limits-precalc</a>
+# Title of topic (x19e3c2b5) on the accents stage
+# Title of topic (x19e3c2b5) on the es stage
+# Title of topic (x19e3c2b5) on the fr stage
+# Title of topic (x19e3c2b5) on the ja stage
+# Title of topic (x1e3477dc) on the hy stage
+# Title of topic (xd6674733) on the accents stage
+# Title of topic (xd6674733) on the es stage
+# Title of topic (xd6674733) on the fr stage
+# Title of topic (xd6674733) on the ja stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Limits basics"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-15-probability-2/copy-of-probability-basics">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-15-probability-2/copy-of-probability-basics</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability/copy-of-basic-prob-precalc">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability/copy-of-basic-prob-precalc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/prob-comb/basic-prob-precalc">http://translate.khanacademy.org/math/precalculus/prob-comb/basic-prob-precalc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/probability-basics">http://translate.khanacademy.org/math/probability/probability-geometry/probability-basics</a>
+# Description of topic (x6e08591f) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Flip a quarter a hundred times. What's the probability that it will turn up heads? Tails? Even if we are unsure about whether something will happen, we can start to be mathematical about the \"chances\" of an event (essentially realizing that some things are more likely than others) occurring. This tutorial will introduce us to the tools that allow us to think about random events and the logic behind comparing, judging, and finding the probabilities of those events."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability/copy-of-compound-probability-of-ind-events-using-mult-rule">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability/copy-of-compound-probability-of-ind-events-using-mult-rule</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/prob-comb/compound-probability-of-ind-events-using-mult-rule">http://translate.khanacademy.org/math/precalculus/prob-comb/compound-probability-of-ind-events-using-mult-rule</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Compound probability of independent events using the multiplication rule"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability/copy-of-compound-probability-of-ind-events-using-mult-rule">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability/copy-of-compound-probability-of-ind-events-using-mult-rule</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/prob-comb/compound-probability-of-ind-events-using-mult-rule">http://translate.khanacademy.org/math/precalculus/prob-comb/compound-probability-of-ind-events-using-mult-rule</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "See how we can use the multiplication rule to find the compound probability of independent events."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability/copy-of-independent-events-precalc">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability/copy-of-independent-events-precalc</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/prob-comb/independent-events-precalc">http://translate.khanacademy.org/math/precalculus/prob-comb/independent-events-precalc</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Compound probability of independent events using diagrams"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/precalculus/conics-precalc">http://translate.khanacademy.org/math/precalculus/conics-precalc</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb61c639c) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Conic sections | Precalculus | Khan Academy"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/absolute-value-and-angle-of-complex-numbers">http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/absolute-value-and-angle-of-complex-numbers</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Absolute value and angle of complex numbers"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/distance-and-midpoint-of-complex-numbers">http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/distance-and-midpoint-of-complex-numbers</a>
+# Title of topic (x54b4a226) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Distance and midpoint of complex numbers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/multiplying-and-dividing-complex-numbers-in-polar-form">http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/multiplying-and-dividing-complex-numbers-in-polar-form</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how complex multiplication and division work when the numbers are given in polar form. Amazingly enough, this is much easier then multiplication and division in rectangular form."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers">http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers</a>
+# Description of topic (x1dd60c20) on the hy stage
+# Description of topic (x1dd60c20) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Use your imagination and complexity (?) and dive into the world of complex numbers. Add, subtract, multiply, & divide complex numbers. Plot them on the complex plane and convert between rectangular and polar forms."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers">http://translate.khanacademy.org/math/precalculus/imaginary-and-complex-numbers</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x1dd60c20) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Complex numbers | Precalculus | Khan Academy"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/copy-of-algebraic-limits">http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/copy-of-algebraic-limits</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Finding limits algebraically"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/estimating-limits-numerically">http://translate.khanacademy.org/math/precalculus/limit-topic-precalc/estimating-limits-numerically</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Estimate limits numerically, for example by filling out a table of values near a specific value of x."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/partial-fraction-expans">http://translate.khanacademy.org/math/precalculus/partial-fraction-expans</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to rewrite a complex rational expression as the sum of more simple expressions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/determinant-of-2x2-matrix">http://translate.khanacademy.org/math/precalculus/precalc-matrices/determinant-of-2x2-matrix</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The determinant of a 2x2 matrix"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/determinants-and-inverses-of-large-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices/determinants-and-inverses-of-large-matrices</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Determinants and inverses of large matrices"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/finding-inverse-matrix-with-determinant">http://translate.khanacademy.org/math/precalculus/precalc-matrices/finding-inverse-matrix-with-determinant</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about a way to find the inverse of a matrix using its determinant and adjuagates."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices/row-echelon-and-gaussian-elimination">http://translate.khanacademy.org/math/precalculus/precalc-matrices/row-echelon-and-gaussian-elimination</a>
+# Title of topic (xd93aed07) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Row-echelon form and Gaussian elimination"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/precalc-matrices">http://translate.khanacademy.org/math/precalculus/precalc-matrices</a>
+# Description of topic (x6db71967) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn what matrices are and about their various uses: solving systems of equations, transforming shapes and vectors, and representing real-world situations. Learn how to add, subtract, and multiply matrices, and find the inverses of matrices."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/prob-comb/combinations">http://translate.khanacademy.org/math/precalculus/prob-comb/combinations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/probability-and-combinatorics-topic/combinations-combinatorics">http://translate.khanacademy.org/math/probability/probability-and-combinatorics-topic/combinations-combinatorics</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "You are already familiar with calculating permutation (\"How many ways could 7 different people sit in 4 different seats?\").  But what if you didn't care about which seat they sat in?  What if you just cared about which 4 people were in the car?  Or put another way, you want to know how many combinations of 4 people can you stick in the car from a pool of 7 candidates.  Or how many ways are there to choose 4 things from a pool of 7?  Look no further than this tutorial to answer your questions."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/prob-comb/combinatorics-precalc">http://translate.khanacademy.org/math/precalculus/prob-comb/combinatorics-precalc</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/probability-and-combinatorics-topic/permutations">http://translate.khanacademy.org/math/probability/probability-and-combinatorics-topic/permutations</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "You want to display your Chuck Norris dolls on your desk at school and there is only room for five of them.  Unfortunately, you own 50.  How many ways can you pick the dolls and arrange them on your desk?  "
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/precalculus/seq-induction">http://translate.khanacademy.org/math/precalculus/seq-induction</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xef1dc391) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Series | Precalculus | Khan Academy"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/basic-sinusoidal-equations-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/basic-sinusoidal-equations-precalc</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Solving basic sinusoidal equations"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc">http://translate.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb7335d47) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Trigonometry | Precalculus | Khan Academy"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/magnitude-direction">http://translate.khanacademy.org/math/precalculus/vectors-precalc/magnitude-direction</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-magnitude-direction">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-magnitude-direction</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Magnitude and direction form of vectors"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/magnitude-direction">http://translate.khanacademy.org/math/precalculus/vectors-precalc/magnitude-direction</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-magnitude-direction">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-magnitude-direction</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Vectors in magnitude and direction form"
+msgstr ""
+
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/vector-addition-and-subtraction">https://www.khanacademy.org/tag/vector-addition-and-subtraction</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/vector-addition-subtraction">http://translate.khanacademy.org/math/precalculus/vectors-precalc/vector-addition-subtraction</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-vector-addition-subtraction">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite/in-in-class11th-physics-vectors-prerequisite-vector-addition-subtraction</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Vector addition and subtraction"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc">http://translate.khanacademy.org/math/precalculus/vectors-precalc</a>
+# Description of topic <a href="http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite">http://translate.khanacademy.org/science/in-in-class11th-physics/in-in-class11th-physics-vectors-prerequisite</a>
+# Description of topic (x8dd62d07) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn what vectors are and how they can be used to model real-world situations. Perform various operations with vectors like adding, subtracting, scaling, conversion between rectangular to polar coordinates, etc."
+msgstr ""
+
