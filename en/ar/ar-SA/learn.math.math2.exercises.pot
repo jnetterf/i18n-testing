@@ -1,0 +1,470 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-24 11:18+0000\n"
+"PO-Revision-Date: 2018-01-24 10:51-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.math2.exercises.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--find-the-error">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--find-the-error</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "At $\\text{Step }1$, Claire got rid of the parentheses:\n\n"
+"$\\begin{align}&(2x^2+2xy+5y^2)-(3x^2+4xy+6y^2)\\\\\n"
+"\\\\\n"
+"=&2x^2+2xy+5y^2-3x^2-4xy-6y^2\n"
+"\\end{align}$\n\n"
+"This step was done correctly, as she distributed the negative sign across all terms in the second trinomial."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--find-the-error">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--find-the-error</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "At $\\text{Step }2$, Claire simplified the expression:\n\n"
+"$\\begin{align}&2x^2+2xy+5y^2-3x^2-4xy-6y^2\\\\\n"
+"\\\\\n"
+"=&(2+2)x^2y+(2+5)xy^2-(3+4)x^2y-(4+6)xy^2\n"
+"\\end{align}$\n\n"
+"This step wasn't done correctly, as she combined terms that are not alike. For example, she combined $x^2$, $xy$, and $y^2$ terms terms by writing that:\n\n"
+"$2x^2+2xy+5y^2=(2+2)x^2y+(2+5)xy^2$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--find-the-error">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--find-the-error</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Claire tried to subtract two polynomials. Her work is shown below:\n\n"
+"$\\begin{align}\n"
+"&\\phantom{=}(2x^2+2xy+5y^2)-(3x^2+4xy+6y^2)\n"
+"\\\\\\\\\n"
+"&=2x^2+2xy+5y^2-3x^2-4xy-6y^2&\\text{Step }1\n"
+"\\\\\\\\\n"
+"&=(2+2)x^2y+(2+5)xy^2-(3+4)x^2y-(4+6)xy^2&\\text{Step }2\n"
+"\\\\\\\\\n"
+"&=4x^2y+7xy^2-7x^2y-10xy^2&\\text{Step }3\n"
+"\\end{align}$\n\n"
+"**At which step did Claire make an error, if at all?**\n\n"
+"[[☃ radio 2]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--find-the-error">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--find-the-error</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Claire's work is correct."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--find-the-error">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--find-the-error</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion, Claire made a mistake at $\\text{Step }2$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--two-variables-challenge">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--two-variables-challenge</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Subtract $9x^4-x^2y^2-5y^4$ from $3x^4+2x^2y^2-7y^4$.**   \n"
+"*Your answer should be a polynomial in standard form.*\n\n"
+"[[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--two-variables-challenge">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--two-variables-challenge</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Now that we have identified like terms, let's combine them. Make sure to keep track of positive and negative signs!\n\n"
+"${\\blue{(3-9)x^4} + \\green{(2+1)x^2y^2} + \\purple{(-7+5)y^4}}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--two-variables-challenge">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--two-variables-challenge</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Since we are asked to subtract $9x^4-x^2y^2-5y^4$ from $3x^4+2x^2y^2-7y^4$, let's rewrite it as one expression. But how do we know which terms go where?\n\n"
+"Well, if we were asked to \"subtract $11$ from $7$\", we would rewrite it as $7 - 11$.  In other words, we would *start with* $7$ and *then subtract* $11$.  Let's use this pattern to rewrite the problem as one expression:\n\n"
+"${(3x^4+2x^2y^2-7y^4)-(9x^4-x^2y^2-5y^4)}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--two-variables-challenge">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--two-variables-challenge</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Since we are subtracting, it is helpful to distribute the $\\text{\\pink{negative sign}}$ across all terms in the second trinomial:\n\n"
+"$\\begin{align}&(3x^4+2x^2y^2-7y^4)\\pink{-}(9x^4-x^2y^2-5y^4)\\\\\n"
+"\\\\\n"
+"=&(3x^4+2x^2y^2-7y^4)\\pink{-}9x^4\\pink{-}(-x^2y^2)\\pink{-}(-5y^4)\\\\\n"
+"\\\\\n"
+"=&3x^4+2x^2y^2-7y^4-9x^4+x^2y^2+5y^4\n"
+"\\end{align}$\n\n"
+"Note that the parentheses around the first trinomial don’t affect the order of operations, so we can just remove them."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--two-variables-challenge">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--two-variables-challenge</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "When we add or subtract terms in a polynomial expression, the only way that we can simplify the expression is by *combining* those terms that are alike.\n\n"
+"Our expression contains $3$ different kinds of terms in two variables: $\\blue{x^4}, \\green{x^2y^2},$ and $\\purple{y^4}$: \n\n"
+"${\\blue{3x^4} \\green{+2x^2y^2} \\purple{-7y^4} \\blue{-9x^4} \\green{+x^2y^2} \\purple{+5y^4}}$\n\n"
+"Note that there is an \"invisible\" coefficient of $\\green 1$ in front of the term $\\green{x^2y^2}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--two-variables-challenge">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var/e/add---subtract-polynomials--two-variables-challenge</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "When we combine the coefficients in front of each term, we get the following trinomial:\n\n"
+"$-6x^4 +3x^2y^2-2y^4$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials/e/add---subtract-polynomials-challenge">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials/e/add---subtract-polynomials-challenge</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Subtract $11b^2-4b+7$ from $b^2+8b-9$.**  \n"
+"*Your answer should be a polynomial in standard form.*\n\n"
+"[[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials/e/add---subtract-polynomials-challenge">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials/e/add---subtract-polynomials-challenge</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Now that we have identified like terms, let's combine them. Make sure to keep track of positive and negative signs!\n\n"
+"${\\blue{(1-11)b^2} + \\green{(8+4)b} + \\purple{(-9-7)}}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials/e/add---subtract-polynomials-challenge">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials/e/add---subtract-polynomials-challenge</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Since we are asked to subtract $11b^2-4b+7$ from $b^2+8b-9$, let's rewrite it as one expression. But how do we know which terms go where?\n\n"
+"Well, if we were asked to \"subtract $13$ from $4$\", we would rewrite it as $4 - 13$.  In other words, we would *start with* $4$ and *then subtract* $13$.  Let's use this pattern to rewrite the problem as one expression:\n\n"
+"${(b^2+8b-9)-(11b^2-4b+7)}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials/e/add---subtract-polynomials-challenge">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials/e/add---subtract-polynomials-challenge</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Since we are subtracting, it is helpful to distribute the $\\text{\\pink{negative sign}}$ across all terms in the second trinomial:\n\n"
+"$\\begin{align}&(b^2+8b-9)\\pink{-}(11b^2-4b+7)\\\\\n"
+"\\\\\n"
+"=&(b^2+8b-9)\\pink{-}11b^2\\pink{-}(-4b)\\pink{-}7\\\\\n"
+"\\\\\n"
+"=&b^2+8b-9-11b^2+4b-7\n"
+"\\end{align}$\n\n"
+"Note that the parentheses around the first trinomial don’t affect the order of operations, so we can just remove them."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials/e/add---subtract-polynomials-challenge">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials/e/add---subtract-polynomials-challenge</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "When we add or subtract terms in a polynomial expression, the only way that we can simplify the expression is by *combining* those terms that are alike.\n\n"
+"Our expression contains terms of $3$ different degrees in the same variable: $\\blue{b^2}, \\green{b},$ and the $\\text{\\purple{constant}}$ term: \n\n"
+"${\\blue{b^2} \\green{+8b} \\purple{-9} \\blue{-11b^2} \\green{\n"
+"+4b} \\purple{-7}}$\n\n"
+"Note that there is an \"invisible\" coefficient of $\\blue1$ in front of the term $\\blue{b^2}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials/e/add---subtract-polynomials-challenge">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials/e/add---subtract-polynomials-challenge</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "When we combine the coefficients in front of each term, we get the following trinomial:\n\n"
+"$-10b^2 +12b-16$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials/e/subtract-polynomials">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials/e/subtract-polynomials</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# Exercise at (xdeab62b6) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Subtract.**  \n"
+"*Your answer should be a polynomial in standard form.*\n\n"
+"$(-8y^2-9y) -(-8y^3+9y^2-5y)=$ [[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-binomials-2/e/multiply-binomials-area-model">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-binomials-2/e/multiply-binomials-area-model</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials/e/multiply-monomials-by-polynomials-intuition">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials/e/multiply-monomials-by-polynomials-intuition</a>.
+# Exercise at (x74f3df39f921d308) on the lol stage.
+# Exercise at (x74f3df39f921d308) on the pt stage.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let's start by finding the area of each small rectangle separately."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials/e/multiply-monomials-by-polynomials-challenge">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials/e/multiply-monomials-by-polynomials-challenge</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"&=-12w^3z+8w^2z^2-6wz^3\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials/e/multiply-monomials-by-polynomials-challenge">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials/e/multiply-monomials-by-polynomials-challenge</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"&\\phantom{=}-2wz(6w^2-4wz+3z^2)\n"
+"\\\\\\\\\n"
+"&=-2wz(6w^2)-2wz(-4wz)-2wz(3z^2)\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials/e/multiply-monomials-by-polynomials-challenge">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials/e/multiply-monomials-by-polynomials-challenge</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Expand.**  \n"
+"*Your answer should be a polynomial in standard form.*\n\n"
+"$-2wz(6w^2-4wz+3z^2)=$ [[☃ expression 3]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials/e/multiply-monomials-by-polynomials-intuition">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials/e/multiply-monomials-by-polynomials-intuition</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![rectangle](web+graphie://ka-perseus-graphie.s3.amazonaws.com/c150bfbe411b3a3107a7be29b26f85bd33f78da3)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials/e/multiply-monomials-by-polynomials-intuition">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials/e/multiply-monomials-by-polynomials-intuition</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Express the area of the entire rectangle.**  \n"
+"*Your answer should be a polynomial in standard form.*\n\n"
+"![rectangle](web+graphie://ka-perseus-graphie.s3.amazonaws.com/e659ca31212f7e9b1398a042ae27eac632d1a8aa)\n\n"
+"$\\text{Area} = $ [[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials/e/multiply-monomials-by-polynomials-intuition">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials/e/multiply-monomials-by-polynomials-intuition</a>.
+# Exercise at (xad0f51850c79b2f3) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The area of the entire rectangle is the sum of those areas:\n\n"
+"$15y^2+40y+10$"
+msgstr ""
+
