@@ -1,0 +1,713 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:16+0000\n"
+"PO-Revision-Date: 2018-01-24 10:49-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.illustrative-math-6.exercises.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "6.2 Pre-unit diagnostic assessment (Illustrative Math)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "##options for showing equivalence:\n\n"
+"number line -  ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/b9b869a7269be44f969fc83414dcb399daac083f)\n\n"
+"shaded fraction models - ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/6c73908b2748cec4e18f5ba955a055c10324bf63) ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/669e0559073ac413ab3bce09259e4220647fe509)\n\n"
+"unshaded fraction models - ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/65a4a55d11e2f6b4361b6da5f8b294a5bb12661f)![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/13318aba4529b08003ead60c983344749b09ebc2)\n\n"
+"computation - $\\dfrac34=\\dfrac34\\times1=\\dfrac34\\times\\dfrac55=\\dfrac{15}{20}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\dfrac69$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**$28$ is $7$ times what number?**\n\n"
+"[[☃ numeric-input 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**$4000$ is $4$ times what number?**\n\n"
+"[[☃ numeric-input 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**$8$ is $32$ times what number?**\n\n"
+"[[☃ numeric-input 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Label each tick mark with its location on the number line.**\n\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/819457c47299b1214efdeecbb43d34f053f90a9d)\n\n\n"
+"**Write the number at $\\greenD{A}$ and $\\blueD{B}$ on the number line.**\n\n"
+"$\\greenD{A}=$ [[☃ numeric-input 2]]\n\n"
+"$\\blueD{B}=$ [[☃ numeric-input 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Select the two fractions that are equivalent.**\n\n"
+"[[☃ radio 1]]\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "A car travels $6$ miles in $10$ minutes at a constant speed.  A train travels $6$  miles in $8$ minutes at a constant speed.\n\n"
+"Sami says the car traveled faster because the car traveled for a longer time.\n\n"
+"DeShawn says the train traveled faster because the train traveled the same distance in a shorter amount of time.\n\n"
+"**Who is correct?**\n\n"
+"[[☃ radio 1]]\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "DeShawn"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Fall"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Here is a number line:\n\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/44d55065f7bcc3c08dbc26c73bd01425e49cc7b6)\n\n"
+"**Which fractions represent $\\blueD{A}$'s location on the number line?**\n\n"
+"[[☃ radio 1]]\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Neither.  The train and car traveled at the same speed."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "One batch of brownies calls for $1$ box of brownie mix and the ingredients shown below.\n\n"
+"Type of brownie | Eggs | Water | Oil\n"
+"- | :-: | :-: | :-:\n"
+"Fudge-like | $2$ eggs | $\\dfrac14$ cup | $\\dfrac12$ cup\n"
+"Cake-like | $3$ eggs | $\\dfrac14$ cup | $\\dfrac12$ cup\n\n"
+"**What amount of eggs would you need for $3$ batches of cake-like brownies?**\n\n"
+"[[☃ numeric-input 1]] eggs\n\n\n"
+"**What amount of water would you need for $3$ batches of cake-like brownies?**\n\n"
+"[[☃ numeric-input 2]] cup\n\n\n"
+"**What amount of oil would you need for $3$ batches of cake-like brownies?**\n\n"
+"[[☃ numeric-input 3]] cups \n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "One batch of brownies calls for $1$ box of brownie mix and the ingredients shown below.\n\n"
+"Type of brownie | Eggs | Water | Oil\n"
+"- | :-: | :-: | :-:\n"
+"Fudge-like | $2$ eggs | $\\dfrac14$ cup | $\\dfrac12$ cup\n"
+"Cake-like | $3$ eggs | $\\dfrac14$ cup | $\\dfrac12$ cup\n\n"
+"**What amount of eggs, water, and oil would you need for $2$ batches of fudge-like brownies?**\n\n"
+"[[☃ numeric-input 1]] eggs\n\n"
+"[[☃ numeric-input 2]] cups of water\n\n"
+"[[☃ numeric-input 3]] cups of oil\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Sami"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The school orchestra sells snacks at their concerts to raise money.  At the spring concert, they made $\\dfrac98$ as much money as they made at their fall concert.\n\n"
+"**Did they make more money at the spring of the fall concert?**\n\n"
+"[[☃ radio 1]]\n\n"
+"**Explain how you know.**\n\n"
+"[[☃ radio 2]]\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The spring concert made more than $1$ times the amount the fall concert made.  Multiplying by a number greater than $1$ increases the amount, so the spring concert  must have raised more money."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/assessment/e/6-2-pre-unit-diagnostic-assessment--illustrative-math-</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The spring concert raised a fraction of the amount the fall concert raised.  So, the fall concert must have raised more money."
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "6.2 End-of-unit assessment"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid " A bag contains $120$ marbles. Some are red and the rest are black. There are $19$ red marbles for every black marble. \n\n"
+"**How many red marbles are in the bag?**\n\n"
+"[[☃ numeric-input 1]] red marbles\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid " To make orange fizz, Noah mixes $4$ scoops of orange-flavored powder with $6$ cups of water. Andre mixes $5$ scoops of orange-flavored powder with $8$ cups of water.\n\n"
+"**Which table shows different amounts of powder and water that taste the same as Noah’s mixture?**\n\n"
+"[[☃ radio 1]]\n\n\n"
+"**Which double number line shows different amounts of powder and water that taste the same as Andre’s mixture?**\n\n"
+"[[☃ radio 2]]\n\n"
+"**How do their two mixtures compare in taste?**\n\n"
+"[[☃ radio 3]]\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/5b7000fb71cf4e5da9b4dc9f15156b1cae1dd086)  \n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/846aac1f7de2acbdc6c2fb8e1b144144d6b44638)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/5b7000fb71cf4e5da9b4dc9f15156b1cae1dd086)  \n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/d96c1dba87931411de1bf5e28aee06c9f6f64380)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$12$ teaspoons"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$14$ teaspoons"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$18$ teaspoons"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$26$ teaspoons"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Select all of the true statements.**\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/657b7de7fff4de5ed7c829ce3e96fb0c077a6787.png)\n\n"
+"[[☃ radio 1]]\n\n\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Select all the ratios that are equivalent to $8:6$.**\n\n"
+"[[☃ radio 1]]\n\n\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "A mixture of purple paint contains $6$ teaspoons of red paint and $15$ teaspoons of blue paint.  \n\n"
+"**To make the same shade of purple paint using $35$ teaspoons of blue paint, how much red paint would you need?**  \n"
+"*Use the double number line diagram to help if needed.*\n\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/5abcdc625ea93b9998d15ce09065ea2a0e44ac52)  \n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/14e98eccd9177f19d1f522df4d737e8fe0535822)\n\n\n"
+"[[☃ radio 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Andre's mixture has a more orange flavor than Noah's mixture."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Lin rode her bike $2$ miles in $8$ minutes.  She rode at a constant speed.  \n\n"
+"**Complete the table to show the time it took to travel different distances at this speed.**\n\n"
+"Distance traveled (miles) | Elapsed time (minutes)\n"
+":-: | :-: \n"
+"$2$ | $8$\n"
+"$1$ | [[☃ numeric-input 1]]\n"
+"[[☃ numeric-input 2]] | $1$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Noah's mixture has a more orange flavor than Andre's mixture."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Noah's mixture tastes the same as Andre's mixture."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Powder (scoops) | Water (cups)\n"
+"- | - | -\n"
+"$2$ | $3$\n"
+"$10$ | $15$\n"
+"$8$ | $12$ "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Powder (scoops) | Water (cups)\n"
+"- | - | -\n"
+"$3$ | $5$\n"
+"$6$ | $10$\n"
+"$12$ | $18$ "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The ratio of smiley faces to squares is $6:4$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The ratio of smiley faces to triangles is $6$ to $4$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The ratio of triangles to squares is $2$ to $4$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "There are $6$ smiley faces and $2$ triangles. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "There are three smiley faces for every triangle."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "There are two squares for every triangle."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "There are two triangles for every six smiley faces."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "There are two triangles for every smiley face."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Three bananas cost $\\$0.99$. \n\n"
+"**At this rate, how much do $5$ bananas cost?**\n\n"
+"$\\$$ [[☃ numeric-input 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Three ice cream cones cost $\\$8.25$. \n\n"
+"**At this rate, how much do $2$ ice cream cones cost?**\n\n"
+"$\\$$ [[☃ numeric-input 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/end-of-unit-assessment/e/6-2-end-of-unit-assessment</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Three movie tickets cost $\\$36$. \n\n"
+"**At this rate, what is the cost per ticket?**\n\n"
+"$\\$$ [[☃ numeric-input 1]]\n"
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Practice problems: Unit 2, Lesson 1"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/d0cefb37e666c81657cff6095641a483282bc16c.png)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](https://ka-perseus-images.s3.amazonaws.com/36f0360f18991c321ff2e1064979f35842441cb8.png)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](https://ka-perseus-images.s3.amazonaws.com/9349a03b2deacae3e4e791196353f7a74e6caeac.png)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](https://ka-perseus-images.s3.amazonaws.com/bc9ee62884e9dd47a321545981aa10adf3a2fe17.png)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](https://ka-perseus-images.s3.amazonaws.com/db099a7a23302ab401463b4a1ebcedef914aff7a.png)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$3$ to $9$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$9$ to $4$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Choose an appropriate unit of measurement for each quantity.**\n\n"
+"[[☃ categorizer 1]]\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Compare the prisms.**\n\n"
+"Prism A: $3\\text{ cm}$ by $3\\text{ cm}$ by $3\\text{ cm}$\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/11b92f32b64a27cbca02a1a56fb0e34681b4bf42.png)\n\n\n\n"
+"Prism B: $5\\text{ cm}$ by $5\\text{ cm}$ by $1\\text{ cm}$\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/53bcc2d5aad069e91eef4a0e58a6751da9aa16f0.png)\n\n"
+"**Which prism has a greater volume?**\n\n"
+"[[☃ radio 2]]\n\n"
+"**Which prism has a greater surface area?**\n\n"
+"[[☃ radio 3]]\n\n"
+"**Does the prism with the greater volume also have the greater surface area?**\n\n"
+"[[☃ radio 1]]\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Find the volume and surface area of each prism.**\n\n"
+"Prism A: $3\\text{ cm}$ by $3\\text{ cm}$ by $3\\text{ cm}$\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/11b92f32b64a27cbca02a1a56fb0e34681b4bf42.png)\n\n"
+"Volume of Prism A $=$ [[☃ numeric-input 1]] $\\text{cm}^3$\n\n"
+"Surface area of Prism A $=$ [[☃ numeric-input 2]] $\\text{cm}^2$\n\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Find the volume and surface area of the prism.**\n\n"
+"Prism B: $5\\text{ cm}$ by $5\\text{ cm}$ by $1\\text{ cm}$\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/53bcc2d5aad069e91eef4a0e58a6751da9aa16f0.png)\n\n"
+"Volume of Prism B $=$ [[☃ numeric-input 1]] $\\text{cm}^3$\n\n"
+"Surface area of Prism B $=$ [[☃ numeric-input 2]] $\\text{cm}^2$\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Select the sentences that use ratios to describe the number of eyes and legs in the picture.**\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/97a8be097181b2bcfe61135c4673484856ea747f.png)\n\n"
+"[[☃ radio 1]]\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Which figures are triangular prisms?**\n\n"
+"[[☃ radio 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Area of a rectangle"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Area of a square"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Complete the sentences to describe the picture.\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/00bacec9b1a0aa7fcb18606da0e64a5759e9174d.png)\n\n"
+"**There ratio of dogs to cats is [[☃ numeric-input 2]] to [[☃ numeric-input 1]].**\n\n"
+"**For every [[☃ numeric-input 3]] dogs, there are [[☃ numeric-input 4]] cats.**\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "For every $3$ apples, there are $9$ plums."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "For every $4$ apples, there are $3$ plums."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "For every $4$ apples, there are $9$ plums."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "For every $9$ apples, there are $4$ plums."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In a fruit basket there are $9$ bananas, $4$ apples, and $3$ plums.\n\n"
+"**For every $3$ bananas, there is one $\\_\\_\\_\\_\\_\\_$.**\n\n"
+"[[☃ radio 1]]\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In a fruit basket there are $9$ bananas, $4$ apples, and $3$ plums.\n\n"
+"**What is the ratio of apples to plums?**\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In a fruit basket there are $9$ bananas, $4$ apples, and $3$ plums.\n\n"
+"**What is the ratio of bananas to apples?**\n\n"
+"[[☃ radio 1]]\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In a fruit basket there are $9$ bananas, $4$ apples, and $3$ plums.\n\n"
+"**What is the ratio of plums to apples?**\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Plum"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Prism A"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Prism B"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Side of a square"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The ratio of eyes to legs is $8:4$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The ratio of legs to eyes is $8$ to $4$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "There are $2$ legs for every $4$ eyes."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "There are $4$ legs for every $2$ eyes."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-1-introducing-ratios-and-ratio-language/e/im-6-2--lesson-1-practice-problems</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Volume of a prism"
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-2-representing-ratios-with-diagrams/e/practice-problems--unit-2--lesson-2">http://translate.khanacademy.org/math/illustrative-math-6/unit-2-introducing-ratios/lesson-2-representing-ratios-with-diagrams/e/practice-problems--unit-2--lesson-2</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Practice problems: Unit 2, Lesson 2"
+msgstr ""
+
