@@ -1,0 +1,289 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-13 11:26+0000\n"
+"PO-Revision-Date: 2018-01-24 10:50-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.in-in-class-6th-math-cbse.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-data-handling/in-in-6th-data-handling-picture-graphs">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-data-handling/in-in-6th-data-handling-picture-graphs</a>
+# Title of topic (x1b563c7655b65d6b) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Pictographs (Picture graphs)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-data-handling">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-data-handling</a>
+# Description of topic (xabf9513ed904cae8) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "What will you do with any data you have? Learn how to represent data in pictures and bars."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-decimals/in-in-6th-decimals-add-decimals-sa">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-decimals/in-in-6th-decimals-add-decimals-sa</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x07efae606479f1dc) on the lol stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Adding decimals: standard algorithm "
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-elementary-shapes/copy-of-cc-4th-interpreting-angles">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-elementary-shapes/copy-of-cc-4th-interpreting-angles</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x45daf35ddc8d39c8) on the lol stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Angle types"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-elementary-shapes/in-in-elementary-shapes-quadrilaterals">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-elementary-shapes/in-in-elementary-shapes-quadrilaterals</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x6df54e2d7e5cfdf3) on the lol stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Shapes"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-fractions/in-in-6th-fractions-visualizing-equiv-frac">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-fractions/in-in-6th-fractions-visualizing-equiv-frac</a>
+# Title of topic (x33f19031f3ef3225) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Equivalent fractions "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-geometrical-ideas/in-in-6th-geometrical-ideas-curves-polygons">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-geometrical-ideas/in-in-6th-geometrical-ideas-curves-polygons</a>
+# Title of topic (xfdaa4f998cf37f3e) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Curves and polygons"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-geometrical-ideas/in-in-geo-ideas-geometry-properties-shapes">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-geometrical-ideas/in-in-geo-ideas-geometry-properties-shapes</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x64953288efe2d715) on the lol stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Introduction to polygons "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-abs-value">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-abs-value</a>
+# Description of topic (x470ae9fb07f87322) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You'll find absolute value absolutely straightforward--it is just the \"distance from zero\". If you have a positive number, it is its own absolute value. If you have a negative number, just make it positive to get the absolute value. As you see as you develop mathematically, this idea will eventually extended to more contexts and dimensions, so super important that you understand this core concept now. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-add-negatives-intro">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-add-negatives-intro</a>
+# Title of topic (xc47f7db05e7997c4) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to adding integers"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-order-integers">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-order-integers</a>
+# Title of topic (xda514e7b0837ca5c) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Order integers"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-sub-neg-intro">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers/in-in-6th-integers-sub-neg-intro</a>
+# Title of topic (x6b6f56437e640457) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to subtracting integers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-integers</a>
+# Description of topic (x095ce7e7105d4419) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn about numbers below 0 and how they relate to positive numbers. Learn how to add and subtract integers as well."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-know-numbers/in-in-6th-know-numbers-compare">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-know-numbers/in-in-6th-know-numbers-compare</a>
+# Description of topic (xaeec128905501123) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to compare multi-digit numbers by thinking about place value (thousands, hundreds, tens, and ones)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-know-numbers/in-in-6th-know-numbers-measurement">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-know-numbers/in-in-6th-know-numbers-measurement</a>
+# Title of topic (xb97a50a2aa256f86) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "System of measurement"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-know-numbers/in-in-6th-know-numbers-roman-numerals">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-know-numbers/in-in-6th-know-numbers-roman-numerals</a>
+# Title of topic (x7c95bf8b8f46fff7) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Roman numerals"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-know-numbers/in-in-know-numbers-larger-nos">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-know-numbers/in-in-know-numbers-larger-nos</a>
+# Title of topic (x22827f6bb276293e) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lakhs, crores, millions and billions "
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-know-numbers/in-in-know-numbers-larger-nos">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-know-numbers/in-in-know-numbers-larger-nos</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x22827f6bb276293e) on the lol stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Larger numbers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-know-numbers/in-in-know-numbers-larger-nos">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-know-numbers/in-in-know-numbers-larger-nos</a>
+# Description of topic (x22827f6bb276293e) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's learn to read"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-mensuration/in-in-6th-mensuration-decompose-to-find-area">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-mensuration/in-in-6th-mensuration-decompose-to-find-area</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x20a95164ac17fa09) on the lol stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Decompose figures to find area"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-playwithnos/in-in-6th-playwithnumbers-primefactorisation">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-playwithnos/in-in-6th-playwithnumbers-primefactorisation</a>
+# Title of topic (x7c044c9bbf363a77) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Prime factorisation"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-prac-geo/in-in-6th-prac-geo-cons-angles">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-prac-geo/in-in-6th-prac-geo-cons-angles</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe884d0d6071c7563) on the lol stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Constructing angles"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-ratio-proportion/in-in-6th-ratio-proportion-rates">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-ratio-proportion/in-in-6th-ratio-proportion-rates</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x7cf502e39ad22e20) on the lol stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Introduction to rates"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-ratio-proportion/in-in-6th-ratio-proportion-ratio-word-problems">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-ratio-proportion/in-in-6th-ratio-proportion-ratio-word-problems</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x410bcb17f49a5100) on the lol stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Ratio word problems"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-ratio-proportion">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-ratio-proportion</a>
+# Title of topic (x4ee8fea9a9f47199) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Ratio and Proportion"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-whole-nos/in-in-6th-wholenos-numberline-cbse">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-whole-nos/in-in-6th-wholenos-numberline-cbse</a>
+# Title of topic (xc7232e0f62735e97) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Number line of whole numbers"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-whole-nos/in-in-6th-wholenos-properties-cbse">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-whole-nos/in-in-6th-wholenos-properties-cbse</a>
+# Title of topic (x6d566eec2a72ca44) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Arithmetic properties of whole numbers "
+msgstr ""
+
