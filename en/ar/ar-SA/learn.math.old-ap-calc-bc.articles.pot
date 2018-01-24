@@ -1,0 +1,66 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-22 11:19+0000\n"
+"PO-Revision-Date: 2018-01-24 10:51-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.old-ap-calc-bc.articles.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-6/a/justifying-the-basic-derivative-rules">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-6/a/justifying-the-basic-derivative-rules</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Justifying the basic derivative rules"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-6/a/justifying-the-basic-derivative-rules">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-6/a/justifying-the-basic-derivative-rules</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "## Let's first see why the constant rule is true."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-6/a/justifying-the-basic-derivative-rules">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-6/a/justifying-the-basic-derivative-rules</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "## Now let's prove the constant multiple and sum/difference rules."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-6/a/justifying-the-basic-derivative-rules">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-6/a/justifying-the-basic-derivative-rules</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The AP Calculus course doesn't require knowing the proofs of these rules, but we believe that as long as a proof is accessible, there's always something to learn from it. In general, it's always good to require some kind of proof or justification for the theorems you learn."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-6/a/justifying-the-basic-derivative-rules">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-6/a/justifying-the-basic-derivative-rules</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The basic derivative rules tell us how to find the derivatives of constant functions, functions multiplied by constants, and of sums/differences of functions."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-6/a/justifying-the-basic-derivative-rules">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-6/a/justifying-the-basic-derivative-rules</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "||\n"
+":- | :-\n"
+"**Constant rule** | $\\dfrac{d}{dx}k=0$\n"
+"**Constant multiple rule** | $\\dfrac{d}{dx}[k\\cdot f(x)]=k\\cdot\\dfrac{d}{dx}f(x)$\n"
+"**Sum rule** | $\\dfrac{d}{dx}[f(x)+g(x)]=\\dfrac{d}{dx}f(x)+\\dfrac{d}{dx}g(x)$\n"
+"**Difference rule** | $\\dfrac{d}{dx}[f(x)-g(x)]=\\dfrac{d}{dx}f(x)-\\dfrac{d}{dx}g(x)$"
+msgstr ""
+
