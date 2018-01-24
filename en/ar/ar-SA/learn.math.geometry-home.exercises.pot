@@ -1,0 +1,2528 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:42+0000\n"
+"PO-Revision-Date: 2018-01-24 10:49-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.geometry-home.exercises.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-formula-intuition/e/find-a-missing-side-length-when-given-area-of-a-rectangle">http://translate.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-formula-intuition/e/find-a-missing-side-length-when-given-area-of-a-rectangle</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-third-grade-math/cc-third-grade-measurement/cc-third-grade-multiply-to-find-area/e/find-a-missing-side-length-when-given-area-of-a-rectangle">http://translate.khanacademy.org/math/cc-third-grade-math/cc-third-grade-measurement/cc-third-grade-multiply-to-find-area/e/find-a-missing-side-length-when-given-area-of-a-rectangle</a>.
+# Exercise at (x0d3f50bf) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This cat and bird picture has an area of $56$ square centimeters.  The height of the picture is $7$ centimeters.\n\n"
+"**What is the width of the picture?**\n\n"
+"[[☃ numeric-input 1]] centimeters\n\n"
+"[[☃ image 1]]\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/basic-geo-shapes-on-a-plane/e/drawing-polygons">http://translate.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/basic-geo-shapes-on-a-plane/e/drawing-polygons</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Click on the graph below to create a hexagon with vertices at the following points.**  \n\n"
+"$(1, 6.5), (-2, 2), (-3, -1), (-2, -3), (8, 0), (6, 5)$  \n\n"
+"[[☃ interactive-graph 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/basic-geo-shapes-on-a-plane/e/drawing-polygons">http://translate.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/basic-geo-shapes-on-a-plane/e/drawing-polygons</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Click on the graph below to create a pentagon with vertices at the following points.**  \n\n"
+"$(6, 5), (1, 6.5), (-2, 2), (-3, -1), (-2, -3)$  \n\n"
+"[[☃ interactive-graph 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/basic-geo-shapes-on-a-plane/e/drawing-polygons">http://translate.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/basic-geo-shapes-on-a-plane/e/drawing-polygons</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "When we plot all $5$ points and connect them so there are no overlapping segments, we end up with a pentagon that looks like this:  \n\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/bac04f87709c437bcb64748ef6435619d26c6d88)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/basic-geo-shapes-on-a-plane/e/drawing-polygons">http://translate.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/basic-geo-shapes-on-a-plane/e/drawing-polygons</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "When we plot all $6$ points and connect them so there are no overlapping segments, we end up with a hexagon that looks like this:  \n\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/51796070c48441c25bba3a4e277f2410e6a6360b)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/properties-of-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/properties-of-shapes</a>.
+# Exercise at (xa92f72a2) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Select the word that makes the sentence true.** \n\n"
+"[[☃ dropdown 1]] triangles are equilateral triangles.\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/properties-of-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/properties-of-shapes</a>.
+# Exercise at (xa92f72a2) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Select the word that makes the sentence true.** \n\n"
+"[[☃ dropdown 2]] rhombuses are quadrilaterals. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/properties-of-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/properties-of-shapes</a>.
+# Exercise at (xa92f72a2) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Which of the following shapes correctly describe the flag shown below?**\n\n"
+"[[☃ radio 1]]\n\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/b4c8364dfa949d02cfd92d4eb19d6be9b7d9aea7)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/properties-of-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/properties-of-shapes</a>.
+# Exercise at (xa92f72a2) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "A right triangle has $3$ sides.\n\n"
+"A square has $\\greenD4$ sides.\n\n"
+"A trapezoid has $\\greenD4$ sides.\n\n"
+"A hexagon has $6$ sides."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/properties-of-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/properties-of-shapes</a>.
+# Exercise at (xa92f72a2) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Both a $\\blueD{\\text{square}}$ and a $\\greenD{\\text{rectangle}}$:\n\n"
+"- always have $4$ right angles.\n"
+"- are always quadrilaterals.\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/properties-of-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/properties-of-shapes</a>.
+# Exercise at (xa92f72a2) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The flag has $\\purpleC{\\text{2  sides of equal length}}$ and $\\greenD{\\text{3 acute angles}}$.\n\n\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/properties-of-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/properties-of-shapes</a>.
+# Exercise at (xa92f72a2) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The following shapes are quadrilaterals:\n"
+" \n"
+" - Square\n"
+" - Trapezoid "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes">http://translate.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/e/properties-of-shapes</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "A $\\blueD{\\text{trapezoid}}$ and a $\\greenD{\\text{rhombus}}$:\n\n"
+"- have the same number of sides.\n"
+"- have the same number of  angles."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/classifying-shapes-by-line-and-angle-types">http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/classifying-shapes-by-line-and-angle-types</a>.
+# Exercise at (xf1dc0080) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Select whether each shape has at least one set of parallel sides, perpendicular sides, or both.**  \n"
+"*Note that matching arrow labels indicate two parallel sides.*\n\n"
+"[[☃ categorizer 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/classifying-shapes-by-line-and-angle-types">http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/classifying-shapes-by-line-and-angle-types</a>.
+# Exercise at (xf1dc0080) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "| Acute | Right |  Obtuse\n"
+":-: | :-: | :-: | :-:\n"
+"![](https://ka-perseus-graphie.s3.amazonaws.com/2e6355867a1027528f1719f9dcb578dcb221b055.png) | $\\huge\\bullet$ | $\\huge\\circ$ | $\\huge\\circ$\n"
+"![](https://ka-perseus-graphie.s3.amazonaws.com/ab33a8ea9f6040b7277f725f46c6d9452ab8fbbc.png) | $\\huge\\circ$ | $\\huge\\circ$ | $\\huge\\bullet$\n"
+"![](https://ka-perseus-graphie.s3.amazonaws.com/ac56df552ee790942f862b76d637a69c2180f1d4.png) | $\\huge\\circ$ | $\\huge\\bullet$ | $\\huge\\circ$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/classifying-shapes-by-line-and-angle-types">http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/classifying-shapes-by-line-and-angle-types</a>.
+# Exercise at (xf1dc0080) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "| Parallel sides only | Perpendicular sides only |  Both parallel and perpendicular sides\n"
+":-: | :-: | :-: | :-:\n"
+"![](https://ka-perseus-graphie.s3.amazonaws.com/9d103696cb0f621521f1287a05ddb6b4fd152696.png) | $\\huge\\circ$ | $\\huge\\circ$ | $\\huge\\bullet$\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/4df5c49efb5ab757294eb27eccb6332e78f068c1) | $\\huge\\bullet$ | $\\huge\\circ$ | $\\huge\\circ$\n"
+"![](https://ka-perseus-graphie.s3.amazonaws.com/f31fc2f76a4c233818a132cfc172ef0c8d8d8c49.png) | $\\huge\\circ$ | $\\huge\\circ$ | $\\huge\\bullet$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/classifying-shapes-by-line-and-angle-types">http://translate.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes/e/classifying-shapes-by-line-and-angle-types</a>.
+# Exercise at (xf1dc0080) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "| Scalene | Isosceles |  Equilateral\n"
+":-: | :-: | :-: | :-:\n"
+"![](https://ka-perseus-graphie.s3.amazonaws.com/ee9b901118f1bb063bb3e3926fbd3bd52f35d475.png) | $\\huge\\circ$ | $\\huge\\bullet$ | $\\huge\\circ$\n"
+"![](https://ka-perseus-graphie.s3.amazonaws.com/2e6355867a1027528f1719f9dcb578dcb221b055.png) | $\\huge\\circ$ | $\\huge\\circ$ | $\\huge\\bullet$\n"
+"![](https://ka-perseus-graphie.s3.amazonaws.com/ac56df552ee790942f862b76d637a69c2180f1d4.png)  | $\\huge\\bullet$ | $\\huge\\circ$ | $\\huge\\circ$\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$AB = |\\color{#6495ED}{-4} - \\color{#28AE7B}{-2}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$AB = |\\color{#6495ED}{-5} - \\color{#28AE7B}{0}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$AB$ means the distance from $\\color{#6495ED}{A}$ to $\\color{#28AE7B}{B}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$AC = |\\color{#6495ED}{-4} - \\color{#DF0030}{-1}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$AC = |\\color{#6495ED}{-4} - \\color{#DF0030}{2}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$AC = |\\color{#6495ED}{-5} - \\color{#DF0030}{4}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$AC$ means the distance from $\\color{#6495ED}{A}$ to $\\color{#DF0030}{C}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$AD = |\\color{#6495ED}{-2} - \\color{#9D38BD}{1}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$AD = |\\color{#6495ED}{-5} - \\color{#9D38BD}{4}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$AD$ means the distance from $\\color{#6495ED}{A}$ to $\\color{#9D38BD}{D}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$BA = |\\color{#28AE7B}{-1} - \\color{#6495ED}{-3}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$BA = |\\color{#28AE7B}{-2} - \\color{#6495ED}{-4}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$BA = |\\color{#28AE7B}{-3} - \\color{#6495ED}{-4}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$BA = |\\color{#28AE7B}{1} - \\color{#6495ED}{-5}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$BA$ means the distance from $\\color{#28AE7B}{B}$ to $\\color{#6495ED}{A}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$BC = |\\color{#28AE7B}{-1} - \\color{#DF0030}{3}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$BC = |\\color{#28AE7B}{-4} - \\color{#DF0030}{-2}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$BC = |\\color{#28AE7B}{-4} - \\color{#DF0030}{2}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$BC = |\\color{#28AE7B}{1} - \\color{#DF0030}{2}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$BC$ means the distance from $\\color{#28AE7B}{B}$ to $\\color{#DF0030}{C}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$BD = |\\color{#28AE7B}{-2} - \\color{#9D38BD}{5}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$BD = |\\color{#28AE7B}{2} - \\color{#9D38BD}{4}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$BD$ means the distance from $\\color{#28AE7B}{B}$ to $\\color{#9D38BD}{D}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$CB = |\\color{#DF0030}{-2} - \\color{#28AE7B}{-3}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$CB = |\\color{#DF0030}{1} - \\color{#28AE7B}{-2}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$CB = |\\color{#DF0030}{2} - \\color{#28AE7B}{-3}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$CB$ means the distance from $\\color{#DF0030}{C}$ to $\\color{#28AE7B}{B}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$DA = |\\color{#9D38BD}{2} - \\color{#6495ED}{-2}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$DA = |\\color{#9D38BD}{3} - \\color{#6495ED}{-4}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$DA = |\\color{#9D38BD}{5} - \\color{#6495ED}{-3}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$DA$ means the distance from $\\color{#9D38BD}{D}$ to $\\color{#6495ED}{A}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$DB = |\\color{#9D38BD}{2} - \\color{#28AE7B}{-2}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$DB = |\\color{#9D38BD}{3} - \\color{#28AE7B}{-4}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$DB = |\\color{#9D38BD}{4} - \\color{#28AE7B}{-1}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$DB$ means the distance from $\\color{#9D38BD}{D}$ to $\\color{#28AE7B}{B}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$DC = |\\color{#9D38BD}{2} - \\color{#DF0030}{1}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$DC = |\\color{#9D38BD}{4} - \\color{#DF0030}{3}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$DC = |\\color{#9D38BD}{5} - \\color{#DF0030}{-1}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments">http://translate.khanacademy.org/math/eb-3-semestre-bachillerato/eb-rectas-4/eb-midiendo-segmentos/e/measuring_segments</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/measuring_segments</a>.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$DC$ means the distance from $\\color{#9D38BD}{D}$ to $\\color{#DF0030}{C}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-1} - \\color{#28AE7B}{2}|$ \n\n"
+"$CD = |\\color{#FF00AF}{4} - \\color{#FFA500}{5}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-2} - \\color{#28AE7B}{-1}|$ \n\n"
+"$CD = |\\color{#FF00AF}{2} - \\color{#FFA500}{5}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-2} - \\color{#28AE7B}{1}|$ \n\n"
+"$CD = |\\color{#FF00AF}{2} - \\color{#FFA500}{5}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-3} - \\color{#28AE7B}{-1}|$ \n\n"
+"$CD = |\\color{#FF00AF}{0} - \\color{#FFA500}{2}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-3} - \\color{#28AE7B}{-1}|$ \n\n"
+"$CD = |\\color{#FF00AF}{3} - \\color{#FFA500}{5}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-3} - \\color{#28AE7B}{-2}|$ \n\n"
+"$CD = |\\color{#FF00AF}{-1} - \\color{#FFA500}{0}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-3} - \\color{#28AE7B}{-2}|$ \n\n"
+"$CD = |\\color{#FF00AF}{0} - \\color{#FFA500}{1}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-3} - \\color{#28AE7B}{-2}|$ \n\n"
+"$CD = |\\color{#FF00AF}{2} - \\color{#FFA500}{3}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-3} - \\color{#28AE7B}{-2}|$ \n\n"
+"$CD = |\\color{#FF00AF}{3} - \\color{#FFA500}{4}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-3} - \\color{#28AE7B}{-2}|$ \n\n"
+"$CD = |\\color{#FF00AF}{4} - \\color{#FFA500}{5}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-3} - \\color{#28AE7B}{0}|$ \n\n"
+"$CD = |\\color{#FF00AF}{1} - \\color{#FFA500}{4}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-4} - \\color{#28AE7B}{-2}|$ \n\n"
+"$CD = |\\color{#FF00AF}{1} - \\color{#FFA500}{3}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-4} - \\color{#28AE7B}{-2}|$ \n\n"
+"$CD = |\\color{#FF00AF}{2} - \\color{#FFA500}{3}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-4} - \\color{#28AE7B}{-3}|$ \n\n"
+"$CD = |\\color{#FF00AF}{-1} - \\color{#FFA500}{0}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-4} - \\color{#28AE7B}{-3}|$ \n\n"
+"$CD = |\\color{#FF00AF}{-2} - \\color{#FFA500}{4}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-4} - \\color{#28AE7B}{-3}|$ \n\n"
+"$CD = |\\color{#FF00AF}{1} - \\color{#FFA500}{4}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-4} - \\color{#28AE7B}{0}|$ \n\n"
+"$CD = |\\color{#FF00AF}{4} - \\color{#FFA500}{5}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-5} - \\color{#28AE7B}{-1}|$ \n\n"
+"$CD = |\\color{#FF00AF}{1} - \\color{#FFA500}{2}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-5} - \\color{#28AE7B}{-2}|$ \n\n"
+"$CD = |\\color{#FF00AF}{-1} - \\color{#FFA500}{4}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-5} - \\color{#28AE7B}{-2}|$ \n\n"
+"$CD = |\\color{#FF00AF}{0} - \\color{#FFA500}{2}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-5} - \\color{#28AE7B}{-4}|$ \n\n"
+"$CD = |\\color{#FF00AF}{-1} - \\color{#FFA500}{3}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-5} - \\color{#28AE7B}{-4}|$ \n\n"
+"$CD = |\\color{#FF00AF}{-2} - \\color{#FFA500}{-1}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-5} - \\color{#28AE7B}{-4}|$ \n\n"
+"$CD = |\\color{#FF00AF}{-2} - \\color{#FFA500}{5}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-5} - \\color{#28AE7B}{-4}|$ \n\n"
+"$CD = |\\color{#FF00AF}{1} - \\color{#FFA500}{2}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{-5} - \\color{#28AE7B}{1}|$ \n\n"
+"$CD = |\\color{#FF00AF}{2} - \\color{#FFA500}{3}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{0} - \\color{#28AE7B}{1}|$ \n\n"
+"$CD = |\\color{#FF00AF}{4} - \\color{#FFA500}{5}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments">http://translate.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments/e/congruent_segments</a>.
+# Exercise at (701911238) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Find the lengths of $\\overline{AB}$ and $\\overline{CD}$:\n\n"
+"  $AB = |\\color{#6495ED}{2} - \\color{#28AE7B}{3}|$ \n\n"
+"$CD = |\\color{#FF00AF}{4} - \\color{#FFA500}{5}|$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cos}(\\angle A) = \\dfrac{12}{13}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cos}(\\angle A) = \\dfrac{16}{20}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cos}(\\angle A) = \\dfrac{5}{13}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cos}(\\angle A) = \\dfrac{7}{25}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cos}(\\angle A) = \\dfrac{8}{10}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cos}(\\angle B) = \\dfrac{10}{26}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cos}(\\angle B) = \\dfrac{15}{17}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cos}(\\angle B) = \\dfrac{24}{26}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cos}(\\angle B) = \\dfrac{6}{10}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cot}(\\angle A) = \\dfrac{1}{\\text{tan}(\\angle A)} = \\dfrac{12}{5}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cot}(\\angle A) = \\dfrac{1}{\\text{tan}(\\angle A)} = \\dfrac{16}{12}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cot}(\\angle A) = \\dfrac{1}{\\text{tan}(\\angle A)} = \\dfrac{3}{4}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cot}(\\angle A) = \\dfrac{1}{\\text{tan}(\\angle A)} = \\dfrac{5}{12}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cot}(\\angle A) = \\dfrac{1}{\\text{tan}(\\angle A)} = \\dfrac{6}{8}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cot}(\\angle A) = \\dfrac{1}{\\text{tan}(\\angle A)}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cot}(\\angle B) = \\dfrac{1}{\\text{tan}(\\angle B)} = \\dfrac{15}{8}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cot}(\\angle B) = \\dfrac{1}{\\text{tan}(\\angle B)} = \\dfrac{24}{10}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cot}(\\angle B) = \\dfrac{1}{\\text{tan}(\\angle B)} = \\dfrac{7}{24}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cot}(\\angle B) = \\dfrac{1}{\\text{tan}(\\angle B)} = \\dfrac{8}{6}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{cot}(\\angle B) = \\dfrac{1}{\\text{tan}(\\angle B)}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{csc}(\\angle A) = \\dfrac{1}{\\text{sin}(\\angle A)} = \\dfrac{10}{8}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{csc}(\\angle A) = \\dfrac{1}{\\text{sin}(\\angle A)} = \\dfrac{13}{12}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{csc}(\\angle A) = \\dfrac{1}{\\text{sin}(\\angle A)} = \\dfrac{13}{5}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{csc}(\\angle A) = \\dfrac{1}{\\text{sin}(\\angle A)} = \\dfrac{20}{12}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{csc}(\\angle A) = \\dfrac{1}{\\text{sin}(\\angle A)} = \\dfrac{25}{24}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{csc}(\\angle A) = \\dfrac{1}{\\text{sin}(\\angle A)}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{csc}(\\angle B) = \\dfrac{1}{\\text{sin}(\\angle B)} = \\dfrac{10}{6}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{csc}(\\angle B) = \\dfrac{1}{\\text{sin}(\\angle B)} = \\dfrac{17}{8}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{csc}(\\angle B) = \\dfrac{1}{\\text{sin}(\\angle B)} = \\dfrac{26}{10}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{csc}(\\angle B) = \\dfrac{1}{\\text{sin}(\\angle B)} = \\dfrac{26}{24}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{csc}(\\angle B) = \\dfrac{1}{\\text{sin}(\\angle B)} = \\dfrac{5}{4}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{csc}(\\angle B) = \\dfrac{1}{\\text{sin}(\\angle B)}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sec}(\\angle A) = \\dfrac{1}{\\text{cos}(\\angle A)} = \\dfrac{10}{8}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sec}(\\angle A) = \\dfrac{1}{\\text{cos}(\\angle A)} = \\dfrac{13}{12}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sec}(\\angle A) = \\dfrac{1}{\\text{cos}(\\angle A)} = \\dfrac{13}{5}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sec}(\\angle A) = \\dfrac{1}{\\text{cos}(\\angle A)} = \\dfrac{20}{16}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sec}(\\angle A) = \\dfrac{1}{\\text{cos}(\\angle A)} = \\dfrac{25}{7}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sec}(\\angle A) = \\dfrac{1}{\\text{cos}(\\angle A)}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sec}(\\angle B) = \\dfrac{1}{\\text{cos}(\\angle B)} = \\dfrac{10}{6}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sec}(\\angle B) = \\dfrac{1}{\\text{cos}(\\angle B)} = \\dfrac{17}{15}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sec}(\\angle B) = \\dfrac{1}{\\text{cos}(\\angle B)} = \\dfrac{26}{10}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sec}(\\angle B) = \\dfrac{1}{\\text{cos}(\\angle B)} = \\dfrac{26}{24}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sec}(\\angle B) = \\dfrac{1}{\\text{cos}(\\angle B)} = \\dfrac{5}{3}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sec}(\\angle B) = \\dfrac{1}{\\text{cos}(\\angle B)}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sin}(\\angle A) = \\dfrac{12}{13}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sin}(\\angle A) = \\dfrac{12}{20}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sin}(\\angle A) = \\dfrac{24}{25}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sin}(\\angle A) = \\dfrac{5}{13}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sin}(\\angle A) = \\dfrac{8}{10}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sin}(\\angle B) = \\dfrac{10}{26}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sin}(\\angle B) = \\dfrac{24}{26}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sin}(\\angle B) = \\dfrac{4}{5}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sin}(\\angle B) = \\dfrac{6}{10}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{sin}(\\angle B) = \\dfrac{8}{17}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{tan}(\\angle A) = \\dfrac{12}{16}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{tan}(\\angle A) = \\dfrac{12}{5}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{tan}(\\angle A) = \\dfrac{4}{3}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{tan}(\\angle A) = \\dfrac{5}{12}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{tan}(\\angle A) = \\dfrac{8}{6}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{tan}(\\angle B) = \\dfrac{10}{24}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{tan}(\\angle B) = \\dfrac{24}{7}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{tan}(\\angle B) = \\dfrac{6}{8}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\text{tan}(\\angle B) = \\dfrac{8}{15}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{cot}(\\angle A)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/0293748cecc280b600c442d15ba892e6b717560e)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{cot}(\\angle A)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/6f873425a8c5e3537f21d0d6b207175ee21b5dce)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{cot}(\\angle A)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/963aa7267c0da90903fabee75a484a1883bef2cb)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{cot}(\\angle A)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/dad63e38b40fcc9576d936238cd0a5a8e727c329)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{cot}(\\angle A)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/f4f1d78d5d89efbec5037e580bddeacc8e902b5f)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{cot}(\\angle B)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/c0338ff6586b2e45c0cffc25e76893138cd99c79)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{cot}(\\angle B)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/623e1abd08147645e62b95f5fc31c0949e01772f)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{cot}(\\angle B)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/687bee4d24e0ff850b047bcace9b29a37a8cd73b)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{cot}(\\angle B)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/ffed5029c83c1df6e35302ab7539e2783b3e28b9)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{csc}(\\angle A)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/762a6adc3de3bc0abb5588bc2f72c28adb950d21)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{csc}(\\angle A)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/7c4253489882fdda182a124bd346d886dea9842b)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{csc}(\\angle A)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/ba4f441c8d89faf558f8dd5821ce7d449fbf9033)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{csc}(\\angle A)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/c9ccb6c7f4ecb94d4c0c7da4b4de99dbcaa6ed98)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{csc}(\\angle A)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/f34fe4a0262ad52932144eb7cdce1489ad2d12c0)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{csc}(\\angle B)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/042f3ccfe932b057d67b0ef6b2f0704cf9bc6482)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{csc}(\\angle B)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/0a11b3f41a1569687ad7896376081c784073fc2f)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{csc}(\\angle B)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/44ad4e6386fee4e9da24a20df535140d56fc6850)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{csc}(\\angle B)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/94ea8b46ec877197b7eb8bf3af50856993e1c6b4)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{csc}(\\angle B)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/b31d9693e14b12ebb3c429f2a1c99a509fcdc5e4)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{sec}(\\angle A)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/127371cd7cda39cd5ffed0ae49e01797a9cee508)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{sec}(\\angle A)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/1a7f65c8cc59877b18894d29337ccf17fa3b55e0)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{sec}(\\angle A)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/9242d25a6ca29241f69a583487c8154c4c362009)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{sec}(\\angle A)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/ab47cd8c7db843ee30afface4576b493152ba207)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{sec}(\\angle A)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/b886f0f83c43c5f13fb41bed1e6c067500ec31d9)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{sec}(\\angle B)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/0633eb83c5bf474245a5b4569f61ebc89286f359)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{sec}(\\angle B)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/1d15a27f60ce6825d6df53fb2d3c244cb8675768)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{sec}(\\angle B)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/83a86af3a941c3d26ae9c3a00874339a39051eb4)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{sec}(\\angle B)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/98aad4fa70b9cefe5c3270320b0e39c334a0cbf2)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**What is $\\text{sec}(\\angle B)?$**\n\n"
+"[[☃ numeric-input 1]]\n\n"
+" ![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/f1260fa2183679941b407ead0a2af9c49dd99a12)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "How can we find $\\text{cos}(\\angle A)$?"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "How can we find $\\text{cos}(\\angle B)$?"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "How can we find $\\text{sin}(\\angle A)$?"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "How can we find $\\text{sin}(\\angle B)$?"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "How can we find $\\text{tan}(\\angle A)$?"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo/e/reciprocal_trig_funcs</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs">http://translate.khanacademy.org/math/trigonometry/trigonometry-right-triangles/reciprocal-trig-ratios/e/reciprocal_trig_funcs</a>.
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "How can we find $\\text{tan}(\\angle B)$?"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/geometry/hs-geo-analytic-geometry/hs-geo-parallel-perpendicular-eq/e/line_relationships">http://translate.khanacademy.org/math/geometry/hs-geo-analytic-geometry/hs-geo-parallel-perpendicular-eq/e/line_relationships</a>
+# Description of exercise (13179420) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Use your knowledge about the slopes of parallel and perpendicular lines to solve some problems. For example, what&#39;s the equation of the line&nbsp;perpendicular to y=3x-3 and passes through the point (-8, -2)."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry/hs-geo-similarity/hs-geo-similar-and-congruent-triangles/e/solving-problems-with-similar-and-congruent-triangles">http://translate.khanacademy.org/math/geometry/hs-geo-similarity/hs-geo-similar-and-congruent-triangles/e/solving-problems-with-similar-and-congruent-triangles</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry/similarity/solving-problems-with-similar-and-congruent-triangles/e/solving-problems-with-similar-and-congruent-triangles">http://translate.khanacademy.org/math/geometry/similarity/solving-problems-with-similar-and-congruent-triangles/e/solving-problems-with-similar-and-congruent-triangles</a>.
+# Exercise at (x1cc28f9b) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This is the length of $\\overline{HP}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry/hs-geo-similarity/hs-geo-similar-and-congruent-triangles/e/solving-problems-with-similar-and-congruent-triangles">http://translate.khanacademy.org/math/geometry/hs-geo-similarity/hs-geo-similar-and-congruent-triangles/e/solving-problems-with-similar-and-congruent-triangles</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry/similarity/solving-problems-with-similar-and-congruent-triangles/e/solving-problems-with-similar-and-congruent-triangles">http://translate.khanacademy.org/math/geometry/similarity/solving-problems-with-similar-and-congruent-triangles/e/solving-problems-with-similar-and-congruent-triangles</a>.
+# Exercise at (x1cc28f9b) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This is the length of segment $\\overline{MU}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry/hs-geo-similarity/hs-geo-similar-and-congruent-triangles/e/solving-problems-with-similar-and-congruent-triangles">http://translate.khanacademy.org/math/geometry/hs-geo-similarity/hs-geo-similar-and-congruent-triangles/e/solving-problems-with-similar-and-congruent-triangles</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/geometry/similarity/solving-problems-with-similar-and-congruent-triangles/e/solving-problems-with-similar-and-congruent-triangles">http://translate.khanacademy.org/math/geometry/similarity/solving-problems-with-similar-and-congruent-triangles/e/solving-problems-with-similar-and-congruent-triangles</a>.
+# Exercise at (x1cc28f9b) on the pt stage.
+# Exercise at (xbde3641e) on the es stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "This is the length of segment $\\overline{QD}$."
+msgstr ""
+
