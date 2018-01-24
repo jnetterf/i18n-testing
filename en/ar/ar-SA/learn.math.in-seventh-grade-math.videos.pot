@@ -1,0 +1,1355 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-25 11:18+0000\n"
+"PO-Revision-Date: 2018-01-24 10:48-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.in-sevth-grade-math.videos.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Title of video <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-measurement-topic/cc-5th-unit-conversion/v/minutes-to-hours">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-measurement-topic/cc-5th-unit-conversion/v/minutes-to-hours</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Converting units: minutes to hours"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-measurement-topic/cc-5th-unit-conversion/v/minutes-to-hours">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-measurement-topic/cc-5th-unit-conversion/v/minutes-to-hours</a>
+# (KA_SOURCE_TREE: lol)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal converts 549 minutes to hours."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/geometry/hs-geo-foundations/hs-geo-angles/v/example-using-algebra-to-find-measure-of-complementary-angles">http://translate.khanacademy.org/math/geometry/hs-geo-foundations/hs-geo-angles/v/example-using-algebra-to-find-measure-of-complementary-angles</a>
+# Description of video <a href="http://translate.khanacademy.org/math/geometry/parallel-and-perpendicular-lines/complementary-supplementary-angl/v/example-using-algebra-to-find-measure-of-complementary-angles">http://translate.khanacademy.org/math/geometry/parallel-and-perpendicular-lines/complementary-supplementary-angl/v/example-using-algebra-to-find-measure-of-complementary-angles</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Given the algebraic expressions that represent a pair of complementary angles, learn how to form and solve an equation to find an unknown angle."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/6th-engage-ny/engage-6th-module-4/6th-module-4-topic-d/v/combining-like-terms-1">http://translate.khanacademy.org/math/6th-engage-ny/engage-6th-module-4/6th-module-4-topic-d/v/combining-like-terms-1</a>
+# Description of video <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-expressions/core-algebra-manipulating-expressions/v/combining-like-terms-1">http://translate.khanacademy.org/math/algebra-basics/core-algebra-expressions/core-algebra-manipulating-expressions/v/combining-like-terms-1</a>
+# Description of video <a href="http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equivalent-exp/cc-6th-combining-like-terms/v/combining-like-terms-1">http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equivalent-exp/cc-6th-combining-like-terms/v/combining-like-terms-1</a>
+# Description of video <a href="http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-expressions-and-variables/cc-6th-combining-like-terms/v/combining-like-terms-1">http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-expressions-and-variables/cc-6th-combining-like-terms/v/combining-like-terms-1</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal explains why 4a + 2a = 6a several ways"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/introduction-to-algebra/alg1-evaluating-expressions-word-problems/v/evaluate-a-formula-using-substitution">http://translate.khanacademy.org/math/algebra/introduction-to-algebra/alg1-evaluating-expressions-word-problems/v/evaluate-a-formula-using-substitution</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Evaluating expressions with variables: temperature"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/introduction-to-algebra/alg1-evaluating-expressions-word-problems/v/evaluating-exponential-expressions">http://translate.khanacademy.org/math/algebra/introduction-to-algebra/alg1-evaluating-expressions-word-problems/v/evaluating-exponential-expressions</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Evaluating expressions with variables: exponents"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-linear-eq-word-probs/v/basic-linear-equation-word-problem">http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-linear-eq-word-probs/v/basic-linear-equation-word-problem</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Two-step equation word problem: computers"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-linear-equations-word-problems/v/sum-of-consecutive-odd-integers">http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-linear-equations-word-problems/v/sum-of-consecutive-odd-integers</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Sum of integers challenge"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-linear-equations-word-problems/v/sum-of-consecutive-odd-integers">http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-linear-equations-word-problems/v/sum-of-consecutive-odd-integers</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal solves the following problem: The sum of three consecutive odd integers is 231. What is the largest integer?"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-solving-equations/v/intuition-why-we-divide-both-sides">http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-solving-equations/v/intuition-why-we-divide-both-sides</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Dividing both sides of an equation"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-solving-equations/v/representing-a-relationship-with-a-simple-equation">http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-solving-equations/v/representing-a-relationship-with-a-simple-equation</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Representing a relationship with an equation"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-solving-equations/v/why-we-do-the-same-thing-to-both-sides-simple-equations">http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-solving-equations/v/why-we-do-the-same-thing-to-both-sides-simple-equations</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Same thing to both sides of equations"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-two-steps-equations-intro/v/why-we-do-the-same-thing-to-both-sides-two-step-equations">http://translate.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-two-steps-equations-intro/v/why-we-do-the-same-thing-to-both-sides-two-step-equations</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Intro to two-step equations"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/rational-and-irrational-numbers/sums-and-products-of-rational-and-irrational-numbers/v/sum-and-product-of-rational-numbers">http://translate.khanacademy.org/math/algebra/rational-and-irrational-numbers/sums-and-products-of-rational-and-irrational-numbers/v/sum-and-product-of-rational-numbers</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Proof: sum & product of two rationals is rational"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/rational-and-irrational-numbers/sums-and-products-of-rational-and-irrational-numbers/v/sum-and-product-of-rational-numbers">http://translate.khanacademy.org/math/algebra/rational-and-irrational-numbers/sums-and-products-of-rational-and-irrational-numbers/v/sum-and-product-of-rational-numbers</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal proves that the sum, or the product, of any two rational numbers will always be a rational number."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/arithmetic/decimals/percent-tutorial/v/converting-decimals-to-percents-ex-1">http://translate.khanacademy.org/math/arithmetic/decimals/percent-tutorial/v/converting-decimals-to-percents-ex-1</a>
+# Title of video <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-decimal-conversions/v/converting-decimals-to-percents-ex-1">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-decimal-conversions/v/converting-decimals-to-percents-ex-1</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Converting decimals to percents: 0.601"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/arithmetic/decimals/percent-tutorial/v/converting-decimals-to-percents-ex-2">http://translate.khanacademy.org/math/arithmetic/decimals/percent-tutorial/v/converting-decimals-to-percents-ex-2</a>
+# Title of video <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-decimal-conversions/v/converting-decimals-to-percents-ex-2">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-decimal-conversions/v/converting-decimals-to-percents-ex-2</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Converting decimals to percents: 1.501"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/arithmetic/decimals/percent-tutorial/v/converting-percents-to-decimals-ex-1">http://translate.khanacademy.org/math/arithmetic/decimals/percent-tutorial/v/converting-percents-to-decimals-ex-1</a>
+# Title of video <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-decimal-conversions/v/converting-percents-to-decimals-ex-1">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-decimal-conversions/v/converting-percents-to-decimals-ex-1</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Converting percents to decimals: 59.2%"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/arithmetic/decimals/percent-tutorial/v/converting-percents-to-decimals-ex-2">http://translate.khanacademy.org/math/arithmetic/decimals/percent-tutorial/v/converting-percents-to-decimals-ex-2</a>
+# Title of video <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-decimal-conversions/v/converting-percents-to-decimals-ex-2">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-decimal-conversions/v/converting-percents-to-decimals-ex-2</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Converting percents to decimals: 113.9%"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/arithmetic/decimals/percent-tutorial/v/describing-the-meaning-of-percent-2">http://translate.khanacademy.org/math/arithmetic/decimals/percent-tutorial/v/describing-the-meaning-of-percent-2</a>
+# Title of video <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-intro-percents/v/describing-the-meaning-of-percent-2">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-intro-percents/v/describing-the-meaning-of-percent-2</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Meaning of 109%"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-multiply-fractions/v/concept-fraction-mult-number-line">http://translate.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-multiply-fractions/v/concept-fraction-mult-number-line</a>
+# Title of video <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/tcc-5th-multiplying-fractions/v/concept-fraction-mult-number-line">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/tcc-5th-multiplying-fractions/v/concept-fraction-mult-number-line</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiplying 2 fractions: number line"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-multiply-fractions/v/concept-fraction-mult-number-line">http://translate.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-multiply-fractions/v/concept-fraction-mult-number-line</a>
+# Description of video <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/tcc-5th-multiplying-fractions/v/concept-fraction-mult-number-line">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/tcc-5th-multiplying-fractions/v/concept-fraction-mult-number-line</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal uses a number line to multiply fractions."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-multiply-fractions/v/visualizing-fraction-products">http://translate.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-multiply-fractions/v/visualizing-fraction-products</a>
+# Title of video <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/tcc-5th-multiplying-fractions/v/visualizing-fraction-products">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/tcc-5th-multiplying-fractions/v/visualizing-fraction-products</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiplying 2 fractions: fraction model"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-multiply-fractions/v/visualizing-fraction-products">http://translate.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-multiply-fractions/v/visualizing-fraction-products</a>
+# Description of video <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/tcc-5th-multiplying-fractions/v/visualizing-fraction-products">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/tcc-5th-multiplying-fractions/v/visualizing-fraction-products</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal uses a fraction model to multiply fractions."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-angle/vert-comp-supp-angles/v/complementary-and-supplementary-angles">http://translate.khanacademy.org/math/basic-geo/basic-geo-angle/vert-comp-supp-angles/v/complementary-and-supplementary-angles</a>
+# Description of video <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-angles/basic-geo-angle-relationships/v/complementary-and-supplementary-angles">http://translate.khanacademy.org/math/basic-geo/basic-geo-angles/basic-geo-angle-relationships/v/complementary-and-supplementary-angles</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Learn about complementary and supplementary angles, as well as the definitions of adjacent and straight angles."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-circumference-circle/v/circumference-from-area">http://translate.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-circumference-circle/v/circumference-from-area</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Learn how to find the circumference, the distance around a circle, when given the area."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-solving-equations/linear-equations-and-geometry/v/midpoint-of-a-segment">http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-solving-equations/linear-equations-and-geometry/v/midpoint-of-a-segment</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Given an information about the distance of a segment&#39;s midpoint from its endpoints, Sal forms and solves an equation in order to find the length of the segment."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-solving-equations/linear-equations-and-geometry/v/segment-addition">http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-solving-equations/linear-equations-and-geometry/v/segment-addition</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Given information about the lengths of line segments, Sal forms and solves an equation in order to find the lengths of the segments."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/tcc-5th-mult-fract-and-whole/v/concept-fraction-whole-number-product">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-fractions-topic/tcc-5th-mult-fract-and-whole/v/concept-fraction-whole-number-product</a>
+# Description of video (xab5f5140) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal uses two approaches to multiply 2/3x6."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-intro-powers-of-ten/v/powers-of-10">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-intro-powers-of-ten/v/powers-of-10</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Patterns in powers of 10"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-intro-powers-of-ten/v/powers-of-10">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-intro-powers-of-ten/v/powers-of-10</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal examines patterns in powers of 10. &nbsp;He also introduces the terms exponent and base."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-powers-of-10/v/fractions-as-division-by-powers-of-10">http://translate.khanacademy.org/math/cc-fifth-grade-math/cc-5th-place-value-decimals-top/cc-5th-mult-powers-of-10/v/fractions-as-division-by-powers-of-10</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal divides by 10, 100, and 1000 using powers of 10."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/cc-4th-mult-comparing/v/comparisons-subtraction-division">http://translate.khanacademy.org/math/cc-fourth-grade-math/cc-4th-mult-div-topic/cc-4th-mult-comparing/v/comparisons-subtraction-division</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Comparing with multiplication: money"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-add-sub-rational-numbers/v/comparing-rational-numbers">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-add-sub-rational-numbers/v/comparing-rational-numbers</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Comparing Rational Numbers"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra/v/pie-splitting">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-unknown-angle-algebra/v/pie-splitting</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Find measure of angles word problem"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-exponents-negative-base/v/exponents-with-negative-bases">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-exponents-negative-base/v/exponents-with-negative-bases</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Learn to what we know about negative numbers to determine how negative bases with exponents are affected and what patterns develop. Also learn how order of operations affect the pattern."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-fractions-2/v/dividing-mixed-numbers">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-fractions-2/v/dividing-mixed-numbers</a>
+# Description of video <a href="http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-fractions/v/dividing-mixed-numbers">http://translate.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-multiply-and-divide/cc-7th-mult-div-neg-fractions/v/dividing-mixed-numbers</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal shows us how to change mixed numbers into improper fractions, divide, and then change the answer back to a mixed number."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-negative-number-topic/cc-6th-comparing-negative-numbers/v/comparing-negatives-with-variables">http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-negative-number-topic/cc-6th-comparing-negative-numbers/v/comparing-negatives-with-variables</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Given a, b, and c shown on the number line, Sal determines if statements like -b &lt; c are true."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-negative-number-topic/cc-6th-comparing-negative-numbers/v/ordering-rational-numbers">http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-negative-number-topic/cc-6th-comparing-negative-numbers/v/ordering-rational-numbers</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal puts 7/3, -5/2, 0, -2, -12/4, -3.25 in order from least to greatest."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-ratios-prop-topic/cc-6th-percent-word-problems/v/percent-word-problems-1-example-2">http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-ratios-prop-topic/cc-6th-percent-word-problems/v/percent-word-problems-1-example-2</a>
+# Title of video <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-word-problems/v/percent-word-problems-1-example-2">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-word-problems/v/percent-word-problems-1-example-2</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Percent word problem: penguins"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/eb-2-secundaria/eb-angles-intersecting-lines/eb-los-angulos-entre-lineas-paralelas-y-lineas-que-se-intersecan/v/proof-corresponding-angle-equivalence-implies-parallel-lines">http://translate.khanacademy.org/math/eb-2-secundaria/eb-angles-intersecting-lines/eb-los-angulos-entre-lineas-paralelas-y-lineas-que-se-intersecan/v/proof-corresponding-angle-equivalence-implies-parallel-lines</a>
+# Title of video <a href="http://translate.khanacademy.org/math/geometry-home/geometry-angles/geometry-angles-between-lines/v/proof-corresponding-angle-equivalence-implies-parallel-lines">http://translate.khanacademy.org/math/geometry-home/geometry-angles/geometry-angles-between-lines/v/proof-corresponding-angle-equivalence-implies-parallel-lines</a>
+# Title of video <a href="http://translate.khanacademy.org/math/geometry/parallel-and-perpendicular-lines/ang-intro/v/proof-corresponding-angle-equivalence-implies-parallel-lines">http://translate.khanacademy.org/math/geometry/parallel-and-perpendicular-lines/ang-intro/v/proof-corresponding-angle-equivalence-implies-parallel-lines</a>
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Parallel lines & corresponding angles proof"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/eb-6-primaria/eb-decimales-3/eb-dividiendo-decimales/v/dividing-decimal">http://translate.khanacademy.org/math/eb-6-primaria/eb-decimales-3/eb-dividiendo-decimales/v/dividing-decimal</a>
+# Description of video <a href="http://translate.khanacademy.org/math/in-seventh-grade-math/fractions-decimals/division-decimal-number/v/dividing-decimal">http://translate.khanacademy.org/math/in-seventh-grade-math/fractions-decimals/division-decimal-number/v/dividing-decimal</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal shows how to &nbsp;tackle a division problem step by step when there is a decimal divisor.&nbsp;"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/in-seventh-grade-math/algebraic-expressions/like-unlike-addition-subtraction/v/adding-like-rational-terms">http://translate.khanacademy.org/math/in-seventh-grade-math/algebraic-expressions/like-unlike-addition-subtraction/v/adding-like-rational-terms</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Adding expressions"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/in-seventh-grade-math/algebraic-expressions/like-unlike-addition-subtraction/v/adding-like-rational-terms">http://translate.khanacademy.org/math/in-seventh-grade-math/algebraic-expressions/like-unlike-addition-subtraction/v/adding-like-rational-terms</a>
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "So what if we add not just numbers or variables..but expressions? Here&#39;s a simple example to get you thinking about this."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/in-seventh-grade-math/fractions-decimals/multiplicaiton-fractions/v/multiplying-fractions-and-mixed-numbers">http://translate.khanacademy.org/math/in-seventh-grade-math/fractions-decimals/multiplicaiton-fractions/v/multiplying-fractions-and-mixed-numbers</a>
+# Description of video (2600761) on the es stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal multiplies 6 x 1/4 and supports the answer by drawing a fraction model."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/in-seventh-grade-math/simple-equations/equation-definition/v/one-step-equation-intuition-exercise-intro">http://translate.khanacademy.org/math/in-seventh-grade-math/simple-equations/equation-definition/v/one-step-equation-intuition-exercise-intro</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "One-step equations intuition example"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/in-seventh-grade-math/simple-equations/equation-definition/v/one-step-equation-intuition-exercise-intro">http://translate.khanacademy.org/math/in-seventh-grade-math/simple-equations/equation-definition/v/one-step-equation-intuition-exercise-intro</a>
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "To find the value of a variable, you sometimes have to get it on one side of the equation alone. To do that, you&#39;ll need to do something to BOTH sides of the equation. Watch. We&#39;ll explain why we do this."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/in-seventh-grade-math/simple-equations/new-topic-2015-11-13T01:43:29.211Z/v/sat-linear-equation-easier">http://translate.khanacademy.org/math/in-seventh-grade-math/simple-equations/new-topic-2015-11-13T01:43:29.211Z/v/sat-linear-equation-easier</a>
+# Title of video <a href="http://translate.khanacademy.org/test-prep/sat/sat-math-practice/new-sat-heart-of-algebra/v/sat-linear-equation-easier">http://translate.khanacademy.org/test-prep/sat/sat-math-practice/new-sat-heart-of-algebra/v/sat-linear-equation-easier</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear equation word problems — Basic example"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/in-seventh-grade-math/simple-equations/new-topic-2015-11-13T01:43:29.211Z/v/sat-linear-equation-easier">http://translate.khanacademy.org/math/in-seventh-grade-math/simple-equations/new-topic-2015-11-13T01:43:29.211Z/v/sat-linear-equation-easier</a>
+# Description of video <a href="http://translate.khanacademy.org/test-prep/sat/sat-math-practice/new-sat-heart-of-algebra/v/sat-linear-equation-easier">http://translate.khanacademy.org/test-prep/sat/sat-math-practice/new-sat-heart-of-algebra/v/sat-linear-equation-easier</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Watch Sal work through a basic Linear equations word problem."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/addition-subtraction-fractions/v/subtracting-fractions-with-unlike-denominators">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/addition-subtraction-fractions/v/subtracting-fractions-with-unlike-denominators</a>
+# Description of video (x1162a780) on the es stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "When subtracting fractions, we first find a common denominator. Any common multiple (the least common multiple is best for limiting computation to smaller numbers) of the two denominators as a common denominator. Once the fractions are rewritten with a common denominator, subtract the numerators to get the new numerator. The denominator stays the same. If needed, simplify the fraction."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/pre-algebra/exponents-radicals/world-of-exponents/v/raising-a-number-to-the-0th-and-1st-power">http://translate.khanacademy.org/math/pre-algebra/exponents-radicals/world-of-exponents/v/raising-a-number-to-the-0th-and-1st-power</a>
+# Title of video <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-exponents/v/raising-a-number-to-the-0th-and-1st-power">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-exponents/v/raising-a-number-to-the-0th-and-1st-power</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "The 0 & 1st power"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/precalculus/prob-comb/basic-prob-precalc/v/basic-probability">http://translate.khanacademy.org/math/precalculus/prob-comb/basic-prob-precalc/v/basic-probability</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Intro to theoretical probability"
+msgstr ""
+
