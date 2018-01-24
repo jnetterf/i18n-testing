@@ -1,0 +1,32 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-03 19:43+0000\n"
+"PO-Revision-Date: 2018-01-24 10:51-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.math3.articles.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Article is at <a href="http://translate.khanacademy.org/math/math3/math2-trig-func/math3-unit-circle-definition/a/trig-unit-circle-review">http://translate.khanacademy.org/math/math3/math2-trig-func/math3-unit-circle-definition/a/trig-unit-circle-review</a>.
+# (KA_SOURCE_TREE: lol)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"\\tan(120^\\circ)&=\\dfrac{\\sin(120^\\circ)}{\\cos(120^\\circ)}\n"
+"\\\\\\\\\n"
+"&=\\dfrac{0.87}{-0.5}\n"
+"\\\\\\\\\n"
+"&=-1.74^\\circ\n"
+"\\end{align}$"
+msgstr ""
+
