@@ -1,0 +1,256 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:17+0000\n"
+"PO-Revision-Date: 2018-01-24 10:59-0500\n"
+"Language-Team: Chinese Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/4_low_priority/learn.cs.programming-games-visualizations.articles.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: zh_CN\n"
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/memory-game/a/grid-of-tiles">http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/memory-game/a/grid-of-tiles</a>
+# Title of tutorial article (x596b3048) on the bn stage
+# Title of tutorial article (x596b3048) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Grid of tiles"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/memory-game/a/intro-to-memory">http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/memory-game/a/intro-to-memory</a>
+# Title of tutorial article (x0a274f09) on the bn stage
+# Title of tutorial article (x0a274f09) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Intro to \"Memory\""
+msgstr ""
+
+# CS exercise at <a href="http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/memory-game/p/challenge-tic-tac-toe">http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/memory-game/p/challenge-tic-tac-toe</a>.
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/memory-game/a/playing-the-game">http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/memory-game/a/playing-the-game</a>
+# Title of tutorial article (x608a6d79) on the bn stage
+# Title of tutorial article (x608a6d79) on the pl stage
+# Title of tutorial article (x608a6d79) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (You will need to do the challenge to see all the text.)
+# (format: text)
+#: intl/datastore:1
+msgid "Playing the game"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/side-scroller/a/beaver-character">http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/side-scroller/a/beaver-character</a>
+# Title of tutorial article (xaf3db80f) on the bn stage
+# Title of tutorial article (xaf3db80f) on the pl stage
+# Title of tutorial article (xaf3db80f) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Beaver character"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/side-scroller/a/forest-environment">http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/side-scroller/a/forest-environment</a>
+# Title of tutorial article (x7715d6eb) on the bn stage
+# Title of tutorial article (x7715d6eb) on the pl stage
+# Title of tutorial article (x7715d6eb) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Forest environment"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/side-scroller/a/intro-to-hoppy-beaver">http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/side-scroller/a/intro-to-hoppy-beaver</a>
+# Title of tutorial article (x49beb8f2) on the bn stage
+# Title of tutorial article (x49beb8f2) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Intro to Hoppy Beaver"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/side-scroller/a/scoring-and-winning">http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/side-scroller/a/scoring-and-winning</a>
+# Title of tutorial article (x833dc4a3) on the bn stage
+# Title of tutorial article (x833dc4a3) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Scoring and winning"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/side-scroller/a/stick-collisions">http://translate.khanacademy.org/computing/computer-programming/programming-games-visualizations/side-scroller/a/stick-collisions</a>
+# Title of tutorial article (x610fd387) on the bn stage
+# Title of tutorial article (x610fd387) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Stick collisions"
+msgstr ""
+
