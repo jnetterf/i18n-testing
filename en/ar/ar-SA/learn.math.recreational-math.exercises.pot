@@ -1,0 +1,2568 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:16+0000\n"
+"PO-Revision-Date: 2018-01-24 10:50-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/3_medium_priority/learn.math.recreational-math.exercises.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-diff-negative-fraction-powers/a/power-rule-review">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-diff-negative-fraction-powers/a/power-rule-review</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/basic-differentiation-ab/radical-functions-differentiation-intro-ab/a/power-rule-review">http://translate.khanacademy.org/math/ap-calculus-ab/basic-differentiation-ab/radical-functions-differentiation-intro-ab/a/power-rule-review</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-average-value/e/average-value-of-a-function">http://translate.khanacademy.org/math/ap-calculus-ab/ab-antiderivatives-ftc/ab-average-value/e/average-value-of-a-function</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-diff-negative-fraction-powers/e/differentiate-negative-powers">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-diff-negative-fraction-powers/e/differentiate-negative-powers</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-radical-func-diff/e/differentiate-radical-functions">http://translate.khanacademy.org/math/ap-calculus-ab/ab-derivative-rules/ab-radical-func-diff/e/differentiate-radical-functions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/basic-differentiation-ab/rational-functions-differentiation-intro-ab/e/differentiate-negative-powers">http://translate.khanacademy.org/math/ap-calculus-ab/basic-differentiation-ab/rational-functions-differentiation-intro-ab/e/differentiate-negative-powers</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/ap-calculus-ab/differentiating-common-functions-ab/radical-functions-differentiation-ab/e/differentiate-radical-functions">http://translate.khanacademy.org/math/ap-calculus-ab/differentiating-common-functions-ab/radical-functions-differentiation-ab/e/differentiate-radical-functions</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# Exercise at (x88ef0001) on the pt stage.
+# Exercise at (x9585976b) on the pt stage.
+# Exercise at (xc83d1300) on the pt stage.
+# Exercise at (xd8797393) on the accents stage.
+# Exercise at (xd8797393) on the fr stage.
+# Exercise at (xd8797393) on the ja stage.
+# Exercise at (xd8797393) on the pt stage.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\dfrac{1}{16}$"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>
+# Description of exercise (xc99cea55) on the es stage
+# Description of exercise (xc99cea55) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "After each bounce, the ball drops one level."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "All outcomes are equally likely"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Balls tend to jump back and forth in a straight line"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Bucket $4$ and $6$ have the same number of paths leading from the top. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Bucket **#3** or **#4**"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Bucket **#4** or **#6**"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Bucket **#5**"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Bucket **#8** or **#9**"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Depends on how many balls we have dropped"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Depends on path"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Each ball follows a **path**, which can be thought of as a sequence of bounces.\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/3058a8fc1ba3845bd10eb417dcd1cb0f2f71c42e.jpeg)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Each ball must follow one **path**, which can be thought of as a sequence of bounces.\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/3058a8fc1ba3845bd10eb417dcd1cb0f2f71c42e.jpeg)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "For any given ball, is it correct to say that bucket $4$ is as likely as bucket $6$?\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/a0b928749fe4ae09b218e5cf6f655e2fc17cc24f.jpeg)\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "For any given ball, which is the most likely ending point?\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/a0b928749fe4ae09b218e5cf6f655e2fc17cc24f.jpeg)\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Here is the distribution after dropping many balls:\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/c43d8ee1c13ac78181b9f8990ce6cee9376823b7.gif)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "However, buckets #4 and #6 **together** are more likely than just bucket #5."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "If *every bounce is random*, why do most balls end up **in the middle** as compared to **the side**?\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/c43d8ee1c13ac78181b9f8990ce6cee9376823b7.gif)\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "If we dropped $130$ balls, *is it possible* that each bucket at the bottom could fill up **equally**?\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/7a5b7489a32dd233a3b61f8462482a1f8b52a17d.gif)\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In contrast, the middle has many paths leading to it:\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/d19937ed7e5f5084c2a7628e401d86966e104ca3.jpeg)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In this case, $10$ balls **could** fall into each bucket $-$ there is nothing preventing this from happening."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Is the **number of bounces** for each ball always the same?\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/c43d8ee1c13ac78181b9f8990ce6cee9376823b7.gif)\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "It's **possible** that the balls follow paths in such a way that each bucket fills up equally. Although this is *not likely* with large samples, it's **not impossible**."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "More paths lead to the middle"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "No, it's impossible"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "No; it depends on the number of balls we drop"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Since **more paths lead to the middle** and every ball must take one path, the middle is most likely."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is yes.\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is:\n\n"
+"Bucket **#4 or #6**\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is: Yes, it's possible."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The middle bucket, #5, is the most likely **single** ending point."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The middle requires the fewest number of bounces"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The number of levels, or *bounces*, **is always 12**."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The outside buckets have fewer paths leading to them. For example, the far right bucket has only one path leading to it:\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/594d11428321e30533731abcd97897083ae5e3d3.jpeg)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The probability of landing in a bucket depends on the **total number of paths** to that bucket."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "There are $13$ possible buckets to which paths can lead."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>.
+# Exercise at (xc99cea55) on the es stage.
+# Exercise at (xc99cea55) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes, it's possible"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>
+# Description of exercise (x26523219) on the es stage
+# Description of exercise (x26523219) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Select the correct answer to prove your understanding&nbsp;"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Before the interruption the score was:\n\n"
+"Sal| Brit \n"
+"-|-|-\n"
+"$2$| $1$\n\n"
+"The winner needs to win $3$ games.\n\n"
+"**Is it fair** to split the pot of $8$ coins equally?\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/6589938d21875dc14a1151c2d6ddbf4c80925107.png)\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Before the interruption the score was:\n\n"
+"Sal| Brit \n"
+"-|-|-\n"
+"$2$| $1$\n\n"
+"The winner needs to win $3$ games. \n\n"
+"Who is more likely to win?\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/6589938d21875dc14a1151c2d6ddbf4c80925107.png)\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Before the interruption the score was:\n\n"
+"Sal| Brit \n"
+"-|-|-\n"
+"$2$| $1$\n\n"
+"Three wins are needed to take the pot.\n\n"
+"If they continued to play, what is the **maximum number** of games remaining?\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/6589938d21875dc14a1151c2d6ddbf4c80925107.png)\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Before the interruption the score was:\n\n"
+"Sal| Brit \n"
+"-|-|-\n"
+"$2$| $1$\n\n"
+"Three wins are needed to take the pot.\n\n"
+"What is the probability that Brit will win if they continue playing?\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/6589938d21875dc14a1151c2d6ddbf4c80925107.png)\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Brit is more likely to win"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Brit needs $2$ more wins to reach $3$  wins."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Brit needs $2$ more wins to reach $3$ wins"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Brit needs to win $2$ more games to take the pot"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Either Sal will win *once* in the next 2 games or Brit will win *twice*"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Impossible to predict"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "It's more likely to win once"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "No, Sal is more likely to win so he should get **more**"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "No, whoever won the last game should take the whole pot"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Sal is more likely to win"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Sal is more likely to win compared to Brit."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Sal needs $1$ more win to reach $3$  wins"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Sal needs to win $1$ more game to take the pot"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is $2$\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is: \n\n"
+"No, Sal is more likely to win so he should get **more**"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is: \n\n"
+"Sal is more likely to win"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The probability of winning **any** game using a fair coin is: $\\dfrac{1}{2}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The probability of winning two games in a row is:\n\n"
+"= $\\dfrac{1}{2}  \\times \\dfrac{1}{2}$ \n\n"
+"= $\\dfrac{1}{4}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "They both have a *chance* of winning the entire pot"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Tie, it's impossible to predict the future"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Tie, since they both have a chance of winning"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We don't know what will happen next, however we so know that Sal needs to win $1$ more game and Brit needs to win $2$ more games"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes, it's impossible to predict the future"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes, since they both have a chance of winning"
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>
+# Pretty display name for exercise (x0541cb89) on the es stage
+# Pretty display name for exercise (x0541cb89) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Random sample warmup"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>
+# Description of exercise (x0541cb89) on the es stage
+# Description of exercise (x0541cb89) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Test your understanding of random sampling (7.SP.A.2)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "A **larger sample** is more representative of the actual populations compared to a smaller one."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "As we increase our number of selections we obtain a **larger sample**. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Each ball is equally likely to be selected after a good shake"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "For example it's **possible** to flip a coin 100 times and never land tails, though we can agree it's **unlikely** to happen."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "If we **didn't shake our cup** it's possible that a majority of balls would be ignored since they sit at the bottom"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "If we **didn't** replace the balls between selections then each selection would **depend on the previous results.** "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Imagine we have a cup filled with some **unknown ratio** of white and black balls. \n\n"
+"We select balls *one at a time with replacement* and **count how many white vs. black** to estimate this ratio.\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/15357e33e6d8f98123090fe134126bb46ae6c16a.gif)\n\n"
+"After 100 selections we end up with an estimated $\\dfrac{white}{black}$ ratio of $\\dfrac{60}{40}$ .\n\n"
+"If we **increase the number** of selections beyond 100 can we **improve our estimate**?\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Imagine we have a cup filled with some **unknown ratio** of white and black balls. \n\n"
+"We select balls *one at a time with replacement* and **count how many white vs. black** to estimate this ratio.\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/15357e33e6d8f98123090fe134126bb46ae6c16a.gif)\n\n"
+"We are told to **shake the cup** in between each selection:\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/1e75de7019c78d418914fea5ef618ecbe47f59aa.gif)\n\n"
+"Why do we **shake the cup** between each selection?\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Imagine we have a cup filled with some **unknown ratio** of white and black balls. \n"
+"We select balls **one at a time with replacement** and count how many white vs. black to estimate this ratio.\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/15357e33e6d8f98123090fe134126bb46ae6c16a.gif)\n\n"
+"What is the **effect of replacing the ball** after each selection?\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Imagine we have a cup filled with some **unknown ratio** of white and black balls. \n"
+"We select balls **one at a time with replacement** and count how many white vs. black to estimate this ratio.\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/15357e33e6d8f98123090fe134126bb46ae6c16a.gif)\n\n"
+"Will **one extra selection** always increase the accuracy of your estimate?\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Instead we want to select in such a way **that each ball is equally likely**. This results in a true random sample"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "It is **possible** that the next selection will cause the accuracy of your estimate to decrease."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "It makes no difference either way"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "It's **possible** more selections will decrease the accuracy of our estimate, though only over the short term."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "It's not a problem if the same ball is selected twice."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "It's possible that there is one black in the cup and **it rarely gets selected.**"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Just because it's unlikely, doesn't means it's **impossible** to miss the black many times. "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "No, more selections will always result in a worse estimate"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "No, more selections won't make any difference"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Remember, unlikely doesn't mean impossible!"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Shaking prevents selecting the same ball twice"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is:\n"
+"Yes, more selections can improve our estimate"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is: \n"
+"No"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is: \n"
+"To make sure each selection is independent"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is: You can never be 100% sure there are no blacks"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is: each ball is equally likely to be selected"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "There is nothing stopping us from missing the black 10, 1000 or 10000 times in a row."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "To make sure each selection is independent"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "To make sure each selection is not independent"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "To try and confuse the person doing the selections"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We don't need to shake the cup each time"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We have a cup filled with some **unknown ratio** of white and black balls. \n\n"
+"We select balls *one at a time with replacement* and **count how many white vs. black** to estimate this ratio.\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/15357e33e6d8f98123090fe134126bb46ae6c16a.gif)\n\n"
+"**The first 10 selections are white.**\n\n"
+"How many selections do we need to make to be 100% sure there are **no blacks**?\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "When we **do** replace the balls then each selection is taken from an identical set of balls. This means each selection is **independent**"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes "
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes, more selections can improve our estimate"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "You can always get unlucky and pick a ball which pushes your estimate in the wrong direction."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup/e/random-sample-warmup</a>.
+# Exercise at (x0541cb89) on the es stage.
+# Exercise at (x0541cb89) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "You can never be 100% sure there are no blacks"
+msgstr ""
+
+# Exercise is at (x68a827daaccb263f) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>
+# Pretty display name for exercise (x7446ab1d) on the es stage
+# Pretty display name for exercise (x7446ab1d) on the pl stage
+# Pretty display name for exercise (x7446ab1d) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lights Puzzles 1"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>
+# Description of exercise (x7446ab1d) on the es stage
+# Description of exercise (x7446ab1d) on the pl stage
+# Description of exercise (x7446ab1d) on the pt stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Intro lights puzzles!"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# Exercise at (x7446ab1d) on the es stage.
+# Exercise at (x7446ab1d) on the pl stage.
+# Exercise at (x7446ab1d) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Clicking the leftmost and rightmost squares will light up just the end squares, leaving three dark squares in the center....**"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-2">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-2</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-3">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-3</a>.
+# Exercise at (x10090d91) on the pl stage.
+# Exercise at (x10090d91) on the pt stage.
+# Exercise at (x4d74a217) on the pl stage.
+# Exercise at (x4d74a217) on the pt stage.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# Exercise at (x7446ab1d) on the es stage.
+# Exercise at (x7446ab1d) on the pl stage.
+# Exercise at (x7446ab1d) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Light up all the squares by clicking on them.** When you click on a square, it will turn on (if it's off), or off (if it's on), as will each of the squares next to it.\n\n"
+"[[☃ lights-puzzle 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# Exercise at (x7446ab1d) on the es stage.
+# Exercise at (x7446ab1d) on the pl stage.
+# Exercise at (x7446ab1d) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Clicking on a square changes the color of it and the adjacent squares. But if we change a square twice, it goes back to its original color. What happens if we click two of the corner squares?"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>.
+# Exercise at (x7446ab1d) on the es stage.
+# Exercise at (x7446ab1d) on the pl stage.
+# Exercise at (x7446ab1d) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Clicking on a square changes the color of it and the adjacent squares. Which two squares can we click so that all the squares are lit, without turning off the center square?"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# Exercise at (x7446ab1d) on the es stage.
+# Exercise at (x7446ab1d) on the pl stage.
+# Exercise at (x7446ab1d) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Clicking on a square changes the color of it and the adjacent squares. Which two squares can we click so that there are three dark squares next to each other (which we can light up at once)?"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-2">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-2</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-3">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-3</a>.
+# Exercise at (x0c7b1846) on the es stage.
+# Exercise at (x0c7b1846) on the pl stage.
+# Exercise at (x0c7b1846) on the pt stage.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# Exercise at (x7446ab1d) on the es stage.
+# Exercise at (x7446ab1d) on the pl stage.
+# Exercise at (x7446ab1d) on the pt stage.
+# Exercise at (xc909e4f7) on the es stage.
+# Exercise at (xc909e4f7) on the pl stage.
+# Exercise at (xc909e4f7) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Clicking on a square changes the color of it and the adjacent squares. Which two squares can we click that, together, are adjacent to all the other squares?"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# Exercise at (x7446ab1d) on the es stage.
+# Exercise at (x7446ab1d) on the pl stage.
+# Exercise at (x7446ab1d) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Clicking on all four of the squares causes each of the squares to change color three times in total. Two of those times cancel each other out, leaving every square lit."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>.
+# Exercise at (x7446ab1d) on the es stage.
+# Exercise at (x7446ab1d) on the pl stage.
+# Exercise at (x7446ab1d) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Clicking the left and right squares lights up both of them, and changes the color of the center square twice--leaving it (and the left and right squares) lit!"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>.
+# Exercise at (x7446ab1d) on the es stage.
+# Exercise at (x7446ab1d) on the pl stage.
+# Exercise at (x7446ab1d) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Clicking the leftmost and rightmost squares will light all the squares."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>.
+# Exercise at (x7446ab1d) on the es stage.
+# Exercise at (x7446ab1d) on the pl stage.
+# Exercise at (x7446ab1d) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "If we click on two squares that are both next to the same other square, they both change the color of the other square, which leaves the other square back at its original color!"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# Exercise at (x7446ab1d) on the es stage.
+# Exercise at (x7446ab1d) on the pl stage.
+# Exercise at (x7446ab1d) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "It looks like that lit up half of the board! Now light up the other half by clicking on the other two squares!"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-2">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-2</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-3">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-3</a>.
+# Exercise at (x0c7b1846) on the es stage.
+# Exercise at (x0c7b1846) on the pl stage.
+# Exercise at (x0c7b1846) on the pt stage.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# Exercise at (x7446ab1d) on the es stage.
+# Exercise at (x7446ab1d) on the pl stage.
+# Exercise at (x7446ab1d) on the pt stage.
+# Exercise at (xc909e4f7) on the es stage.
+# Exercise at (xc909e4f7) on the pl stage.
+# Exercise at (xc909e4f7) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can light up the two left squares by clicking on the leftmost square. Then we can light up the three right squares by clicking the second-from-rightmost square."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# Exercise at (x7446ab1d) on the es stage.
+# Exercise at (x7446ab1d) on the pl stage.
+# Exercise at (x7446ab1d) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can then click on the center square to light up everything."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>.
+# Exercise at (x7446ab1d) on the es stage.
+# Exercise at (x7446ab1d) on the pl stage.
+# Exercise at (x7446ab1d) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "What happens if we click on two squares that are both next to the same other square?"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-1</a>.
+# Exercise at (x7446ab1d) on the es stage.
+# Exercise at (x7446ab1d) on the pl stage.
+# Exercise at (x7446ab1d) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "What two squares do we want to light without affecting a different square that is next to both of them?"
+msgstr ""
+
+# Exercise is at (x68a827daaccb263f) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-2">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-2</a>
+# Pretty display name for exercise (x10090d91) on the pl stage
+# Pretty display name for exercise (x10090d91) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lights Puzzles 2"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-2">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-2</a>
+# Description of exercise (x10090d91) on the pl stage
+# Description of exercise (x10090d91) on the pt stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "More lights puzzles!"
+msgstr ""
+
+# Exercise is at (x68a827daaccb263f) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-3">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-3</a>
+# Pretty display name for exercise (x4d74a217) on the pl stage
+# Pretty display name for exercise (x4d74a217) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lights Puzzles 3"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-3">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-3</a>
+# Description of exercise (x4d74a217) on the pl stage
+# Description of exercise (x4d74a217) on the pt stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Harder lights puzzles!"
+msgstr ""
+
+# Exercise is at (x68a827daaccb263f) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-1</a>
+# Pretty display name for exercise (xa35bc00c) on the es stage
+# Pretty display name for exercise (xa35bc00c) on the pl stage
+# Pretty display name for exercise (xa35bc00c) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lights Puzzles X 1"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-1</a>
+# Description of exercise (xa35bc00c) on the es stage
+# Description of exercise (xa35bc00c) on the pl stage
+# Description of exercise (xa35bc00c) on the pt stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Lights puzzles with Xs"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-1">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-1</a>.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# Exercise at (xa35bc00c) on the es stage.
+# Exercise at (xa35bc00c) on the pl stage.
+# Exercise at (xa35bc00c) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Light up all the squares by clicking on them.** When you click on a square, it will turn on (if it's off), or off (if it's on), as will each of the squares diagonally-adjacent.\n\n"
+"[[☃ lights-puzzle 1]]"
+msgstr ""
+
+# Exercise is at (x68a827daaccb263f) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-2">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-2</a>
+# Pretty display name for exercise (x0c7b1846) on the es stage
+# Pretty display name for exercise (x0c7b1846) on the pl stage
+# Pretty display name for exercise (x0c7b1846) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lights Puzzles X 2"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-2">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-2</a>
+# Description of exercise (x0c7b1846) on the es stage
+# Description of exercise (x0c7b1846) on the pl stage
+# Description of exercise (x0c7b1846) on the pt stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Harder X puzzles"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-2">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-2</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-3">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-3</a>.
+# Exercise at (x0c7b1846) on the es stage.
+# Exercise at (x0c7b1846) on the pl stage.
+# Exercise at (x0c7b1846) on the pt stage.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# Exercise at (xc909e4f7) on the es stage.
+# Exercise at (xc909e4f7) on the pl stage.
+# Exercise at (xc909e4f7) on the pt stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Light up all the squares by clicking on them.** When you click on a square, it will turn on (if it's off), or off (if it's on), as will each of the squares diagonally adjacent.\n\n"
+"[[☃ lights-puzzle 1]]"
+msgstr ""
+
+# Exercise is at (x68a827daaccb263f) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-3">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-3</a>
+# Pretty display name for exercise (xc909e4f7) on the es stage
+# Pretty display name for exercise (xc909e4f7) on the pl stage
+# Pretty display name for exercise (xc909e4f7) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lights Puzzles X 3"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-3">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles/e/lights-puzzles-x-3</a>
+# Description of exercise (xc909e4f7) on the es stage
+# Description of exercise (xc909e4f7) on the pl stage
+# Description of exercise (xc909e4f7) on the pt stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "5x5 lights puzzles with Xs!"
+msgstr ""
+
+# Exercise is at (x68a827daaccb263f) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-1-5">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-1-5</a>
+# Pretty display name for exercise (x70dd3d10) on the pl stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Transformation puzzles 2"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-1-5">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-1-5</a>.
+# Exercise at (x70dd3d10) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Perform a series of transformations that translate the pyramid by $\\left<5, 5\\right>$, using only reflections across $y = -x$ and dilations about $(2.5, 2.5)$.\n\n"
+"[[☃ transformer 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-1-5">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-1-5</a>.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# Exercise at (x70dd3d10) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Perform a series of transformations to correctly position the square, using only rotations around $(-4, 4)$, reflections across $y = x - 8$, and dilations about $(-4, -4)$.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-1-5">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-1-5</a>.
+# Exercise at (x70dd3d10) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Perform a series of transformations to reflect the quadrilateral across the $y$-axis.\n\n"
+"You may use rotations about the point $(0,-2)$, reflections across the $x$-axis, and dilations about $(0,2)$.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-1-5">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-1-5</a>.
+# Exercise at (x70dd3d10) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Perform a series of transformations to rotate the polygon by $-90°$ about the origin.\n\n"
+"You may use rotations about the $(3,-3)$, and dilations about $(-3, 3)$.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-1-5">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-1-5</a>.
+# Exercise at (x70dd3d10) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Perform a series of transformations to translate the arrow by $\\left<8, 0\\right>$ about the origin.\n\n"
+"You may use rotations about the the origin and reflections across $y = x + 4$.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-1-5">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-1-5</a>.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# Exercise at (x70dd3d10) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Reflect the polygon across the $y$-axis using only reflections across $x = 2.5$ and dilations about the origin.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
+# Exercise is at (x68a827daaccb263f) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-2">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-2</a>
+# Pretty display name for exercise (x4a227117) on the pl stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Transformation puzzles 3"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-2">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-2</a>.
+# Exercise at (x4a227117) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Perform a series of reflections that reflect the polygon across the $y$-axis, using only rotations around the origin and reflections across $y = x$.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-2">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-2</a>.
+# Exercise at (x4a227117) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Perform a series of transformations that reflect the polygon across the $y$-axis, using only rotations around $(0, 2.5)$, reflections across $y = 3$, and dilations about $(0, 0)$.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-2">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-2</a>.
+# Exercise at (x4a227117) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Perform a series of transformations that reflect the polygon across the $y$-axis, using only rotations around $(5, 0)$, reflections across $y = x$, and dilations about $(-5, 0)$.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-2">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-2</a>.
+# Exercise at (x4a227117) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Perform a series of transformations that translate the polygon $10$ units in the positive $x$ direction, using only rotations around the origin, reflections across $y = 4$, and dilations about $(-3, 0)$.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-2">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-2</a>.
+# Exercise at (x4a227117) on the pl stage.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Perform a series of transformations to correctly position the polygon, using only rotations around $(-5, -5)$, reflections across $y = -x - 5$, and dilations about $(5, -5)$.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-2">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles-2</a>.
+# Exercise at (x4a227117) on the pl stage.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Perform a series of transformations to rotate the polygon by $180°$ about $(0,2.5)$.\n\n"
+"You may use rotations about the origin, reflections across $y=2.5$, and dilations about $(0, 2.5)$.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
+# Exercise is at (x68a827daaccb263f) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles</a>
+# Pretty display name for exercise (x0a87a772) on the pl stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Transformation puzzles 1"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles</a>.
+# Exercise at (x0a87a772) on the pl stage.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Move the fish $10$ units to the right using only reflections.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles</a>.
+# Exercise at (x0a87a772) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Rotate the fish by 180° about $(0, 0)$ using a dilation.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles</a>.
+# Exercise at (x0a87a772) on the pl stage.
+# Exercise at (x68a827daaccb263f) on the es stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Rotate the fish by 180° about $(0, 0)$ using only reflections.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles</a>.
+# Exercise at (x0a87a772) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Translate the hexagon $9$ units to the right using only dilations.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles/e/transformation-puzzles</a>.
+# Exercise at (x0a87a772) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Translate the trapezoid $12$ units to the right using only rotations.\n\n"
+"[[☃ transformer 1]]"
+msgstr ""
+
