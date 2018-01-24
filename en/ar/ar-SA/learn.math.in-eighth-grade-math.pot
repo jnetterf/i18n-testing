@@ -1,0 +1,905 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2018-01-24 10:49-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.in-eighth-grade-math.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Exercise is at (x7134628ee6c4ec31) on the es stage.
+# Exercise is at (xac416a3a57a3b545) on the es stage.
+# Exercise is at (xdd83bda2f0821bd7) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-radicals/e/square_roots">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-radicals/e/square_roots</a>
+# Pretty display name for exercise (720948123) on the pt stage
+# Tag name for content that can be seen at <a href="https://www.khanacademy.org/tag/square-roots">https://www.khanacademy.org/tag/square-roots</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-roots">http://translate.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-roots</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots/square-roots">http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots/square-roots</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-sq-sq-roots/in-in-8th-square-roots">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-sq-sq-roots/in-in-8th-square-roots</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-square-roots">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-square-roots</a>
+# Title of topic (x69c70cfb) on the pt stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Square roots"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials">http://translate.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math2/math2-polynomials/math2-mul-poly-by-monomials">http://translate.khanacademy.org/math/math2/math2-polynomials/math2-mul-poly-by-monomials</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x1483d936) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe8a8c4ac) on the bg stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe8a8c4ac) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xe8a8c4ac) on the pt-pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/monomial-by-polynomial">http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/monomial-by-polynomial</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiplying a monomial by a polynomial"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/algebra/polynomial-factorization">http://translate.khanacademy.org/math/algebra/polynomial-factorization</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/factorization">http://translate.khanacademy.org/math/in-eighth-grade-math/factorization</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-factorization">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-factorization</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-factorization">http://translate.khanacademy.org/math/math2/math2-factorization</a>
+# Title of topic (x0324074a) on the bg stage
+# Title of topic (x0324074a) on the ka stage
+# Title of topic (x0324074a) on the pt stage
+# Title of topic (x0324074a) on the pt-pt stage
+# Title of topic (x5b01e065) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Factorization"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/geometry/hs-geo-foundations/hs-geo-polygons">http://translate.khanacademy.org/math/geometry/hs-geo-foundations/hs-geo-polygons</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1/polygons-1">http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1/polygons-1</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/understanding-elementary-shapes/new-topic-2015-11-17T23:59:17.000Z">http://translate.khanacademy.org/math/in-sixth-grade-math/understanding-elementary-shapes/new-topic-2015-11-17T23:59:17.000Z</a>
+# Title of topic (x3431f87a) on the hy stage
+# Title of topic (x3431f87a) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Polygons"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/addition-subtraction-alg-expressions">http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/addition-subtraction-alg-expressions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Addition and subtraction of algebraic expressions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/addition-subtraction-alg-expressions">http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/addition-subtraction-alg-expressions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You have already studied how to add and subtract algebraic expressions in grade 7, let's see how much you remember! "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/expression-definition-1">http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/expression-definition-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "What are expressions?"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/expression-definition-1">http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/expression-definition-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "An algebraic expression is a statement built up from constants, variables, and the algebraic operations like addition, subtraction, multiplication, and division."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/monomial-by-monimal">http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/monomial-by-monimal</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiplying a monomial by a monomial"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/monomial-by-monimal">http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/monomial-by-monimal</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here we will learn multiplication of monomials by finding area of rectangle."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/monomial-by-polynomial">http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/monomial-by-polynomial</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here we will learn how to multiply a monomial with a polynomial."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/polynomial-by-polynomial">http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/polynomial-by-polynomial</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiplying a polynomial by a polynomial"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/polynomial-by-polynomial">http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/polynomial-by-polynomial</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here we will learn how to multiply a polynomial with a polynomial, a binomial with a binomial, and a binomial with a trinomial."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/standard-identities">http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/standard-identities</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Standard identities"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/standard-identities">http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities/standard-identities</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "An identity is an equality, which is true for all values of the variables in the equality. Here we will learn three standard identities- (a+b)^2=a^2+b^2+2ab, (a-b)^2=a^2+b^2-2ab, (a+b)(a-b)=a^2-b^2."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities">http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Algebraic expressions and identities"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities">http://translate.khanacademy.org/math/in-eighth-grade-math/algebraic-expressions-identities</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "An algebraic expression is an expression built up from integer constants, variables, and the algebraic operations. In this chapter we will learn about expressions, factors, coefficients, monomials, binomials, and polynomials."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/cubes-cube-roots/cube-roots">http://translate.khanacademy.org/math/in-eighth-grade-math/cubes-cube-roots/cube-roots</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Cube Roots"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/cubes-cube-roots/cube-roots">http://translate.khanacademy.org/math/in-eighth-grade-math/cubes-cube-roots/cube-roots</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic we will learn about ways to find the cube root of a number and we will solve some exercises to practice this technique."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/cubes-cube-roots">http://translate.khanacademy.org/math/in-eighth-grade-math/cubes-cube-roots</a>: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-cubes-cube-roots">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-cubes-cube-roots</a>
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Cubes and cube roots"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/cubes-cube-roots">http://translate.khanacademy.org/math/in-eighth-grade-math/cubes-cube-roots</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Cubes and cubes roots"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/cubes-cube-roots">http://translate.khanacademy.org/math/in-eighth-grade-math/cubes-cube-roots</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We get the cube of a number by finding the result of its multiplication with itself three times. Similarly, we can find the original number from this result by finding the cube root. In this topic we will learn more about cubes and cube roots."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/grouping-data-1">http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/grouping-data-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Grouping Data"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/grouping-data-1">http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/grouping-data-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic we will learn about depicting and interpreting data on bar graphs, and pictographs."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/new-topic-2015-11-12T18:23:20.795Z">http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/new-topic-2015-11-12T18:23:20.795Z</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Circle Graphs or Pie Charts"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/new-topic-2015-11-12T18:23:20.795Z">http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/new-topic-2015-11-12T18:23:20.795Z</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic we will learn about reading and depicting data on pie charts (circle graphs)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/new-topic-2015-11-12T18:23:30.291Z">http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/new-topic-2015-11-12T18:23:30.291Z</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Chance and Probability"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/new-topic-2015-11-12T18:23:30.291Z">http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/new-topic-2015-11-12T18:23:30.291Z</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Probability is the measure of the likeliness that an event will occur. In this topic we will learn about the basics of probability, frequency probability, independent events, compound probability and we will increase our understanding of this topic by looking at several examples and exercises."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/organizing-data">http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/organizing-data</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Organizing data"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/organizing-data">http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1/organizing-data</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Usually, data available to us is in an unorganised form called raw data. To draw meaningful inferences, we need to organise the data systematically. We will learn about a couple of ways to do so."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1">http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1</a>: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-data-handling">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-data-handling</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-data-handling">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-data-handling</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-data-handling">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-data-handling</a>
+# Title of topic (xabf9513ed904cae8) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Data Handling"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1">http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-seventh-grade-math/seventh-data-handling">http://translate.khanacademy.org/math/in-seventh-grade-math/seventh-data-handling</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/data-handling">http://translate.khanacademy.org/math/in-sixth-grade-math/data-handling</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Data handling"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1">http://translate.khanacademy.org/math/in-eighth-grade-math/data-handling-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this chapter we will learn about interpreting data in interesting ways. We will learn how to read and depict data on bars, graphs and charts, and we will also introduce the topic of probability. Probability is used in our daily life, so we will look into it in detail by practicing with many questions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/direct-inverse-proportions">http://translate.khanacademy.org/math/in-eighth-grade-math/direct-inverse-proportions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/direct-inverse-proportions/direct-inverse-props">http://translate.khanacademy.org/math/in-eighth-grade-math/direct-inverse-proportions/direct-inverse-props</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Direct and inverse proportions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/direct-inverse-proportions/direct-inverse-props">http://translate.khanacademy.org/math/in-eighth-grade-math/direct-inverse-proportions/direct-inverse-props</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Two values are said to be in direct proportion when increase in one results in a proportional increase in the other. Similarly, they are said to be in indirect proportion when the increase in one results in a proportional decrease in the other. Simply because one quantity increases when another one does, it doesn't mean they are in direct proportion. Dive in to learn more about what conditions are required for quantities to be in direct or inverse proportion and also look at a few examples to see why this concept is useful. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/direct-inverse-proportions">http://translate.khanacademy.org/math/in-eighth-grade-math/direct-inverse-proportions</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Two values are said to be in direct proportion when increase in one results in an increase in the other. Similarly, they are said to be in indirect proportion when the increase in one results in a decrease in the other. I this chapter we will learn more about these properties."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/area-polygons">http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/area-polygons</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Area of polygons"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/area-polygons">http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/area-polygons</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A polygon can be decomposed into different parts and the area of individual parts can be added to find the area of polygon."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/area-quadrilaterals">http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/area-quadrilaterals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Area of general quadrilaterals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/area-quadrilaterals">http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/area-quadrilaterals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here we will learn how to calculate area of rhombus."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/area-trapezium">http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/area-trapezium</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Area of a trapezium"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/area-trapezium">http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/area-trapezium</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A quadrilateral which has one pair of opposite sides parallel is called trapezium. Here we will learn how to calculate area of trapezium"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/lets-recall">http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/lets-recall</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let us recall"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/lets-recall">http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/lets-recall</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We have studied about area of squares, rectangles, triangles, circles in previous classes; let's check how much you remember!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/volume-cube-cuboid-cylinder">http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/volume-cube-cuboid-cylinder</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Volume of cube, cuboid, and cylinder"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/volume-cube-cuboid-cylinder">http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration/volume-cube-cuboid-cylinder</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic we will learn about three dimensional shapes like Cubes, Cuboids, and Cylinders and we will learn about to calculate their volumes."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration">http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-mensuration">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-mensuration</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-mensuration">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-mensuration</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/mensuration">http://translate.khanacademy.org/math/in-sixth-grade-math/mensuration</a>
+# Title of topic (x6b70d13625e5c054) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Mensuration"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration">http://translate.khanacademy.org/math/in-eighth-grade-math/eighth-mensuration</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The part of geometry concerned with ascertaining lengths, areas, and volumes, is called Mensuration. In this chapter we will add to what we have already studied in previous classes by learning about new shapes like Cube, Cuboid, Cylinder and their volumes."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1/exponents-express-small-numbers-standard-form">http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1/exponents-express-small-numbers-standard-form</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Use of Exponents to Express Small Numbers in Standard Form"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1/exponents-express-small-numbers-standard-form">http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1/exponents-express-small-numbers-standard-form</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here we will learn how very very very large and very very very small numbers can be expressed easily using the standard form. This form has another fancier name, the scientific notation. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1/laws-exponents">http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1/laws-exponents</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Laws of exponents"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1/laws-exponents">http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1/laws-exponents</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We have already studied laws of exponents in grade 7 but there powers of exponents used to be positive. Here we will study about the laws of exponents with negative powers. The laws which are applicable to positive powers of exponents shall be applicable on negative powers of  exponents as well."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1/powers-negative-exponents">http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1/powers-negative-exponents</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Powers with negative exponents"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1/powers-negative-exponents">http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1/powers-negative-exponents</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic we will learn about negative exponents, exponent properties involving quotients, zero, non-negative, and fractional exponents. We will also solve some exercises to have a better understanding of this topic."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1">http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-exp-powers">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-exp-powers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-seventh-grade-math/exponents-powers">http://translate.khanacademy.org/math/in-seventh-grade-math/exponents-powers</a>
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Exponents and powers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1">http://translate.khanacademy.org/math/in-eighth-grade-math/exponents-powers-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Exponents are shorthand for repeated multiplication of the same thing by itself, and it's power refers to the number of times it is multiplied. In this chapter we will learn about the basics of exponents and introduce the concept of powers with negative exponents."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/factorization/ncert-eighth-factoring-quadratics-diff-of-squares">http://translate.khanacademy.org/math/in-eighth-grade-math/factorization/ncert-eighth-factoring-quadratics-diff-of-squares</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Factoring quadratics using identities: Difference of squares"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/factorization/ncert-eighth-factoring-quadratics-perfect-squares">http://translate.khanacademy.org/math/in-eighth-grade-math/factorization/ncert-eighth-factoring-quadratics-perfect-squares</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Factoring quadratics using identities: Perfect squares"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/factorization">http://translate.khanacademy.org/math/in-eighth-grade-math/factorization</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Factorization is the decomposition of an object (for example, a number, a polynomial) into a product of other objects, or factors, which when multiplied together give the original. In this chapter we will learn about methods of factorization."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/linear-graphs">http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/linear-graphs</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear graphs"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/linear-graphs">http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/linear-graphs</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A series of points, discrete or continuous, forming a curve or surface, each of which represents a value of a variable make up a linear graph. It can also be called a network of lines connecting points. In this topic we will learn how to read a line graph."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/ncert-eighth-intro-to-coordinate-plane">http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/ncert-eighth-intro-to-coordinate-plane</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Intro to the Coordinate plane"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/ncert-eighth-picture-bar-graphs">http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/ncert-eighth-picture-bar-graphs</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Bar graphs and histograms review"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/ncert-eighth-picture-bar-graphs">http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/ncert-eighth-picture-bar-graphs</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Picture graphs, bar graphs, and histograms"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/some-applications">http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/some-applications</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/some-applications-1">http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/some-applications-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Some applications"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/some-applications">http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs/some-applications</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic we will learn about visualization of sequence relationships, interpreting & graphing relationships, interpreting relationships betweens patterns on a graph, and we will do some exercises which will help us understand the use of graphs a little better!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs">http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-intro-to-graphs">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-intro-to-graphs</a>
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to graphs"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs">http://translate.khanacademy.org/math/in-eighth-grade-math/intro-graphs</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphs are a graphical depiction of data, or relation between two or more variables. In this chapter we will learn about linear graphs, coordinates, and some applications. We will see that data becomes very easy to understand and interpret when depicted through graphs!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/equations-linear-expressions-one-side-numbers-other">http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/equations-linear-expressions-one-side-numbers-other</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving equations with linear expressions on one side and numbers on the other"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/equations-linear-expressions-one-side-numbers-other">http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/equations-linear-expressions-one-side-numbers-other</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We have already studied how to solve equations with variable on one side in class 7th, let's see how much you remember!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/ncert-eighth-alg-intro-equations">http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/ncert-eighth-alg-intro-equations</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Algebraic equations review"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/ncert-eighth-alg-intro-equations">http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/ncert-eighth-alg-intro-equations</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Recollect what it means for equations with variables (algebraic equations) to be solved."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/ncert-eighth-solving-variables-on-both-sides">http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/ncert-eighth-solving-variables-on-both-sides</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving linear equations with variables on both sides"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/reducing-equations-simpler-form">http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/reducing-equations-simpler-form</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Reducing equations to simpler form"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/reducing-equations-simpler-form">http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/reducing-equations-simpler-form</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here we will study how to reduce complex linear equations to simpler form."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/some-applications-1">http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/some-applications-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We have already studied how to frame and solve equations with variable on one side in class 7th, let's see how much you remember!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/some-more-applications-1">http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/some-more-applications-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Some more applications"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/some-more-applications-1">http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable/some-more-applications-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here we are going to deal with the framing of equations that variables on both sides of the equality."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable">http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-linear-eqn">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-linear-eqn</a>
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Linear equations in one variable"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable">http://translate.khanacademy.org/math/in-eighth-grade-math/linear-equations-one-variable</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Equations having variables with the highest power as '1' are called linear equations, for example 2x+7=3. Here the power of x is 1. In this chapter we will introduce the concept of equations with variables on both sides, and we will look into some applications for linear equations."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/new-topic-2016-12-08T07:07:56.390Z/ncert-seventh-scale-drawings">http://translate.khanacademy.org/math/in-eighth-grade-math/new-topic-2016-12-08T07:07:56.390Z/ncert-seventh-scale-drawings</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Mapping space around us"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/new-topic-2016-12-08T07:07:56.390Z">http://translate.khanacademy.org/math/in-eighth-grade-math/new-topic-2016-12-08T07:07:56.390Z</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-visualising-solid-shapes">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-visualising-solid-shapes</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-solid-shapes">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-solid-shapes</a>
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Visualising solid shapes"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/new-topic-2016-12-08T07:07:56.390Z">http://translate.khanacademy.org/math/in-eighth-grade-math/new-topic-2016-12-08T07:07:56.390Z</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3D objects are all around us. A lot of real objects can be seen as a combination of cubes, cuboids, spheres and cones with a bit of imagination. In addition to visualising 3D shapes better, let's learn how we use maps to represent space. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/playing-numbers-1/numbers-general-form">http://translate.khanacademy.org/math/in-eighth-grade-math/playing-numbers-1/numbers-general-form</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-seventh-grade-math/exponents-powers/ncert-seventh-numbers-general-form">http://translate.khanacademy.org/math/in-seventh-grade-math/exponents-powers/ncert-seventh-numbers-general-form</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Writing numbers in the expanded form, as '10a + b' or '100a + 10b + c'."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/playing-numbers-1/numbers-general-form">http://translate.khanacademy.org/math/in-eighth-grade-math/playing-numbers-1/numbers-general-form</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Numbers in general form"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/playing-numbers-1/tests-divisibility">http://translate.khanacademy.org/math/in-eighth-grade-math/playing-numbers-1/tests-divisibility</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Tests of divisibility"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/playing-numbers-1/tests-divisibility">http://translate.khanacademy.org/math/in-eighth-grade-math/playing-numbers-1/tests-divisibility</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In grade 6, you learnt how to check divisibility by the following divisors: 10, 5, 2, 3, 6, 4, 8, 9, 11. You would have found the tests easy to do, but you may have wondered at the same time why they work. Now, in this chapter, we shall go into the “why” aspect of the above."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/playing-numbers-1">http://translate.khanacademy.org/math/in-eighth-grade-math/playing-numbers-1</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-playwithnos">http://translate.khanacademy.org/math/in-in-class-6th-math-cbse/in-in-6th-playwithnos</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-playing-with-numbers">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-playing-with-numbers</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers">http://translate.khanacademy.org/math/in-sixth-grade-math/playing-numbers</a>
+# Title of topic (xb35143bafe5a1ef9) on the lol stage
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Playing with numbers"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/playing-numbers-1">http://translate.khanacademy.org/math/in-eighth-grade-math/playing-numbers-1</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Playing with umbers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/playing-numbers-1">http://translate.khanacademy.org/math/in-eighth-grade-math/playing-numbers-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You have studied various types of numbers such as natural numbers, whole numbers, integers and rational numbers.You have also studied a number of interesting properties about them. In grade 6, we explored finding factors and multiples and the relationships among them. In this chapter, we will explore numbers in more detail. These ideas help in justifying tests of divisibility."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/rational-numbers-1/ncert-eighth-rational-numbers-introduction">http://translate.khanacademy.org/math/in-eighth-grade-math/rational-numbers-1/ncert-eighth-rational-numbers-introduction</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to rational numbers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/rational-numbers-1/ncert-eighth-rational-numbers-introduction">http://translate.khanacademy.org/math/in-eighth-grade-math/rational-numbers-1/ncert-eighth-rational-numbers-introduction</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You know what natural or counting numbers are, you know what whole numbers are, you even know what integers are. Do you want to learn what 'rational numbers' are? There is a clue in the name 'ratio'nal itself. Lets' jump in and learn more about this new type of numbers. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/rational-numbers-1">http://translate.khanacademy.org/math/in-eighth-grade-math/rational-numbers-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Rational numbers can be expressed in the form p/q where p and q are integers and q is not equal to zero. In this chapter we will look at some properties of rational numbers."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots/estimating-square-roots">http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots/estimating-square-roots</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Estimating square roots"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots/estimating-square-roots">http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots/estimating-square-roots</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this topic we will learn how to estimate square roots when we cannot find the exact result, using a simple method."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots/ncert-eighth-squares">http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots/ncert-eighth-squares</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You get the square of a number when you multiply it with itself. Why is this called the Square? Does it have anything to do with the shape that you are already familiar with? Think about these questions as you learn more about squares. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots/square-roots">http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots/square-roots</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The square root of a given number is an integer which yields the given number when multiplied by itself. You will now learn the symbol for a square root and also how to calculate and simplify square roots. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots">http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Squares and square roots"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots">http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A square of an integer is the product of some integer with itself. Similarly, the square root of a number is an integer which when multiplied with itself give this number. In this topic we will increase our understanding of squares, square roots, and will will learn about ways of finding them."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1/copy-of-quadrilaterals">http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1/copy-of-quadrilaterals</a>: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Copy of Quadrilateral proofs & angles"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1/kinds-quadrilaterals">http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1/kinds-quadrilaterals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Kinds of quadrilaterals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1/kinds-quadrilaterals">http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1/kinds-quadrilaterals</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A quadrilateral is a four sides polygon with 4 angles. In this topic we will learn about the different kinds of quadrilaterals that can exist!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1/polygons-1">http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1/polygons-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Polygons are many-sided figures, with sides that are line segments. Polygons are named according to the number of sides and angles they have. The most familiar polygons are the triangle, the rectangle, and the square. In this topic we will learn about the exterior angle property, interior angle property, and we will also practice with some exercises related to polygons."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1/sum-measures-exterior-angles-polygon">http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1/sum-measures-exterior-angles-polygon</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Sum of the measures of the exterior angles of a polygon"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1/sum-measures-exterior-angles-polygon">http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1/sum-measures-exterior-angles-polygon</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this section we will learn about how to calculate the sum of the measure of the exterior angles of a polygon."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1">http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Understanding quadrilaterals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1">http://translate.khanacademy.org/math/in-eighth-grade-math/understanding-quadrilaterals-1</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A quadrilateral is a four-sided polygon with four angles. There are many kinds of quadrilaterals. The five most common types are the parallelogram, the rectangle, the square, the trapezoid, and the rhombus. In this chapter we will learn about polygons, different types of quadrilaterals, and the special case of parallelograms!"
+msgstr ""
+
