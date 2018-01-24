@@ -1,0 +1,1649 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-05 11:58+0000\n"
+"PO-Revision-Date: 2018-01-24 10:51-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.multivariable-calculus.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Article is at <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/interpretation-of-lagrange-multipliers">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/interpretation-of-lagrange-multipliers</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/lagrange-multipliers-examples">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/lagrange-multipliers-examples</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/lagrange-multipliers-single-constraint">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/lagrange-multipliers-single-constraint</a>.
+# Article is at (x4d22cb31) on the ja stage.
+# Article is at (x4d22cb31) on the pl stage.
+# Article is at (x632fba9d) on the ja stage.
+# Article is at (x632fba9d) on the pl stage.
+# Article is at (x6a0a5019) on the ja stage.
+# Article is at (x6a0a5019) on the pl stage.
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x892a73ca) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x892a73ca) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+# (format: text)
+#: intl/datastore:1
+msgid "Constrained optimization"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization</a>
+# Title of topic (x892a73ca) on the ja stage
+# Title of topic (x892a73ca) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Constrained optimization (articles)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization</a>
+# Description of topic (x892a73ca) on the ja stage
+# Description of topic (x892a73ca) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "How do you find the maximum or minimum of a multivariable function if you are constrained to only look at certain inputs?  For example, maybe you want to maximize your companies profits, but you have certain budgetary constraints."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/lagrange-multipliers-and-constrained-optimization">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/lagrange-multipliers-and-constrained-optimization</a>
+# Title of topic (x60b7684b61cce79a) on the ja stage
+# Title of topic (x60b7684b61cce79a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lagrange multipliers and constrained optimization"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/lagrange-multipliers-and-constrained-optimization">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/lagrange-multipliers-and-constrained-optimization</a>
+# Description of topic (x60b7684b61cce79a) on the ja stage
+# Description of topic (x60b7684b61cce79a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "How do you maximize a multivariable function when there's some constraint on the inputs that you're allowed?  This is the kind of problem that comes up all the time in practice, so knowing how to approach it is incredibly useful."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x84b225fe) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x84b225fe) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions-videos">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions-videos</a>
+# Title of topic (xdfccb0f1) on the ja stage
+# Title of topic (xdfccb0f1) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Optimizing multivariable functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions-videos">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions-videos</a>
+# Description of topic (xdfccb0f1) on the ja stage
+# Description of topic (xdfccb0f1) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Maxima, minima, saddle points, and how to identify them using the second partial derivative test."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions</a>
+# Title of topic (x84b225fe) on the ja stage
+# Title of topic (x84b225fe) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Optimizing multivariable functions (articles)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions</a>
+# Description of topic (x84b225fe) on the ja stage
+# Description of topic (x84b225fe) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In practice, people don't play with multivariable functions just for fun.  Quite often, you want to optimize something, like the profit of a company or the air resistance of a plane.  Using the tools of multivariable derivatives, we can find the maximum or minimum values of many multivariable functions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations</a>
+# Title of topic (xd4361892) on the ja stage
+# Title of topic (xd4361892) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Quadratic approximations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations</a>
+# Description of topic (xd4361892) on the ja stage
+# Description of topic (xd4361892) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "How to approximate a multivariable function with a quadratic function.  This is analogous to a quadratic Taylor polynomial in single-variable calculus."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/tangent-planes-and-local-linearization">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/tangent-planes-and-local-linearization</a>
+# Title of topic (x3d0521ce) on the ja stage
+# Title of topic (x3d0521ce) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Tangent planes and local linearization"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/tangent-planes-and-local-linearization">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/tangent-planes-and-local-linearization</a>
+# Description of topic (x3d0521ce) on the ja stage
+# Description of topic (x3d0521ce) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "How to compute the tangent plane of a three-dimensional graph, and how this can be generalized to approximations of higher dimensional functions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives</a>
+# Title of topic (x56699651) on the ja stage
+# Title of topic (x56699651) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Applications of multivariable derivatives"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives</a>
+# Description of topic (x56699651) on the ja stage
+# Description of topic (x56699651) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The tools of partial derivatives, the gradient, etc. can be used to optimize and approximate multivariable functions.  These are very useful in practice, and to a large extent this is why people study multivariable calculus."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-articles">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-articles</a>
+# Title of topic (x8d091031) on the ja stage
+# Title of topic (x8d091031) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Divergence theorem (articles)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-articles">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-articles</a>
+# Description of topic (x8d091031) on the ja stage
+# Description of topic (x8d091031) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Both the 2D and 3D divergence theorems connect two separate measures of fluid flow: Divergence and flux.  This can be very handy for solving higher-dimensional integration problems."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-proof">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-proof</a>
+# Description of topic (x926d8113) on the ja stage
+# Description of topic (x926d8113) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You know what the divergence theorem is, you can apply it and you conceptually understand it.  This tutorial will actually prove it to you (references types of regions which are covered in the \"types of regions in 3d\" tutorial)."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem</a>
+# Title of topic (x68dc1d26) on the ja stage
+# Title of topic (x68dc1d26) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "3D divergence theorem (videos)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/formal-definitions-of-divergence-and-curl">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/formal-definitions-of-divergence-and-curl</a>
+# Title of topic (x1d50c6b4) on the ja stage
+# Title of topic (x1d50c6b4) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Formal definitions of div and curl (optional reading)"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/formal-definitions-of-divergence-and-curl">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/formal-definitions-of-divergence-and-curl</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x1d50c6b4) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x1d50c6b4) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Formal definitions of divergence and curl"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/formal-definitions-of-divergence-and-curl">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/formal-definitions-of-divergence-and-curl</a>
+# Description of topic (x1d50c6b4) on the ja stage
+# Description of topic (x1d50c6b4) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here you will learn how line integrals and surface integrals are used to give the definitions of divergence and curl.  Aside from getting more practice with line integrals, surface integrals, divergence and curl, these definitions help establish the intuition for Green's theorem and Stokes' theorem."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/greens-theorem-articles">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/greens-theorem-articles</a>
+# Title of topic (xae955328) on the ja stage
+# Title of topic (xae955328) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Green's theorem (articles)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/greens-theorem-articles">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/greens-theorem-articles</a>
+# Description of topic (xae955328) on the ja stage
+# Description of topic (xae955328) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Green's theorem ties together double integrals, curl, and line integrals into one very pretty (and useful!) little statement."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/greens-theorem">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/greens-theorem</a>
+# Title of topic (x17b3536e) on the ja stage
+# Title of topic (x17b3536e) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Green's theorem (videos)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/stokes-theorem-articles">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/stokes-theorem-articles</a>
+# Title of topic (x236ccc2b) on the ja stage
+# Title of topic (x236ccc2b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Stokes' theorem (articles)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/stokes-theorem-articles">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/stokes-theorem-articles</a>
+# Description of topic (x236ccc2b) on the ja stage
+# Description of topic (x236ccc2b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You've worked so hard to get to this point, and finally, you're here.  Stokes' theorem. The granddaddy of multivariable calculus.  Curl, surface integrals and line integrals, all beautifully smooshed into one theorem."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/stokes-theorem">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/stokes-theorem</a>
+# Title of topic (x86156ed3) on the ja stage
+# Title of topic (x86156ed3) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Stokes' theorem (videos)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem</a>
+# Title of topic (xdc273fcc) on the ja stage
+# Title of topic (xdc273fcc) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Green's, Stokes', and the divergence theorems"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xdc273fcc) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xdc273fcc) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Green's theorem and Stokes' theorem"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem">http://translate.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem</a>
+# Description of topic (xdc273fcc) on the ja stage
+# Description of topic (xdc273fcc) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here we cover four different ways to extend the fundamental theorem of calculus to multiple dimensions.  Green's theorem and the 2D divergence theorem do this for two dimensions, then we crank it up to three dimensions with Stokes' theorem and the (3D) divergence theorem."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/3d-flux">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/3d-flux</a>
+# Title of topic (x9106372b) on the ja stage
+# Title of topic (x9106372b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Flux in 3D (videos)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/3d-flux">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/3d-flux</a>
+# Description of topic (x9106372b) on the ja stage
+# Description of topic (x9106372b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Flux can be view as the rate at which \"stuff\" passes through a surface.  Imagine a net placed in a river and imagine the water that is flowing directly across the net in a unit of time--this is flux (and it would depend on the orientation of the net, the shape of the net, and the speed and direction of the current). It is an important idea throughout physics and is key for understanding Stokes' theorem and the divergence theorem."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a</a>
+# Title of topic (x46d019ea) on the ja stage
+# Title of topic (x46d019ea) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Double integrals (articles)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a</a>
+# Description of topic (x46d019ea) on the ja stage
+# Description of topic (x46d019ea) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A single definite integral can be used to find the area under a curve. With double integrals, we can start thinking about the volume under a surface!  More generally, double integrals are useful anytime you feel the need to add up infinitely many infinitely small quantities inside some two-dimensional region."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "A single definite integral can be used to find the area under a curve. with double integrals, we can start thinking about the volume under a surface!  More generally, double integrals are useful anytime you feel the need to add up infinitely many infinitely small quantities inside some two-dimensional region."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic</a>
+# Title of topic (x8a769a9b) on the ja stage
+# Title of topic (x8a769a9b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Double integrals (videos)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic</a>
+# Description of topic (x8a769a9b) on the ja stage
+# Description of topic (x8a769a9b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A single definite integral can be used to find the area under a curve. With double integrals, we can start thinking about the volume under a surface!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "A single definite integral can be used to find the area under a curve. with double integrals, we can start thinking about the volume under a surface!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/flux-in-3d-articles">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/flux-in-3d-articles</a>
+# Title of topic (xd4aea7da) on the ja stage
+# Title of topic (xd4aea7da) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Flux in 3D (articles)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/flux-in-3d-articles">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/flux-in-3d-articles</a>
+# Description of topic (xd4aea7da) on the ja stage
+# Description of topic (xd4aea7da) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to compute surface integrals in a vector field, which involves constructing a unit normal vector to a surface.  This lets you compute how much fluid flows through a given surface, which provides an intuition much more broadly applicable than just fluids."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-for-scalar-functions-articles">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-for-scalar-functions-articles</a>
+# Title of topic (x95957dbe) on the ja stage
+# Title of topic (x95957dbe) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Line integrals for scalar functions (articles)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-for-scalar-functions-articles">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-for-scalar-functions-articles</a>
+# Description of topic (x95957dbe) on the ja stage
+# Description of topic (x95957dbe) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Rather than integrating along a straight line, such as the x-axis, we will now start thinking about meandering through space.  This topic starts with arc length, which leads in nicely to the broader idea of line integration."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-in-vector-fields-articles">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-in-vector-fields-articles</a>
+# Title of topic (xa4f7130a) on the ja stage
+# Title of topic (xa4f7130a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Line integrals in vector fields (articles)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-in-vector-fields-articles">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-in-vector-fields-articles</a>
+# Description of topic (xa4f7130a) on the ja stage
+# Description of topic (xa4f7130a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "After introducing line integrals in the context of scalar-valued functions, we see how to integrate along curves which wander through a vector field.  This leads to a very beautiful extension of the fundamental theorem of calculus, known as the fundamental theorem of line integrals."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-vectors">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-vectors</a>
+# Title of topic (x11a3b666) on the ja stage
+# Title of topic (x11a3b666) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Line integrals in vector fields (videos)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals</a>
+# Title of topic (x6a1ef063) on the ja stage
+# Title of topic (x6a1ef063) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Line integrals for scalar functions (videos)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-articles">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-articles</a>
+# Title of topic (xfe6e36da) on the ja stage
+# Title of topic (xfe6e36da) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Surface integrals (articles)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-articles">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-articles</a>
+# Description of topic (xfe6e36da) on the ja stage
+# Description of topic (xfe6e36da) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Just as line integrals give you the ability to add up points on a line, and double integrals give you the ability to add up points in a two-dimensional region, surface integrals are a mechanism for adding points on a curved surface in three-dimensional space."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction</a>
+# Title of topic (xd5892eb4) on the ja stage
+# Title of topic (xd5892eb4) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Surface integrals (videos)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction</a>
+# Description of topic (xd5892eb4) on the ja stage
+# Description of topic (xd5892eb4) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Finding line integrals to be a bit boring? Well, this tutorial will add new dimension to your life by exploring what surface integrals are and how we can calculate them."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-parametrization">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-parametrization</a>
+# Title of topic (xaaa03698) on the ja stage
+# Title of topic (xaaa03698) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Surface integral preliminaries (videos)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-parametrization">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-parametrization</a>
+# Description of topic (xaaa03698) on the ja stage
+# Description of topic (xaaa03698) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Here, Sal covers some of the skills you need to be able to understand surface integrals."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/triple-integrals-a">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/triple-integrals-a</a>
+# Title of topic (xef66f420) on the ja stage
+# Title of topic (xef66f420) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Triple integrals (articles)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/triple-integrals-a">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/triple-integrals-a</a>
+# Description of topic (xef66f420) on the ja stage
+# Description of topic (xef66f420) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Triple integrals are a way of integreating throughout a three-dimensional region in space."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/triple-integrals-topic">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/triple-integrals-topic</a>
+# Title of topic (x0428c3e0) on the ja stage
+# Title of topic (x0428c3e0) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Triple integrals (videos)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/triple-integrals-topic">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/triple-integrals-topic</a>
+# Description of topic (x0428c3e0) on the ja stage
+# Description of topic (x0428c3e0) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This is about as many integrals we can use before our brains explode. Now we can sum variable quantities in three-dimensions (what is the mass of a 3-D wacky object that has variable density)!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions</a>
+# Title of topic (x833b5150) on the ja stage
+# Title of topic (x833b5150) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Integrating multivariable functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions">http://translate.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions</a>
+# Description of topic (x833b5150) on the ja stage
+# Description of topic (x833b5150) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "There are many ways to extend the idea of integration to multiple dimensions: Line integrals, double integrals, triple integrals, surface integrals, etc.  Each one lets you add infinitely many infinitely small values, where those values might come from points on a curve, points in an area, points on a surface, etc.  \n\n"
+"These are all very powerful tools, relevant to almost all real-world applications of calculus.  In particular, they are an invaluable tool in physics."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/curl-grant-videos">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/curl-grant-videos</a>
+# Title of topic (xc39c1683) on the ja stage
+# Title of topic (xc39c1683) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Curl"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/curl-grant-videos">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/curl-grant-videos</a>
+# Description of topic (xc39c1683) on the ja stage
+# Description of topic (xc39c1683) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Curl is a special version of the derivative for vector fields.  It can be nicely interpreted in terms of rotation in fluid flow."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/curvature">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/curvature</a>
+# Description of topic (x1bf5cc0e) on the ja stage
+# Description of topic (x1bf5cc0e) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "How do you measure how much a curve actually curves?  There are many ways to view the answer to this question, but all land you on the same mathematical quantity, known simply as \"curvature\"."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks</a>
+# Title of topic (xcc35709d) on the ja stage
+# Title of topic (xcc35709d) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Skill checks"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/derivatives-of-multivariable-functions-skill-checks</a>
+# Description of topic (xcc35709d) on the ja stage
+# Description of topic (xcc35709d) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Test your knowledge of the various ways to extend the idea of a derivative to multivariable function."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/differentiating-vector-valued-functions">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/differentiating-vector-valued-functions</a>
+# Title of topic (x32198c43) on the ja stage
+# Title of topic (x32198c43) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Differentiating vector-valued functions (articles)"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/differentiating-vector-valued-functions">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/differentiating-vector-valued-functions</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x32198c43) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x32198c43) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Differentiating vector-valued functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/differentiating-vector-valued-functions">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/differentiating-vector-valued-functions</a>
+# Description of topic (x32198c43) on the ja stage
+# Description of topic (x32198c43) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "What it means to take the derivative (or partial derivative) of a vector-valued function"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles</a>
+# Title of topic (x9ce4a406) on the ja stage
+# Title of topic (x9ce4a406) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Divergence and curl (articles)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles</a>
+# Description of topic (x9ce4a406) on the ja stage
+# Description of topic (x9ce4a406) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Divergence and curl are two ways of extending the idea of a derivative to vector fields.\n\n"
+"If you interpret a vector field as representing a fluid flow, the divergence tells you if the fluid tends to converge near a given point, or if it diverges away from it.  The curl, on the other hand, measures rotation in the fluid."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-grant-videos">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-grant-videos</a>
+# Description of topic (x603b4425) on the ja stage
+# Description of topic (x603b4425) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In the fluid flow interpretation of vector fields, divergence is a measure of how much fluid tends to flow away from each point.  However, his turns out to have far-reaching consequences beyond the specific case of fluid flow."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives</a>
+# Title of topic (xff448cf3) on the ja stage
+# Title of topic (xff448cf3) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Gradient and directional derivatives"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives</a>
+# Description of topic (xff448cf3) on the ja stage
+# Description of topic (xff448cf3) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The gradient is like the king of all partial derivatives.  Or perhaps it's more like the country they all live it.  It stores all partial derivative information in a single vector-valued function, and as such it is a central tool for analyzing rates of change in multivariable functions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/jacobian">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/jacobian</a>
+# Title of topic (x80bc2309b3b477be) on the ja stage
+# Title of topic (x80bc2309b3b477be) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Jacobian"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/jacobian">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/jacobian</a>
+# Description of topic (x80bc2309b3b477be) on the ja stage
+# Description of topic (x80bc2309b3b477be) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The Jacobian matrix is a way to package all of the partial derivative information of a multivariable function.  It also has a very nice visual interpretation as the \"local linearization\" of a function."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/laplacian">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/laplacian</a>
+# Title of topic (xb0f28d7e) on the ja stage
+# Title of topic (xb0f28d7e) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Laplacian"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/laplacian">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/laplacian</a>
+# Description of topic (xb0f28d7e) on the ja stage
+# Description of topic (xb0f28d7e) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The Laplacian, also known as the \"Laplace operator\", is a way to extend the second derivative to multivariable functions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/multivariable-chain-rule">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/multivariable-chain-rule</a>
+# Title of topic (xf17955ff) on the ja stage
+# Title of topic (xf17955ff) on the pl stage
+# Title of video <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/multivariable-chain-rule/v/multivariable-chain-rule">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/multivariable-chain-rule/v/multivariable-chain-rule</a>
+# Title of video (x36d3e7c5) on the ja stage
+# Title of video (x36d3e7c5) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Multivariable chain rule"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/multivariable-chain-rule">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/multivariable-chain-rule</a>
+# Description of topic (xf17955ff) on the ja stage
+# Description of topic (xf17955ff) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "If you have one function that takes a single number to a high dimensional space, and another which maps that high dimensional space back down to the number line, applying one after the other gives a regular old single-variable function.  But how do you find the derivative of this new function?"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles</a>
+# Title of topic (x76a787cc) on the ja stage
+# Title of topic (x76a787cc) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Partial derivative and gradient (articles)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles</a>
+# Description of topic (x76a787cc) on the ja stage
+# Description of topic (x76a787cc) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "There are several different analogs of the derivative for scalar-valued multivariable functions: Partial derivatives, the gradient, and the directional derivative."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivatives-of-vector-valued-functions">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivatives-of-vector-valued-functions</a>
+# Description of topic (x742d256f) on the ja stage
+# Description of topic (x742d256f) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to compute and interpret the partial derivative of a multivariable function with a vector-valued output."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivatives</a>
+# Description of topic (x44e23906) on the ja stage
+# Description of topic (x44e23906) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The meaning of the derivative is not so straightforward when the input space has multiple dimensions.  Partial derivatives allow us to handle this by restricting movement in the input space."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/position-vector-functions">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/position-vector-functions</a>
+# Title of topic (x5dd2c2d3) on the ja stage
+# Title of topic (x5dd2c2d3) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Differentiating parametric curves"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/position-vector-functions">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/position-vector-functions</a>
+# Description of topic (x5dd2c2d3) on the ja stage
+# Description of topic (x5dd2c2d3) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this tutorial, we will explore position vector functions and think about what it means to take a derivative of one."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives</a>
+# Title of topic (xb3d3f2ba) on the ja stage
+# Title of topic (xb3d3f2ba) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Derivatives of multivariable functions"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb3d3f2ba) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb3d3f2ba) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Multivariable derivatives"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives">http://translate.khanacademy.org/math/multivariable-calculus/multivariable-derivatives</a>
+# Description of topic (xb3d3f2ba) on the ja stage
+# Description of topic (xb3d3f2ba) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "What does it mean to take the derivative of a function whose input lives in multiple dimensions?  What about when its output is a vector?  Here we go over many different ways to  extend the idea of a derivative to higher dimensions, including partial derivatives​, directional derivatives, the gradient, vector derivatives, divergence, curl, etc."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/introduction-to-multivariable-calculus">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/introduction-to-multivariable-calculus</a>
+# Title of topic (x6d977ae7) on the ja stage
+# Title of topic (x6d977ae7) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to multivariable calculus"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/introduction-to-multivariable-calculus">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/introduction-to-multivariable-calculus</a>
+# Description of topic (x6d977ae7) on the ja stage
+# Description of topic (x6d977ae7) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Welcome to multivariable calculus!  Soon you will learn how to apply to tools of calculus to multivariable functions, but to start things off let's start getting a feel for what these multivariable functions can actually look like."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/multivariable-transformations">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/multivariable-transformations</a>
+# Description of topic (x5346e895) on the ja stage
+# Description of topic (x5346e895) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Thinking about a function as a transformation means thinking about how it moves points from the input space to the output space.  A nice way to visualize this is with animations that actually move space."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check</a>
+# Title of topic (x0dba1ec8) on the ja stage
+# Title of topic (x0dba1ec8) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Skill check"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-multivariable-functions-skill-check</a>
+# Description of topic (x0dba1ec8) on the ja stage
+# Description of topic (x0dba1ec8) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Test your knowledge of the different ways to visualize multivariable functions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-scalar-valued-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-scalar-valued-functions</a>
+# Title of topic (x9cb5b5a6) on the ja stage
+# Title of topic (x9cb5b5a6) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Visualizing scalar-valued functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-scalar-valued-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-scalar-valued-functions</a>
+# Description of topic (x9cb5b5a6) on the ja stage
+# Description of topic (x9cb5b5a6) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The main two tactics for understanding scalar-valued functions are graphs and contour maps."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-vector-valued-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-vector-valued-functions</a>
+# Title of topic (x9f70bf6f) on the ja stage
+# Title of topic (x9f70bf6f) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Visualizing vector-valued functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-vector-valued-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-vector-valued-functions</a>
+# Description of topic (x9f70bf6f) on the ja stage
+# Description of topic (x9f70bf6f) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "To understand vector-valued functions, it's common to either think parametrically, in which you think of the function as drawing a curve or surface in the output space, or with a vector field, in which you plop a vector on various points in space.  "
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions/a/multivariable-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions/a/multivariable-functions</a>
+# Title of tutorial article (xf0b1ac8a) on the ja stage
+# Title of tutorial article (xf0b1ac8a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "What are multivariable functions?"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions</a>
+# Title of topic (xfd6b2dbd) on the ja stage
+# Title of topic (xfd6b2dbd) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Visualizing multivariable functions (articles)"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xfd6b2dbd) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xfd6b2dbd) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Different ways to represent multivariable functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions</a>
+# Description of topic (xfd6b2dbd) on the ja stage
+# Description of topic (xfd6b2dbd) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Having an image to hold in your head as you think about a multivariable function can be crucial for understanding that function.  Graphs, contour maps, parametric functions, vector fields and transformations all provide different ways to visualize functions in higher dimensions."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Having an image to hold in your head as you think about a multivariable function can be crucial for understanding that function.  Graphs, contour maps, parametric functions, vector fields and transformations all providie different ways to visualize functions in higher dimensions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function</a>
+# Title of topic (x9cf34252) on the ja stage
+# Title of topic (x9cf34252) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Thinking about multivariable functions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function">http://translate.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function</a>
+# Description of topic (x9cf34252) on the ja stage
+# Description of topic (x9cf34252) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The only thing separating multivariable calculus from ordinary calculus is this newfangled word \"multivariable\".  It means we will deal with functions whose inputs or outputs live in two or more dimensions.  Here we lay the foundations for thinking about and visualizing multivariable functions."
+msgstr ""
+
