@@ -1,0 +1,1211 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2018-01-24 10:58-0500\n"
+"Language-Team: Chinese Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/3_medium_priority/learn.math.applied-math.videos.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: zh_CN\n"
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency</a>
+# Title of video (1057328491) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Algorithmic efficiency"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/algorithmic-efficiency</a>
+# Description of video (1057328491) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "How can we improve the speed of a (deterministic) primality test?"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/primality-test-challenge">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/primality-test-challenge</a>
+# Title of video (xa9ad2ac7) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Primality test challenge"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/prime-number-theorem-the-density-of-primes">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/prime-number-theorem-the-density-of-primes</a>
+# Title of video (1119980008) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The prime number theorem"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/prime-number-theorem-the-density-of-primes">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/prime-number-theorem-the-density-of-primes</a>
+# Description of video (1119980008) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "How can we estimate the number of primes up to x?"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/rsa-encryption-checkpoint">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/rsa-encryption-checkpoint</a>
+# Title of video (1339534424) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Summary (what's next?)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/rsa-encryption-checkpoint">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/rsa-encryption-checkpoint</a>
+# Description of video (1339534424) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Why is factorization hard, yet generating primes easy? Where do we go from here?"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/sieve-of-eratosthenes-prime-adventure-part-4">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/sieve-of-eratosthenes-prime-adventure-part-4</a>
+# Description of video (1098965286) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Sieve of Eratosthenes allows us to generate a list of primes."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/time-space-tradeoff">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/time-space-tradeoff</a>
+# Title of video (1243559297) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Time space tradeoff"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/time-space-tradeoff">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/time-space-tradeoff</a>
+# Description of video (1243559297) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "what is our memory limit? How can save time at the expense of space?"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/trial-division-primality-test-using-a-sieve-prime-adventure-part-5">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/trial-division-primality-test-using-a-sieve-prime-adventure-part-5</a>
+# Title of video (1098805994) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Primality test with sieve"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/what-is-computer-memory-prime-adventure-part-7">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/what-is-computer-memory-prime-adventure-part-7</a>
+# Description of video (1184361314) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "What is the limit of computer memory?"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/caesar-cipher">http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/caesar-cipher</a>
+# Title of video (688226223) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The Caesar cipher"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/case-study-ww2-encryption-machines">http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/case-study-ww2-encryption-machines</a>
+# Title of video (743582610) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The Enigma encryption machine"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/case-study-ww2-encryption-machines">http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/case-study-ww2-encryption-machines</a>
+# Description of video (743582610) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "WW2 Encryption is explored with a focus on the Enigma. Read more <a data-cke-saved-href=\"http://en.wikipedia.org/wiki/Enigma_machine\" href=\"http://en.wikipedia.org/wiki/Enigma_machine\">here</a>."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/one-time-pad">http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/one-time-pad</a>
+# Title of video (716378217) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The one-time pad"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/one-time-pad">http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/one-time-pad</a>
+# Description of video (716378217) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "The perfect cipher"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/perfect-secrecy">http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/perfect-secrecy</a>
+# Title of video (743684078) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Perfect secrecy"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/perfect-secrecy">http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/perfect-secrecy</a>
+# Description of video (743684078) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Claude Shannon's idea of perfect secrecy: no amount of computational power can help improve your ability to break the one-time pad"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/polyalphabetic-cipher">http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/polyalphabetic-cipher</a>
+# Title of video (716246883) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Polyalphabetic cipher"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators">http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators</a>
+# Title of video (769897425) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Pseudorandom number generators"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators">http://translate.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators</a>
+# Description of video (769897425) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Random vs. Pseudorandom Number Generators"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/checkpoint-advanced-lessons">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/checkpoint-advanced-lessons</a>
+# Title of video (951674691) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "What should we learn next?"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/checkpoint-advanced-lessons">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/checkpoint-advanced-lessons</a>
+# Description of video (951674691) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Help decide what's next! What do you want to learn?"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-1">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-1</a>
+# Title of video (1174169184) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Public key cryptography: What is it?"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-1">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-1</a>
+# Description of video (1174169184) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Why do we need public key cryptography?"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-2">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-2</a>
+# Title of video (1174406364) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Diffie-hellman key exchange"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-2">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-2</a>
+# Description of video (1174406364) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Walkthrough of Diffie-Hellman Key Exchange"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/discrete-logarithm-problem">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/discrete-logarithm-problem</a>
+# Title of video (1174224696) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The discrete logarithm problem"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/discrete-logarithm-problem">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/discrete-logarithm-problem</a>
+# Description of video (1174224696) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "A mathematical lock using modular arithmetic"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/euler-s-totient-function-phi-function">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/euler-s-totient-function-phi-function</a>
+# Title of video (1174381381) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Euler's totient function"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/euler-s-totient-function-phi-function">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/euler-s-totient-function-phi-function</a>
+# Description of video (1174381381) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Measuring the divisibility of a number"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/intro-to-rsa-encryption">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/intro-to-rsa-encryption</a>
+# Title of video (1174223673) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "RSA encryption: Step 1"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/intro-to-rsa-encryption">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/intro-to-rsa-encryption</a>
+# Description of video (1174223673) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to why we would need RSA"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-part-4">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-part-4</a>
+# Title of video (1174496039) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "RSA encryption: Step 4"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-part-4">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-part-4</a>
+# Description of video (1174496039) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "RSA worked example"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-step-2">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-step-2</a>
+# Title of video (1174378584) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "RSA encryption: Step 2"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-step-2">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-step-2</a>
+# Description of video (1174378584) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Setting up a trapdoor one-way function"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-step-3">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-step-3</a>
+# Title of video (1174307926) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "RSA encryption: Step 3"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-step-3">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/rsa-encryption-step-3</a>
+# Description of video (1174307926) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "RSA Encryption (step 3)"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/the-fundamental-theorem-of-arithmetic-1">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/the-fundamental-theorem-of-arithmetic-1</a>
+# Title of video (688165658) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The fundamental theorem of arithmetic"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/fermat-primality-test-prime-adventure-part-10">http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/fermat-primality-test-prime-adventure-part-10</a>
+# Title of video (x65b844aa) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Fermat primality test"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/fermat-primality-test-prime-adventure-part-10">http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/fermat-primality-test-prime-adventure-part-10</a>
+# Description of video (x65b844aa) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "A quick outline of how & why it works."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/fermat-s-little-theorem-visualization">http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/fermat-s-little-theorem-visualization</a>
+# Title of video (x77e83a17) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Fermat's little theorem"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/fermat-s-little-theorem-visualization">http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/fermat-s-little-theorem-visualization</a>
+# Description of video (x77e83a17) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to a key result in elementary number theory using a visualization with beads"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/random-primality-test-prime-adventure-part-9">http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/random-primality-test-prime-adventure-part-9</a>
+# Title of video (x5b614fc1) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Random primality test (warm up)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/random-primality-test-prime-adventure-part-9">http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/random-primality-test-prime-adventure-part-9</a>
+# Description of video (x5b614fc1) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to random primality tests & how they will work (warm up)."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/randomized-algorithms-prime-adventure-part-8">http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/randomized-algorithms-prime-adventure-part-8</a>
+# Title of video (1308593756) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Randomized algorithms (intro)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/randomized-algorithms-prime-adventure-part-8">http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability/v/randomized-algorithms-prime-adventure-part-8</a>
+# Description of video (1308593756) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "How could random numbers speed up a decision algorithm?"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/history-of-optical-telegraphs-language-of-coins-5-9">http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/history-of-optical-telegraphs-language-of-coins-5-9</a>
+# Title of video (1292595017) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Visual telegraphs (case study)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/history-of-optical-telegraphs-language-of-coins-5-9">http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/history-of-optical-telegraphs-language-of-coins-5-9</a>
+# Description of video (1292595017) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "The history of visual telegraphs"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/intro-information-theory">http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/intro-information-theory</a>
+# Title of video (1038441165) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "What is information theory?"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/intro-information-theory">http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/intro-information-theory</a>
+# Description of video (1038441165) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "A broad introduction to this field of study"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/morse-code-the-information-age-language-of-coins-8-12">http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/morse-code-the-information-age-language-of-coins-8-12</a>
+# Title of video (1425695127) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Morse code and the information age"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/morse-code-the-information-age-language-of-coins-8-12">http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/morse-code-the-information-age-language-of-coins-8-12</a>
+# Description of video (1425695127) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Electric Telegraphs and developments leading to Morse Code."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/source-encoding-language-of-coins-4-9">http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/source-encoding-language-of-coins-4-9</a>
+# Title of video (1200813627) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Source encoding"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/source-encoding-language-of-coins-4-9">http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory/v/source-encoding-language-of-coins-4-9</a>
+# Description of video (1200813627) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to coding theory!"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/a-mathematical-theory-of-communication">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/a-mathematical-theory-of-communication</a>
+# Title of video (xd6d19bb3) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A mathematical theory of communication"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/compressioncodes">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/compressioncodes</a>
+# Title of video (xf32e3442) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Compression codes"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/compressioncodes">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/compressioncodes</a>
+# Description of video (xf32e3442) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "What is the limit of compression?"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/how-do-we-measure-information-language-of-coins-10-12">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/how-do-we-measure-information-language-of-coins-10-12</a>
+# Title of video (xf28c646b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Measuring information"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/how-do-we-measure-information-language-of-coins-10-12">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/how-do-we-measure-information-language-of-coins-10-12</a>
+# Description of video (xf28c646b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "How can we quantify/measure an information source?"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy</a>
+# Title of video (xae366661) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Information entropy"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy</a>
+# Description of video (xae366661) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Finally we arrive at our quantitative measure of entropy"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/intro-to-channel-capacity-information-theory">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/intro-to-channel-capacity-information-theory</a>
+# Title of video (xcbdaedb9) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to channel capacity"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/markov_chains">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/markov_chains</a>
+# Title of video (xc8498f37) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Origin of Markov chains"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/markov_chains">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/markov_chains</a>
+# Description of video (xc8498f37) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to Markov chains"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/symbol-rate-information-theory">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/symbol-rate-information-theory</a>
+# Title of video (x855fe87a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Symbol rate"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/symbol-rate-information-theory">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/symbol-rate-information-theory</a>
+# Description of video (x855fe87a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Introduction to Symbol Rate (Baud)"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/testtest">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/testtest</a>
+# Title of video (x27942df3) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Error correction"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/testtest">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/testtest</a>
+# Description of video (x27942df3) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "How can we communicate in the presence of noise?"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/v/bayes-theorem-visualized">http://translate.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/v/bayes-theorem-visualized</a>
+# Description of video <a href="http://translate.khanacademy.org/math/precalculus/prob-comb/dependent-events-precalc/v/bayes-theorem-visualized">http://translate.khanacademy.org/math/precalculus/prob-comb/dependent-events-precalc/v/bayes-theorem-visualized</a>
+# Description of video (1317894497) on the bg stage
+# Description of video (1317894497) on the fr stage
+# Description of video (1317894497) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Conditional probability visualized using trees."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/science/physics/discoveries/batteries/v/the-battery-electromagnetism">http://translate.khanacademy.org/science/physics/discoveries/batteries/v/the-battery-electromagnetism</a>
+# Title of video (1395994610) on the pl stage
+# Title of video (1395994610) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "The battery and electromagnetism"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/science/physics/discoveries/batteries/v/the-battery-electromagnetism">http://translate.khanacademy.org/science/physics/discoveries/batteries/v/the-battery-electromagnetism</a>
+# Description of video (1395994610) on the pl stage
+# Description of video (1395994610) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: html)
+#: intl/datastore:1
+msgid "The key technologies in our story."
+msgstr ""
+
