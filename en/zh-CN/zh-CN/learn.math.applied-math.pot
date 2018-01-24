@@ -1,0 +1,507 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-22 16:08+0000\n"
+"PO-Revision-Date: 2018-01-24 10:58-0500\n"
+"Language-Team: Chinese Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/3_medium_priority/learn.math.applied-math.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: zh_CN\n"
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/college-careers-more/career-content/career-profile-videos">http://translate.khanacademy.org/college-careers-more/career-content/career-profile-videos</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-5-introduction-to-euclids-geometry/in-in-introduction">http://translate.khanacademy.org/math/in-in-grade-9-ncert/in-in-chapter-5-introduction-to-euclids-geometry/in-in-introduction</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/start/introduction">http://translate.khanacademy.org/partner-content/pixar/start/introduction</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8acdcafb) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8acdcafb) on the ja stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8acdcafb) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8acdcafb) on the tr stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xeaf33be8937462b6) on the hi stage: a title that makes sense even when not shown in the context of the parent topic
+# Title for a curated module on <a href="http://translate.khanacademy.org/partner-content/pixar-latam">http://translate.khanacademy.org/partner-content/pixar-latam</a>.
+# Title for a curated module on (x5c06b0c3) on the pl stage.
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/basic-geo-introduction">http://translate.khanacademy.org/math/in-sixth-grade-math/basic-geometrical-ideas/basic-geo-introduction</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/decimals-introduction">http://translate.khanacademy.org/math/in-sixth-grade-math/decimals-1/decimals-introduction</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/fractions-introduction">http://translate.khanacademy.org/math/in-sixth-grade-math/fractions-1/fractions-introduction</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/introduction-ratios">http://translate.khanacademy.org/math/in-sixth-grade-math/ratio-and-proportion/introduction-ratios</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/start-here-latam/introduction-latam">http://translate.khanacademy.org/partner-content/pixar-latam/start-here-latam/introduction-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/science/electrical-engineering/lego-robotics/lego-intro">http://translate.khanacademy.org/science/electrical-engineering/lego-robotics/lego-intro</a>
+# Title of topic (xb9f49bf9) on the pl stage
+# Title of topic (xedba4611) on the tr stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/a/comp-number-theory-introduction">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/a/comp-number-theory-introduction</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/cryptochallenge-introduction">http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/cryptochallenge-introduction</a>
+# Title of tutorial article (x6138911e) on the pl stage
+# Title of tutorial article (xa7ef6897) on the pl stage
+# Title of video <a href="http://translate.khanacademy.org/science/electrical-engineering/robots/bit-zee/v/bit-zee-intro">http://translate.khanacademy.org/science/electrical-engineering/robots/bit-zee/v/bit-zee-intro</a>
+# Title of video (1079212624) on the tr stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/ciphers">http://translate.khanacademy.org/computing/computer-science/cryptography/ciphers</a>
+# Title of topic (xa6df0145) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Ciphers"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory</a>
+# Title of topic (xab669f88) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Primality test"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xab669f88) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Primality Test"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/crypt">http://translate.khanacademy.org/computing/computer-science/cryptography/crypt</a>
+# Title of topic (x8bfe6551) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Ancient cryptography"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/crypt">http://translate.khanacademy.org/computing/computer-science/cryptography/crypt</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x8bfe6551) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Journey into Cryptography"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/crypt">http://translate.khanacademy.org/computing/computer-science/cryptography/crypt</a>
+# Description of topic (x8bfe6551) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Explore how we have hidden secret messages through history."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge">http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge</a>
+# Title of topic (x355061c5) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Cryptography challenge 101"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge">http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x355061c5) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "crypto challenge"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic">http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic</a>
+# Title of topic (xab7b8cc1) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Modular arithmetic"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic">http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic</a>
+# Description of topic (xab7b8cc1) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This is a system of arithmetic for integers. These lessons provide a foundation for the mathematics presented in the Modern Cryptography tutorial."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt</a>
+# Title of topic (xefc31a1b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Modern cryptography"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xefc31a1b) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Intro to Modern Cryptography"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt">http://translate.khanacademy.org/computing/computer-science/cryptography/modern-crypt</a>
+# Description of topic (xefc31a1b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A new problem emerges in the 20th century. What happens if Alice and Bob can never meet to share a key in the first place?"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability">http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability</a>
+# Title of topic (x032b91e2) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Randomized algorithms"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability">http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x032b91e2) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Randomized Algorithms"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability">http://translate.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability</a>
+# Description of topic (x032b91e2) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Would access to coin flips speed up a primality test? How would this work?"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography">http://translate.khanacademy.org/computing/computer-science/cryptography</a>
+# Title of topic (x48c910b6) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Journey into cryptography"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography">http://translate.khanacademy.org/computing/computer-science/cryptography</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x48c910b6) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "cryptography"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/cryptography">http://translate.khanacademy.org/computing/computer-science/cryptography</a>
+# Description of topic (x48c910b6) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "How have humans protected their secret messages through history? What has changed today?"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory">http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory</a>
+# Title of topic (x7a50e3ab) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Ancient information theory"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory">http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x7a50e3ab) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Journey into Information Theory"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory">http://translate.khanacademy.org/computing/computer-science/informationtheory/info-theory</a>
+# Description of topic (x7a50e3ab) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Explore the history of communication from signal fires to the Information Age"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory</a>
+# Title of topic (x6a21eb18) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Modern information theory"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x6a21eb18) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Modern Information Theory"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory">http://translate.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory</a>
+# Description of topic (x6a21eb18) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Information Theory in the 20th Century"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory">http://translate.khanacademy.org/computing/computer-science/informationtheory</a>
+# Title of topic (x3b93f104) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Journey into information theory"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory">http://translate.khanacademy.org/computing/computer-science/informationtheory</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x3b93f104) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "informationtheory"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/computing/computer-science/informationtheory">http://translate.khanacademy.org/computing/computer-science/informationtheory</a>
+# Description of topic (x3b93f104) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "We've always been communicating.... as we moved from signal fires, to alphabets & electricity the problems remained the same."
+msgstr ""
+
