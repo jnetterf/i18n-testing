@@ -1,0 +1,92 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:16+0000\n"
+"PO-Revision-Date: 2018-01-24 10:50-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/3_medium_priority/learn.math.competition-math.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/aime/2003-aime">http://translate.khanacademy.org/math/math-for-fun-and-glory/aime/2003-aime</a>
+# Title of topic (x595e11fb) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "2003 AIME"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/aime">http://translate.khanacademy.org/math/math-for-fun-and-glory/aime</a>
+# Title of topic (x214bc62e) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "AIME"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/amc-10/2013-amc-10-a">http://translate.khanacademy.org/math/math-for-fun-and-glory/amc-10/2013-amc-10-a</a>
+# Title of topic (xcd3d3167) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "2013 AMC 10 A"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/amc-10">http://translate.khanacademy.org/math/math-for-fun-and-glory/amc-10</a>
+# Title of topic (x822f1bfb) on the es stage
+# Title of topic (x822f1bfb) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "AMC 10"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/amc-10">http://translate.khanacademy.org/math/math-for-fun-and-glory/amc-10</a>
+# Description of topic (x822f1bfb) on the es stage
+# Description of topic (x822f1bfb) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The AMC 10 is part of the series of contests administered by the MAA American Mathematics Competitions that determines the United States team in the International Math Olympiad. The AMC 10 is a 25 question, 75 minute multiple choice test for students in 10th grade or below. Two versions of the AMC 10 are offered each year.\n\n"
+"This content is brought to you by the Art of Problem Solving (www.aops.com)"
+msgstr ""
+
