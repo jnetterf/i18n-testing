@@ -1,0 +1,405 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-24 11:18+0000\n"
+"PO-Revision-Date: 2018-01-24 10:57-0500\n"
+"Language-Team: Chinese Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/4_low_priority/labs.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: zh_CN\n"
+
+# Article is at <a href="http://translate.khanacademy.org/math/algebra/polynomial-factorization/introduction-to-factorization/a/intro-to-polynomial-factors-and-divisibility">http://translate.khanacademy.org/math/algebra/polynomial-factorization/introduction-to-factorization/a/intro-to-polynomial-factors-and-divisibility</a>.
+# Article is at <a href="http://translate.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-factors-mult/a/factors-and-multiples">http://translate.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-factors-mult/a/factors-and-multiples</a>.
+# Article is at (x11b70875) on the es stage.
+# Article is at (x539f3263) on the es stage.
+# Article is at (x539f3263) on the lol stage.
+# Exercise at <a href="http://translate.khanacademy.org/math/algebra/polynomial-factorization/introduction-to-factorization/e/factors-and-divisibility">http://translate.khanacademy.org/math/algebra/polynomial-factorization/introduction-to-factorization/e/factors-and-divisibility</a>.
+# Exercise at <a href="http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-expressions-and-variables/cc-6th-evaluating-expressions/e/identifying-parts-of-expressions">http://translate.khanacademy.org/math/cc-sixth-grade-math/cc-6th-expressions-and-variables/cc-6th-evaluating-expressions/e/identifying-parts-of-expressions</a>.
+# Exercise at (x3d7d4e61) on the bg stage.
+# Exercise at (x3d7d4e61) on the de stage.
+# Exercise at (x3d7d4e61) on the es stage.
+# See text on <a href="http://www.khanacademy.org/labs/explorations/time-complexity">http://www.khanacademy.org/labs/explorations/time-complexity</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1 templates/labs/explorations/time-complexity.html:35
+msgid "Factor"
+msgstr ""
+
+# Assignments screen header
+# Comment: Assignments banner header
+# See text on <a href="http://www.khanacademy.org/coach/assignments">http://www.khanacademy.org/coach/assignments</a>
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# Title of topic <a href="http://translate.khanacademy.org/resources/k-12-teachers-1/assignments">http://translate.khanacademy.org/resources/k-12-teachers-1/assignments</a>
+# Title of topic (x30685fb2bc947621) on the bg stage
+# Title of topic (x30685fb2bc947621) on the de stage
+# Title of topic (x30685fb2bc947621) on the es stage
+# Title of topic (x30685fb2bc947621) on the fr stage
+# Title of topic (x30685fb2bc947621) on the hy stage
+# Title of topic (x30685fb2bc947621) on the ja stage
+# Title of topic (x30685fb2bc947621) on the ka stage
+# Title of topic (x30685fb2bc947621) on the lol stage
+# Title of topic (x30685fb2bc947621) on the pl stage
+# Title of topic (x30685fb2bc947621) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/class-package/assignments/assignments-module.jsx.js:124 genfiles/compiled_jsx/en/javascript/profile-nav-package/new-profile-nav.jsx.js:91 intl/datastore:1 javascript/profile-nav-package/profile-router.js:243 javascript/profile-nav-package/profile-router.js:364
+msgid "Assignments"
+msgstr ""
+
+# English version in label at <a href="https://www.khanacademy.org/exercise/making-inferences-from-random-samples">https://www.khanacademy.org/exercise/making-inferences-from-random-samples</a>
+# See text on <a href="http://www.khanacademy.org/labs/explorations/pseudorandom-walk">http://www.khanacademy.org/labs/explorations/pseudorandom-walk</a>
+# Translate label in exercise at https://www.khanacademy.org/translations/edit/redirect/e/making-inferences-from-random-samples?lang=xc0b6e26d7801eee0#en-pt.
+#: genfiles/labels/en/c52339cf3344bcb2c8d5455cb15b546d6a34049c-data.json:13 templates/labs/explorations/pseudorandom-walk.html:34
+msgid "Walk"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/probability/study-design-a1/samples-surveys/a/worksheet-samples-and-surveys">http://translate.khanacademy.org/math/probability/study-design-a1/samples-surveys/a/worksheet-samples-and-surveys</a>.
+# Article is at (xebac4dd7) on the es stage.
+# Exercise at <a href="http://translate.khanacademy.org/partner-content/pixar/pattern/dino/e/poisson-disc-process">http://translate.khanacademy.org/partner-content/pixar/pattern/dino/e/poisson-disc-process</a>.
+# Exercise at (x7bf74634) on the es stage.
+# Exercise at (x7bf74634) on the ja stage.
+# Exercise at (x7bf74634) on the pl stage.
+# Exercise at (x7bf74634) on the pt stage.
+# Exercise at (x7bf74634) on the tr stage.
+# See text on <a href="http://www.khanacademy.org/labs/explorations/pseudorandom-walk">http://www.khanacademy.org/labs/explorations/pseudorandom-walk</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: perseus_text)
+#: intl/datastore:1 templates/labs/explorations/pseudorandom-walk.html:43
+msgid "Random"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs">http://www.khanacademy.org/labs</a>
+# See text on <a href="http://www.khanacademy.org/labs/explorations/frequency-fingerprint">http://www.khanacademy.org/labs/explorations/frequency-fingerprint</a>
+# See text on <a href="http://www.khanacademy.org/labs/explorations/frequency-stability">http://www.khanacademy.org/labs/explorations/frequency-stability</a>
+# See text on <a href="http://www.khanacademy.org/labs/explorations/index">http://www.khanacademy.org/labs/explorations/index</a>
+# See text on <a href="http://www.khanacademy.org/labs/explorations/perfect-secrecy">http://www.khanacademy.org/labs/explorations/perfect-secrecy</a>
+#: javascript/profile-nav-package/profile-router.js:362 templates/labs/explorations/frequency-fingerprint.html:35 templates/labs/explorations/frequency-stability.html:36 templates/labs/explorations/index.html:33 templates/labs/explorations/index.html:40 templates/labs/explorations/perfect-secrecy.html:43 templates/labs/labs.html:40 templates/labs/labs.html:44
+msgid "Explorations"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/frequency-fingerprint">http://www.khanacademy.org/labs/explorations/frequency-fingerprint</a>
+#: templates/labs/explorations/frequency-fingerprint.html:28
+msgid "Frequency Fingerprint | Khan Academy Labs"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/frequency-fingerprint">http://www.khanacademy.org/labs/explorations/frequency-fingerprint</a>
+# See text on <a href="http://www.khanacademy.org/labs/explorations/frequency-stability">http://www.khanacademy.org/labs/explorations/frequency-stability</a>
+# See text on <a href="http://www.khanacademy.org/labs/explorations/index">http://www.khanacademy.org/labs/explorations/index</a>
+# See text on <a href="http://www.khanacademy.org/labs/explorations/perfect-secrecy">http://www.khanacademy.org/labs/explorations/perfect-secrecy</a>
+#: templates/labs/explorations/frequency-fingerprint.html:34 templates/labs/explorations/frequency-stability.html:35 templates/labs/explorations/index.html:32 templates/labs/explorations/perfect-secrecy.html:42 templates/labs/socrates/index.html:33
+msgid "Labs"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/frequency-fingerprint">http://www.khanacademy.org/labs/explorations/frequency-fingerprint</a>
+#: templates/labs/explorations/frequency-fingerprint.html:36 templates/labs/explorations/frequency-fingerprint.html:43
+msgid "Frequency Fingerprint"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/frequency-fingerprint">http://www.khanacademy.org/labs/explorations/frequency-fingerprint</a>
+#: templates/labs/explorations/frequency-fingerprint.html:49
+msgid "Type a few sentences of text and watch your frequency fingerprint emerge!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/frequency-fingerprint">http://www.khanacademy.org/labs/explorations/frequency-fingerprint</a>
+#: templates/labs/explorations/frequency-fingerprint.html:62
+msgid "To learn more, <a href=\"/science/brit-cruise/cryptography/v/caesar-cipher\">watch a video</a> on the Caeser cipher."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/frequency-stability">http://www.khanacademy.org/labs/explorations/frequency-stability</a>
+#: templates/labs/explorations/frequency-stability.html:29
+msgid "Frequency Stability | Khan Academy Labs"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/frequency-stability">http://www.khanacademy.org/labs/explorations/frequency-stability</a>
+#: templates/labs/explorations/frequency-stability.html:37 templates/labs/explorations/frequency-stability.html:44
+msgid "Frequency Stability"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/frequency-stability">http://www.khanacademy.org/labs/explorations/frequency-stability</a>
+#: templates/labs/explorations/frequency-stability.html:50
+msgid "Try and fake a coin flip. Close your eyes and input a long list of 0's and 1's. How uniform are you?"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/frequency-stability">http://www.khanacademy.org/labs/explorations/frequency-stability</a>
+#: templates/labs/explorations/frequency-stability.html:54
+msgid "<a class=\"btn\" id=\"random\">Random</a>\n"
+"           <a class=\"btn\">Reset</a>"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/frequency-stability">http://www.khanacademy.org/labs/explorations/frequency-stability</a>
+#: templates/labs/explorations/frequency-stability.html:76
+msgid "To learn more, <a href=\"/science/brit-cruise/cryptography/v/frequency-stability\">watch a video</a> on frequency stability."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/index">http://www.khanacademy.org/labs/explorations/index</a>
+#: templates/labs/explorations/index.html:26
+msgid "Explorations | Khan Academy Labs"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs">http://www.khanacademy.org/labs</a>
+# See text on <a href="http://www.khanacademy.org/labs/explorations/index">http://www.khanacademy.org/labs/explorations/index</a>
+#: templates/labs/explorations/index.html:41 templates/labs/labs.html:45
+msgid "Build your intuition of key concepts through these interactive explorations."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/index">http://www.khanacademy.org/labs/explorations/index</a>
+#: templates/labs/explorations/index.html:43
+msgid "Cryptography"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/index">http://www.khanacademy.org/labs/explorations/index</a>
+#: templates/labs/explorations/index.html:45
+msgid "<a href=\"/labs/explorations/frequency-stability\">Frequency Stability</a><br>\n"
+"                Do you think you can accurately mimic a coin flip?"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/index">http://www.khanacademy.org/labs/explorations/index</a>
+#: templates/labs/explorations/index.html:47
+msgid "<a href=\"/labs/explorations/frequency-fingerprint\">Frequency Fingerprint</a><br>\n"
+"                Watch your frequency fingerprint emerge in real-time!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/index">http://www.khanacademy.org/labs/explorations/index</a>
+#: templates/labs/explorations/index.html:49
+msgid "<a href=\"/labs/explorations/perfect-secrecy\">Perfect Secrecy</a><br>\n"
+"                Explore how random shift sequences absorb your fingerprint."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/index">http://www.khanacademy.org/labs/explorations/index</a>
+#: templates/labs/explorations/index.html:51
+msgid "<a href=\"/labs/explorations/pseudorandom-walk\">Random vs. Pseudorandom Walks</a><br>\n"
+"                Explore how seed size affects the period of a pseudorandom sequence."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/index">http://www.khanacademy.org/labs/explorations/index</a>
+#: templates/labs/explorations/index.html:53
+msgid "<a href=\"/labs/explorations/time-complexity\">Time Complexity</a><br>\n"
+"                Watch how the size of input affects the computation time needed for factorization vs. multiplication."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/perfect-secrecy">http://www.khanacademy.org/labs/explorations/perfect-secrecy</a>
+#: templates/labs/explorations/perfect-secrecy.html:36
+msgid "Perfect Secrecy | Khan Academy Labs"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/perfect-secrecy">http://www.khanacademy.org/labs/explorations/perfect-secrecy</a>
+#: templates/labs/explorations/perfect-secrecy.html:44 templates/labs/explorations/perfect-secrecy.html:51
+msgid "Perfect Secrecy"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/perfect-secrecy">http://www.khanacademy.org/labs/explorations/perfect-secrecy</a>
+#: templates/labs/explorations/perfect-secrecy.html:57
+msgid "Insert a few sentences of text and watch your frequency fingerprint emerge. Notice how random shifts applied to your message absorb this unevenness. The resulting ciphertext contains no information. (Try pasting a large body of text and see what happens!)"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/perfect-secrecy">http://www.khanacademy.org/labs/explorations/perfect-secrecy</a>
+#: templates/labs/explorations/perfect-secrecy.html:70
+msgid "Plaintext"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/perfect-secrecy">http://www.khanacademy.org/labs/explorations/perfect-secrecy</a>
+#: templates/labs/explorations/perfect-secrecy.html:71
+msgid "Random Shift"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/perfect-secrecy">http://www.khanacademy.org/labs/explorations/perfect-secrecy</a>
+#: templates/labs/explorations/perfect-secrecy.html:72
+msgid "Ciphertext"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/perfect-secrecy">http://www.khanacademy.org/labs/explorations/perfect-secrecy</a>
+#: templates/labs/explorations/perfect-secrecy.html:89
+msgid "Plaintext Frequency"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/perfect-secrecy">http://www.khanacademy.org/labs/explorations/perfect-secrecy</a>
+#: templates/labs/explorations/perfect-secrecy.html:94
+msgid "Shift Frequency"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/perfect-secrecy">http://www.khanacademy.org/labs/explorations/perfect-secrecy</a>
+#: templates/labs/explorations/perfect-secrecy.html:99
+msgid "Ciphertext Frequency"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/perfect-secrecy">http://www.khanacademy.org/labs/explorations/perfect-secrecy</a>
+#: templates/labs/explorations/perfect-secrecy.html:105
+msgid "To learn more, <a href=\"/science/brit-cruise/cryptography/v/perfect-secrecy\">watch a video</a> on perfect secrecy."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/pseudorandom-walk">http://www.khanacademy.org/labs/explorations/pseudorandom-walk</a>
+# See text on <a href="http://www.khanacademy.org/labs/explorations/time-complexity">http://www.khanacademy.org/labs/explorations/time-complexity</a>
+#: templates/labs/explorations/pseudorandom-walk.html:12 templates/labs/explorations/time-complexity.html:16
+msgid "Random vs. Pseudorandom walks | Khan Academy Labs"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/pseudorandom-walk">http://www.khanacademy.org/labs/explorations/pseudorandom-walk</a>
+#: templates/labs/explorations/pseudorandom-walk.html:19
+msgid "Random vs. Pseudorandom walks"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/pseudorandom-walk">http://www.khanacademy.org/labs/explorations/pseudorandom-walk</a>
+#: templates/labs/explorations/pseudorandom-walk.html:25
+msgid "Explore how the seed size affects the period (length before repeating) of a pseudorandom sequence. Compare this to a random sequence which never falls into a repetitive pattern. Try different seeds and see what happens!"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/pseudorandom-walk">http://www.khanacademy.org/labs/explorations/pseudorandom-walk</a>
+#: templates/labs/explorations/pseudorandom-walk.html:32
+msgid "Pseudorandom Seed:"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/pseudorandom-walk">http://www.khanacademy.org/labs/explorations/pseudorandom-walk</a>
+#: templates/labs/explorations/pseudorandom-walk.html:41
+msgid "Pseudorandom"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/pseudorandom-walk">http://www.khanacademy.org/labs/explorations/pseudorandom-walk</a>
+#: templates/labs/explorations/pseudorandom-walk.html:55
+msgid "To learn more, <a href=\"/science/brit-cruise/cryptography/v/random-vs--pseudorandom-number-generators\">watch a video</a> on pseudorandom number generators."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/time-complexity">http://www.khanacademy.org/labs/explorations/time-complexity</a>
+#: templates/labs/explorations/time-complexity.html:23
+msgid "Time Complexity"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/time-complexity">http://www.khanacademy.org/labs/explorations/time-complexity</a>
+#: templates/labs/explorations/time-complexity.html:29
+msgid "Watch how the size of input affects the computation time needed for factorization vs. multiplication."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/time-complexity">http://www.khanacademy.org/labs/explorations/time-complexity</a>
+#: templates/labs/explorations/time-complexity.html:39 templates/labs/explorations/time-complexity.html:50
+msgid "Calculate"
+msgstr ""
+
+# A label for a multiplication sign (represented as a dot).
+# A label for a multiplication sign (represented with an 'x').
+# See text on <a href="http://www.khanacademy.org/labs/explorations/time-complexity">http://www.khanacademy.org/labs/explorations/time-complexity</a>
+#: templates/labs/explorations/time-complexity.html:44 third_party/javascript-khansrc/perseus/build/editor-perseus.js:89694 third_party/javascript-khansrc/perseus/build/editor-perseus.js:89719 third_party/javascript-khansrc/perseus/build/frame-perseus.js:43532 third_party/javascript-khansrc/perseus/build/frame-perseus.js:43557 third_party/javascript-khansrc/perseus/build/perseus-slim.js:26845 third_party/javascript-khansrc/perseus/build/perseus-slim.js:26870
+msgid "Multiply"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs/explorations/time-complexity">http://www.khanacademy.org/labs/explorations/time-complexity</a>
+#: templates/labs/explorations/time-complexity.html:63
+msgid "To learn more, <a href=\"/science/brit-cruise/cryptography/v/rsa-encryption-algorithm\">watch a video</a> on time complexity."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs">http://www.khanacademy.org/labs</a>
+#: templates/labs/labs.html:23 templates/labs/labs.html:26 templates/labs/socrates/index.html:27
+msgid "Khan Academy Labs"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs">http://www.khanacademy.org/labs</a>
+#: templates/labs/labs.html:27
+msgid "Labs is a place for experiments that may or may not work out, or other features that are not yet ready to ship. You can try them here, but remember they could change, break, disappear, or graduate to the main site at any moment."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs">http://www.khanacademy.org/labs</a>
+#: templates/labs/labs.html:46
+msgid "Take a peek"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs">http://www.khanacademy.org/labs</a>
+#: templates/labs/labs.html:57
+msgid "Something secret"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/labs">http://www.khanacademy.org/labs</a>
+#: templates/labs/labs.html:58
+msgid "Who knows what this could be?"
+msgstr ""
+
+#: templates/labs/socrates/index.html:27 templates/labs/socrates/index.html:34
+msgid "Interactive Videos"
+msgstr ""
+
+#: templates/labs/socrates/index.html:41
+msgid "Interactive videos"
+msgstr ""
+
+#: templates/labs/socrates/index.html:42
+msgid "A new way to watch videos where you will be quizzed on the content as you watch."
+msgstr ""
+
+#: templates/labs/socrates/index.html:52
+msgid "No videos are visible yet, but they're coming!"
+msgstr ""
+
