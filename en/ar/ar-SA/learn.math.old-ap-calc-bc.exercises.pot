@@ -1,0 +1,1367 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-30 11:19+0000\n"
+"PO-Revision-Date: 2018-01-24 10:51-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.old-ap-calc-bc.exercises.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Limits at infinity: graphical"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Match expressions for limits at infinity with graphical behavior."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/1ef61235485bc8dd78e4ca11e9701cb11369522f)\n\n"
+"$\\displaystyle\\lim_{x\\to -\\infty^{\\Large{}}}f(x)$ indeed seems to equal $-7$.\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/2809252c65a6cfaa5d2338262691c7ad48225d45)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/32508e99e63f48969cad92211a7774de0a62f323)\n\n"
+"In graph A, $\\displaystyle\\lim_{x\\to \\infty}g(x)$ seems to approach $1$.\n\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/6b643958064fd8cf0df0e9d871e743969a3d0ff3)\n\n"
+"In graph B, $\\displaystyle\\lim_{x\\to \\infty}g(x)$ indeed seems to approach $-2$.\n\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/5f7bea738de96ce5d9fc23558a2dfabc9489b226)\n\n"
+"In graph C, $\\displaystyle\\lim_{x\\to \\infty^{\\Large{}}}g(x)$ seems to approach $-1$ instead."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/36fea585d7ef2aa81895d9e2df2fb4363b3e8626)\n\n"
+"$\\displaystyle\\lim_{x\\to -\\infty^{\\Large{}}}g(x)$ seems to equal $5$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/68d46200c2859b4d3565831add0ab8904dd1fad3)\n\n"
+"In graph A, the leftmost visible $f$-value appears to be near $2$, but there is not a horizontal asymptote indicated to signify that the $f$-values continue to get closer and closer to $2$.\n\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/444544ff2a8539027fd6cfff3af5e71fea6f5249)\n\n"
+"In graph B, $\\displaystyle\\lim_{x\\to -\\infty}f(x)$ indeed seems to approach $2$ along the horizontal asymptote.\n\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/625d8719662d13e91ca2a5595c62a0e2d6e94cbf)\n\n"
+"In graph C, $\\displaystyle\\lim_{x\\to -\\infty}f(x)$ also seems to approach $2$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/abfe7d50ccf3c91ff6b13a6c8ad626191e478be1)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/abfe7d50ccf3c91ff6b13a6c8ad626191e478be1)\n\n"
+"In graph A, $\\displaystyle\\lim_{x\\to -\\infty}g(x)$ seems to approach $1$.\n\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/df78194d5b08fbe66f7c3f3352251c68f202b28b)\n\n"
+"In graph B, $\\displaystyle\\lim_{x\\to -\\infty}g(x)$ indeed seems to approach $4$.\n\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/2809252c65a6cfaa5d2338262691c7ad48225d45)\n\n"
+"In graph C, $\\displaystyle\\lim_{x\\to -\\infty}g(x)$ also seems to approach $4$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/df78194d5b08fbe66f7c3f3352251c68f202b28b)"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\displaystyle\\lim_{x\\to -\\infty}f(x)=2$ states that as we approach $x=-\\infty$ (from the right, of course), the $f(x)$-values become closer and closer to $2$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\displaystyle\\lim_{x\\to -\\infty}g(x)=4$ states that as we approach $x=-\\infty$ (from the right, of course), the $g(x)$-values become closer and closer to $4$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\displaystyle\\lim_{x\\to \\infty}g(x)=-2$ states that as we approach $x=\\infty$ (from the left, of course), the $g(x)$-values become closer and closer to $-2$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Consider graphs A, B, and C. The dashed lines represent asymptotes.\n\n"
+"**Which graphs agree with this statement?**\n\n"
+"$\\displaystyle\\lim_{x\\to -\\infty}f(x)=2$\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Consider graphs A, B, and C. The dashed lines represent asymptotes.\n\n"
+"**Which graphs agree with this statement?**\n\n"
+"$\\displaystyle\\lim_{x\\to -\\infty}g(x)=4$\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Consider graphs A, B, and C. The dashed lines represent asymptotes.\n\n"
+"**Which graphs agree with this statement?**\n\n"
+"$\\displaystyle\\lim_{x\\to \\infty}g(x)=-2$\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Consider the graph of function $f$. The dashed lines represent asymptotes.\n\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/1ef61235485bc8dd78e4ca11e9701cb11369522f)\n\n"
+"**Which limit expressions agree with the graph?**\n\n"
+"[[☃ radio 3]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Consider the graph of function $g$. The dashed lines represent asymptotes.\n\n"
+"![](web+graphie://ka-perseus-graphie.s3.amazonaws.com/36fea585d7ef2aa81895d9e2df2fb4363b3e8626)\n\n"
+"**Which limit expressions agree with the graph?**\n\n"
+"[[☃ radio 3]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion, graphs B and C agree with $\\displaystyle\\lim_{x\\to -\\infty}f(x)=2$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion, graphs B and C agree with $\\displaystyle\\lim_{x\\to -\\infty}g(x)=4$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-continuity-new/bc-2-6/e/limits-at-infinity-graphical</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion, only graph B agrees with $\\displaystyle\\lim_{x\\to \\infty}g(x)=-2$."
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Derivatives of 𝑒ˣ and ln(x)"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Use your knowledge of the derivatives of 𝑒ˣ and ln(x) to solve problems."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"&\\phantom{=}\\dfrac{d}{dx}[-4e^x-\\sin(x)]\n"
+"\\\\\\\\\n"
+"&=-4\\dfrac{d}{dx}[e^x]-\\dfrac{d}{dx}[\\sin(x)]\n"
+"\\\\\\\\\n"
+"&=-4\\cdot e^x-\\dfrac{d}{dx}[\\sin(x)]\\quad\\gray{\\dfrac{d}{dx}[e^x]=e^x}\n"
+"\\\\\\\\\n"
+"&=-4e^x-\\cos(x)\\quad\\gray{\\dfrac{d}{dx}[\\sin(x)]=\\cos(x)}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"&\\phantom{=}\\dfrac{d}{dx}[-\\ln(x)+x^2]\n"
+"\\\\\\\\\n"
+"&=-1\\dfrac{d}{dx}[\\ln(x)]+\\dfrac{d}{dx}[x^2]\n"
+"\\\\\\\\\n"
+"&=-1\\cdot\\dfrac1x+\\dfrac{d}{dx}[x^2]\\quad\\gray{\\dfrac{d}{dx}[\\ln(x)]=\\dfrac1x}\n"
+"\\\\\\\\\n"
+"&=-\\dfrac1x+(2x^1)\\quad\\gray{\\dfrac{d}{dx}[x^n]=nx^{n-1}}\n"
+"\\\\\\\\\n"
+"&=-\\dfrac1x+2x\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"&\\phantom{=}\\dfrac{d}{dx}[2\\cos(x)-3\\ln(x)]\n"
+"\\\\\\\\\n"
+"&=2\\dfrac{d}{dx}[\\cos(x)]-3\\dfrac{d}{dx}[\\ln(x)]\n"
+"\\\\\\\\\n"
+"&=2\\dfrac{d}{dx}[\\cos(x)]-3\\cdot\\dfrac1x\\quad\\gray{\\dfrac{d}{dx}[\\ln(x)]=\\dfrac1x}\n"
+"\\\\\\\\\n"
+"&=2[-\\sin(x)]-\\dfrac3x\\quad\\gray{\\dfrac{d}{dx}[\\cos(x)]=-\\sin(x)}\n"
+"\\\\\\\\\n"
+"&=-2\\sin(x)-\\dfrac3x\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"&\\phantom{=}\\dfrac{d}{dx}[3\\ln(x)-12\\sin(x)]\n"
+"\\\\\\\\\n"
+"&=3\\dfrac{d}{dx}[\\ln(x)]-12\\dfrac{d}{dx}[\\sin(x)]\n"
+"\\\\\\\\\n"
+"&=3\\cdot\\dfrac1x-12\\dfrac{d}{dx}[\\sin(x)]\\quad\\gray{\\dfrac{d}{dx}[\\ln(x)]=\\dfrac1x}\n"
+"\\\\\\\\\n"
+"&=\\dfrac3x-12\\cdot\\cos(x)\\quad\\gray{\\dfrac{d}{dx}[\\sin(x)]=\\cos(x)}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"&\\phantom{=}\\dfrac{d}{dx}[3e^x+5x^2]\n"
+"\\\\\\\\\n"
+"&=3\\dfrac{d}{dx}[e^x]+5\\dfrac{d}{dx}[x^2]\n"
+"\\\\\\\\\n"
+"&=3\\cdot e^x+5\\dfrac{d}{dx}[x^2]\\quad\\gray{\\dfrac{d}{dx}[e^x]=e^x}\n"
+"\\\\\\\\\n"
+"&=3e^x+5(2x^1)\\quad\\gray{\\dfrac{d}{dx}[x^n]=nx^{n-1}}\n"
+"\\\\\\\\\n"
+"&=3e^x+10x\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"&\\phantom{=}\\dfrac{d}{dx}[7\\cos(x)+3e^x]\n"
+"\\\\\\\\\n"
+"&=7\\dfrac{d}{dx}[\\cos(x)]+3\\dfrac{d}{dx}[e^x]\n"
+"\\\\\\\\\n"
+"&=7\\dfrac{d}{dx}[\\cos(x)]+3\\cdot e^x\\quad\\gray{\\dfrac{d}{dx}[e^x]=e^x}\n"
+"\\\\\\\\\n"
+"&=7[-\\sin(x)]+3e^x\\quad\\gray{\\dfrac{d}{dx}[\\cos(x)]=-\\sin(x)}\n"
+"\\\\\\\\\n"
+"&=-7\\sin(x)+3e^x\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"f'(x)&=\\dfrac{d}{dx}[-4\\sin(x)-9\\ln(x)]\n"
+"\\\\\\\\\n"
+"&=-4\\dfrac{d}{dx}[\\sin(x)]-9\\dfrac{d}{dx}[\\ln(x)]\n"
+"\\\\\\\\\n"
+"&=-4\\dfrac{d}{dx}[\\sin(x)]-9\\cdot\\dfrac1x\\quad\\gray{\\dfrac{d}{dx}[\\ln(x)]=\\dfrac1x}\n"
+"\\\\\\\\\n"
+"&=-4\\cdot\\cos(x)-\\dfrac9x\\quad\\gray{\\dfrac{d}{dx}[\\cos(x)]=-\\sin(x)}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"f'(x)&=\\dfrac{d}{dx}[2e^x-5\\cos(x)]\n"
+"\\\\\\\\\n"
+"&=2\\dfrac{d}{dx}[e^x]-5\\dfrac{d}{dx}[\\cos(x)]\n"
+"\\\\\\\\\n"
+"&=2\\cdot e^x-5\\dfrac{d}{dx}[\\cos(x)]\\quad\\gray{\\dfrac{d}{dx}[e^x]=e^x}\n"
+"\\\\\\\\\n"
+"&=2e^x-5[-\\sin(x)]\\quad\\gray{\\dfrac{d}{dx}[\\cos(x)]=-\\sin(x)}\n"
+"\\\\\\\\\n"
+"&=2e^x+5\\sin(x)\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"g'(x)&=\\dfrac{d}{dx}[3x^4-7\\ln(x)]\n"
+"\\\\\\\\\n"
+"&=3\\dfrac{d}{dx}[x^4]-7\\dfrac{d}{dx}[\\ln(x)]\n"
+"\\\\\\\\\n"
+"&=3\\dfrac{d}{dx}[x^4]-7\\cdot\\dfrac1x\\quad\\gray{\\dfrac{d}{dx}[\\ln(x)]=\\dfrac1x}\n"
+"\\\\\\\\\n"
+"&=3(4x^3)-\\dfrac7x\\quad\\gray{\\dfrac{d}{dx}[x^n]=nx^{n-1}}\n"
+"\\\\\\\\\n"
+"&=12x^3-\\dfrac7x\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"g'(x)&=\\dfrac{d}{dx}[6\\sin(x)-8e^x]\n"
+"\\\\\\\\\n"
+"&=6\\dfrac{d}{dx}[\\sin(x)]-8\\dfrac{d}{dx}[e^x]\n"
+"\\\\\\\\\n"
+"&=6\\dfrac{d}{dx}[\\sin(x)]-8\\cdot e^x\\quad\\gray{\\dfrac{d}{dx}[e^x]=e^x}\n"
+"\\\\\\\\\n"
+"&=6\\cdot\\cos(x)-8e^x\\quad\\gray{\\dfrac{d}{dx}[\\sin(x)]=\\cos(x)}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"h'(x)&=\\dfrac{d}{dx}[5\\ln(x)+\\cos(x)]\n"
+"\\\\\\\\\n"
+"&=5\\dfrac{d}{dx}[\\ln(x)]+\\dfrac{d}{dx}[\\cos(x)]\n"
+"\\\\\\\\\n"
+"&=5\\cdot\\dfrac1x+\\dfrac{d}{dx}[\\cos(x)]\\quad\\gray{\\dfrac{d}{dx}[\\ln(x)]=\\dfrac1x}\n"
+"\\\\\\\\\n"
+"&=\\dfrac5x+[-\\sin(x)]\\quad\\gray{\\dfrac{d}{dx}[\\cos(x)]=-\\sin(x)}\n"
+"\\\\\\\\\n"
+"&=\\dfrac5x-\\sin(x)\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"h'(x)&=\\dfrac{d}{dx}[x^3+7e^x]\n"
+"\\\\\\\\\n"
+"&=\\dfrac{d}{dx}[x^3]+7\\dfrac{d}{dx}[e^x]\n"
+"\\\\\\\\\n"
+"&=\\dfrac{d}{dx}[x^3]+7\\cdot e^x\\quad\\gray{\\dfrac{d}{dx}[e^x]=e^x}\n"
+"\\\\\\\\\n"
+"&=3x^2+7e^x\\quad\\gray{\\dfrac{d}{dx}[x^n]=nx^{n-1}}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\dfrac{d}{dx}[-4e^x-\\sin(x)]=$ [[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\dfrac{d}{dx}[-\\ln(x)+x^2]=$ [[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\dfrac{d}{dx}[2\\cos(x)-3\\ln(x)]=$ [[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\dfrac{d}{dx}[3\\ln(x)-12\\sin(x)]=$ [[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\dfrac{d}{dx}[3e^x+5x^2]=$ [[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\dfrac{d}{dx}[7\\cos(x)+3e^x]=$ [[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion,\n\n"
+"$\\dfrac{d}{dx}[-4e^x-\\sin(x)]=-4e^x-\\cos(x)$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion,\n\n"
+"$\\dfrac{d}{dx}[-\\ln(x)+x^2]=-\\dfrac1x+2x$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion,\n\n"
+"$\\dfrac{d}{dx}[2\\cos(x)-3\\ln(x)]=-2\\sin(x)-\\dfrac3x$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion,\n\n"
+"$\\dfrac{d}{dx}[3\\ln(x)-12\\sin(x)]=\\dfrac3x-12\\cos(x)$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion,\n\n"
+"$\\dfrac{d}{dx}[3e^x+5x^2]=3e^x+10x$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion,\n\n"
+"$\\dfrac{d}{dx}[7\\cos(x)+3e^x]=-7\\sin(x)+3e^x$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion,\n\n"
+"$f'(x)=-4\\cos(x)-\\dfrac9x$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion,\n\n"
+"$f'(x)=2e^x+5\\sin(x)$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion,\n\n"
+"$g'(x)=12x^3-\\dfrac7x$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion,\n\n"
+"$g'(x)=6\\cos(x)-8e^x$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion,\n\n"
+"$h'(x)=3x^2+7e^x$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion,\n\n"
+"$h'(x)=\\dfrac5x-\\sin(x)$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let $f(x)=-4\\sin(x)-9\\ln(x)$.\n\n"
+"$f'(x)=$ [[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let $f(x)=2e^x-5\\cos(x)$.\n\n"
+"$f'(x)=$ [[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let $g(x)=3x^4-7\\ln(x)$.\n\n"
+"$g'(x)=$ [[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let $g(x)=6\\sin(x)-8e^x$.\n\n"
+"$g'(x)=$ [[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let $h(x)=5\\ln(x)+\\cos(x)$.\n\n"
+"$h'(x)=$ [[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let $h(x)=x^3+7e^x$.\n\n"
+"$h'(x)=$ [[☃ expression 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Recall that $\\dfrac{d}{dx}[\\ln(x)]=\\dfrac1x$ and $\\dfrac{d}{dx}[\\cos(x)]=-\\sin(x)$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Recall that $\\dfrac{d}{dx}[\\ln(x)]=\\dfrac1x$ and $\\dfrac{d}{dx}[\\sin(x)]=\\cos(x)$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Recall that $\\dfrac{d}{dx}[\\ln(x)]=\\dfrac1x$ and $\\dfrac{d}{dx}[x^n]=nx^{n-1}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Recall that $\\dfrac{d}{dx}[e^x]=e^x$ and $\\dfrac{d}{dx}[\\cos(x)]=-\\sin(x)$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Recall that $\\dfrac{d}{dx}[e^x]=e^x$ and $\\dfrac{d}{dx}[\\sin(x)]=\\cos(x)$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-1-new/bc-3-7/e/derivatives-of-ex-and-lnx</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Recall that $\\dfrac{d}{dx}[e^x]=e^x$ and $\\dfrac{d}{dx}[x^n]=nx^{n-1}$."
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff</a>
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Chain rule capstone"
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff</a>
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Find the derivatives of exponential, logarithmic, trigonometric, and radical functions, whose inner function is a polynomial."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "**Evaluate $\\dfrac{d}{dx}\\sqrt[4]{x^3+4x^2+7}$ at $x=-3$.**\n\n"
+"[[☃ radio 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion, the value of $\\dfrac{d}{dx}\\sqrt[4]{x^3+4x^2+7}$ at $x=-3$ is $\\dfrac3{32}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let $f(x)=\\sqrt[3]{x^2-2x+8}$.\n\n"
+"**Find $f'(2)$.**\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let's differentiate!\n\n"
+"$\\begin{align}\n"
+"&\\phantom{=}\\dfrac{d}{dx}\\sqrt[4]{x^3+4x^2+7}\n"
+"\\\\\\\\\n"
+"&=\\dfrac{d}{dx}\\sqrt[4]{u(x)}&&\\gray{\\text{Let }u(x)=x^3+4x^2+7}\n"
+"\\\\\\\\\n"
+"&=\\dfrac{1}{4}[u(x)]^{^{\\Large -\\frac{3}{4}}}u'(x)\n"
+"\\\\\\\\\n"
+"&=\\dfrac{1}{4}[x^3+4x^2+7]^{^{\\Large -\\frac{3}{4}}}(3x^2+8x)&&\\gray{\\text{Substitute }u(x)\\text{ back}}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let's differentiate!\n\n"
+"$\\begin{align}\n"
+"&\\phantom{=}f'(x)\n"
+"\\\\\\\\\n"
+"&=\\dfrac{d}{dx}\\sqrt[3]{x^2-2x+8}\n"
+"\\\\\\\\\n"
+"&=\\dfrac{d}{dx}\\sqrt[3]{u(x)}&&\\gray{\\text{Let }u(x)=x^2-2x+8}\n"
+"\\\\\\\\\n"
+"&=\\dfrac{1}{3}[u(x)]^{^{\\Large -\\frac{2}{3}}}u'(x)\n"
+"\\\\\\\\\n"
+"&=\\dfrac{1}{3}[x^2-2x+8]^{^{\\Large -\\frac{2}{3}}}(2x-2)&&\\gray{\\text{Substitute }u(x)\\text{ back}}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let's start by finding the expression for $\\dfrac{d}{dx}\\sqrt[4]{x^3+4x^2+7}$. Then, we can evaluate it at $x=-3$.\n\n"
+"$\\sqrt[4]{x^3+4x^2+7}$ is a radical expression, but its argument isn't simply $x$. Therefore, it defines a composite radical function.\n\n"
+"In other words, suppose $u(x)=x^3+4x^2+7$, then $\\sqrt[\\Large4]{x^3+4x^2+7}=\\sqrt[\\Large4]{u(x)}$.\n\n"
+"$\\dfrac{d}{dx}\\sqrt[4]{x^3+4x^2+7}$ can be found using the following identity:\n\n"
+"$\\dfrac{d}{dx}\\sqrt[4]{u(x)}=\\dfrac{1}{4}[u(x)]^{^{\\Large -\\frac{3}{4}}}u'(x)$\n\n"
+"[[☃ explanation 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let's start by finding the expression for $f'(x)$. Then, we can evaluate it at $x=2$.\n\n"
+"$f$ is a radical function, but its argument isn't simply $x$. Therefore, it's a composite radical function.\n\n"
+"In other words, suppose $u(x)=x^2-2x+8$, then $f(x)=\\sqrt[\\Large 3]{u(x)}$.\n\n"
+"$f'(x)$ can be found using the following identity:\n\n"
+"$\\dfrac{d}{dx}\\left[\\sqrt[3]{u(x)}\\right]=\\dfrac{1}{3}[u(x)]^{^{\\Large -\\frac{2}{3}}}u'(x)$\n\n"
+"[[☃ explanation 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-1/e/exp-log-trig-radical-composite-diff</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Now let's evaluate $\\dfrac{d}{dx}\\sqrt[4]{x^3+4x^2+7}$ at $x=\\greenD -3$.\n\n"
+"$\\begin{align}\n"
+"&\\phantom{=}\\dfrac{1}{4}\\Bigl((\\greenD{-3})^3+4(\\greenD {-3})^2+7\\Bigr)^{^{\\Large -\\frac{3}{4}}}\\cdot\\Bigl(3(\\greenD{-3})^2+8(\\greenD{-3})\\Bigr)\n"
+"\\\\\\\\\n"
+"&=\\dfrac{1}{4}\\cdot 16^{^{\\Large -\\frac{3}{4}}}\\cdot(3)\n"
+"\\\\\\\\\n"
+"&=\\dfrac{1}{4}\\cdot \\dfrac18\\cdot (3)\n"
+"\\\\\\\\\n"
+"&=\\dfrac3{32}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"\\dfrac{d^2y}{dx^2}&=\\dfrac{d}{dx}\\left(-\\dfrac{2x^3}{y}\\right)\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{d}{dx}\\left(\\dfrac{2x^3}{y}\\right)\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{\\dfrac{d}{dx}(2x^3)\\cdot y-2x^3\\cdot\\dfrac{dy}{dx}}{y^2}\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{2\\cdot(3x^2)\\cdot y-2x^3\\cdot\\dfrac{dy}{dx}}{y^2}\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{6x^2 y-2x^3\\cdot\\dfrac{dy}{dx}}{y^2}\n"
+"\\\\\\\\\n"
+"&=\\dfrac{-6x^2 y+2x^3\\cdot\\dfrac{dy}{dx}}{y^2}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"\\dfrac{d^2y}{dx^2}&=\\dfrac{d}{dx}\\left(-\\dfrac{3x^2}{2y}\\right)\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{d}{dx}\\left(\\dfrac{3x^2}{2y}\\right)\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{\\dfrac{d}{dx}(3x^2)\\cdot 2y-3x^2\\cdot\\dfrac{d}{dx}(2y)}{4y^2}\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{3\\cdot2x\\cdot 2y-3x^2\\cdot2\\cdot\\dfrac{dy}{dx}}{4y^2}\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{6xy-3x^2\\cdot\\dfrac{dy}{dx}}{2y^2}\n"
+"\\\\\\\\\n"
+"&=\\dfrac{-6xy+3x^2\\cdot\\dfrac{dy}{dx}}{2y^2}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"\\dfrac{d^2y}{dx^2}&=\\dfrac{d}{dx}\\left(-\\dfrac{5}{4y^3}\\right)\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{5}{4}\\cdot\\dfrac{d}{dx}\\left[y^{-3}\\right]\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{5}{4}(-3)y^{-4}\\cdot\\dfrac{dy}{dx}\n"
+"\\\\\\\\\n"
+"&=\\dfrac{15}{4y^4}\\cdot\\dfrac{dy}{dx}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"\\dfrac{d^2y}{dx^2}&=\\dfrac{d}{dx}\\left(-\\dfrac{x}{y}\\right)\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{d}{dx}\\left(\\dfrac{x}{y}\\right)\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{\\dfrac{d}{dx}(x)\\cdot y-x\\cdot\\dfrac{dy}{dx}}{y^2}\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{(1)\\cdot y-x\\cdot\\dfrac{dy}{dx}}{y^2}\n"
+"\\\\\\\\\n"
+"&=\\dfrac{x\\cdot\\dfrac{dy}{dx}-y}{y^2}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"\\dfrac{d^2y}{dx^2}&=\\dfrac{d}{dx}\\left(\\dfrac{x}{y}\\right)\n"
+"\\\\\\\\\n"
+"&=\\dfrac{d}{dx}\\left(\\dfrac{x}{y}\\right)\n"
+"\\\\\\\\\n"
+"&=\\dfrac{\\dfrac{d}{dx}(x)\\cdot y-x\\cdot\\dfrac{dy}{dx}}{y^2}\n"
+"\\\\\\\\\n"
+"&=\\dfrac{(1)\\cdot y-x\\cdot\\dfrac{dy}{dx}}{y^2}\n"
+"\\\\\\\\\n"
+"&=\\dfrac{y-x\\cdot\\dfrac{dy}{dx}}{y^2}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"\\dfrac{d^2y}{dx^2}&=\\dfrac{d}{dx}\\left[-\\dfrac{y^2}{1+2xy}\\right]\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{\\dfrac{d}{dx}[y^2]\\cdot (1+2xy)-y^2\\cdot\\dfrac{d}{dx}[1+2xy]}{(1+2xy)^2}\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{2y\\cdot\\dfrac{dy}{dx}\\cdot(1+2xy)-y^2\\left(2y+2x\\cdot\\dfrac{dy}{dx}\\right)}{(1+2xy)^2}\n"
+"\\\\\\\\\n"
+"&=\\dfrac{y^3+2xy^2\\cdot\\dfrac{dy}{dx}-2y\\cdot\\dfrac{dy}{dx}-4xy^2\\cdot\\dfrac{dy}{dx}}{(1+2xy)^2}\n"
+"\\\\\\\\\n"
+"&=\\dfrac{y^3-2y\\cdot\\dfrac{dy}{dx}\\cdot(1-xy)}{(1+2xy)^2}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"\\dfrac{d^2y}{dx^2}&=\\dfrac{d}{dx}\\left[-\\dfrac{y}{2y+x}\\right]\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{\\dfrac{d}{dx}[y]\\cdot (2y+x)-y\\cdot\\dfrac{d}{dx}[2y+x]}{(2y+x)^2}\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{\\dfrac{dy}{dx}\\cdot(2y+x)-y\\left(2\\cdot\\dfrac{dy}{dx}+1\\right)}{(2y+x)^2}\n"
+"\\\\\\\\\n"
+"&=\\dfrac{2y\\cdot\\dfrac{dy}{dx}+y-\\dfrac{dy}{dx}\\cdot(2y+x)}{(2y+x)^2}\n"
+"\\\\\\\\\n"
+"&=\\dfrac{y-x\\cdot\\dfrac{dy}{dx}}{(2y+x)^2}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"\\dfrac{d^2y}{dx^2}&=\\dfrac{d}{dx}\\left[\\dfrac{1}{2y^3}\\right]\n"
+"\\\\\\\\\n"
+"&=\\dfrac{d}{dx}\\left[2y^{-3}\\right]\n"
+"\\\\\\\\\n"
+"&=2(-3)y^{-4}\\cdot\\dfrac{dy}{dx}\n"
+"\\\\\\\\\n"
+"&=-\\dfrac{6}{y^4}\\cdot\\dfrac{dy}{dx}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"x^2+y^2&=25\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}(x^2+y^2)&=\\dfrac{d}{dx}(25)\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}(x^2)+\\dfrac{d}{dx}(y^2)&=0\n"
+"\\\\\\\\\n"
+"2x+2y\\dfrac{dy}{dx}&=0\n"
+"\\\\\\\\\n"
+"2y\\dfrac{dy}{dx}&=-2x\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}&=\\dfrac{-2x}{2y}\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}&=-\\dfrac{x}{y}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"x^2-y^2&=100\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}(x^2-y^2)&=\\dfrac{d}{dx}(100)\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}(x^2)-\\dfrac{d}{dx}(y^2)&=0\n"
+"\\\\\\\\\n"
+"2x-2y\\dfrac{dy}{dx}&=0\n"
+"\\\\\\\\\n"
+"-2y\\dfrac{dy}{dx}&=-2x\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}&=\\dfrac{-2x}{-2y}\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}&=\\dfrac{x}{y}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"x^3+y^2&=24\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}(x^3+y^2)&=\\dfrac{d}{dx}(24)\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}(x^3)+\\dfrac{d}{dx}(y^2)&=0\n"
+"\\\\\\\\\n"
+"3x^2+2y\\dfrac{dy}{dx}&=0\n"
+"\\\\\\\\\n"
+"2y\\dfrac{dy}{dx}&=-3x^2\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}&=-\\dfrac{3x^2}{2y}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"x^4+y^2&=17\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}(x^4+y^2)&=\\dfrac{d}{dx}(17)\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}(x^4)+\\dfrac{d}{dx}(y^2)&=0\n"
+"\\\\\\\\\n"
+"4x^3+2y\\dfrac{dy}{dx}&=0\n"
+"\\\\\\\\\n"
+"2y\\dfrac{dy}{dx}&=-4x^3\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}&=\\dfrac{-4x^3}{2y}\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}&=-\\dfrac{2x^3}{y}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"y+xy^2&=4\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}[y+xy^2]&=\\dfrac{d}{dx}[4]\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}[y]+\\dfrac{d}{dx}[xy^2]&=0\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}+\\dfrac{d}{dx}[x]\\cdot y^2+x\\cdot\\dfrac{d}{dx}[y^2]&=0\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}+y^2+2xy\\cdot\\dfrac{dy}{dx}&=0\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}\\cdot(1+2xy)&=-y^2\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}=-\\dfrac{y^2}{1+2xy}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"y^2+xy&=10\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}[y^2+xy]&=\\dfrac{d}{dx}[10]\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}[y^2]+\\dfrac{d}{dx}[xy]&=0\n"
+"\\\\\\\\\n"
+"2y\\cdot\\dfrac{dy}{dx}+\\dfrac{d}{dx}[x]\\cdot y+x\\cdot\\dfrac{dy}{dx}&=0\n"
+"\\\\\\\\\n"
+"2y\\cdot\\dfrac{dy}{dx}+y+x\\cdot\\dfrac{dy}{dx}&=0\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}\\cdot(2y+x)&=-y\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}&=-\\dfrac{y}{2y+x}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"y^4+5x&=11\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}(y^4+5x)&=\\dfrac{d}{dx}(11)\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}(y^4)+\\dfrac{d}{dx}(5x)&=0\n"
+"\\\\\\\\\n"
+"4y^3\\dfrac{dy}{dx}+5&=0\n"
+"\\\\\\\\\n"
+"4y^3\\dfrac{dy}{dx}&=-5\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}&=-\\dfrac{5}{4y^3}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "$\\begin{align}\n"
+"y^4-2x&=5\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}[y^4-2x]&=\\dfrac{d}{dx}[5]\n"
+"\\\\\\\\\n"
+"\\dfrac{d}{dx}[y^4]-\\dfrac{d}{dx}[2x]&=0\n"
+"\\\\\\\\\n"
+"4y^3\\cdot\\dfrac{dy}{dx}-2&=0\n"
+"\\\\\\\\\n"
+"4y^3\\cdot\\dfrac{dy}{dx}&=2\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}&=\\dfrac{2}{4y^3}\n"
+"\\\\\\\\\n"
+"\\dfrac{dy}{dx}&=\\dfrac{1}{2y^3}\n"
+"\\end{align}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion, the value of $\\dfrac{d^2y}{dx^2}$ at the point $(-2,1)$ is $-3$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion, the value of $\\dfrac{d^2y}{dx^2}$ at the point $(2,1)$ is $-\\dfrac{75}{16}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion, the value of $\\dfrac{d^2y}{dx^2}$ at the point $(3,1)$ is $\\dfrac{11}{343}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion, the value of $\\dfrac{d^2y}{dx^2}$ at the point $(3,2)$ is $\\dfrac{20}{343}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "In conclusion, the value of $\\dfrac{d^2y}{dx^2}$ at the point $(8,-6)$ is $\\dfrac{7}{54}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let $x^2+y^2=25$.\n\n"
+"**What is the value of $\\dfrac{d^2y}{dx^2}$ at the point $(4,3)$?**  \n"
+"*Give an exact number.*\n\n"
+"[[☃ numeric-input 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let $x^2-y^2=100$.\n\n"
+"**What is the value of $\\dfrac{d^2y}{dx^2}$ at the point $(8,-6)$?**  \n"
+"*Give an exact number.*\n\n"
+"[[☃ numeric-input 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let $x^3+y^2=24$.\n\n"
+"**What is the value of $\\dfrac{d^2y}{dx^2}$ at the point $(2,4)$?**  \n"
+"*Give an exact number.*\n\n"
+"[[☃ numeric-input 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let $x^4+y^2=17$.\n\n"
+"**What is the value of $\\dfrac{d^2y}{dx^2}$ at the point $(-2,1)$?**  \n"
+"*Give an exact number.*\n\n"
+"[[☃ numeric-input 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let $y+xy^2=4$.\n\n"
+"**What is the value of $\\dfrac{d^2y}{dx^2}$ at the point $(3,1)$?**  \n"
+"*Give an exact number.*\n\n"
+"[[☃ numeric-input 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let $y^2+xy=10$.\n\n"
+"**What is the value of $\\dfrac{d^2y}{dx^2}$ at the point $(3,2)$?**  \n"
+"*Give an exact number.*\n\n"
+"[[☃ numeric-input 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let $y^4+5x=11$.\n\n"
+"**What is the value of $\\dfrac{d^2y}{dx^2}$ at the point $(2,1)$?**  \n"
+"*Give an exact number.*\n\n"
+"[[☃ numeric-input 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let $y^4-2x=5$.\n\n"
+"**What is the value of $\\dfrac{d^2y}{dx^2}$ at the point $(-2,1)$?**  \n"
+"*Give an exact number.*\n\n"
+"[[☃ numeric-input 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let's start by finding $\\dfrac{dy}{dx}$.\n\n"
+"$\\dfrac{dy}{dx}=-\\dfrac{2x^3}{y}$\n\n"
+"[[☃ explanation 1]]\n\n"
+"The value of $\\dfrac{dy}{dx}$ at the point $(\\blueD{-2},\\maroonD{1})$ is $\\goldD{16}$. This will be useful soon."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let's start by finding $\\dfrac{dy}{dx}$.\n\n"
+"$\\dfrac{dy}{dx}=-\\dfrac{3x^2}{2y}$\n\n"
+"[[☃ explanation 1]]\n\n"
+"The value of $\\dfrac{dy}{dx}$ at the point $(\\blueD{2},\\maroonD{4})$ is $\\goldD{-\\dfrac{3}{2}}$. This will be useful soon."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let's start by finding $\\dfrac{dy}{dx}$.\n\n"
+"$\\dfrac{dy}{dx}=-\\dfrac{5}{4y^3}$\n\n"
+"[[☃ explanation 1]]\n\n"
+"The value of $\\dfrac{dy}{dx}$ at the point $(\\blueD{2},\\maroonD{1})$ is $\\goldD{-\\dfrac{5}{4}}$. This will be useful soon."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let's start by finding $\\dfrac{dy}{dx}$.\n\n"
+"$\\dfrac{dy}{dx}=-\\dfrac{x}{y}$\n\n"
+"[[☃ explanation 1]]\n\n"
+"The value of $\\dfrac{dy}{dx}$ at the point $(\\blueD{8},\\maroonD{-6})$ is $\\goldD{-\\dfrac{4}{3}}$. This will be useful soon."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let's start by finding $\\dfrac{dy}{dx}$.\n\n"
+"$\\dfrac{dy}{dx}=-\\dfrac{y^2}{1+2xy}$\n\n"
+"[[☃ explanation 1]]\n\n"
+"The value of $\\dfrac{dy}{dx}$ at the point $(\\blueD{3},\\maroonD{1})$ is $\\goldD{\\dfrac{1}{7}}$. This will be useful soon."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let's start by finding $\\dfrac{dy}{dx}$.\n\n"
+"$\\dfrac{dy}{dx}=-\\dfrac{y}{2y+x}$\n\n"
+"[[☃ explanation 1]]\n\n"
+"The value of $\\dfrac{dy}{dx}$ at the point $(\\blueD{3},\\maroonD{2})$ is $\\goldD{-\\dfrac{2}{7}}$. This will be useful soon."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let's start by finding $\\dfrac{dy}{dx}$.\n\n"
+"$\\dfrac{dy}{dx}=\\dfrac{1}{2y^3}$\n\n"
+"[[☃ explanation 1]]\n\n"
+"The value of $\\dfrac{dy}{dx}$ at the point $(\\blueD{-2},\\maroonD{1})$ is $\\goldD{\\dfrac{1}{2}}$. This will be useful soon."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let's start by finding $\\dfrac{dy}{dx}$:\n\n"
+"$\\dfrac{dy}{dx}=-\\dfrac{x}{y}$\n\n"
+"[[☃ explanation 1]]\n\n"
+"The value of $\\dfrac{dy}{dx}$ at the point $(\\blueD{4},\\maroonD{3})$ is $\\goldD{-\\dfrac{4}{3}}$. This will be useful soon."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Notice that $y$ is defined implicitly—we can't find an explicit expression for $y$ in terms of $x$. So we will have to use implicit differentiation.\n\n"
+"If we differentiate the equation once, we will be able to get an expression for $\\dfrac{dy}{dx}$. Then we can differentiate the equation again, to get an expression for $\\dfrac{d^2y}{dx^2}$."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Now we can differentiate $\\dfrac{dy}{dx}$ to find $\\dfrac{d^2y}{dx^2}$.\n\n"
+"$\\dfrac{d^2y}{dx^2}=-\\dfrac{6}{y^4}\\cdot\\dfrac{dy}{dx}$\n\n"
+"[[☃ explanation 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Now we can differentiate $\\dfrac{dy}{dx}$ to find $\\dfrac{d^2y}{dx^2}$.\n\n"
+"$\\dfrac{d^2y}{dx^2}=\\dfrac{15}{4y^4}\\cdot\\dfrac{dy}{dx}$\n\n"
+"[[☃ explanation 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Now we can differentiate $\\dfrac{dy}{dx}$ to find $\\dfrac{d^2y}{dx^2}$.\n\n"
+"$\\dfrac{d^2y}{dx^2}=\\dfrac{y-x\\cdot\\dfrac{dy}{dx}}{(2y+x)^2}$\n\n"
+"[[☃ explanation 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Now we can differentiate $\\dfrac{dy}{dx}$ to find $\\dfrac{d^2y}{dx^2}$.\n\n"
+"$\\dfrac{d^2y}{dx^2}=\\dfrac{y-x\\cdot\\dfrac{dy}{dx}}{y^2}$\n\n"
+"[[☃ explanation 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Now we can differentiate $\\dfrac{dy}{dx}$ to find $\\dfrac{d^2y}{dx^2}$.\n\n"
+"$\\dfrac{d^2y}{dx^2}=\\dfrac{y^3-2y\\cdot\\dfrac{dy}{dx}\\cdot(1-xy)}{(1+2xy)^2}$\n\n"
+"[[☃ explanation 1]]\n"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Now we can differentiate $\\dfrac{dy}{dx}$ to find $\\dfrac{d^2y}{dx^2}$:\n\n"
+"$\\dfrac{d^2y}{dx^2}=\\dfrac{x\\cdot\\dfrac{dy}{dx}-y}{y^2}$\n\n"
+"[[☃ explanation 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can find the value of $\\dfrac{d^2y}{dx^2}$ at the point $(\\blueD{-2},\\maroonD{1})$ by plugging $\\blueD{x=-2}$, $\\maroonD{y=1}$, and $\\goldD{\\dfrac{dy}{dx}=16}$ into the expression for $\\dfrac{d^2y}{dx^2}$.\n\n"
+"$\\dfrac{-6(\\blueD{-2})^2(\\maroonD1)+2(\\blueD{-2})^3\\left(\\goldD{16}\\right)}{(\\maroonD{1})^2}=-280$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can find the value of $\\dfrac{d^2y}{dx^2}$ at the point $(\\blueD{-2},\\maroonD{1})$ by plugging $\\maroonD{y=1}$ and $\\goldD{\\dfrac{dy}{dx}=\\dfrac12}$ into the expression for $\\dfrac{d^2y}{dx^2}$.\n\n"
+"$-\\dfrac{6}{(\\maroonD{1})^4}\\cdot\\goldD{\\dfrac12}=-3$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can find the value of $\\dfrac{d^2y}{dx^2}$ at the point $(\\blueD{2},\\maroonD{1})$ by plugging $\\maroonD{y=1}$ and $\\goldD{\\dfrac{dy}{dx}=-\\dfrac54}$ into the expression for $\\dfrac{d^2y}{dx^2}$.\n\n"
+"$\\dfrac{15}{4(\\maroonD{1})^4}\\cdot\\left(\\goldD{-\\dfrac{5}{4}}\\right)=-\\dfrac{75}{16}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can find the value of $\\dfrac{d^2y}{dx^2}$ at the point $(\\blueD{2},\\maroonD{4})$ by plugging $\\blueD{x=2}$, $\\maroonD{y=4}$, and $\\goldD{\\dfrac{dy}{dx}=-\\dfrac{3}{2}}$ into the expression for $\\dfrac{d^2y}{dx^2}$.\n\n"
+"$\\dfrac{-6(\\blueD{2})(\\maroonD{4})+3(\\blueD2)^2\\left(\\goldD{-\\dfrac{3}{2}}\\right)}{2(\\maroonD{4})^2}=-\\dfrac{33}{16}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can find the value of $\\dfrac{d^2y}{dx^2}$ at the point $(\\blueD{3},\\maroonD{1})$ by plugging $\\blueD{x=1}$, $\\maroonD{y=1}$, and $\\goldD{\\dfrac{dy}{dx}=\\dfrac17}$ into the expression for $\\dfrac{d^2y}{dx^2}$.\n\n"
+"$\\dfrac{(\\maroonD{1})^3-2(\\maroonD{1})\\cdot\\left(\\goldD{\\dfrac17}\\right)\\cdot[1-(\\blueD{3})(\\maroonD{1})]}{[1+2(\\blueD{3})(\\maroonD{1})]^2}=\\dfrac{11}{343}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can find the value of $\\dfrac{d^2y}{dx^2}$ at the point $(\\blueD{3},\\maroonD{2})$ by plugging $\\blueD{x=3}$, $\\maroonD{y=2}$, and $\\goldD{\\dfrac{dy}{dx}=-\\dfrac27}$ into the expression for $\\dfrac{d^2y}{dx^2}$.\n\n"
+"$\\dfrac{(\\maroonD{2})-(\\blueD{3})\\cdot\\left(\\goldD{-\\dfrac27}\\right)}{[2(\\maroonD{2})+(\\blueD{3})]^2}=\\dfrac{20}{343}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can find the value of $\\dfrac{d^2y}{dx^2}$ at the point $(\\blueD{4},\\maroonD{3})$ by plugging $\\blueD{x=4}$, $\\maroonD{y=3}$, and $\\goldD{\\dfrac{dy}{dx}=-\\dfrac{4}{3}}$ into the expression for $\\dfrac{d^2y}{dx^2}$:\n\n"
+"$\\dfrac{(\\blueD{4})\\left(\\goldD{-\\dfrac{4}{3}}\\right)-(\\maroonD{3})}{(\\maroonD{3})^2}=-\\dfrac{25}{27}$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations">http://translate.khanacademy.org/math/old-ap-calc-bc/bc-differentiation-2-new/bc-4-6/e/second-derivatives-implicit-equations</a>.
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We can find the value of $\\dfrac{d^2y}{dx^2}$ at the point $(\\blueD{8},\\maroonD{-6})$ by plugging $\\blueD{x=8}$, $\\maroonD{y=-6}$, and $\\goldD{\\dfrac{dy}{dx}=-\\dfrac{4}{3}}$ into the expression for $\\dfrac{d^2y}{dx^2}$.\n\n"
+"$\\dfrac{(\\maroonD{-6})-(\\blueD{8})\\left(\\goldD{-\\dfrac{4}{3}}\\right)}{(\\maroonD{-6})^2}=\\dfrac{7}{54}$"
+msgstr ""
+
