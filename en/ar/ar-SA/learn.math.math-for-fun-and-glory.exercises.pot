@@ -1,0 +1,151 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:17+0000\n"
+"PO-Revision-Date: 2018-01-24 10:48-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.math-for-fun-and-glory.exercises.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Depends on whether they played an odd or even number of games"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "No, only the number of wins matters"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The answer is: \n\n"
+"No, only the number of wins matters"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The first three games proceeded as follows:\n\n\n"
+"Game 1: **Brit** wins\n\n"
+"Game 2: **Sal** wins\n\n"
+"Game 3: **Sal** wins\n\n"
+"Three wins are needed to take the pot.\n\n"
+"If the **order** of the first games were different could that affect how they should split the pot?\n\n"
+"![](https://ka-perseus-images.s3.amazonaws.com/6589938d21875dc14a1151c2d6ddbf4c80925107.png)\n\n"
+"[[☃ radio 1]]"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "The only thing we are sure of is:\n\n"
+"Sal needs $1$ more win and Brit needs $2$ more to win."
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We don't care in what order we arrived at this score \n\n"
+"Sal| Brit \n"
+"-|-|-\n"
+"$2$| $1$"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes, order of all past events always matter"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup/e/expectation-warmups</a>.
+# Exercise at (x26523219) on the es stage.
+# Exercise at (x26523219) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Yes, whoever won first is more likely to win"
+msgstr ""
+
