@@ -1,0 +1,601 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:17+0000\n"
+"PO-Revision-Date: 2018-01-24 10:58-0500\n"
+"Language-Team: Chinese Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/3_medium_priority/learn.math.recreational-math.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: zh_CN\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/grant-sanderson/circle-division-problem">http://translate.khanacademy.org/math/math-for-fun-and-glory/grant-sanderson/circle-division-problem</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Circle division problem"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/grant-sanderson/circle-division-problem">http://translate.khanacademy.org/math/math-for-fun-and-glory/grant-sanderson/circle-division-problem</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "An interesting puzzle about dividing a circle with chords, which incorporates one Euler's most beautiful theorems."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/grant-sanderson/inventing-math-tutorial">http://translate.khanacademy.org/math/math-for-fun-and-glory/grant-sanderson/inventing-math-tutorial</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Inventing math"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/grant-sanderson/inventing-math-tutorial">http://translate.khanacademy.org/math/math-for-fun-and-glory/grant-sanderson/inventing-math-tutorial</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Various mind-warping concepts that arise in the mathematical study of analysis."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/grant-sanderson">http://translate.khanacademy.org/math/math-for-fun-and-glory/grant-sanderson</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "3Blue1Brown"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/grant-sanderson">http://translate.khanacademy.org/math/math-for-fun-and-glory/grant-sanderson</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Animation-driven videos about math by Grant Sanderson."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/arithmetic-warmups">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/arithmetic-warmups</a>
+# Title of topic (x0289a3e9) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Arithmetic warmups"
+msgstr ""
+
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/e/distribution-warmup</a>
+# Pretty display name for exercise (xc99cea55) on the es stage
+# Pretty display name for exercise (xc99cea55) on the pl stage
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup</a>
+# Title of topic (x0b3fc298) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Distribution warmup"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup</a>
+# Description of topic (x0b3fc298) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to probability distributions, center, spread, and overall shape. In this warmup we will discover the binomial distribution!"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xdc4e5195) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Probability warmups"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup</a>
+# Description of topic (xdc4e5195) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The 'problem of points' is a classic problem Fermat and Pascal famously debated in the 17th century. Their solution to this problem formed the basis of modern day probability theory. Now it's your turn to relive this challenge!\n"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup</a>
+# Description of topic (x96dc2ffa) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to random sampling (also known as the weak law of large numbers)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup</a>
+# Title of topic (xadc6d3a5) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Math warmups"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup</a>
+# Description of topic (xadc6d3a5) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introducing key concepts using physical analogies"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/brain-teasers">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/brain-teasers</a>
+# Title of topic (xffb4773d) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Brain teasers"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/brain-teasers">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/brain-teasers</a>
+# Description of topic (xffb4773d) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Random logic puzzles and brain teasers.  Fun to do and useful for many job interviews!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles</a>
+# Title of topic (xcfb622f2) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Lights Puzzles"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles</a>
+# Description of topic (xcfb622f2) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Try to light up all the tiles!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles</a>
+# Title of topic (x07e9d37e) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Transformation Puzzles"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles</a>
+# Description of topic (x07e9d37e) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Random puzzles involving rotating, reflecting, and dilating polygons."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles">http://translate.khanacademy.org/math/math-for-fun-and-glory/puzzles</a>
+# Title of topic (x3eb9a450) on the es stage
+# Title of topic (x3eb9a450) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Puzzles"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/doodling-in-math">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/doodling-in-math</a>
+# Title of topic (xc6541a95) on the es stage
+# Title of topic (xc6541a95) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Doodling in math"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/doodling-in-math">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/doodling-in-math</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xc6541a95) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xc6541a95) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Doodling in Math"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/doodling-in-math">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/doodling-in-math</a>
+# Description of topic (xc6541a95) on the es stage
+# Description of topic (xc6541a95) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's say you're me and you're in math class…"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/hexaflexagons">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/hexaflexagons</a>
+# Title of topic (x1b47e16c) on the pl stage
+# Title of video <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/hexaflexagons/v/hexaflexagons">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/hexaflexagons/v/hexaflexagons</a>
+# Title of video (1064685143) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Hexaflexagons"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/hexaflexagons">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/hexaflexagons</a>
+# Description of topic (x1b47e16c) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Since it's shaped like a hexagon and flex rhymes with hex, hexaflexagon it is!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/infinity">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/infinity</a>
+# Title of topic (x37657e0a) on the es stage
+# Title of topic (x37657e0a) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Infinity . . . "
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/infinity">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/infinity</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x37657e0a) on the es stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x37657e0a) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Infinity . . ."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/infinity">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/infinity</a>
+# Description of topic (x37657e0a) on the es stage
+# Description of topic (x37657e0a) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Understanding infinity (all different kinds!). Countable and uncountable infinities. Bigger and smaller infinities. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/mobius-strips">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/mobius-strips</a>
+# Title of topic (x98b57e0e) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Mobius strips"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/mobius-strips">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/mobius-strips</a>
+# Description of topic (x98b57e0e) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Playing mathematically with strips!"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/pi-tau">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/pi-tau</a>
+# Title of topic (x0fc1ab8d) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "About pi and tau"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/pi-tau">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/pi-tau</a>
+# Description of topic (x0fc1ab8d) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "When you want to make a circle, how is it done?  Well you probably will start with the radius one."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/singing">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/singing</a>
+# Title of topic (xde77a66e) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Singing (and noises)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/singing">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/singing</a>
+# Description of topic (xde77a66e) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The title says it all..."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/spirals-fibonacci">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/spirals-fibonacci</a>
+# Title of topic (x452dbed3) on the es stage
+# Title of topic (x452dbed3) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Spirals, Fibonacci and being a plant"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/spirals-fibonacci">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/spirals-fibonacci</a>
+# Description of topic (x452dbed3) on the es stage
+# Description of topic (x452dbed3) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "You're feeling spirally today, and math class today is taking place in greenhouse #3..."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/thanksgiving-math">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/thanksgiving-math</a>
+# Title of topic (x27df170e) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Thanksgiving math"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/thanksgiving-math">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/thanksgiving-math</a>
+# Description of topic (x27df170e) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Mathed potatoes, Borromean onion rings, green bean matheroles and Turduckenen-duckenen (yes, you read that right)"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/vi-cool-stuff">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/vi-cool-stuff</a>
+# Title of topic (x373e7082) on the es stage
+# Title of topic (x373e7082) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Other cool stuff"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/vi-cool-stuff">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart/vi-cool-stuff</a>
+# Description of topic (x373e7082) on the es stage
+# Description of topic (x373e7082) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Pythagoras, snakes, fractals, snowflakes..."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart</a>
+# Title of topic (xf48ec4ac) on the pl stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Doodling in Math and more"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart">http://translate.khanacademy.org/math/math-for-fun-and-glory/vi-hart</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xf48ec4ac) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Vi Hart"
+msgstr ""
+
