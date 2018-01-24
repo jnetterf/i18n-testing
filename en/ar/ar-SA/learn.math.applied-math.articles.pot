@@ -1,0 +1,363 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:17+0000\n"
+"PO-Revision-Date: 2018-01-24 10:50-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/3_medium_priority/learn.math.applied-math.articles.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/ciphers/a/ciphers-vs-codes">http://translate.khanacademy.org/computing/computer-science/cryptography/ciphers/a/ciphers-vs-codes</a>
+# Title of tutorial article (xeaa71f01) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Ciphers vs. codes"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/ciphers/a/shift-cipher">http://translate.khanacademy.org/computing/computer-science/cryptography/ciphers/a/shift-cipher</a>
+# Title of tutorial article (xce66587a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Shift cipher"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/ciphers/a/xor-and-the-one-time-pad">http://translate.khanacademy.org/computing/computer-science/cryptography/ciphers/a/xor-and-the-one-time-pad</a>
+# Title of tutorial article (x42cede74) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "XOR and the one-time pad"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/ciphers/a/xor-bitwise-operation">http://translate.khanacademy.org/computing/computer-science/cryptography/ciphers/a/xor-bitwise-operation</a>
+# Title of tutorial article (xf6dc668a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "XOR bitwise operation"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/a/trial-division">http://translate.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/a/trial-division</a>
+# Title of tutorial article (xdcef66b7) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Trial division"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/checkpoint">http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/checkpoint</a>
+# Title of tutorial article (x7bb92a83) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Checkpoint"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/clue-2">http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/clue-2</a>
+# Title of tutorial article (x17f1ba1b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Clue #2"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/clue-3">http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/clue-3</a>
+# Title of tutorial article (xd644ca6a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Clue #3"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/clue-4">http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/clue-4</a>
+# Title of tutorial article (x758eea38) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Clue #4"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/crypto-clue-1">http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/crypto-clue-1</a>
+# Title of tutorial article (x41c0cb9f) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Clue #1"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar-latam/whats-next-latam">http://translate.khanacademy.org/partner-content/pixar-latam/whats-next-latam</a>
+# Title of topic <a href="http://translate.khanacademy.org/partner-content/pixar/whats-next">http://translate.khanacademy.org/partner-content/pixar/whats-next</a>
+# Title of topic (x0034548c) on the pl stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/cryptochallenge-whats-next">http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/cryptochallenge-whats-next</a>
+# Title of tutorial article (xb8304341) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "What's next?"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/the-discovery">http://translate.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/the-discovery</a>
+# Title of tutorial article (x9114c20a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The discovery"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/congruence-modulo">http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/congruence-modulo</a>
+# Title of tutorial article (x2ea56a42) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Congruence modulo"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/equivalence-relations">http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/equivalence-relations</a>
+# Title of tutorial article (x00da2b92) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Equivalence relations"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/fast-modular-exponentiation">http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/fast-modular-exponentiation</a>
+# Title of tutorial article (xfe886d6a) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Fast modular exponentiation"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-addition-and-subtraction">http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-addition-and-subtraction</a>
+# Title of tutorial article (x6e4e9757) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Modular addition and subtraction"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-exponentiation">http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-exponentiation</a>
+# Title of tutorial article (x2ba82f52) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Modular exponentiation"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-inverses">http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-inverses</a>
+# Title of tutorial article (xf75855db) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Modular inverses"
+msgstr ""
+
+# Exercise is at (xe7f9fc57b0987480) on the es stage.
+# Pretty display name for exercise <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/e/modular-multiplication">http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/e/modular-multiplication</a>
+# Pretty display name for exercise (x4f1b0de8) on the pl stage
+# Pretty display name for exercise (x4f1b0de8) on the pt stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-multiplication">http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-multiplication</a>
+# Title of tutorial article (xf15c7b9b) on the pl stage
+# You can see the text after completing the exercise.
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Modular multiplication"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-quotient-remainder-theorem">http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-quotient-remainder-theorem</a>
+# Title of tutorial article (x0b96127d) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The quotient remainder theorem"
+msgstr ""
+
+# Title of tutorial article <a href="http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic">http://translate.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic</a>
+# Title of tutorial article (x1343778b) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "What is modular arithmetic?"
+msgstr ""
+
