@@ -1,0 +1,1779 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2018-01-24 10:49-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.hs-statistics-probability.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-statistics/gathering-data-ap">http://translate.khanacademy.org/math/ap-statistics/gathering-data-ap</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/study-design-a1">http://translate.khanacademy.org/math/hs-statistics-probability/study-design-a1</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/study-design-a1">http://translate.khanacademy.org/math/probability/study-design-a1</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/designing-studies">http://translate.khanacademy.org/math/statistics-probability/designing-studies</a>
+# Title of topic (x35c4443c) on the bg stage
+# Title of topic (x35c4443c) on the pl stage
+# Title of topic (xb5daea70) on the pl stage
+# Title of topic (xb5daea70) on the pt-pt stage
+# Title of topic (xdd704d10) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Study design"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/binomial-probability-a2">http://translate.khanacademy.org/math/hs-statistics-probability/binomial-probability-a2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/binomial-probability-a2/binomial-probability-a2i">http://translate.khanacademy.org/math/hs-statistics-probability/binomial-probability-a2/binomial-probability-a2i</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-binomial-prob">http://translate.khanacademy.org/math/math3/math3-binomial-prob</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-binomial-prob/math3-binom-prob-tut">http://translate.khanacademy.org/math/math3/math3-binomial-prob/math3-binom-prob-tut</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/binomial-probability-a2">http://translate.khanacademy.org/math/probability/binomial-probability-a2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/binomial-probability-a2/binomial-probability-a2i">http://translate.khanacademy.org/math/probability/binomial-probability-a2/binomial-probability-a2i</a>
+# Title of topic (x09700ef4) on the hy stage
+# Title of topic (xaed71499) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Binomial probability"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/binomial-probability-a2/binomial-probability-a2i">http://translate.khanacademy.org/math/hs-statistics-probability/binomial-probability-a2/binomial-probability-a2i</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math3-binomial-prob/math3-binom-prob-tut">http://translate.khanacademy.org/math/math3/math3-binomial-prob/math3-binom-prob-tut</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/binomial-probability-a2/binomial-probability-a2i">http://translate.khanacademy.org/math/probability/binomial-probability-a2/binomial-probability-a2i</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "If a basketball player has a 60% chance of making a free-throw, and he’s going to shoot 10 free-throws, what’s the probability that they make 5 or fewer free-throws? This tutorial on binomial probability will cover how to deal with problems just like this one."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/binomial-probability-a2">http://translate.khanacademy.org/math/hs-statistics-probability/binomial-probability-a2</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math3-binomial-prob">http://translate.khanacademy.org/math/math3/math3-binomial-prob</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/binomial-probability-a2">http://translate.khanacademy.org/math/probability/binomial-probability-a2</a>
+# Description of topic (x09700ef4) on the hy stage
+# Description of topic (xaed71499) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "If you roll five dice, what’s the probability that three of them show a 6? In a group of 20 strangers, what’s the probability that more than half of them were born in the summer? Learn about binomial probability to answer these types of problems."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/box--whisker-plots-a1">http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/box--whisker-plots-a1</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-data-dist/math1-box-whisker">http://translate.khanacademy.org/math/math1/math1-data-dist/math1-box-whisker</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/data-distributions-a1/box--whisker-plots-a1">http://translate.khanacademy.org/math/probability/data-distributions-a1/box--whisker-plots-a1</a>
+# Description of topic (xb0d5c06d) on the pt stage
+# Description of topic (xe3043a95) on the bg stage
+# Description of topic (xe3043a95) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Whether we're looking at scientific data or stock price charts, box-and-whisker plots can show up in life. This tutorial covers what they are, how to read them and how to construct them."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/comparing-distributions">http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/comparing-distributions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-data-dist/math1-comparing-dist">http://translate.khanacademy.org/math/math1/math1-data-dist/math1-comparing-dist</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/data-distributions-a1/comparing-distributions">http://translate.khanacademy.org/math/probability/data-distributions-a1/comparing-distributions</a>
+# Description of topic (x022e1a2f) on the pt stage
+# Description of topic (x4b69a5a7) on the bg stage
+# Description of topic (x4b69a5a7) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Do people live longer in different parts of the world? In this tutorial we’ll compare the center and spread of distributions to see what conclusions we can make."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/displays-of-distributions">http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/displays-of-distributions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-data-dist/math1-dist-display">http://translate.khanacademy.org/math/math1/math1-data-dist/math1-dist-display</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/data-distributions-a1/displays-of-distributions">http://translate.khanacademy.org/math/probability/data-distributions-a1/displays-of-distributions</a>
+# Title of topic (x16fbe815) on the pt stage
+# Title of topic (x4c28109b) on the bg stage
+# Title of topic (x4c28109b) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Displays of distributions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/displays-of-distributions">http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/displays-of-distributions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-data-dist/math1-dist-display">http://translate.khanacademy.org/math/math1/math1-data-dist/math1-dist-display</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/data-distributions-a1/displays-of-distributions">http://translate.khanacademy.org/math/probability/data-distributions-a1/displays-of-distributions</a>
+# Description of topic (x16fbe815) on the pt stage
+# Description of topic (x4c28109b) on the bg stage
+# Description of topic (x4c28109b) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "A picture says a thousand words. A well-made data display can show data in a way that everyone understands. In this tutorial we'll learn how to construct and describe some common displays of data."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/summarizing-center-distributions">http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/summarizing-center-distributions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-data-dist/math1-summarizing-center">http://translate.khanacademy.org/math/math1/math1-data-dist/math1-summarizing-center</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions">http://translate.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions</a>
+# Title of topic (x9b474509) on the bg stage
+# Title of topic (x9b474509) on the ka stage
+# Title of topic (x9b474509) on the pt stage
+# Title of topic (xb7bad3ff) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Summarizing center of distributions (central tendency)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/summarizing-center-distributions">http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/summarizing-center-distributions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-data-dist/math1-summarizing-center">http://translate.khanacademy.org/math/math1/math1-data-dist/math1-summarizing-center</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions">http://translate.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions</a>
+# Description of topic (x9b474509) on the bg stage
+# Description of topic (x9b474509) on the ka stage
+# Description of topic (x9b474509) on the pt stage
+# Description of topic (xb7bad3ff) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "How long does a typical person spend on a phone each week? Is it different for younger people? In this tutorial we'll use measures of center like mean and median to summarize and compare sets of data."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/summarizing-center-distributions">http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/summarizing-center-distributions</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions">http://translate.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb7bad3ff) on the pt stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Summarizing distributions"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/summarizing-spread-distributions">http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/summarizing-spread-distributions</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/data-distributions-a1/summarizing-spread-distributions">http://translate.khanacademy.org/math/probability/data-distributions-a1/summarizing-spread-distributions</a>
+# Title of topic (x8e75e420) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Summarizing spread of distributions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/summarizing-spread-distributions">http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1/summarizing-spread-distributions</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/data-distributions-a1/summarizing-spread-distributions">http://translate.khanacademy.org/math/probability/data-distributions-a1/summarizing-spread-distributions</a>
+# Description of topic (x8e75e420) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Individual results will vary. Measuring spread in distributions helps us to describe how much variability there is in a set of data. In this tutorial we'll use range, interquartile range, and standard deviation to talk about the spread in a data set."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1">http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-data-dist">http://translate.khanacademy.org/math/math1/math1-data-dist</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/data-distributions-a1">http://translate.khanacademy.org/math/probability/data-distributions-a1</a>
+# Title of topic (x2394bd7b) on the hy stage
+# Title of topic (x6bfd992a) on the bg stage
+# Title of topic (x6bfd992a) on the hy stage
+# Title of topic (x6bfd992a) on the ka stage
+# Title of topic (x6bfd992a) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Data distributions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1">http://translate.khanacademy.org/math/hs-statistics-probability/data-distributions-a1</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-data-dist">http://translate.khanacademy.org/math/math1/math1-data-dist</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/data-distributions-a1">http://translate.khanacademy.org/math/probability/data-distributions-a1</a>
+# Description of topic (x2394bd7b) on the hy stage
+# Description of topic (x6bfd992a) on the bg stage
+# Description of topic (x6bfd992a) on the hy stage
+# Description of topic (x6bfd992a) on the ka stage
+# Description of topic (x6bfd992a) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Data makes more sense when we graph it and summarize it with numbers."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/normal-distributions-a2">http://translate.khanacademy.org/math/hs-statistics-probability/normal-distributions-a2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/normal-distributions-a2/normal-distributions-a2ii">http://translate.khanacademy.org/math/hs-statistics-probability/normal-distributions-a2/normal-distributions-a2ii</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-normal-dist">http://translate.khanacademy.org/math/math3/math3-normal-dist</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-normal-dist/math3-normal-dist-tut">http://translate.khanacademy.org/math/math3/math3-normal-dist/math3-normal-dist-tut</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/normal-distributions-a2">http://translate.khanacademy.org/math/probability/normal-distributions-a2</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/normal-distributions-a2/normal-distributions-a2ii">http://translate.khanacademy.org/math/probability/normal-distributions-a2/normal-distributions-a2ii</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library">http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library</a>
+# Title of topic (x569bc476) on the hy stage
+# Title of topic (xf1304f59) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Normal distributions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/normal-distributions-a2/normal-distributions-a2ii">http://translate.khanacademy.org/math/hs-statistics-probability/normal-distributions-a2/normal-distributions-a2ii</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math3-normal-dist/math3-normal-dist-tut">http://translate.khanacademy.org/math/math3/math3-normal-dist/math3-normal-dist-tut</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/normal-distributions-a2/normal-distributions-a2ii">http://translate.khanacademy.org/math/probability/normal-distributions-a2/normal-distributions-a2ii</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "What percent of people are taller than 2 meters? What percent of people taking the SAT will score more than three standard deviations about the mean? This tutorial will cover how to use Normal distributions to solve problems like these."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/normal-distributions-a2">http://translate.khanacademy.org/math/hs-statistics-probability/normal-distributions-a2</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math3-normal-dist">http://translate.khanacademy.org/math/math3/math3-normal-dist</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/normal-distributions-a2">http://translate.khanacademy.org/math/probability/normal-distributions-a2</a>
+# Description of topic (x569bc476) on the hy stage
+# Description of topic (xf1304f59) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "A Normal distribution is a very special and common distribution that is fundamental to learning about statistics. Normal distributions describe many real world phenomena from scores on exams to lengths of wings on bugs.  "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/addition-rule-for-probability">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/addition-rule-for-probability</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability/copy-of-addition-rule-for-probability">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-class11-probability/copy-of-addition-rule-for-probability</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob/math2-add-rule">http://translate.khanacademy.org/math/math2/math2-prob/math2-add-rule</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/addition-rule-for-probability">http://translate.khanacademy.org/math/probability/probability-geometry/addition-rule-for-probability</a>
+# Description of topic (x8a6b9ea4) on the bg stage
+# Description of topic (x8a6b9ea4) on the pt stage
+# Description of topic (xb8a28dd2) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "What’s the probability of picking a card and getting a jack or a heart? What’s the probability that someone owns a laptop or a smartphone? This tutorial will show how we can add probabilities to solve these types of problems."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/conditional-probability-geo">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/conditional-probability-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob/math2-conditional-prob">http://translate.khanacademy.org/math/math2/math2-prob/math2-conditional-prob</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/conditional-probability-geo">http://translate.khanacademy.org/math/probability/probability-geometry/conditional-probability-geo</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Given someone likes cheese, what’s the probability they also like pizza? Knowing something can change what we know about the probability of something else. This tutorial on conditional probability covers how to find probability based on some known condition."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/counting-combinations">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/counting-combinations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob/math2-counting-combinations">http://translate.khanacademy.org/math/math2/math2-prob/math2-counting-combinations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/counting-combinations">http://translate.khanacademy.org/math/probability/probability-geometry/counting-combinations</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Counting with combinations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/counting-combinations">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/counting-combinations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob/math2-counting-combinations">http://translate.khanacademy.org/math/math2/math2-prob/math2-counting-combinations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/counting-combinations">http://translate.khanacademy.org/math/probability/probability-geometry/counting-combinations</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "You are already familiar with calculating permutation (\"How many ways could 7 different people sit in 4 different seats?\"). But what if you didn't care about which seat they sat in? What if you just cared about which 4 people were in the car? Or put another way, you want to know how many combinations of 4 people can you stick in the car from a pool of 7 candidates. Or how many ways are there to choose 4 things from a pool of 7? Look no further than this tutorial to answer your questions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/counting-permutations">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/counting-permutations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/counting-permutations">http://translate.khanacademy.org/math/probability/probability-geometry/counting-permutations</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Counting with permutations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/counting-permutations">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/counting-permutations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/counting-permutations">http://translate.khanacademy.org/math/probability/probability-geometry/counting-permutations</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "You want to display your Chuck Norris dolls on your desk at school and there is only room for five of them. Unfortunately, you own 50. How many ways can you pick the dolls and arrange them on your desk?"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/expected-value-geo">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/expected-value-geo</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob/math2-expected-value">http://translate.khanacademy.org/math/math2/math2-prob/math2-expected-value</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/expected-value-geo">http://translate.khanacademy.org/math/probability/probability-geometry/expected-value-geo</a>
+# Description of topic (x63175acf) on the bg stage
+# Description of topic (x63175acf) on the pt stage
+# Description of topic (x72988e79) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Will a basketball player score more points over time from a two point shot or a three point shot? How much money can we expect to win back if we play the lottery? This tutorial on expected value will help us answer these types of questions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/multiplication-rule-dependent-events">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/multiplication-rule-dependent-events</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-multiplication-rule-dependent-events">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-multiplication-rule-dependent-events</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob/math2-mul-rule-dependent">http://translate.khanacademy.org/math/math2/math2-prob/math2-mul-rule-dependent</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/multiplication-rule-dependent-events">http://translate.khanacademy.org/math/probability/probability-geometry/multiplication-rule-dependent-events</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-dependent">http://translate.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-dependent</a>
+# Title of topic (xc02d39dc) on the pl stage
+# Title of topic (xc02d39dc) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiplication rule for dependent events"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/multiplication-rule-dependent-events">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/multiplication-rule-dependent-events</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-multiplication-rule-dependent-events">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-multiplication-rule-dependent-events</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob/math2-mul-rule-dependent">http://translate.khanacademy.org/math/math2/math2-prob/math2-mul-rule-dependent</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/multiplication-rule-dependent-events">http://translate.khanacademy.org/math/probability/probability-geometry/multiplication-rule-dependent-events</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "What’s the probability of drawing two aces in a row from a deck of cards? Getting an ace on the first card changes the probability for the second card. This tutorial covers how we can deal with that when multiplying probabilities."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/multiplication-rule-independent-events">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/multiplication-rule-independent-events</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob/math2-mul-rule-independent">http://translate.khanacademy.org/math/math2/math2-prob/math2-mul-rule-independent</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/multiplication-rule-independent-events">http://translate.khanacademy.org/math/probability/probability-geometry/multiplication-rule-independent-events</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-independent">http://translate.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-independent</a>
+# Title of topic (xd1ffc0cd) on the pl stage
+# Title of topic (xd1ffc0cd) on the pt-pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiplication rule for independent events"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/multiplication-rule-independent-events">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/multiplication-rule-independent-events</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-multiplication-rule-independent-events">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-multiplication-rule-independent-events</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob/math2-mul-rule-independent">http://translate.khanacademy.org/math/math2/math2-prob/math2-mul-rule-independent</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/multiplication-rule-independent-events">http://translate.khanacademy.org/math/probability/probability-geometry/multiplication-rule-independent-events</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "What’s the probability that three people were all born on the same day of the week? How likely is a basketball player to make three shots in a row? In this tutorial, we’ll see that multiplying probabilities can be quite useful."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/probability-basics">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/probability-basics</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-15-probability-2/copy-of-probability-basics">http://translate.khanacademy.org/math/in-in-grade-10-ncert/in-in-chapter-15-probability-2/copy-of-probability-basics</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob/math2-prob-basics">http://translate.khanacademy.org/math/math2/math2-prob/math2-prob-basics</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/probability-basics">http://translate.khanacademy.org/math/probability/probability-geometry/probability-basics</a>
+# Title of topic (x6e08591f) on the pt stage
+# Title of topic (x861014d2) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Probability basics"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/probability-basics">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/probability-basics</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob/math2-prob-basics">http://translate.khanacademy.org/math/math2/math2-prob/math2-prob-basics</a>
+# Description of topic (x861014d2) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Flip a quarter a hundred times. What's the probability that it will turn up heads? Tails? Even if we are unsure about whether something will happen, can we start to be mathematical about the \"chances\" of an event (essentially realizing that some things are more likely than others) occurring. This tutorial will introduce us to the tools that allow us to think about random events and the logic behind comparing, judging, and finding the probabilities of those events."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/probability-counting-permutations-combinations">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/probability-counting-permutations-combinations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob/math2-permutations-combinations">http://translate.khanacademy.org/math/math2/math2-prob/math2-permutations-combinations</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/probability-counting-permutations-combinations">http://translate.khanacademy.org/math/probability/probability-geometry/probability-counting-permutations-combinations</a>
+# Title of topic (x176d2a19) on the bg stage
+# Title of topic (x176d2a19) on the pt stage
+# Title of topic (xfeff3719) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Probability with counting, permutations, combinations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/probability-counting-permutations-combinations">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/probability-counting-permutations-combinations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob/math2-permutations-combinations">http://translate.khanacademy.org/math/math2/math2-prob/math2-permutations-combinations</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/probability-counting-permutations-combinations">http://translate.khanacademy.org/math/probability/probability-geometry/probability-counting-permutations-combinations</a>
+# Description of topic (x176d2a19) on the bg stage
+# Description of topic (x176d2a19) on the pt stage
+# Description of topic (xfeff3719) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "This tutorial will apply the permutation and combination tools you learned in the last tutorial to problems of probability. You'll finally learn that there may be better \"investments\" than spending all your money on the Powerball Lottery."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/simulation-randomness">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/simulation-randomness</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob/math2-randomness">http://translate.khanacademy.org/math/math2/math2-prob/math2-randomness</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/simulation-randomness">http://translate.khanacademy.org/math/probability/probability-geometry/simulation-randomness</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Simulation and randomness"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/simulation-randomness">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry/simulation-randomness</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob/math2-randomness">http://translate.khanacademy.org/math/math2/math2-prob/math2-randomness</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry/simulation-randomness">http://translate.khanacademy.org/math/probability/probability-geometry/simulation-randomness</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Drawing names from a hat is fun, and so is calculating probability with formulas, but there are other options. This tutorial covers how we can use simulations and random digits to get samples and find probabilities."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry">http://translate.khanacademy.org/math/hs-statistics-probability/probability-geometry</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math2/math2-prob">http://translate.khanacademy.org/math/math2/math2-prob</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/probability-geometry">http://translate.khanacademy.org/math/probability/probability-geometry</a>
+# Description of topic (x8d0deee9) on the hy stage
+# Description of topic (xdb324519) on the bg stage
+# Description of topic (xdb324519) on the hy stage
+# Description of topic (xdb324519) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Few things are certain in life. Probability gives us an idea of the likelihood or unlikelihood of different outcomes."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/scatterplots-a1/creating-interpreting-scatterplots">http://translate.khanacademy.org/math/hs-statistics-probability/scatterplots-a1/creating-interpreting-scatterplots</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-scatterplots/math1-creating-scatterplots">http://translate.khanacademy.org/math/math1/math1-scatterplots/math1-creating-scatterplots</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/scatterplots-a1/creating-interpreting-scatterplots">http://translate.khanacademy.org/math/probability/scatterplots-a1/creating-interpreting-scatterplots</a>
+# Title of topic (x0b786e9b) on the pt stage
+# Title of topic (xc163f64e) on the bg stage
+# Title of topic (xc163f64e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Creating and interpreting scatterplots"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/scatterplots-a1/creating-interpreting-scatterplots">http://translate.khanacademy.org/math/hs-statistics-probability/scatterplots-a1/creating-interpreting-scatterplots</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-scatterplots/math1-creating-scatterplots">http://translate.khanacademy.org/math/math1/math1-scatterplots/math1-creating-scatterplots</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/scatterplots-a1/creating-interpreting-scatterplots">http://translate.khanacademy.org/math/probability/scatterplots-a1/creating-interpreting-scatterplots</a>
+# Description of topic (x0b786e9b) on the pt stage
+# Description of topic (xc163f64e) on the bg stage
+# Description of topic (xc163f64e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Do people who eat more vegetables tend to be happier? Is crime getting better or worse over time? In this tutorial we'll make scatterplots to see if there is a correlation between two variables. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/scatterplots-a1/estimating-trend-lines">http://translate.khanacademy.org/math/hs-statistics-probability/scatterplots-a1/estimating-trend-lines</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-scatterplots/math1-trend-lines">http://translate.khanacademy.org/math/math1/math1-scatterplots/math1-trend-lines</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/scatterplots-a1/estimating-trend-lines">http://translate.khanacademy.org/math/probability/scatterplots-a1/estimating-trend-lines</a>
+# Title of topic (x015d4e50) on the pt stage
+# Title of topic (x7b22d2f3) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Estimating with trend lines"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/scatterplots-a1/estimating-trend-lines">http://translate.khanacademy.org/math/hs-statistics-probability/scatterplots-a1/estimating-trend-lines</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-scatterplots/math1-trend-lines">http://translate.khanacademy.org/math/math1/math1-scatterplots/math1-trend-lines</a>
+# Description of topic (x015d4e50) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "If we know how big a person’s feet are, can we predict their height? In this tutorial, we'll fit a line to the pattern we see and use it to make predictions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/scatterplots-a1">http://translate.khanacademy.org/math/hs-statistics-probability/scatterplots-a1</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math1/math1-scatterplots">http://translate.khanacademy.org/math/math1/math1-scatterplots</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/scatterplots-a1">http://translate.khanacademy.org/math/probability/scatterplots-a1</a>
+# Title of topic (x0ceb2563) on the bg stage
+# Title of topic (x0ceb2563) on the hy stage
+# Title of topic (x0ceb2563) on the pt stage
+# Title of topic (x13a33b5e) on the pt stage
+# Title of topic (xb488d4d2) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Scatterplots"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/scatterplots-a1">http://translate.khanacademy.org/math/hs-statistics-probability/scatterplots-a1</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-scatterplots">http://translate.khanacademy.org/math/math1/math1-scatterplots</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/scatterplots-a1">http://translate.khanacademy.org/math/probability/scatterplots-a1</a>
+# Description of topic (x0ceb2563) on the bg stage
+# Description of topic (x0ceb2563) on the hy stage
+# Description of topic (x0ceb2563) on the pt stage
+# Description of topic (xb488d4d2) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Scatterplots show us relationships and patterns in data, and we use those patterns to make predictions."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/scatterplots-a1">http://translate.khanacademy.org/math/hs-statistics-probability/scatterplots-a1</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/probability/scatterplots-a1">http://translate.khanacademy.org/math/probability/scatterplots-a1</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xb488d4d2) on the hy stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Scatterplots - Algebra I"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/study-design-a1/observational-studies-experiments">http://translate.khanacademy.org/math/hs-statistics-probability/study-design-a1/observational-studies-experiments</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-study-design/math3-observations-experiments">http://translate.khanacademy.org/math/math3/math3-study-design/math3-observations-experiments</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/study-design-a1/observational-studies-experiments">http://translate.khanacademy.org/math/probability/study-design-a1/observational-studies-experiments</a>
+# Title of topic (x6cd03893) on the bg stage
+# Title of topic (x6cd03893) on the pt stage
+# Title of topic (x7edcd6f9) on the pt stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/probability/study-design-a1/observational-studies-experiments/a/observational-studies-and-experiments">http://translate.khanacademy.org/math/probability/study-design-a1/observational-studies-experiments/a/observational-studies-and-experiments</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/a/observational-studies-and-experiments">http://translate.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library/a/observational-studies-and-experiments</a>
+# Title of tutorial article (xfbfc8815) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Observational studies and experiments"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/study-design-a1/observational-studies-experiments">http://translate.khanacademy.org/math/hs-statistics-probability/study-design-a1/observational-studies-experiments</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math3-study-design/math3-observations-experiments">http://translate.khanacademy.org/math/math3/math3-study-design/math3-observations-experiments</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/study-design-a1/observational-studies-experiments">http://translate.khanacademy.org/math/probability/study-design-a1/observational-studies-experiments</a>
+# Description of topic (x6cd03893) on the bg stage
+# Description of topic (x6cd03893) on the pt stage
+# Description of topic (x7edcd6f9) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "“A new study shows that people who eat lobster regularly tend to live longer.” That may be true, but it doesn’t necessarily mean that eating lobster causes people to live longer. We could set up an experiment to find out if lobster is truly the cause. This tutorial covers the difference between observational studies and experiments."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/study-design-a1/samples-surveys">http://translate.khanacademy.org/math/hs-statistics-probability/study-design-a1/samples-surveys</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-study-design/math3-surveys">http://translate.khanacademy.org/math/math3/math3-study-design/math3-surveys</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/probability/study-design-a1/samples-surveys">http://translate.khanacademy.org/math/probability/study-design-a1/samples-surveys</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/probability/study-design-a1/samples-surveys/a/worksheet-samples-and-surveys">http://translate.khanacademy.org/math/probability/study-design-a1/samples-surveys/a/worksheet-samples-and-surveys</a>
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/statistics-probability/designing-studies/sampling-and-surveys/a/worksheet-samples-and-surveys">http://translate.khanacademy.org/math/statistics-probability/designing-studies/sampling-and-surveys/a/worksheet-samples-and-surveys</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Samples and surveys"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/study-design-a1/samples-surveys">http://translate.khanacademy.org/math/hs-statistics-probability/study-design-a1/samples-surveys</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math3-study-design/math3-surveys">http://translate.khanacademy.org/math/math3/math3-study-design/math3-surveys</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/study-design-a1/samples-surveys">http://translate.khanacademy.org/math/probability/study-design-a1/samples-surveys</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "If we want to know something about a large group of people, we can take a sample and give them a survey. This tutorial introduces how that process works."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/study-design-a1">http://translate.khanacademy.org/math/hs-statistics-probability/study-design-a1</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/probability/study-design-a1">http://translate.khanacademy.org/math/probability/study-design-a1</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xdd704d10) on the hy stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/math3/math3-study-design">http://translate.khanacademy.org/math/math3/math3-study-design</a>
+# Title of topic (x2209e410) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Study Design"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/study-design-a1">http://translate.khanacademy.org/math/hs-statistics-probability/study-design-a1</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math3/math3-study-design">http://translate.khanacademy.org/math/math3/math3-study-design</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/study-design-a1">http://translate.khanacademy.org/math/probability/study-design-a1</a>
+# Description of topic (x2209e410) on the hy stage
+# Description of topic (xdd704d10) on the hy stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Getting reliable data is vital if we want to make correct conclusions.The process of collecting data through studies involves sampling, observations, surveys, and experiments."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/two-way-tables-categorical-data-a1/two-way-frequency-tables">http://translate.khanacademy.org/math/hs-statistics-probability/two-way-tables-categorical-data-a1/two-way-frequency-tables</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-two-way-tables/math1-frequency-tables">http://translate.khanacademy.org/math/math1/math1-two-way-tables/math1-frequency-tables</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/two-way-tables-categorical-data-a1/two-way-frequency-tables">http://translate.khanacademy.org/math/probability/two-way-tables-categorical-data-a1/two-way-frequency-tables</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Frequency tables show us how many times something happened. This tutorial covers how to read and interpret two-way frequency tables."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/two-way-tables-categorical-data-a1/two-way-relative-frequency-tables">http://translate.khanacademy.org/math/hs-statistics-probability/two-way-tables-categorical-data-a1/two-way-relative-frequency-tables</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-two-way-tables/math1-relative-frequency">http://translate.khanacademy.org/math/math1/math1-two-way-tables/math1-relative-frequency</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/two-way-tables-categorical-data-a1/two-way-relative-frequency-tables">http://translate.khanacademy.org/math/probability/two-way-tables-categorical-data-a1/two-way-relative-frequency-tables</a>
+# Description of topic (x1a9a48a6) on the pt stage
+# Description of topic (x8ad07b41) on the bg stage
+# Description of topic (x8ad07b41) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Relative frequency tables show us what percent of the time something happened. This tutorial covers how to construct, read, and and interpret two-way relative frequency tables."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/two-way-tables-categorical-data-a1">http://translate.khanacademy.org/math/hs-statistics-probability/two-way-tables-categorical-data-a1</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/math1/math1-two-way-tables">http://translate.khanacademy.org/math/math1/math1-two-way-tables</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/probability/two-way-tables-categorical-data-a1">http://translate.khanacademy.org/math/probability/two-way-tables-categorical-data-a1</a>
+# Description of topic (x2143fc3d) on the hy stage
+# Description of topic (xdfee265e) on the bg stage
+# Description of topic (xdfee265e) on the hy stage
+# Description of topic (xdfee265e) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Two-way tables show us relationships between categorical variables."
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/hs-statistics-probability/two-way-tables-categorical-data-a1">http://translate.khanacademy.org/math/hs-statistics-probability/two-way-tables-categorical-data-a1</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/probability/two-way-tables-categorical-data-a1">http://translate.khanacademy.org/math/probability/two-way-tables-categorical-data-a1</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (x2143fc3d) on the hy stage: a title that makes sense even when not shown in the context of the parent topic
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Two-way tables and categorical data"
+msgstr ""
+
