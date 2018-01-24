@@ -1,0 +1,165 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-25 11:18+0000\n"
+"PO-Revision-Date: 2018-01-24 10:51-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.statistics-probability.videos.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Title of video <a href="http://translate.khanacademy.org/math/ap-statistics/density-curves-normal-distribution-ap/measuring-position/v/ck12-org-normal-distribution-problems-z-score">http://translate.khanacademy.org/math/ap-statistics/density-curves-normal-distribution-ap/measuring-position/v/ck12-org-normal-distribution-problems-z-score</a>
+# Title of video <a href="http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/z-scores/v/ck12-org-normal-distribution-problems-z-score">http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/z-scores/v/ck12-org-normal-distribution-problems-z-score</a>
+# Title of video (26200) on the pl stage
+# Title of video (26200) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Normal distribution problem: z-scores (from ck12.org)"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-mean/v/confidence-interval-1">http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-mean/v/confidence-interval-1</a>
+# Title of video (6022797) on the pl stage
+# Title of video (6022797) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Example: Probability of sample mean being within some distance of true mean"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-mean/v/confidence-interval-1">http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-mean/v/confidence-interval-1</a>
+# Description of video (6022797) on the pl stage
+# Description of video (6022797) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Estimating the probability that the sample mean lies within a given distance around the true population mean."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability/v/conditional-probability-and-combinations">http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability/v/conditional-probability-and-combinations</a>
+# Description of video (25855) on the pl stage
+# Description of video (25855) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Probability that I picked a fair coin given that I flipped 4 heads out of 6 tosses."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/statistics-probability/designing-studies/statistics-overview/v/statistical-questions">http://translate.khanacademy.org/math/statistics-probability/designing-studies/statistics-overview/v/statistical-questions</a>
+# Description of video (x875b9f8c) on the pl stage
+# Description of video (x875b9f8c) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "A statistical question is one that can be answered by collecting data and where there will be variability in that data. For example, there will likely be variability in the data collected to answer the question, &quot;How much do the animals at Fancy Farm weigh?&quot; but not to answer, &quot;What color hat is Sara wearing?&quot;."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-exercise-standard-normal-distribution-and-the-empirical-rule">http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-exercise-standard-normal-distribution-and-the-empirical-rule</a>
+# Title of video (26204) on the pl stage
+# Title of video (26204) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Standard normal distribution and the empirical rule (from ck12.org)"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-more-empirical-rule-and-z-score-practice">http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library/v/ck12-org-more-empirical-rule-and-z-score-practice</a>
+# Title of video (26206) on the pl stage
+# Title of video (26206) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "More empirical rule and z-score practice (from ck12.org)"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means/v/sampling-distribution-example-problem">http://translate.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means/v/sampling-distribution-example-problem</a>
+# Title of video (6022796) on the pl stage
+# Title of video (6022796) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Example: Probability of sample mean exceeding a value"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means/v/sampling-distribution-example-problem">http://translate.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means/v/sampling-distribution-example-problem</a>
+# Description of video (6022796) on the pl stage
+# Description of video (6022796) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Estimating the probability that the sample mean exceeds a given value in the sampling distribution of the sample mean."
+msgstr ""
+
