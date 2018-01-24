@@ -1,0 +1,2051 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2018-01-24 10:54-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.algebra-home.videos.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/square-roots-for-college/v/simplifying-radicals">http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/square-roots-for-college/v/simplifying-radicals</a>
+# Title of video <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots/square-roots/v/simplifying-radicals">http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots/square-roots/v/simplifying-radicals</a>
+# Title of video (25773) on the bg stage
+# Title of video (25773) on the es stage
+# Title of video (25773) on the ja stage
+# Title of video (25773) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Simplifying radicals "
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/square-roots-for-college/v/simplifying-radicals">http://translate.khanacademy.org/math/algebra-basics/core-algebra-foundations/square-roots-for-college/v/simplifying-radicals</a>
+# Description of video <a href="http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots/square-roots/v/simplifying-radicals">http://translate.khanacademy.org/math/in-eighth-grade-math/squares-square-roots/square-roots/v/simplifying-radicals</a>
+# Description of video (25773) on the bg stage
+# Description of video (25773) on the es stage
+# Description of video (25773) on the ja stage
+# Description of video (25773) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "A video of Sal using exponent rules to simplify radicals or square roots."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope/core-algebra-graphing-linear-inequalities/v/solving-and-graphing-linear-inequalities-in-two-variables-1">http://translate.khanacademy.org/math/algebra-basics/core-algebra-graphing-lines-slope/core-algebra-graphing-linear-inequalities/v/solving-and-graphing-linear-inequalities-in-two-variables-1</a>
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-one-step-inequalities/v/solving-and-graphing-linear-inequalities-in-two-variables-1">http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-one-step-inequalities/v/solving-and-graphing-linear-inequalities-in-two-variables-1</a>
+# Title of video (26822) on the bg stage
+# Title of video (26822) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Solving and graphing linear inequalities "
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/solving-fancier-linear-equations/v/steps-when-solving-equations">http://translate.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/solving-fancier-linear-equations/v/steps-when-solving-equations</a>
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-two-steps-equations-intro/v/steps-when-solving-equations">http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-two-steps-equations-intro/v/steps-when-solving-equations</a>
+# Title of video (xb929087f) on the pt stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Describing steps when solving equations"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/solving-fancier-linear-equations/v/steps-when-solving-equations">http://translate.khanacademy.org/math/algebra-basics/core-algebra-linear-equations-inequalities/solving-fancier-linear-equations/v/steps-when-solving-equations</a>
+# Description of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-two-steps-equations-intro/v/steps-when-solving-equations">http://translate.khanacademy.org/math/algebra-home/alg-basic-eq-ineq/alg-two-steps-equations-intro/v/steps-when-solving-equations</a>
+# Description of video (xb929087f) on the pt stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal lists the steps necessary in order to solve a linear equation. This is useful for thinking more strategically about equations."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/miscellaneous-radicals/v/how-to-rationalize-a-denominator">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/miscellaneous-radicals/v/how-to-rationalize-a-denominator</a>
+# Description of video (23746) on the bg stage
+# Description of video (23746) on the ka stage
+# Description of video (23746) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "When we have a fraction with a root in the denominator, like 1/&radic;2, it&#39;s often desirable to manipulate it so the denominator doesn&#39;t have roots. To do that, we can multiply both the numerator and the denominator by the same root, that will make the denominator an integer. For example, we can multiply 1/&radic;2 by &radic;2/&radic;2 to get &radic;2/2"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/miscellaneous-radicals/v/simplifying-rational-exponent-expressions-advanced">http://translate.khanacademy.org/math/algebra-home/alg-exp-and-log/miscellaneous-radicals/v/simplifying-rational-exponent-expressions-advanced</a>
+# Title of video (x4753d1a9) on the bg stage
+# Title of video (x4753d1a9) on the ka stage
+# Title of video (x4753d1a9) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Simplifying hairy expression with fractional exponents"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/how-to-count-to-1000-on-two-hands">http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/how-to-count-to-1000-on-two-hands</a>
+# Title of video (x87b519ec) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "How to count to 1000 on two hands"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/how-to-count-to-1000-on-two-hands">http://translate.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/how-to-count-to-1000-on-two-hands</a>
+# Description of video (x87b519ec) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Typically when we think of counting on two hands, we count up to 10, but fingers can contain much more information than that! This video shows how to think about counting in binary. Music: &quot;Sun Will Set&quot; by Zoe Keating"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation/v/finding-term-value-from-sum-formula">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation/v/finding-term-value-from-sum-formula</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-partial-sums/v/finding-term-value-from-sum-formula">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-partial-sums/v/finding-term-value-from-sum-formula</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/partial-sums-bc/v/finding-term-value-from-sum-formula">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/partial-sums-bc/v/finding-term-value-from-sum-formula</a>
+# Title of video <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/partial-sums-calc/v/finding-term-value-from-sum-formula">http://translate.khanacademy.org/math/calculus-home/series-calc/partial-sums-calc/v/finding-term-value-from-sum-formula</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Partial sums: term value from partial sum"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation/v/finding-term-value-from-sum-formula">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation/v/finding-term-value-from-sum-formula</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-partial-sums/v/finding-term-value-from-sum-formula">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-partial-sums/v/finding-term-value-from-sum-formula</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/partial-sums-bc/v/finding-term-value-from-sum-formula">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/partial-sums-bc/v/finding-term-value-from-sum-formula</a>
+# Description of video <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/partial-sums-calc/v/finding-term-value-from-sum-formula">http://translate.khanacademy.org/math/calculus-home/series-calc/partial-sums-calc/v/finding-term-value-from-sum-formula</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "The partial sum of a sequence gives as the sum of the first n terms in the sequence. If we know the formula for the partial sums of a sequence, we can find the value of any term in the sequence."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation/v/properties-to-find-sum">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation/v/properties-to-find-sum</a>
+# Title of video <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/series-basics-challenge/v/properties-to-find-sum">http://translate.khanacademy.org/math/calculus-home/series-calc/series-basics-challenge/v/properties-to-find-sum</a>
+# Title of video <a href="http://translate.khanacademy.org/math/integral-calculus/series-ic/series-basics-challenge-ic/v/properties-to-find-sum">http://translate.khanacademy.org/math/integral-calculus/series-ic/series-basics-challenge-ic/v/properties-to-find-sum</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: evaluating series (advanced)"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation/v/term-from-partial-sum">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation/v/term-from-partial-sum</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-partial-sums/v/term-from-partial-sum">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-partial-sums/v/term-from-partial-sum</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/partial-sums-bc/v/term-from-partial-sum">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/partial-sums-bc/v/term-from-partial-sum</a>
+# Title of video <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/partial-sums-calc/v/term-from-partial-sum">http://translate.khanacademy.org/math/calculus-home/series-calc/partial-sums-calc/v/term-from-partial-sum</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Partial sums: formula for nth term from partial sum"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation/v/term-from-partial-sum">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation/v/term-from-partial-sum</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-partial-sums/v/term-from-partial-sum">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-partial-sums/v/term-from-partial-sum</a>
+# Description of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/partial-sums-bc/v/term-from-partial-sum">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/partial-sums-bc/v/term-from-partial-sum</a>
+# Description of video <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/partial-sums-calc/v/term-from-partial-sum">http://translate.khanacademy.org/math/calculus-home/series-calc/partial-sums-calc/v/term-from-partial-sum</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "The partial sum of a sequence gives as the sum of the first n terms in the sequence. If we know the formula for the partial sums of a sequence, we can find a formula for the nth term in the sequence."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation/v/writing-arithmetic-series-in-sigma-notation">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation/v/writing-arithmetic-series-in-sigma-notation</a>
+# Description of video (x8ebd01f2) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal writes the arithmetic sum 7+9+1+...+403+405 in sigma notation. There are actually two common ways of doing this."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation/v/writing-geometric-series-in-sigma-notation">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-advanced-sigma-notation/v/writing-geometric-series-in-sigma-notation</a>
+# Description of video (xeebb3f52) on the lol stage
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal writes the geometric sum 2+6+18+54 in sigma notation. There are actually two common ways of doing this."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series/v/deriving-geometric-series-sum-formula">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series/v/deriving-geometric-series-sum-formula</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-series-opt-vids/v/deriving-geometric-series-sum-formula">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-series-opt-vids/v/deriving-geometric-series-sum-formula</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/infinite-geo-series-bc/v/deriving-geometric-series-sum-formula">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/infinite-geo-series-bc/v/deriving-geometric-series-sum-formula</a>
+# Title of video <a href="http://translate.khanacademy.org/math/precalculus/seq-induction/infinite-geometric-series/v/deriving-geometric-series-sum-formula">http://translate.khanacademy.org/math/precalculus/seq-induction/infinite-geometric-series/v/deriving-geometric-series-sum-formula</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Infinite geometric series formula justification "
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series/v/evaluating-infinite-geometric-series">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series/v/evaluating-infinite-geometric-series</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-geo-series/v/evaluating-infinite-geometric-series">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-geo-series/v/evaluating-infinite-geometric-series</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/infinite-geo-series-bc/v/evaluating-infinite-geometric-series">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/infinite-geo-series-bc/v/evaluating-infinite-geometric-series</a>
+# Title of video <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/geo-series-calc/v/evaluating-infinite-geometric-series">http://translate.khanacademy.org/math/calculus-home/series-calc/geo-series-calc/v/evaluating-infinite-geometric-series</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: convergent geometric series"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series/v/infinite-geometric-series-not-converging">http://translate.khanacademy.org/math/algebra-home/alg-series-and-induction/alg-infinite-geometric-series/v/infinite-geometric-series-not-converging</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-geo-series/v/infinite-geometric-series-not-converging">http://translate.khanacademy.org/math/ap-calculus-bc/bc-series/bc-inf-geo-series/v/infinite-geometric-series-not-converging</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/infinite-geo-series-bc/v/infinite-geometric-series-not-converging">http://translate.khanacademy.org/math/ap-calculus-bc/series-bc/infinite-geo-series-bc/v/infinite-geometric-series-not-converging</a>
+# Title of video <a href="http://translate.khanacademy.org/math/calculus-home/series-calc/geo-series-calc/v/infinite-geometric-series-not-converging">http://translate.khanacademy.org/math/calculus-home/series-calc/geo-series-calc/v/infinite-geometric-series-not-converging</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: divergent geometric series"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-parametric/v/parametric-equations-1">http://translate.khanacademy.org/math/algebra-home/alg-trig-functions/alg-parametric/v/parametric-equations-1</a>
+# Title of video <a href="http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-diff-param-vec-func/v/parametric-equations-1">http://translate.khanacademy.org/math/ap-calculus-bc/bc-derivatives-advanced/bc-diff-param-vec-func/v/parametric-equations-1</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (format: text)
+#: intl/datastore:1
+msgid "Parametric functions intro"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/absolute-value-equations-functions/graphs-of-absolute-value-functions/v/graphing-absolute-value-functions">http://translate.khanacademy.org/math/algebra/absolute-value-equations-functions/graphs-of-absolute-value-functions/v/graphing-absolute-value-functions</a>
+# Description of video (x196b1cad71b2fcb4) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "We can graph any equation of the form y=k|x-a|+h by thinking about function transformations (shifts, reflections, and scalings)."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/absolute-value-equations-functions/graphs-of-absolute-value-functions/v/scaling-and-reflecting-absolute-value-graphs">http://translate.khanacademy.org/math/algebra/absolute-value-equations-functions/graphs-of-absolute-value-functions/v/scaling-and-reflecting-absolute-value-graphs</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Scaling & reflecting absolute value graphs: graphical"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/absolute-value-equations-functions/graphs-of-absolute-value-functions/v/scaling-and-reflecting-absolute-value-graphs">http://translate.khanacademy.org/math/algebra/absolute-value-equations-functions/graphs-of-absolute-value-functions/v/scaling-and-reflecting-absolute-value-graphs</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "The graph of y=k|x| is the graph of y=|x| scaled by a factor of |k|. If k<0, it's also reflected (or \"flipped\") across the x-axis. In this worked example, we find the equation of an absolute value function from its graph."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/absolute-value-equations-functions/graphs-of-absolute-value-functions/v/shifting-absolute-value-graphs">http://translate.khanacademy.org/math/algebra/absolute-value-equations-functions/graphs-of-absolute-value-functions/v/shifting-absolute-value-graphs</a>
+# Title of video (x0d6890ee04b473f5) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Shifting absolute value graphs"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/absolute-value-equations-functions/graphs-of-absolute-value-functions/v/shifting-absolute-value-graphs">http://translate.khanacademy.org/math/algebra/absolute-value-equations-functions/graphs-of-absolute-value-functions/v/shifting-absolute-value-graphs</a>
+# Description of video (x0d6890ee04b473f5) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "The graph of y=|x-k|+h is the graph of y=|x| shifted k units to the right and h units up. See worked examples practicing this relationship."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/average-rate-of-change-word-problems/v/average-rate-of-change-from-graph-word-problem">http://translate.khanacademy.org/math/algebra/algebra-functions/average-rate-of-change-word-problems/v/average-rate-of-change-from-graph-word-problem</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Average rate of change word problem: graph"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/average-rate-of-change-word-problems/v/average-rate-of-change-from-graph-word-problem">http://translate.khanacademy.org/math/algebra/algebra-functions/average-rate-of-change-word-problems/v/average-rate-of-change-from-graph-word-problem</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Average rate of change tells us how much the function changed per a single time unit, over a specific interval. It has many real-world applications. In this video, we find the average rate of descent of a skydiver over a specific time interval."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/average-rate-of-change-word-problems/v/average-rate-of-change-from-table-word-problem">http://translate.khanacademy.org/math/algebra/algebra-functions/average-rate-of-change-word-problems/v/average-rate-of-change-from-table-word-problem</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Average rate of change word problem: table"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/average-rate-of-change-word-problems/v/average-rate-of-change-from-table-word-problem">http://translate.khanacademy.org/math/algebra/algebra-functions/average-rate-of-change-word-problems/v/average-rate-of-change-from-table-word-problem</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Average rate of change tells us how much the function changed per a single time unit, over a specific interval. It has many real-world applications. In this video, we compare the average rate of change of temperature over different time periods."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/average-rate-of-change-word-problems/v/average-rate-of-change-with-function-notation-word-problem">http://translate.khanacademy.org/math/algebra/algebra-functions/average-rate-of-change-word-problems/v/average-rate-of-change-with-function-notation-word-problem</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Average rate of change word problem: equation"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/average-rate-of-change-word-problems/v/average-rate-of-change-with-function-notation-word-problem">http://translate.khanacademy.org/math/algebra/algebra-functions/average-rate-of-change-word-problems/v/average-rate-of-change-with-function-notation-word-problem</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Average rate of change tells us how much the function changed per a single time unit, over a specific interval. It has many real-world applications. In this video, we represent the average rate of water draining with an algebraic expression."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/functions-and-equations/v/create-function-from-equation">http://translate.khanacademy.org/math/algebra/algebra-functions/functions-and-equations/v/create-function-from-equation</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Obtaining a function from an equation"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/functions-and-equations/v/create-function-from-equation">http://translate.khanacademy.org/math/algebra/algebra-functions/functions-and-equations/v/create-function-from-equation</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Equations and functions are not the same thing, but they can be related in several ways. In this video, we obtain a function from an equation. The function represents the same relationship between the quantities in the equation."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/functions-and-equations/v/difference-between-equations-and-functions">http://translate.khanacademy.org/math/algebra/algebra-functions/functions-and-equations/v/difference-between-equations-and-functions</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Equations and functions are not the same thing, but they can be related in several ways. Watch Jesse Roe and Sal talk about the difference between equations and functions"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/interpreting-features-of-graphs/v/interpreting-features-of-functions-2-example-1">http://translate.khanacademy.org/math/algebra/algebra-functions/interpreting-features-of-graphs/v/interpreting-features-of-functions-2-example-1</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Graph interpretation word problem: basketball"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/interpreting-features-of-graphs/v/interpreting-features-of-functions-2-example-1">http://translate.khanacademy.org/math/algebra/algebra-functions/interpreting-features-of-graphs/v/interpreting-features-of-functions-2-example-1</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "When a function models a real-world context, we can learn a lot about the content from the function&#39;s graph. In this video, we interpret the y-intercept of a graph that models a basketball free throw."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/interpreting-features-of-graphs/v/interpreting-function-graphs-word-problems">http://translate.khanacademy.org/math/algebra/algebra-functions/interpreting-features-of-graphs/v/interpreting-function-graphs-word-problems</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Graph interpretation word problem: temperature"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/interpreting-features-of-graphs/v/interpreting-function-graphs-word-problems">http://translate.khanacademy.org/math/algebra/algebra-functions/interpreting-features-of-graphs/v/interpreting-function-graphs-word-problems</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "When a function models a real-world context, we can learn a lot about the content from the function&#39;s graph. In this video, we consider a graph that models temperature over time."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/algebra-functions/maximum-and-minimum-points/v/identifying-relative-and-absolute-maxima-and-minima">http://translate.khanacademy.org/math/algebra/algebra-functions/maximum-and-minimum-points/v/identifying-relative-and-absolute-maxima-and-minima</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: relative maxima and minima"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/linear-word-problems/comparing-linear-functions/v/comparing-features-of-functions-1">http://translate.khanacademy.org/math/algebra/linear-word-problems/comparing-linear-functions/v/comparing-features-of-functions-1</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Comparing linear functions: equation vs. graph"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/linear-word-problems/comparing-linear-functions/v/comparing-features-of-functions-3">http://translate.khanacademy.org/math/algebra/linear-word-problems/comparing-linear-functions/v/comparing-features-of-functions-3</a>
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/linear-word-problems/comparing-linear-functions/v/comparing-features-of-functions-5">http://translate.khanacademy.org/math/algebra/linear-word-problems/comparing-linear-functions/v/comparing-features-of-functions-5</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Comparing linear functions: table vs. graph"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/polynomial-factorization/factoring-polynomials-1-common-factors/v/factoring-and-the-distributive-property-3">http://translate.khanacademy.org/math/algebra/polynomial-factorization/factoring-polynomials-1-common-factors/v/factoring-and-the-distributive-property-3</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sal factors 4x⁴y-8x&sup3;y-2x&sup2; as 2x&sup2;(2x&sup2;y-4xy-1) by taking the greatest common factor."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/quadratics/factored-form-alg1/v/graphing-quadratics-in-factored-form">http://translate.khanacademy.org/math/algebra/quadratics/factored-form-alg1/v/graphing-quadratics-in-factored-form</a>
+# Title of video (x8456dafc88a8915f) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphing quadratics in factored form"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/quadratics/factored-form-alg1/v/graphing-quadratics-in-factored-form">http://translate.khanacademy.org/math/algebra/quadratics/factored-form-alg1/v/graphing-quadratics-in-factored-form</a>
+# Description of video (x8456dafc88a8915f) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "An example for a quadratic function in factored form is y=½(x-6)(x+2). We can analyze this form to find the x-intercepts of the graph, as well as find the vertex."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/quadratics/factored-form-alg1/v/zero-product-property">http://translate.khanacademy.org/math/algebra/quadratics/factored-form-alg1/v/zero-product-property</a>
+# Description of video (x556b284b8e003b36) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "The zero product property states that if a⋅b=0 then either a or b equal zero. This basic property helps us solve equations like (x+2)(x-5)=0."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/quadratics/parabolas-intro-alg1/v/parabolas-intro">http://translate.khanacademy.org/math/algebra/quadratics/parabolas-intro-alg1/v/parabolas-intro</a>
+# Description of video (x3ffe2e08365a9116) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Graphs of quadratic functions all have the same shape which we call \"parabola.\" All parabolas have shared characteristics. For example, they are all symmetric about a line that passes through their vertex. This video covers this and other basic facts about parabolas."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/quadratics/vertex-form-alg1/v/quadratic-word-problems-in-vertex-form">http://translate.khanacademy.org/math/algebra/quadratics/vertex-form-alg1/v/quadratic-word-problems-in-vertex-form</a>
+# Description of video (x6e498f765d2f765d) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Given a quadratic function that models the height of an object being launched from a platform, we analyze the function to answer questions like \"what is the height of the platform?\" or \"when does the object reach its maximum height?\""
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/quadratics/vertex-form-alg1/v/vertex-form-intro">http://translate.khanacademy.org/math/algebra/quadratics/vertex-form-alg1/v/vertex-form-intro</a>
+# Title of video (x920ee4c2b9181777) on the bg stage
+# Title of video (x920ee4c2b9181777) on the de stage
+# Title of video (x920ee4c2b9181777) on the ka stage
+# Title of video (x920ee4c2b9181777) on the pt stage
+# Title of video (x920ee4c2b9181777) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Vertex form introduction"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/quadratics/vertex-form-alg1/v/vertex-form-intro">http://translate.khanacademy.org/math/algebra/quadratics/vertex-form-alg1/v/vertex-form-intro</a>
+# Description of video (x920ee4c2b9181777) on the bg stage
+# Description of video (x920ee4c2b9181777) on the de stage
+# Description of video (x920ee4c2b9181777) on the ka stage
+# Description of video (x920ee4c2b9181777) on the pt stage
+# Description of video (x920ee4c2b9181777) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "One of the common forms for quadratic functions is called vertex form, because it highlights the coordinates of the vertex of the function's graph."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-exp-prop-review/v/multiplying-and-dividing-powers-with-integer-exponents">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-exp-prop-review/v/multiplying-and-dividing-powers-with-integer-exponents</a>
+# Title of video (x51aac3781797c497) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Multiplying & dividing powers (integer exponents)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-exp-prop-review/v/multiplying-and-dividing-powers-with-integer-exponents">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-exp-prop-review/v/multiplying-and-dividing-powers-with-integer-exponents</a>
+# Description of video (x51aac3781797c497) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "For any base a and for any exponents n and m, aⁿ⋅aᵐ=aⁿ⁺ᵐ and aⁿ/aᵐ=aⁿ⁻ᵐ. These are worked examples for using these properties with integer exponents."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-exp-prop-review/v/powers-of-products-and-quotients-integer-exponents">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-exp-prop-review/v/powers-of-products-and-quotients-integer-exponents</a>
+# Description of video (x77dba0123ee2609c) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "For any integers a and b and for any exponents n, (a&sdot;b)ⁿ=aⁿ&sdot;bⁿ and (a/b)ⁿ=aⁿ/bⁿ. These are worked examples for using these properties with integer exponents."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-radicals/v/5th-roots">http://translate.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-radicals/v/5th-roots</a>
+# Title of video (x7fb0bb70951d6897) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "5th roots"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/sequences/introduction-to-arithmetic-squences/v/using-recursive-formula-for-arithmetic-sequence">http://translate.khanacademy.org/math/algebra/sequences/introduction-to-arithmetic-squences/v/using-recursive-formula-for-arithmetic-sequence</a>
+# Title of video (x0ffef60ab9a90d3f) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: using recursive formula for arithmetic sequence"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/sequences/introduction-to-arithmetic-squences/v/using-recursive-formula-for-arithmetic-sequence">http://translate.khanacademy.org/math/algebra/sequences/introduction-to-arithmetic-squences/v/using-recursive-formula-for-arithmetic-sequence</a>
+# Description of video (x0ffef60ab9a90d3f) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Example finding the 4th term in a recursively defined arithmetic sequence."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/systems-of-linear-equations/equivalent-systems-of-equations/v/identifying-equivalent-systems-of-equations">http://translate.khanacademy.org/math/algebra/systems-of-linear-equations/equivalent-systems-of-equations/v/identifying-equivalent-systems-of-equations</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: equivalent systems of equations"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/systems-of-linear-equations/equivalent-systems-of-equations/v/identifying-non-equivalent-systems-of-equations">http://translate.khanacademy.org/math/algebra/systems-of-linear-equations/equivalent-systems-of-equations/v/identifying-non-equivalent-systems-of-equations</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: non-equivalent systems of equations"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/two-var-linear-equations/forms-of-two-var-linear-equations/v/slope-from-equation">http://translate.khanacademy.org/math/algebra/two-var-linear-equations/forms-of-two-var-linear-equations/v/slope-from-equation</a>
+# Description of video (x7c5573fa2851b201) on the lol stage
+# Description of video (x7c5573fa2851b201) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Worked examples of finding the slope of a line given its equation, using many forms of equations."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/two-var-linear-equations/hor-and-ver-lines-alg1/v/examples-of-slopes-and-equations-of-horizontal-and-vertical-lines">http://translate.khanacademy.org/math/algebra/two-var-linear-equations/hor-and-ver-lines-alg1/v/examples-of-slopes-and-equations-of-horizontal-and-vertical-lines</a>
+# Description of video (xc9aa084efcd925fa) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Worked examples identifying the equations and slope of horizontal and vertical lines."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/two-var-linear-equations/point-slope/v/idea-behind-point-slope-form">http://translate.khanacademy.org/math/algebra/two-var-linear-equations/point-slope/v/idea-behind-point-slope-form</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Point-slope is the general form y-y₁=m(x-x₁) for linear equations. It emphasizes the slope of the line and a point on the line (that is not the y-intercept). Watch this video to learn more about it and see some examples."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/two-var-linear-equations/slope-intercept-form/v/slope-intercept-intro-examples">http://translate.khanacademy.org/math/algebra/two-var-linear-equations/slope-intercept-form/v/slope-intercept-intro-examples</a>
+# Title of video (xbe126b648573616d) on the lol stage
+# Title of video (xbe126b648573616d) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked examples: slope-intercept intro"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/two-var-linear-equations/slope-intercept-form/v/slope-intercept-intro-examples">http://translate.khanacademy.org/math/algebra/two-var-linear-equations/slope-intercept-form/v/slope-intercept-intro-examples</a>
+# Description of video (xbe126b648573616d) on the lol stage
+# Description of video (xbe126b648573616d) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Worked examples practicing the relationship between slope, y-intercept, and linear equation in slope-intercept form."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/two-variable-linear-inequalities/modeling-with-linear-inequalities/v/analyzing-structure-with-linear-inequalities-1">http://translate.khanacademy.org/math/algebra/two-variable-linear-inequalities/modeling-with-linear-inequalities/v/analyzing-structure-with-linear-inequalities-1</a>
+# Title of video (x182dfd3b87d8eecf) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Analyzing structure with linear inequalities: fruits"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/two-variable-linear-inequalities/modeling-with-linear-inequalities/v/analyzing-structure-with-linear-inequalities-1">http://translate.khanacademy.org/math/algebra/two-variable-linear-inequalities/modeling-with-linear-inequalities/v/analyzing-structure-with-linear-inequalities-1</a>
+# Description of video (x182dfd3b87d8eecf) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Given a real-world context about the number of fruits bought, we find a linear inequality that correctly depicts the situation."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra/two-variable-linear-inequalities/modeling-with-linear-inequalities/v/analyzing-structure-with-linear-inequalities-2">http://translate.khanacademy.org/math/algebra/two-variable-linear-inequalities/modeling-with-linear-inequalities/v/analyzing-structure-with-linear-inequalities-2</a>
+# Title of video (xc92fb1665aa8ac6e) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Analyzing structure with linear inequalities: balls"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra/two-variable-linear-inequalities/modeling-with-linear-inequalities/v/analyzing-structure-with-linear-inequalities-2">http://translate.khanacademy.org/math/algebra/two-variable-linear-inequalities/modeling-with-linear-inequalities/v/analyzing-structure-with-linear-inequalities-2</a>
+# Description of video (xc92fb1665aa8ac6e) on the lol stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Given a real-world context about the number of balls in a bag, we find a linear inequality that correctly depicts the situation."
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/deriving-formula-for-sum-of-finite-geometric-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/deriving-formula-for-sum-of-finite-geometric-series</a>
+# Description of video (x59f9c2a4) on the bg stage
+# Description of video (x59f9c2a4) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: html)
+#: intl/datastore:1
+msgid "The finite geometric series formula is a(1-rⁿ)/(1-r). In this video, Sal gives a pretty neat justification as to why the formula works."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/example-finding-sum-of-finite-geometric-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/example-finding-sum-of-finite-geometric-series</a>
+# Title of video (x9a2ad65d) on the bg stage
+# Title of video (x9a2ad65d) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: finite geometric series (sigma notation)"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/geometric-series-introduction">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/geometric-series-introduction</a>
+# Description of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/v/geometric-series-introduction">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/v/geometric-series-introduction</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "A geometric series is the sum of the terms of a geometric sequence. Learn about geometric series and how they can be written in general terms and using sigma notation."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/series-as-sum-of-sequence">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/series-as-sum-of-sequence</a>
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/v/series-as-sum-of-sequence">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/v/series-as-sum-of-sequence</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Geometric series intro"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/series-as-sum-of-sequence">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/series-as-sum-of-sequence</a>
+# Description of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/v/series-as-sum-of-sequence">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-geometric-sequence-series/v/series-as-sum-of-sequence</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "A geometric series is the sum of the terms of a geometric sequence. Learn more about it here."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/three-examples-of-evaluating-finite-geometric-series">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series/v/three-examples-of-evaluating-finite-geometric-series</a>
+# Title of video (xe9cd3f25) on the bg stage
+# Title of video (xe9cd3f25) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked examples: finite geometric series"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-sigma-notation/v/sigma-notation-sum">http://translate.khanacademy.org/math/algebra2/sequences-and-series/alg2-sigma-notation/v/sigma-notation-sum</a>
+# Description of video <a href="http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-sigma-notation/v/sigma-notation-sum">http://translate.khanacademy.org/math/algebra2/sequences-and-series/copy-of-sigma-notation/v/sigma-notation-sum</a>
+# Description of video (xea358b4a) on the bg stage
+# Description of video (xea358b4a) on the pt stage
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Sigma, &Sigma;, is the&nbsp;standard notation for writing long sums. Learn how it is used in this video."
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-irrational-numbers/v/number-sets-2">http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-irrational-numbers/v/number-sets-2</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: classifying numbers"
+msgstr ""
+
+# Description of video <a href="http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-irrational-numbers/v/number-sets-2">http://translate.khanacademy.org/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-irrational-numbers/v/number-sets-2</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: intl/datastore:1
+msgid "Deciding which number set 3.4028 belongs to: integers, rationals, or irrationals?"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/eb-1-semestre-bachillerato/eb-quadratic-equations-and-functions/eb-graphing-quadratic-functions/v/graphing-a-quadratic-function">http://translate.khanacademy.org/math/eb-1-semestre-bachillerato/eb-quadratic-equations-and-functions/eb-graphing-quadratic-functions/v/graphing-a-quadratic-function</a>
+# Title of video <a href="http://translate.khanacademy.org/math/fr-v2-premiere-s/fr-v2-equation-du-second-degr/fr-v2-reprsentation-graphique-dune-fonction-du-second-degr/v/graphing-a-quadratic-function">http://translate.khanacademy.org/math/fr-v2-premiere-s/fr-v2-equation-du-second-degr/fr-v2-reprsentation-graphique-dune-fonction-du-second-degr/v/graphing-a-quadratic-function</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Graphing parabolas intro"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/v/scaling-unit-vector">http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/v/scaling-unit-vector</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: Scaling unit vectors"
+msgstr ""
+
+# Title of video <a href="http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/v/unit-vector-intro">http://translate.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors/v/unit-vector-intro</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: text)
+#: intl/datastore:1
+msgid "Worked example: finding unit vector with given direction"
+msgstr ""
+
