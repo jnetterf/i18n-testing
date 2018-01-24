@@ -1,0 +1,1987 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-12-01 14:41+0000\n"
+"PO-Revision-Date: 2018-01-24 10:50-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.statistics-probability.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Pretty display name for exercise (x939db8be5a67d564) on the bg stage
+# Pretty display name for exercise (x939db8be5a67d564) on the de stage
+# Pretty display name for exercise (x939db8be5a67d564) on the es stage
+# Pretty display name for exercise (x939db8be5a67d564) on the fr stage
+# Pretty display name for exercise (x939db8be5a67d564) on the ja stage
+# Pretty display name for exercise (x939db8be5a67d564) on the pl stage
+# Pretty display name for exercise (x939db8be5a67d564) on the pt stage
+# Title of topic (xbd214227f16814a9) on the de stage
+# Title of topic (xbd214227f16814a9) on the es stage
+# Title of topic (xbd214227f16814a9) on the fr stage
+# Title of topic (xbd214227f16814a9) on the pl stage
+# Title of topic (xbd214227f16814a9) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Test Yourself: Displaying and describing data"
+msgstr ""
+
+# Description of exercise (x939db8be5a67d564) on the bg stage
+# Description of exercise (x939db8be5a67d564) on the de stage
+# Description of exercise (x939db8be5a67d564) on the es stage
+# Description of exercise (x939db8be5a67d564) on the fr stage
+# Description of exercise (x939db8be5a67d564) on the ja stage
+# Description of exercise (x939db8be5a67d564) on the pl stage
+# Description of exercise (x939db8be5a67d564) on the pt stage
+# Description of topic (xbd214227f16814a9) on the de stage
+# Description of topic (xbd214227f16814a9) on the es stage
+# Description of topic (xbd214227f16814a9) on the fr stage
+# Description of topic (xbd214227f16814a9) on the pl stage
+# Description of topic (xbd214227f16814a9) on the pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (format: html)
+# (format: text)
+#: intl/datastore:1
+msgid "See how you score on Displaying and describing data quiz"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/ap-statistics/probability-ap/probability-addition-rule">http://translate.khanacademy.org/math/ap-statistics/probability-ap/probability-addition-rule</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/addition-rule-lib">http://translate.khanacademy.org/math/statistics-probability/probability-library/addition-rule-lib</a>
+# Description of topic (x1d63e16e) on the bg stage
+# Description of topic (x1d63e16e) on the pl stage
+# Description of topic (xb38c8519) on the pl stage
+# Description of topic (xb38c8519) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The addition rule says that we can find the probably of one event or another event happening by adding their probabilities, but we have to be careful and subtract the overlapping probability of both events happening at the same time."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-conditional-probability-independence">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-conditional-probability-independence</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence">http://translate.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence</a>
+# Title of topic (xf69712d5) on the pl stage
+# Title of topic (xf69712d5) on the pt-pt stage
+# Title of tutorial article <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/a/check-independence-conditional-probability">http://translate.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/a/check-independence-conditional-probability</a>
+# Title of tutorial article (x3bfe6bfb93999bbc) on the es stage
+# Title of tutorial article (x3bfe6bfb93999bbc) on the pl stage
+# Title of tutorial article (x3bfe6bfb93999bbc) on the pt-pt stage
+# Title of video <a href="http://translate.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/v/testing-independence-from-experimental-data">http://translate.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/v/testing-independence-from-experimental-data</a>
+# Title of video <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/v/testing-independence-from-experimental-data">http://translate.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence/v/testing-independence-from-experimental-data</a>
+# Title of video (x484ec0da2dc9ed37) on the pl stage
+# Title of video (x484ec0da2dc9ed37) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Conditional probability and independence"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap/mean-median-more">http://translate.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap/mean-median-more</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/more-mean-median">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/more-mean-median</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median">http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median</a>
+# Title of topic (x4d641cb9) on the pl stage
+# Title of topic (x4d641cb9) on the pt-pt stage
+# Title of topic (x52b87d61) on the bg stage
+# Title of topic (x52b87d61) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "More on mean and median"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap/more-standard-deviation">http://translate.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap/more-standard-deviation</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-on-standard-deviation">http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-on-standard-deviation</a>
+# Title of topic (x3044a7566a6ed16e) on the bg stage
+# Title of topic (x3044a7566a6ed16e) on the pl stage
+# Title of topic (x5d5bb5968adf7c8b) on the pl stage
+# Title of topic (x5d5bb5968adf7c8b) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "More on standard deviation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2a-mean-as-balance">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2a-mean-as-balance</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/more-mean-median">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/more-mean-median</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median">http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/more-mean-median</a>
+# Description of topic (x4d641cb9) on the pl stage
+# Description of topic (x4d641cb9) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Once you know the basics of how to calculate the mean and median, you can start to think deeper about more advanced concepts. This tutorial covers how to find the mean and median from a data display, how new data points impact the mean and median, and how to find missing values given a mean."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2b-variability">http://translate.khanacademy.org/math/engageny-alg-1/alg1-2/alg1-2b-variability</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample">http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample</a>
+# Description of topic (x33e13fd396673071) on the pl stage
+# Description of topic (x33e13fd396673071) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "If our data came from a sample, and we want to use it to represent its larger population, we need to slightly modify our formulas for variance and standard deviation. Let's look at how to calculate variance and standard deviation based on sample data."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-data-handling/in-in-7th-data-handling-basic-theoretical-probability">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-data-handling/in-in-7th-data-handling-basic-theoretical-probability</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-data-handling/in-in-8th-data-handling-theo-prob">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-data-handling/in-in-8th-data-handling-theo-prob</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability">http://translate.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability</a>
+# Title of topic (x59055c61) on the pl stage
+# Title of topic (x59055c61) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Basic theoretical probability"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-data-handling/in-in-7th-data-handling-basic-theoretical-probability">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-data-handling/in-in-7th-data-handling-basic-theoretical-probability</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability">http://translate.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability</a>
+# Description of topic (x59055c61) on the pl stage
+# Description of topic (x59055c61) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Basic theoretical probability is mapping out how many outcomes are possible and seeing how many of those outcomes relate to the probability we're trying to find. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-data-handling/in-in-7th-data-handling-interpreting-data-bar-graphs">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-data-handling/in-in-7th-data-handling-interpreting-data-bar-graphs</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/categorical-data-displays">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/categorical-data-displays</a>
+# Description of topic (x6aef444b) on the es stage
+# Description of topic (x6aef444b) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Categorical data comes from classifying information into categories. To understand categorical data, we often display it in bar graphs and pie graphs."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-data-handling/in-in-7th-data-handling-mean-median-basics">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-data-handling/in-in-7th-data-handling-mean-median-basics</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/mean-median-basics">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/mean-median-basics</a>
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Mean and median: The basics"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-data-handling/in-in-7th-data-handling-mean-median-basics">http://translate.khanacademy.org/math/in-in-class-7th-math-cbse/in-in-7th-data-handling/in-in-7th-data-handling-mean-median-basics</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/mean-median-basics">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/mean-median-basics</a>
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Mean and median are the most commonly used tools to measure the center of a distribution. They give us an idea of the typical value in a set of numerical data."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-data-handling/in-in-8th-data-handling-data-displays">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-data-handling/in-in-8th-data-handling-data-displays</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/categorical-data-displays">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/categorical-data-displays</a>
+# Title of topic (x6aef444b) on the es stage
+# Title of topic (x6aef444b) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Categorical data displays"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-data-handling/in-in-8th-data-handling-histogram">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-data-handling/in-in-8th-data-handling-histogram</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/histogram">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/histogram</a>
+# Description of topic (x20b31a1f) on the es stage
+# Description of topic (x20b31a1f) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Histograms display how many numerical data points there are in each \"bucket\" of values."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-data-handling/in-in-8th-data-handling-probability-sample-spaces">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-data-handling/in-in-8th-data-handling-probability-sample-spaces</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/probability-sample-spaces">http://translate.khanacademy.org/math/statistics-probability/probability-library/probability-sample-spaces</a>
+# Title of topic (x9d2af782) on the pl stage
+# Title of topic (x9d2af782) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Probability using sample spaces"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-data-handling/in-in-8th-data-handling-probability-sample-spaces">http://translate.khanacademy.org/math/in-in-class-8th-math-cbse/in-in-8th-data-handling/in-in-8th-data-handling-probability-sample-spaces</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/probability-sample-spaces">http://translate.khanacademy.org/math/statistics-probability/probability-library/probability-sample-spaces</a>
+# Description of topic (x9d2af782) on the pl stage
+# Description of topic (x9d2af782) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A sample space shows every possible equally likely outcome in some chance process like flipping a coin or rolling a pair of dice. Sample spaces can help us find the probability of certain events like rolling doubles or getting heads twice in three flips."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/copy-of-pop-variance-standard-deviation">http://translate.khanacademy.org/math/in-in-grade-11-ncert/in-in-statistics-2/copy-of-pop-variance-standard-deviation</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/pop-variance-standard-deviation">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/pop-variance-standard-deviation</a>
+# Description of topic (x9c9f9519) on the es stage
+# Description of topic (x9c9f9519) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Standard deviation tells us how far away from the mean each data point typically is in a set of numbers. How we calculate standard deviation depends on whether the data represents an entire population or came from a sample. This tutorial focuses on the data that represents an entire population."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-binomial-random-variables">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-binomial-random-variables</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-random-variables">http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-random-variables</a>
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Binomial random variables are a special type of variable that comes up we repeat a process for a set number of independent trials, with each trial having the same probability of success, and we count how many successes we get at the end of the trials. For example, how many shots will a basketball player make in a series of 10 shots?"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-combinatorics-probability">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-combinatorics-probability</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability">http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/combinatorics-probability">http://translate.khanacademy.org/math/statistics-probability/probability-library/combinatorics-probability</a>
+# Description of topic (xa11d1ab0) on the pl stage
+# Description of topic (xa11d1ab0) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Once we understand the counting principle, permutations, and combinations, we can use those concepts to calculate some pretty advanced probabilities!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-conditional-probability-independence">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-conditional-probability-independence</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence">http://translate.khanacademy.org/math/statistics-probability/probability-library/conditional-probability-independence</a>
+# Description of topic (xf69712d5) on the pl stage
+# Description of topic (xf69712d5) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Conditional probability is the likelihood of some event occurring given some other event has occurred. You'll learn how to calculate conditional probability intuitively and with a formula called Bayes' theorem."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-discrete-and-continuous-random-variables">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-discrete-and-continuous-random-variables</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/discrete-and-continuous-random-variables">http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/discrete-and-continuous-random-variables</a>
+# Title of topic (xdf97ae7a) on the es stage
+# Title of topic (xdf97ae7a) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Discrete and continuous random variables and probability models"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-discrete-and-continuous-random-variables">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-discrete-and-continuous-random-variables</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/discrete-and-continuous-random-variables">http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/discrete-and-continuous-random-variables</a>
+# Description of topic (xdf97ae7a) on the es stage
+# Description of topic (xdf97ae7a) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Discrete random variables occur in situations where we can list every possible outcome of a process, and assign each outcome a probability in a probability model. For example, how many heads will we get in three flips?"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-expected-value-lib">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-expected-value-lib</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/expected-value-lib">http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/expected-value-lib</a>
+# Description of topic (xfdcaff9e) on the pl stage
+# Description of topic (xfdcaff9e) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Expected value gives us the mean or long-term average number of success we can expect over time if we repeat a process over and over. For example, how much money can someone expect to win on average for each lottery ticket they buy?"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-poisson-distribution">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-poisson-distribution</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/poisson-distribution">http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/poisson-distribution</a>
+# Description of topic (x11d838ed) on the pl stage
+# Description of topic (x11d838ed) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The Poisson distribution is related to the binomial setting, but looks at the number of successes over time instead of over many repeated trials."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-transforming-and-combining-random-variables">http://translate.khanacademy.org/math/in-in-grade-12-ncert/in-in-probability-of-events/copy-of-transforming-and-combining-random-variables</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/transforming-and-combining-random-variables">http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/transforming-and-combining-random-variables</a>
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Transforming and combining random variables produces predictable changes in the expected value and variance of the outcomes."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/advanced-regression-inference-transforming/nonlinear-regression">http://translate.khanacademy.org/math/statistics-probability/advanced-regression-inference-transforming/nonlinear-regression</a>
+# Title of topic (x640b3c26) on the pl stage
+# Title of topic (x640b3c26) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Nonlinear regression"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/advanced-regression-inference-transforming/nonlinear-regression">http://translate.khanacademy.org/math/statistics-probability/advanced-regression-inference-transforming/nonlinear-regression</a>
+# Description of topic (x640b3c26) on the pl stage
+# Description of topic (x640b3c26) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Nonlinear regression is fitting various curves to data and evaluating which curve fits the data best."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/advanced-regression-inference-transforming">http://translate.khanacademy.org/math/statistics-probability/advanced-regression-inference-transforming</a>
+# Title of topic (x0465ccc4) on the pl stage
+# Title of topic (x0465ccc4) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Advanced regression (inference and transforming)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/advanced-regression-inference-transforming">http://translate.khanacademy.org/math/statistics-probability/advanced-regression-inference-transforming</a>
+# Description of topic (x0465ccc4) on the pl stage
+# Description of topic (x0465ccc4) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Advanced regression will introduce you to regression methods when data has  a nonlinear pattern."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/analysis-of-variance-anova-library/analysis-of-variance-anova">http://translate.khanacademy.org/math/statistics-probability/analysis-of-variance-anova-library/analysis-of-variance-anova</a>
+# Description of topic (xd342f82a) on the pl stage
+# Description of topic (xd342f82a) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how analysis of variance (ANOVA) tests work and how to use F statistics to test hypotheses."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/analysis-of-variance-anova-library">http://translate.khanacademy.org/math/statistics-probability/analysis-of-variance-anova-library</a>
+# Description of topic (x33610417) on the pl stage
+# Description of topic (x33610417) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Analysis of variance, also called ANOVA, is a collection of methods for comparing multiple means across different groups."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-mean">http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-mean</a>
+# Title of topic (x7024ee8b) on the pl stage
+# Title of topic (x7024ee8b) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Estimating a population mean"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-mean">http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-mean</a>
+# Description of topic (x7024ee8b) on the pl stage
+# Description of topic (x7024ee8b) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A confidence interval for a mean estimates a population mean based on the results from a sample. Go through this tutorial to learn how to calculate confidence intervals using sample mean and sample standard deviation."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-mean">http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-mean</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "A confidence interval for a mean estimates a  based on a results from a sample. For example, if 70 adults own a cell phone in a random sample of 100 adults, we can be fairly confident that the true percentage in the population is somewhere between 61% and 79%. Go through this tutorial to learn how to calculate confidence intervals like this."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-proportion">http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-proportion</a>
+# Title of topic (xd5ff109b) on the pl stage
+# Title of topic (xd5ff109b) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Estimating a population proportion"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-proportion">http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample/estimating-population-proportion</a>
+# Description of topic (xd5ff109b) on the pl stage
+# Description of topic (xd5ff109b) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A confidence interval for a proportion estimates what percent of a population fits some category based on a results from a sample. For example, if 70 adults own a cell phone in a random sample of 100 adults, we can be fairly confident that the true percentage in the population is somewhere between 61% and 79%. Go through this tutorial to learn how to calculate confidence intervals like this."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample">http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample</a>
+# Title of topic (xd7fec8c9) on the pl stage
+# Title of topic (xd7fec8c9) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "One-sample confidence intervals"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample">http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample</a>
+# Description of topic (xd7fec8c9) on the pl stage
+# Description of topic (xd7fec8c9) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Confidence intervals give us a range of plausible values for some unknown value based on results from a sample. This topic covers confidence intervals for means and proportions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample">http://translate.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Confidence intervals (one sample)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib">http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinations-lib</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/combinations-lib">http://translate.khanacademy.org/math/statistics-probability/probability-library/combinations-lib</a>
+# Description of topic (xf24cd445) on the pl stage
+# Description of topic (xf24cd445) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Combinations are similar to permutations. Combinations count how many ways we can pick a group of people or things from a larger group where order doesn't matter. For example, how many different groups of 3 people can a company with 10 employees send on a business trip?"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability">http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/combinatorics-probability</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/combinatorics-probability">http://translate.khanacademy.org/math/statistics-probability/probability-library/combinatorics-probability</a>
+# Title of topic (xa11d1ab0) on the pl stage
+# Title of topic (xa11d1ab0) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Combinatorics and probability"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/counting-principle-factorial">http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/counting-principle-factorial</a>
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/counting-principle-factorial">http://translate.khanacademy.org/math/statistics-probability/probability-library/counting-principle-factorial</a>
+# Title of topic (x05a5b0df) on the pl stage
+# Title of topic (x05a5b0df) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Counting principle and factorial"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/counting-principle-factorial">http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/counting-principle-factorial</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/counting-principle-factorial">http://translate.khanacademy.org/math/statistics-probability/probability-library/counting-principle-factorial</a>
+# Description of topic (x05a5b0df) on the pl stage
+# Description of topic (x05a5b0df) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The counting principal tells us that we can multiply the number of choices together to get a count of the total possible outcomes. If you own two pairs of pants and three shirts, then you have six possible outfits."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/permutation-lib">http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations/permutation-lib</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/permutation-lib">http://translate.khanacademy.org/math/statistics-probability/probability-library/permutation-lib</a>
+# Description of topic (x3ef4dfa4) on the pl stage
+# Description of topic (x3ef4dfa4) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Permutations count how many ways you can select and arrange items or people from a larger group. For example, how many different ways can we award a gold, silver, and bronze medal to three runners out of a group of 10?"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations">http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations</a>
+# Title of topic (x4b5abaed344ec33f) on the pl stage
+# Title of topic (x4b5abaed344ec33f) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Counting, permutations, and combinations"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations">http://translate.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations</a>
+# Description of topic (x4b5abaed344ec33f) on the pl stage
+# Description of topic (x4b5abaed344ec33f) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This unit covers methods for counting how many possible outcomes there are in various situations. We'll learn about factorial, permutations, and combinations. We'll also look at how to use these ideas to find probabilities."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines">http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines</a>
+# Title of topic (x44af7d64ab2d6140) on the pl stage
+# Title of topic (x44af7d64ab2d6140) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Introduction to trend lines"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines">http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-trend-lines</a>
+# Description of topic (x44af7d64ab2d6140) on the pl stage
+# Description of topic (x44af7d64ab2d6140) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "When we see a pattern in a scatterplot, it's often useful to model that pattern with a trend line. This lesson covers how to informally fit a line to data, make predictions, and think about the slope and y-intercept of the trend line."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression">http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression</a>
+# Title of topic (x933838704feeb524) on the pl stage
+# Title of topic (x933838704feeb524) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "More on regression"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression">http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression</a>
+# Description of topic (x933838704feeb524) on the pl stage
+# Description of topic (x933838704feeb524) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This is a more advanced collection of videos that goes into some more advanced topics and proofs in least-squares regression."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library">http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Regression is fitting a line or curve to a pattern we see in a scatterplot. This tutorial focuses on linear regression, where you'll learn how to fit a line to data, describe features of that line, and use the line to make predictions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/residuals-least-squares-rsquared">http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/residuals-least-squares-rsquared</a>
+# Title of topic (x23c4e4af) on the es stage
+# Title of topic (x23c4e4af) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Residuals, least-squares regression, and r-squared"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/residuals-least-squares-rsquared">http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/residuals-least-squares-rsquared</a>
+# Description of topic (x23c4e4af) on the es stage
+# Description of topic (x23c4e4af) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Residuals measure how far away each data point is from a line that has been fit to the data in a scatterplot. A least-squares regression line tries to fit the data the best it can by making these residuals as small as possible, and we can measure how well a line fits using r-squared. This tutorial explores a few of the more advanced topics in linear regression."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation">http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Scatterplots and correlation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation">http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Constructing and interpreting scatterplots is the focus of this tutorial. You'll learn how to make a good scatterplot, and then how to describe what you see using positive and negative correlation and outliers."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data">http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Describing relationships in quantitative data"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data">http://translate.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "If we want to explore a relationship between two quantitative variables, we make a scatterplot of the data. The fun doesn't stop there. We describe pattern, talk about the type of correlation we see, and sometimes fit a line to the data so we can use the pattern to make predictions."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library">http://translate.khanacademy.org/math/statistics-probability/designing-studies/experiments-stats-library</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "An experiment assigns some subjects to receive a treatment while others don't get the treatment. Experiments also try to control for other variables so we can see if there's a cause-effect relationship between the treatment and some response. Learn more about the differences between observational studies and experiments in this tutorial."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/designing-studies/sampling-and-surveys">http://translate.khanacademy.org/math/statistics-probability/designing-studies/sampling-and-surveys</a>
+# Description of topic (xca32e628) on the pl stage
+# Description of topic (xca32e628) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Taking a sample and giving a survey is one of the most common ways to get information about a large population. Doing every step well is important though, otherwise your claims may be not accurate. This tutorial covers some of the basics of samples and surveys."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/designing-studies/sampling-and-surveys">http://translate.khanacademy.org/math/statistics-probability/designing-studies/sampling-and-surveys</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Sampling and surveys"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/designing-studies/statistics-overview">http://translate.khanacademy.org/math/statistics-probability/designing-studies/statistics-overview</a>
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/statistics-overview">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/statistics-overview</a>
+# Description of topic (x43dba981) on the pl stage
+# Description of topic (x43dba981) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Statistics gives us the tools to effectively answer questions using data. So the first step in actually doing statistics is to form a question! This tutorial looks at what type of questions we deal with in statistics."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/designing-studies">http://translate.khanacademy.org/math/statistics-probability/designing-studies</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Designing studies"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/designing-studies">http://translate.khanacademy.org/math/statistics-probability/designing-studies</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Study design focuses on collecting data properly and making the most valid conclusions we can based on how the data was collected. This topic covers explore samples, surveys, and experiments."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/box-whisker-plots">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/box-whisker-plots</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Box and whisker plots show the median, quartiles, and more information about a set of numerical data."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Comparing features of distributions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Some features we look at in a distribution are its overall shape, unusual points called outliers, clusters of data, and gaps where there is no data at all."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/dot-plots-frequency-tables">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/dot-plots-frequency-tables</a>
+# Title of topic (x5cf3c703) on the es stage
+# Title of topic (x5cf3c703) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Dot plots and frequency tables"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/dot-plots-frequency-tables">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/dot-plots-frequency-tables</a>
+# Description of topic (x5cf3c703) on the es stage
+# Description of topic (x5cf3c703) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Dot plots and frequency tables both display how often different values occur in a set of numerical data."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/line-graphs">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/line-graphs</a>
+# Title of topic (x6888d022) on the es stage
+# Title of topic (x6888d022) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Line graphs"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/line-graphs">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/line-graphs</a>
+# Description of topic (x6888d022) on the es stage
+# Description of topic (x6888d022) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Line graphs show change over time in a numerical variable."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/more-on-data-displays">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/more-on-data-displays</a>
+# Title of topic (x87fc84124fb6cb3f) on the pl stage
+# Title of topic (x87fc84124fb6cb3f) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "More on data displays"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/more-on-data-displays">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/more-on-data-displays</a>
+# Description of topic (x87fc84124fb6cb3f) on the pl stage
+# Description of topic (x87fc84124fb6cb3f) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "In this lesson we'll look at a other types of data displays like line graphs."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/pop-variance-standard-deviation">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/pop-variance-standard-deviation</a>
+# Title of topic (x9c9f9519) on the es stage
+# Title of topic (x9c9f9519) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Population variance and standard deviation"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/range-iqr-mad">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/range-iqr-mad</a>
+# Title of topic (x61c8b921) on the es stage
+# Title of topic (x61c8b921) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Range, Interquartile range (IQR), Mean absolute deviation (MAD)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/range-iqr-mad">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/range-iqr-mad</a>
+# Description of topic (x61c8b921) on the es stage
+# Description of topic (x61c8b921) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "The most basic ways to measure spread in a distribution of numerical data are with range, interquartile range, and mean absolute deviation."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/sample-standard-deviation">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/sample-standard-deviation</a>
+# Title of topic (x262fff56) on the es stage
+# Title of topic (x262fff56) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Sample variance and standard deviation"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/sample-standard-deviation">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/sample-standard-deviation</a>
+# Description of topic (x262fff56) on the es stage
+# Description of topic (x262fff56) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Standard deviation tells us how far away from the mean each data point typically is in a set of numbers. How we calculate standard deviation depends on whether the data represents an entire population or came from a sample. This tutorial focuses on how we deal with standard deviation coming from sample data."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/statistics-overview">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/statistics-overview</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Statistics overview"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/stem-leaf-plots">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/stem-leaf-plots</a>
+# Description of topic (x4cd5b3d7) on the es stage
+# Description of topic (x4cd5b3d7) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Stem-and-leaf plots are another way to plot numerical data. They combine the best features of dot plots and histograms. Turn your head sideways and look at a stem-and-leaf plot and you'll see what we mean."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/two-way-tables-for-categorical-data">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/two-way-tables-for-categorical-data</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Two-way tables for categorical data"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/two-way-tables-for-categorical-data">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data/two-way-tables-for-categorical-data</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Two-way tables show how individuals are classified in terms of two categorical variables. We use two-way tables to see if there is an association between two variables."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Displaying and describing data"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data">http://translate.khanacademy.org/math/statistics-probability/displaying-describing-data</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "One of the first things we do in statistics is try to understand sets of data. This involves plotting the data in different ways and summarizing what we see with measures of center (like mean and median) and measures of spread (like range and standard deviation). This topic focuses on concepts that are often referred to as \"descriptive statistics\"."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/inference-categorical-data-chi-square-tests/chi-square-goodness-of-fit-tests">http://translate.khanacademy.org/math/statistics-probability/inference-categorical-data-chi-square-tests/chi-square-goodness-of-fit-tests</a>
+# Title of topic (x6e72007e) on the pl stage
+# Title of topic (x6e72007e) on the pt-pt stage
+# Title of topic (xeab19216) on the bg stage
+# Title of topic (xeab19216) on the es stage
+# Title of topic (xeab19216) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Chi-square goodness-of-fit tests"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/inference-categorical-data-chi-square-tests/chi-square-goodness-of-fit-tests">http://translate.khanacademy.org/math/statistics-probability/inference-categorical-data-chi-square-tests/chi-square-goodness-of-fit-tests</a>
+# Description of topic (x6e72007e) on the pl stage
+# Description of topic (x6e72007e) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A chi-square goodness-of-fit test examines how well a sample of categorical data fits a hypothesized distribution. For example, take a sample of people and ask them what day of the week they were born. You probably won't get the same number of people born on each day, but does that offer strong evidence that the distribution isn't even for everyone?"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/inference-categorical-data-chi-square-tests/chi-square-tests-for-homogeneity-and-association-independence">http://translate.khanacademy.org/math/statistics-probability/inference-categorical-data-chi-square-tests/chi-square-tests-for-homogeneity-and-association-independence</a>
+# Title of topic (x7dedd018) on the pl stage
+# Title of topic (x7dedd018) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Chi-square tests for homogeneity and association/independence"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/inference-categorical-data-chi-square-tests/chi-square-tests-for-homogeneity-and-association-independence">http://translate.khanacademy.org/math/statistics-probability/inference-categorical-data-chi-square-tests/chi-square-tests-for-homogeneity-and-association-independence</a>
+# Description of topic (x7dedd018) on the pl stage
+# Description of topic (x7dedd018) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "These chi-square tests evaluate the independence of categorical variables in a two-way table."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/inference-categorical-data-chi-square-tests">http://translate.khanacademy.org/math/statistics-probability/inference-categorical-data-chi-square-tests</a>
+# Title of topic (x6024afd0) on the pl stage
+# Title of topic (x6024afd0) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Inference for categorical data (chi-square tests)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/inference-categorical-data-chi-square-tests">http://translate.khanacademy.org/math/statistics-probability/inference-categorical-data-chi-square-tests</a>
+# Description of topic (x6024afd0) on the pl stage
+# Description of topic (x6024afd0) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Chi-square tests are a family of significance tests that give us ways to test hypotheses about distributions of categorical data. This topic covers goodness-of-fit tests to see if sample data fits a hypothesized distribution, and tests for independence between two categorical variables."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/describing-location-in-a-distribution">http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/describing-location-in-a-distribution</a>
+# Title of topic (x865ab56e) on the es stage
+# Title of topic (x865ab56e) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "Describing location in a distribution"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/describing-location-in-a-distribution">http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/describing-location-in-a-distribution</a>
+# Description of topic (x865ab56e) on the es stage
+# Description of topic (x865ab56e) on the pt stage
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (format: text)
+#: intl/datastore:1
+msgid "A z-score measures a data point's location by showing exactly how many standard deviations away from the mean the data point is. "
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library">http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distributions-library</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Normal distributions are the most fundamental family of distributions in all of statistics. You'll learn how to calculate area in a normal curve to find what percent of data falls where in the distribution. You'll also have the opportunity to go deeper with simulations that show how normal distributions really work."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/percentiles">http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/percentiles</a>
+# Title of topic (x72367caee6afb6d4) on the pl stage
+# Title of topic (x72367caee6afb6d4) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Percentiles"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data">http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Modeling distributions of data"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data">http://translate.khanacademy.org/math/statistics-probability/modeling-distributions-of-data</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "The normal distribution is the most commonly used model in all of statistics. Learn how to measure position using z-scores and find what percent of data falls where in a normal distribution."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops">http://translate.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops</a>
+# Description of topic (xaaead5b5) on the pl stage
+# Description of topic (xaaead5b5) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Basic set operations and set notation are the language of more advanced probability and logic. Learn how to express intersections, unions, complements, and subsets symbolically."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/experimental-probability-lib">http://translate.khanacademy.org/math/statistics-probability/probability-library/experimental-probability-lib</a>
+# Description of topic (xb201c350) on the pl stage
+# Description of topic (xb201c350) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Experimental probability estimates the theoretical probability of an event by repeating trials over and over and keeping track of what percent of the trials the event actually happens. For example, spin a coin over and over and see if it lands on \"heads\" 50% of the time (you may be surprised)."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-dependent">http://translate.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-dependent</a>
+# Description of topic (xc02d39dc) on the pl stage
+# Description of topic (xc02d39dc) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The multiplication rule works for dependent events, we just have to adjust each probability based on the previous event occurring. You'll learn how to find the probability of events like drawing two red cards in a row from a deck of cards."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-independent">http://translate.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-independent</a>
+# Description of topic (xd1ffc0cd) on the pl stage
+# Description of topic (xd1ffc0cd) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The multiplication rule says that we can multiply the probability of independent events to find the probably of all of the events happening. You'll learn how to find the probability of getting three heads in a row when tossing a coin, or a basketball player making five shots in a row."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/probability-library">http://translate.khanacademy.org/math/statistics-probability/probability-library</a>
+# Description of topic (x19ac05e4) on the pl stage
+# Description of topic (x19ac05e4) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Probability tells us how often some event will happen after many repeated trials. This topic covers theoretical, experimental, compound probability, permutations, combinations, and more!"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-random-variables">http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-random-variables</a>
+# Description of topic (x898ac2ed) on the pl stage
+# Description of topic (x898ac2ed) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Binomial random variables are a special type of variable that comes up we repeat a process for a set number of independent trials, with each trial having the same probability of success, and we count how many successes we get at the end of the trials. For example, how many free-throws will a basketball player make in a series of 10 shots?"
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/expected-value-lib">http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library/expected-value-lib</a>
+# Title of topic (xfdcaff9e) on the pl stage
+# Title of topic (xfdcaff9e) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "More on expected value"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library">http://translate.khanacademy.org/math/statistics-probability/random-variables-stats-library</a>
+# Description of topic (x945de217) on the pl stage
+# Description of topic (x945de217) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Random variables can be any outcomes from some chance process, like how many heads will occur in a series of 20 flips. We calculate probabilities of random variables and calculate expected value for different types of random variables."
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means">http://translate.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means</a>
+# Description of topic (xf799db14) on the pl stage
+# Description of topic (xf799db14) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to find the mean and standard deviation of the sampling distribution of a sample mean. Also, learn about the central limit theorem and why it is one of the most important theorems in statistics."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means">http://translate.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Sample means"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-proportions">http://translate.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-proportions</a>
+# Description of topic (x49d9bfd6) on the pl stage
+# Description of topic (x49d9bfd6) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to find the mean and variance of the sampling distribution of a sample proportion. "
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-proportions">http://translate.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-proportions</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Sample proportions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/sampling-distributions-library">http://translate.khanacademy.org/math/statistics-probability/sampling-distributions-library</a>
+# Description of topic (x263f6b66) on the pl stage
+# Description of topic (x263f6b66) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "A sampling distribution shows every possible result a statistic can take in every possible sample from a population and how often each result happens. This topic covers how sample proportions and sample means behave in repeated samples."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-means">http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-means</a>
+# Title of topic (x7eceff73) on the pl stage
+# Title of topic (x7eceff73) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Comparing two means"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-means">http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-means</a>
+# Description of topic (x7eceff73) on the pl stage
+# Description of topic (x7eceff73) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Build confidence intervals and do significance tests to see if there is a significant difference between the means of some variable in two populations."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-proportions">http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-proportions</a>
+# Title of topic (xd6e135ad) on the pl stage
+# Title of topic (xd6e135ad) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Comparing two proportions"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-proportions">http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-proportions</a>
+# Description of topic (xd6e135ad) on the pl stage
+# Description of topic (xd6e135ad) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Build confidence intervals and do significance tests to see if there is a significant difference between the proportions of some variable in two populations."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples">http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples</a>
+# Title of topic (xc1d3489e) on the pl stage
+# Title of topic (xc1d3489e) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Two-sample inference for the difference between groups"
+msgstr ""
+
+# Standalone title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples">http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples</a>: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xc1d3489e) on the pl stage: a title that makes sense even when not shown in the context of the parent topic
+# Standalone title of topic (xc1d3489e) on the pt-pt stage: a title that makes sense even when not shown in the context of the parent topic
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples">http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Significance tests and confidence intervals (two samples)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples">http://translate.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples</a>
+# Description of topic (xc1d3489e) on the pl stage
+# Description of topic (xc1d3489e) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Learn how to apply what you know about confidence intervals and significance tests to situations that involve comparing two samples to see if there is a significant difference between the two populations."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample/idea-of-significance-tests">http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample/idea-of-significance-tests</a>
+# Title of topic (xc433fec1) on the pl stage
+# Title of topic (xc433fec1) on the pt-pt stage
+# Title of topic (xc6e52cc7) on the bg stage
+# Title of topic (xc6e52cc7) on the es stage
+# Title of topic (xc6e52cc7) on the pl stage
+# Title of tutorial article (xc5d6de8c) on the bg stage
+# Title of tutorial article (xc5d6de8c) on the es stage
+# Title of tutorial article (xc5d6de8c) on the pl stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "The idea of significance tests"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample/idea-of-significance-tests">http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample/idea-of-significance-tests</a>
+# Description of topic (xc433fec1) on the pl stage
+# Description of topic (xc433fec1) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "This tutorial gives some intuition for how we go through a significance test, what a p-value is, how we make conclusions, and what types of error we may make in our conclusions."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-mean">http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-mean</a>
+# Title of topic (x3643bc6d) on the pl stage
+# Title of topic (x3643bc6d) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Tests about a population mean"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-mean">http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-mean</a>
+# Description of topic (x3643bc6d) on the pl stage
+# Description of topic (x3643bc6d) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "These significance tests tell us if a sample offers convincing evidence that a population mean is different from some hypothesized value."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-proportion">http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-proportion</a>
+# Title of topic (xde6ac1ed) on the pl stage
+# Title of topic (xde6ac1ed) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Tests about a population proportion"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-proportion">http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-proportion</a>
+# Description of topic (xde6ac1ed) on the pl stage
+# Description of topic (xde6ac1ed) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "These significance tests tell us if a sample offers convincing evidence that a population proportion is different from some hypothesized value."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample">http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample</a>
+# Title of topic (x9e08eb70) on the pl stage
+# Title of topic (x9e08eb70) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "One-sample z and t significance tests"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample">http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample</a>
+# Description of topic (x9e08eb70) on the pl stage
+# Description of topic (x9e08eb70) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Significance tests give us a formal process for using sample data to evaluate the likelihood of some claim about a population value. We calculate p-values to see how likely a sample result is to occur by random chance, and we use p-values to make conclusions about hypotheses."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample">http://translate.khanacademy.org/math/statistics-probability/significance-tests-one-sample</a>
+# (KA_SOURCE_TREE: lol)
+# (format: text)
+#: intl/datastore:1
+msgid "Significance tests (one sample)"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/interquartile-range-iqr">http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/interquartile-range-iqr</a>
+# Description of topic (x12ea053a93fba93c) on the pl stage
+# Description of topic (x12ea053a93fba93c) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's learn how to measure spread in a set of data using interquartile range, which is also referred to as IQR for short."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/other-measures-of-spread">http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/other-measures-of-spread</a>
+# Title of topic (x30aaea4baeda231f) on the pl stage
+# Title of topic (x30aaea4baeda231f) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Other measures of spread"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/other-measures-of-spread">http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/other-measures-of-spread</a>
+# Description of topic (x30aaea4baeda231f) on the pl stage
+# Description of topic (x30aaea4baeda231f) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Let's look at how to use range and mean absolute deviation (MAD) to measure the spread or variation in a data set."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population">http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population</a>
+# Title of topic (x4e61498403dc5f59) on the pl stage
+# Title of topic (x4e61498403dc5f59) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Variance and standard deviation of a population"
+msgstr ""
+
+# Description of topic <a href="http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population">http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population</a>
+# Description of topic (x4e61498403dc5f59) on the pl stage
+# Description of topic (x4e61498403dc5f59) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Variance and standard deviation give us a powerful way to measure spread. Standard deviation gives us an idea of the typical distance between each data point and the mean. Let's learn how to calculate the variance and standard deviation of a population."
+msgstr ""
+
+# Title of topic <a href="http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample">http://translate.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample</a>
+# Title of topic (x33e13fd396673071) on the pl stage
+# Title of topic (x33e13fd396673071) on the pt-pt stage
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (format: text)
+#: intl/datastore:1
+msgid "Variance and standard deviation of a sample"
+msgstr ""
+
