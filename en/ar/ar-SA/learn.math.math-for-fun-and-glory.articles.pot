@@ -1,0 +1,215 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-21 12:17+0000\n"
+"PO-Revision-Date: 2018-01-24 10:48-0500\n"
+"Language-Team: Arabic\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/2_high_priority_contt/learn.math.math-for-fun-and-glory.articles.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: ar_SA\n"
+
+# Article is at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines</a>.
+# Article is at (x0f5c1dbb) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "At the bottom of the machine are buckets which represent the **total number of right vs. left deflections in the sequence**. For example the middle bucket represents an **equal number** of right vs. left deflections. While the buckets at the far left edge represent 12 left deflections."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines</a>.
+# Article is at (x0f5c1dbb) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "If we drop hundreds of balls into this machine how do you think they will **distribute** among the various buckets? Is one bucket more likely to full up than another? Are they all equal?"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines</a>.
+# Article is at (x0f5c1dbb) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Instead of flipping coins all day we can use an equivalent mechanism to speed things up. What is equivalent to a coin flip? Well, any process which results in **2 equally likely outcomes**. For example, we could drop a disk directly over a peg which deflects it either to the right or left."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines</a>.
+# Article is at (x0f5c1dbb) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Let’s find out! Below we have a simulation of Galton's device for you to use:"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines</a>.
+# Article is at (x0f5c1dbb) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Next up we have an exercise to test your understanding of this phenomenon."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines</a>.
+# Article is at (x0f5c1dbb) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "One interesting question is **how many heads occur**, on average, in a **sequence** of coin flips. If we flip a coin 10 times, what can we say about the likely outcome? Can we say anything at all?"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines</a>.
+# Article is at (x0f5c1dbb) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "Take a moment and think about a **sequence** of random events you have experienced in the past. Such as lottery numbers, coin flips or dice rolls."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines</a>.
+# Article is at (x0f5c1dbb) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "To model a sequence of 12 coin flips we must chain multiple collisions together. This is exactly what Francis Galton did in the middle of the 19th century with his bean machine. Below is a diagram of his device:"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines</a>.
+# Article is at (x0f5c1dbb) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "We call these **independent** events because the past outcomes **do not influence future outcomes**. If we flip a coin 3 times and it lands heads each time, we know the fourth flip is still equally likely to be heads or tails."
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines</a>.
+# Article is at (x0f5c1dbb) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "What do you notice?"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines</a>.
+# Article is at (x0f5c1dbb) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "https://ka-perseus-images.s3.amazonaws.com/0419d346d96d25fe7213f78841ec503f353bd4c3.gif"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines</a>.
+# Article is at (x0f5c1dbb) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "https://ka-perseus-images.s3.amazonaws.com/b295eaeca02fa34d0984a6bfda706d1fc7875b41.jpg"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines</a>.
+# Article is at (x0f5c1dbb) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "https://ka-perseus-images.s3.amazonaws.com/bc5c52f90d2321840a399f15dc2cc70f916cce1d.jpg"
+msgstr ""
+
+# Article is at <a href="http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines">http://translate.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup/a/bean-machines</a>.
+# Article is at (x0f5c1dbb) on the pl stage.
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1
+msgid "https://ka-perseus-images.s3.amazonaws.com/f7140080e7081b235e1e054c6c2962537d56e03c.png"
+msgstr ""
+
