@@ -1,0 +1,155 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ka-joshuan-testing\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2017-11-28 11:40+0000\n"
+"PO-Revision-Date: 2018-01-24 10:57-0500\n"
+"Language-Team: Chinese Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ka-joshuan-testing\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/4_low_priority/admin.pot\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language: zh_CN\n"
+
+# Comment: Part of a sentence describing an assignments completion date, i.e: Completed [Date]
+# String from android-app.xml in Android app
+# String from ios-app.xliff in iOS app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/assignments-package/coach-assignments/assignment-table.jsx.js:284 genfiles/compiled_jsx/en/javascript/assignments-package/student-assignments/student-assignments-table.jsx.js:43 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/topic-progress-tab.jsx.js:46 genfiles/compiled_jsx/en/javascript/coach-report-topic-package/report.jsx.js:339 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:116 intl/datastore:1
+msgid "Completed"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/donate/join">http://www.khanacademy.org/donate/join</a>
+#: genfiles/compiled_jsx/en/javascript/assignments-package/components/student-selector.jsx.js:86 genfiles/compiled_jsx/en/javascript/clarifications-package/discussion-meta.jsx.js:828 genfiles/compiled_jsx/en/javascript/coach-dashboard-package/students/student-actions.jsx.js:121 genfiles/compiled_jsx/en/javascript/coach-report-exercise-package/exercise.jsx.js:333 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/detail-body.jsx.js:102 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/recommendation-tab.jsx.js:102 genfiles/compiled_jsx/en/javascript/coach-report-shared-package/report-page.jsx.js:145 genfiles/compiled_jsx/en/javascript/parent-package/child-preview.jsx.js:194 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-content.jsx.js:174 genfiles/compiled_jsx/en/javascript/scratchpads-package/scratchpad-content.jsx.js:466 genfiles/compiled_jsx/en/javascript/typeahead-package/search-results-popup.jsx.js:204 javascript/discussion-package/discussion-list.js:446 javascript/discussion-package/replies-container.handlebars:9 javascript/discussion-package/video-discussion.handlebars:123
+msgid "Loading..."
+msgstr ""
+
+# Description of exercise <a href="http://translate.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/lung-introduction/e/lung-quiz">http://translate.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/lung-introduction/e/lung-quiz</a>
+# Description of exercise (x4e2cf098) on the bg stage
+# Description of exercise (x4e2cf098) on the fr stage
+# Description of exercise (x4e2cf098) on the pl stage
+# Description of exercise (x4e2cf098) on the pt stage
+# Description of exercise (x4e2cf098) on the tr stage
+# Description of exercise (x4e2cf098) on the zh-hans stage
+# See text on <a href="http://www.khanacademy.org/discussion/mod/flaggedfeedback">http://www.khanacademy.org/discussion/mod/flaggedfeedback</a>
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: html)
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/recommendation-tab.jsx.js:256 genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/report.jsx.js:485 genfiles/compiled_jsx/en/javascript/topic-discussion-package/topic-discussion.jsx.js:186 intl/datastore:1 javascript/discussion-package/video-discussion.handlebars:27 javascript/profile-nav-package/profile-router.js:276 javascript/profile-package/discussion-tab-links.handlebars:9 javascript/profile-package/profile-discussion.js:479 templates/discussion/mod/flaggedfeedback.html:26
+msgid "Questions"
+msgstr ""
+
+# String from android-app.xml in Android app
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: bg)
+# (KA_SOURCE_TREE: bn)
+# (KA_SOURCE_TREE: de)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: fr)
+# (KA_SOURCE_TREE: hi)
+# (KA_SOURCE_TREE: hy)
+# (KA_SOURCE_TREE: it)
+# (KA_SOURCE_TREE: ja)
+# (KA_SOURCE_TREE: ka)
+# (KA_SOURCE_TREE: ko)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: nl)
+# (KA_SOURCE_TREE: pl)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: pt-pt)
+# (KA_SOURCE_TREE: shared)
+# (KA_SOURCE_TREE: sr)
+# (KA_SOURCE_TREE: sv)
+# (KA_SOURCE_TREE: ta)
+# (KA_SOURCE_TREE: tr)
+# (KA_SOURCE_TREE: zh-hans)
+# (format: xml)
+#: genfiles/compiled_jsx/en/javascript/coach-report-progress-by-student-package/topic-progress-tab.jsx.js:41 genfiles/compiled_jsx/en/javascript/coach-report-topic-package/report.jsx.js:338 genfiles/compiled_jsx/en/javascript/reports-package/reports-shared.jsx.js:109 intl/datastore:1 javascript/exercises-legacy-package/history.js:109
+msgid "Started"
+msgstr ""
+
+# Exercise at <a href="http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions-on-delirium-and-dementia-2">http://translate.khanacademy.org/test-prep/nclex-rn/nclex-practice-questions/nclex-rn-questions/e/nclex-rn-questions-on-delirium-and-dementia-2</a>.
+# Exercise at (x9dca70da) on the accents stage.
+# Exercise at (x9dca70da) on the pt stage.
+# See text on <a href="http://www.khanacademy.org/devadmin/infections">http://www.khanacademy.org/devadmin/infections</a>
+# (KA_SOURCE_TREE: accents)
+# (KA_SOURCE_TREE: es)
+# (KA_SOURCE_TREE: lol)
+# (KA_SOURCE_TREE: pt)
+# (KA_SOURCE_TREE: shared)
+# (format: perseus_text)
+#: intl/datastore:1 templates/feature_flags/infections.html:12
+msgid "Infections"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/devadmin/infections/status">http://www.khanacademy.org/devadmin/infections/status</a>
+#: templates/feature_flags/infection_status.html:4
+msgid "Infection Status"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/devadmin/infections">http://www.khanacademy.org/devadmin/infections</a>
+#: templates/feature_flags/infections.html:16
+#, python-format
+msgid "Okay! Enqueued a job to infect 1 user with %(feature)s (alternative '%(alt)s')."
+msgid_plural "Okay! Enqueued a job to infect %(num)d users with %(feature)s (alternative '%(alt)s')."
+msgstr[0] ""
+
+# See text on <a href="http://www.khanacademy.org/devadmin/infections">http://www.khanacademy.org/devadmin/infections</a>
+#: templates/feature_flags/infections.html:23
+msgid "Looking to gradually roll out a feature, ideally to full classrooms at a time? Try a limited infection! We'll pick a few seed users to infect, then spread it to their classrooms, infecting approximately the number of users you asked for while trying to minimize partial-classroom infections."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/devadmin/infections">http://www.khanacademy.org/devadmin/infections</a>
+#: templates/feature_flags/infections.html:24
+msgid "View infection status."
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/devadmin/infections">http://www.khanacademy.org/devadmin/infections</a>
+#: templates/feature_flags/infections.html:28
+#, python-format
+msgid "Infect %(num)s users with %(feature)s (alternative %(alt)s)"
+msgstr ""
+
+# See text on <a href="http://www.khanacademy.org/devadmin/infections">http://www.khanacademy.org/devadmin/infections</a>
+#: templates/feature_flags/infections.html:32
+msgid "Enqueue"
+msgstr ""
+
